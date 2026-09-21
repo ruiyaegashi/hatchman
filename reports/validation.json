@@ -1,0 +1,51 @@
+{
+  "counts": {
+    "markdown": 407,
+    "inventory": 407,
+    "public": 404,
+    "drafts": 3,
+    "generated_legacy_pages": 404,
+    "total_html_pages": 418
+  },
+  "source_integrity": {
+    "hash_mismatches": []
+  },
+  "urls": {
+    "unique_public_paths": 404,
+    "duplicate_paths": [],
+    "missing_public_pages": [],
+    "draft_pages_generated": [],
+    "redirect_records": 383,
+    "redirect_lines": 383,
+    "redirect_source_conflicts": [],
+    "redirect_targets_missing": []
+  },
+  "assets": {
+    "references": 3439,
+    "statuses": {
+      "exact": 2682,
+      "case-insensitive": 739,
+      "external-disabled": 17,
+      "signature-corrected": 1
+    },
+    "missing_copied_or_built": [],
+    "rendered_images_missing": [],
+    "external_disabled": 17
+  },
+  "rendered_security": {
+    "dangerous_elements_or_attributes": [],
+    "unresolved_shortcodes": [],
+    "old_hatchman_media_dependencies": [],
+    "secret_markers": {
+      "wordpress_hash": 0,
+      "session_token": 0,
+      "db_secret": 0,
+      "php": 0
+    }
+  },
+  "links": {
+    "internal_broken_count": 0,
+    "internal_broken": []
+  },
+  "fatal": []
+}

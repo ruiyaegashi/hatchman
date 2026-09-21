@@ -1,0 +1,6110 @@
+{
+  "schema_version": 1,
+  "site": "hatchman",
+  "source": "legacy-markdown",
+  "api": "Amazon Creators API",
+  "marketplace": "www.amazon.co.jp",
+  "associate_tag": null,
+  "articles": [
+    {
+      "wp_id": 7703,
+      "slug": "movie-watching-history-2014",
+      "legacy_path": "/movie-watching-history-2014/",
+      "title": "【2014年】今年見た映画まとめ！映画の履歴を保存するならSNS「Filmarks」のアプリが超便利！【188作品】",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "B00QWN9U7I",
+          "current_asin": "B00QWN9U7I",
+          "legacy_title": "思い出のマーニー DVD",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7706,
+      "slug": "post-7706",
+      "legacy_path": "/post-7706/",
+      "title": "【浜松一お得なカレーランチ！？】佐鳴台のアジアンダイニング AAGAN でお得なランチセットをいただく、予定だったが…",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4783819688",
+          "current_asin": "4783819688",
+          "legacy_title": "浜松ぐるぐるマップ〈86〉保存版 ひとりめしみんなごはん145軒",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4780414512",
+          "current_asin": "4780414512",
+          "legacy_title": "浜松とっても上等なディナー",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7707,
+      "slug": "post-7707",
+      "legacy_path": "/post-7707/",
+      "title": "浜松大平台にあるBouju(ボウジュ)さんは隠れ家的カフェバーで本格的なコーヒー、タイ料理がいただけます♪",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7709,
+      "slug": "post-7709",
+      "legacy_path": "/post-7709/",
+      "title": "【エスニック】静岡でも数少ないベトナム料理専門店「サイゴン(Saigon)」でランチ(チャーハン)をいただきました♪",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7710,
+      "slug": "post-7710",
+      "legacy_path": "/post-7710/",
+      "title": "【東池袋大勝軒直系 東勝軒 まる秀】期間限定 ブッチャーらーめんバカ豚(大盛)",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7712,
+      "slug": "post-7712",
+      "legacy_path": "/post-7712/",
+      "title": "【浜松一ちょうど良いと思う】美味しい天ぷら・天丼がいただける上西町の「料理なかむら」さんで絶品丸穴子天丼をいただく♪",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7713,
+      "slug": "mrk",
+      "legacy_path": "/mrk/",
+      "title": "大好きなあの人とどこへ行くって？もちろん佐鳴湖に決まってるでしょっ",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7715,
+      "slug": "post-7715",
+      "legacy_path": "/post-7715/",
+      "title": "浜松西伊場の「焼肉えん」は大型店なのにザブトンやカイノミ等の希少部位も楽しめる素敵な焼肉屋さん！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7716,
+      "slug": "post-7716",
+      "legacy_path": "/post-7716/",
+      "title": "法多山の紅葉とスーパーカーと団子と秋空と夕焼けと",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7719,
+      "slug": "post-7719",
+      "legacy_path": "/post-7719/",
+      "title": "Google の新サービス「Inbox」は単純なメールサービスではなくタスク管理や私生活にも使えそう",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7720,
+      "slug": "post-7720",
+      "legacy_path": "/post-7720/",
+      "title": "【浜松 闘将・家康プロジェクト】浜松土産にぴったり！ドリアン洋菓子店さんの新感覚クッキー「味噌玉くっきー 出世魂」！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7722,
+      "slug": "post-7722",
+      "legacy_path": "/post-7722/",
+      "title": "【めん奏心】丸鶏中華そば + 極煮干つけ麺",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7723,
+      "slug": "post-7723",
+      "legacy_path": "/post-7723/",
+      "title": "森町で有名な 7福神が浜松小池町に！「つけめん・ラーメン7福神 壱」オープン♪つけ麺みそこくから + しそチーズ餃子",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7725,
+      "slug": "post-7725",
+      "legacy_path": "/post-7725/",
+      "title": "紅葉の秋！川根・寸又峡に行くなら地元の激安デカ盛り店「ボクの店」と「光林堂」がオススメ！予約、テイクアウトができて便利♪",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7727,
+      "slug": "post-7727",
+      "legacy_path": "/post-7727/",
+      "title": "浜松の街中にオープンしたSalon de Maria(サロン ド マリア)でブーランジェリーランプのサンドイッチを食す♪",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7730,
+      "slug": "post-7730",
+      "legacy_path": "/post-7730/",
+      "title": "3代目BM系 マツダ スカイアクティブ アクセラ スポーツ 20S 試乗レポート",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7732,
+      "slug": "post-7732",
+      "legacy_path": "/post-7732/",
+      "title": "豊川稲荷の道中で青い看板が気になるチョコレート専門店「ル・ショコラ・セルフィーユ 三ノ輪店」で誕生石ショコラを購入！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7738,
+      "slug": "post-7738",
+      "legacy_path": "/post-7738/",
+      "title": "【麺屋 純太】肉味噌つけ麺(特盛、にんにくトッピング、ふつう・こいめ・こってり) + ミニぶた丼",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7739,
+      "slug": "post-7739",
+      "legacy_path": "/post-7739/",
+      "title": "驚きを隠せない「日本料理 浜松 桝形」の絶品裏メニューうな重。",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7742,
+      "slug": "post-7742",
+      "legacy_path": "/post-7742/",
+      "title": "iPhone 6 Plus を1ヶ月間使ってみた感想！アプリも続々対応で超快適！！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7743,
+      "slug": "post-7743",
+      "legacy_path": "/post-7743/",
+      "title": "【笑門】Bセット (豚丼並盛り+ハーフつけ麺) + だし茶漬けセット",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7744,
+      "slug": "post-7744",
+      "legacy_path": "/post-7744/",
+      "title": "愛車エイレーネちゃん(マツダアクセラ20S)の走行距離が80,000kmに！地球2週した気分♪",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7745,
+      "slug": "post-7745",
+      "legacy_path": "/post-7745/",
+      "title": "【麺屋中川 東静岡店】とんこつらーめん + 特製つけ麺(大盛) + 餃子(6コ)",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7746,
+      "slug": "post-7746",
+      "legacy_path": "/post-7746/",
+      "title": "【家系ラーメン ジェット家】チャーシューメン(中盛・麺かため・味こいめ・油多め)",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7747,
+      "slug": "post-7747",
+      "legacy_path": "/post-7747/",
+      "title": "日本海庄や＆BAR OPERA座 で懇親会！食事もお酒も大満足！＆ミスドもお土産にいただいちゃいました(汗)",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7748,
+      "slug": "post-7748",
+      "legacy_path": "/post-7748/",
+      "title": "マンゴー好きにはオススメ！ロッテのジェラートマイスター アルフォンソマンゴー！！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7750,
+      "slug": "post-7750",
+      "legacy_path": "/post-7750/",
+      "title": "【私的ランキング】KALDI カルディ初心者必見！とりあえずこれを買うべきベスト3！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7751,
+      "slug": "post-7751",
+      "legacy_path": "/post-7751/",
+      "title": "「2014 天下一品 祭り」10月1日にゲットしたラーメン無料券を引っさげてスピードくじを引いてきたよ！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7752,
+      "slug": "post-7752",
+      "legacy_path": "/post-7752/",
+      "title": "たまには数学を解いて頭の体操をしよう！NAZOPLA(謎のプラットフォーム)でリフレッシュ♪",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7753,
+      "slug": "post-7753",
+      "legacy_path": "/post-7753/",
+      "title": "【麺の房 味わい亭】つけめん(太麺・肉増し)",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7756,
+      "slug": "post-7756",
+      "legacy_path": "/post-7756/",
+      "title": "10月1日は天下一品の日！「天下一品祭り」で長蛇の列に負けずにラーメン無料券GET！！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7757,
+      "slug": "post-7757",
+      "legacy_path": "/post-7757/",
+      "title": "個人的パン屋ランキングにイン！佐鳴台の Boulangerie Lamp (ブーランジェリーランプ) さんのパンは絶品！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7758,
+      "slug": "post-7758",
+      "legacy_path": "/post-7758/",
+      "title": "浜松出身の映画監督「木下惠介」も通った味が復活！「日本料理 浜松 桝形」で天ぷら懐石スタート！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7759,
+      "slug": "post-7759",
+      "legacy_path": "/post-7759/",
+      "title": "浜松甲羅本店でかにと松茸のしゃぶしゃぶをいただきました！【特選会席 楓】",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7760,
+      "slug": "post-7760",
+      "legacy_path": "/post-7760/",
+      "title": "【まつもとフルーツ】ギャラリー＆フルーツパーラーTRE・PINIのテラスで絶品フルーツワッフルをいただきました♪",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7761,
+      "slug": "post-7761",
+      "legacy_path": "/post-7761/",
+      "title": "【取り急ぎ報告まで】au で予約していた iPhone6 Plus が来た！ので早速機種変更してきた！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7762,
+      "slug": "post-7762",
+      "legacy_path": "/post-7762/",
+      "title": "今年も開催！「2014 天下一品 祭り」10月1日にラーメン無料券をゲットしよう！！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7764,
+      "slug": "post-7764",
+      "legacy_path": "/post-7764/",
+      "title": "【らあめん花月嵐 浜松柳通り店】期間限定 BLACK DEVIL ブラックデビル【黒のカリスマ 蝶野正洋】",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7766,
+      "slug": "post-7766",
+      "legacy_path": "/post-7766/",
+      "title": "【榊家】がんこチャーシューメン(大盛り) + 手作り餃子",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7767,
+      "slug": "post-7767",
+      "legacy_path": "/post-7767/",
+      "title": "Hamamatsu Music Messe 2014 ＆ やらフェスフライングイベント ＆ ハローゼア大ヒット祈願！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7768,
+      "slug": "post-7768",
+      "legacy_path": "/post-7768/",
+      "title": "INDONESIA CAFE Rat House (ラットハウス) でいただく本格インドネシア料理が絶品！！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7770,
+      "slug": "post-7770",
+      "legacy_path": "/post-7770/",
+      "title": "Appleイベント開催！iPhone 6、Apple Pay、Apple WATCHと盛りだくさん！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7771,
+      "slug": "post-7771",
+      "legacy_path": "/post-7771/",
+      "title": "【らーめん　羽根餃子　磐田見付　ヤマシロ】叉焼つけ麺",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7772,
+      "slug": "post-7772",
+      "legacy_path": "/post-7772/",
+      "title": "【らーめんとまぐろ丼の店 博多らーめん すがい 浜松和合店】とんこつらーめん + まぐろ丼 セット",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7773,
+      "slug": "post-7773",
+      "legacy_path": "/post-7773/",
+      "title": "もちっとした米粉クレープが絶品！クレープ彩(aja)さんでバナナキャラメルとマンゴーをいただく！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7774,
+      "slug": "post-7774",
+      "legacy_path": "/post-7774/",
+      "title": "ついにiPhone6、iWatch発売か！9月9日にAppleイベント開催決定！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7776,
+      "slug": "post-7776",
+      "legacy_path": "/post-7776/",
+      "title": "【百獣の王】武井壮のCMで気になっていた丸亀製麺の「肉盛りうどん」はヤバいのか！？",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7777,
+      "slug": "post-7777",
+      "legacy_path": "/post-7777/",
+      "title": "浜松で超ヘルシーな蒸し料理をいただくなら肴町の「京風蒸し料理　隠れ家居酒屋　いもくりなんきん」で決まり！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7778,
+      "slug": "post-7778",
+      "legacy_path": "/post-7778/",
+      "title": "「クリエートの夏まつり」は大盛況！ブランドフードフェスのワンコイン弁当も大人気でした！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7780,
+      "slug": "post-7780",
+      "legacy_path": "/post-7780/",
+      "title": "やっぱり凡猿さんはいつ行っても何を食べても大満足！今回のイチオシは黒ムツ！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7782,
+      "slug": "post-7782",
+      "legacy_path": "/post-7782/",
+      "title": "【マークイズ静岡店】クリスピークリームドーナツのドーナツアイス、マンゴーパッションが絶品！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7783,
+      "slug": "post-7783",
+      "legacy_path": "/post-7783/",
+      "title": "浜松では有名な台湾料理店「阿里山 新津店」で本格炸??(ジャジャン麺)、小籠包をいただく！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7785,
+      "slug": "post-7785",
+      "legacy_path": "/post-7785/",
+      "title": "無線LANルーター新調！BUFFALO「WZR-1750DHP」で爆速11ac環境に！？",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7786,
+      "slug": "post-7786",
+      "legacy_path": "/post-7786/",
+      "title": "【ラーメン 暖暮 紺屋町店】チャーシューメン + 一口餃子 + 明太子ごはん",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7788,
+      "slug": "post-7788",
+      "legacy_path": "/post-7788/",
+      "title": "【天日地鶏】つけめん + 赤鶏のタタキ丼セット",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7789,
+      "slug": "post-7789",
+      "legacy_path": "/post-7789/",
+      "title": "常時2,000点！浜松のジグソーパズル専門店「NEWTON(ニュートン)」でお気に入りのパズルを見つけよう！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7790,
+      "slug": "post-7790",
+      "legacy_path": "/post-7790/",
+      "title": "Mr.Kさんと天下一品浜松船越店で食べ方について語り合ったよ！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7791,
+      "slug": "post-7791",
+      "legacy_path": "/post-7791/",
+      "title": "【夜食屋らーめん民民 浜松有楽街店】つけ麺 黒とんこつ + 浜松餃子、スープ餃子",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7792,
+      "slug": "post-7792",
+      "legacy_path": "/post-7792/",
+      "title": "第20回 浜松国際管楽器アカデミー&フェスティヴァル のオープニング・コンサートでトップアーティスの共演に感動！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7793,
+      "slug": "post-7793",
+      "legacy_path": "/post-7793/",
+      "title": "「こくまろ茶」で有名な浜北の「お茶のはまきた園」(長谷川製茶) さんはこだわりの自社商品がいっぱい！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7794,
+      "slug": "post-7794",
+      "legacy_path": "/post-7794/",
+      "title": "【スタジオジブリ】米林宏昌監督作品 映画 『思い出のマーニー』 レビュー",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7795,
+      "slug": "shop-pandastudiohamamatsu",
+      "legacy_path": "/shop-pandastudiohamamatsu/",
+      "title": "クロマキースタジオで映像制作を支援する「パンダスタジオ浜松 by NOKIOO」を見学！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7796,
+      "slug": "post-7796",
+      "legacy_path": "/post-7796/",
+      "title": "「総本家 みその」さんは落ち着いた雰囲気の中で素敵な料理がいただけます。",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7797,
+      "slug": "shop-cyclistbuddyabc",
+      "legacy_path": "/shop-cyclistbuddyabc/",
+      "title": "初心者大歓迎！浜松城北の自転車専門店「Cyclist Buddy ABC」さんはオシャレな Bianchi (ビアンキ)が充実！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7803,
+      "slug": "post-7803",
+      "legacy_path": "/post-7803/",
+      "title": "ギャラリー「BORDER&ROOKY」で開催中の鈴木誠治「海中動画展」で伊豆・大瀬崎の海に潜った気分♪",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7804,
+      "slug": "post-7804",
+      "legacy_path": "/post-7804/",
+      "title": "自動車学校前のインド料理「ディパック(DEEPAK)」のランチセットはお得でボリューム満点♪",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7805,
+      "slug": "post-7805",
+      "legacy_path": "/post-7805/",
+      "title": "そば処 萬盛庵本店 で「ざるそば」と「五目中華」をいただきました！が、メニューにはご注意を(照)",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7807,
+      "slug": "post-7807",
+      "legacy_path": "/post-7807/",
+      "title": "一年で最もご利益のある日に開催される法多山の「万灯祭」は何千基もの灯籠で幻想的♪",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7809,
+      "slug": "post-7809",
+      "legacy_path": "/post-7809/",
+      "title": "御殿場プレミアムアウトレットで食事をするならシンガポール屋台料理「アジア食堂 新嘉坡鶏飯」で決まり！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7810,
+      "slug": "post-7810",
+      "legacy_path": "/post-7810/",
+      "title": "【麺喰い kakeru】天空かける辛・豚骨魚介「トン辛節の肉つけ」",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7811,
+      "slug": "post-7811",
+      "legacy_path": "/post-7811/",
+      "title": "蔵をリフォームしたおしゃれな中華料理店「上海キッチン」は本気の上海料理を出す素敵なお店！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7812,
+      "slug": "post-7812",
+      "legacy_path": "/post-7812/",
+      "title": "メイワンの EKIMACHI WEST にあるおしゃれな「ポルトフィーノ」のパスタセットはお得で美味しい♪",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7813,
+      "slug": "post-7813",
+      "legacy_path": "/post-7813/",
+      "title": "袋井の松乃木飯店で絶品「黒胡麻とんかつ担々麺(並辛) + ミニマーボー丼 セット」をいただく！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7814,
+      "slug": "post-7814",
+      "legacy_path": "/post-7814/",
+      "title": "掛川の横須賀街道沿いにある古民家風カフェ「晴れ ときどき Cafe」で美味しいコーヒーをいただく♪",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7815,
+      "slug": "post-7815",
+      "legacy_path": "/post-7815/",
+      "title": "キルフェボン静岡店内で杏子のタルトとジンジャー&レモングラスをいただく♪",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7816,
+      "slug": "post-7816",
+      "legacy_path": "/post-7816/",
+      "title": "【中華そば 浪花】浪花つけ麺 醤油",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7818,
+      "slug": "post-7818",
+      "legacy_path": "/post-7818/",
+      "title": "【蔵前家】チャーシューメン大盛り+キャベチャ",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7820,
+      "slug": "post-7820",
+      "legacy_path": "/post-7820/",
+      "title": "レグレースさんのウィンドウ撥水加工半額キャンペーンを利用してエイレーネちゃん(愛車アクセラ)の視界が良好に！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7821,
+      "slug": "post-7821",
+      "legacy_path": "/post-7821/",
+      "title": "【麺喰い kakeru】情熱かける豚骨魚介「特製つけ麺」、手間暇かける魚とり「感動！中華そば」、まぜそば「マゼル」",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7822,
+      "slug": "post-7822",
+      "legacy_path": "/post-7822/",
+      "title": "【らーめん酒房 だるま】濃厚鶏白湯チャーシューメン + ライス食べ放題",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7823,
+      "slug": "post-7823",
+      "legacy_path": "/post-7823/",
+      "title": "【フジヤマ55 浜松中央店】台湾まぜそば大盛り+小ライス",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7824,
+      "slug": "post-7824",
+      "legacy_path": "/post-7824/",
+      "title": "アクトプラザ地下のクマールで本格インド料理のミニセットをいただく！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7825,
+      "slug": "post-7825",
+      "legacy_path": "/post-7825/",
+      "title": "鴨江のカフェコンコルドは店内の雰囲気もコーヒーも最高！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7826,
+      "slug": "post-7826",
+      "legacy_path": "/post-7826/",
+      "title": "キャラメルコーンの期間限定「塩バニラ味」と「ココナッツマンゴー味」が美味しすぎる件",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7827,
+      "slug": "post-7827",
+      "legacy_path": "/post-7827/",
+      "title": "浜松フィルハーモニー管弦楽団「2014 名曲コンサート」開催！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7828,
+      "slug": "post-7828",
+      "legacy_path": "/post-7828/",
+      "title": "【悲報】肴町やらまいか広場が終了！豪華地元ミュージシャンを集めたライブ開催！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7829,
+      "slug": "post-7829",
+      "legacy_path": "/post-7829/",
+      "title": "浜松では貴重なフェレット・ハリネズミ・クワガタ・カブトムシ等のエキゾチックアニマル専門店「スタッグビーハウス」がすごい！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7830,
+      "slug": "post-7830",
+      "legacy_path": "/post-7830/",
+      "title": "「うなぎんぼ」や「ふぐっきー」だけじゃない！プリンも美味しいドリアン洋菓子店♪",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7831,
+      "slug": "post-7831",
+      "legacy_path": "/post-7831/",
+      "title": "超有名店！とんきいのミートレストランでおいしい豚焼肉をいただきました♪",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7832,
+      "slug": "post-7832",
+      "legacy_path": "/post-7832/",
+      "title": "新感覚！ざぼんの「冷やしカツカレーラーメン」は暑い夏にさっぱりいただけるサラダ風ラーメン！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7833,
+      "slug": "post-7833",
+      "legacy_path": "/post-7833/",
+      "title": "初夏のホタルシーズン到来！鑑賞初めはいだいら観音の里「ホタルの清水通り」で♪",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7834,
+      "slug": "post-7834",
+      "legacy_path": "/post-7834/",
+      "title": "海鮮丼といえばうおたかどんぶり城北支店さん！生たこおくら丼もワンコイン500円で絶品！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7835,
+      "slug": "post-7835",
+      "legacy_path": "/post-7835/",
+      "title": "むつみ屋有玉店で美味しい「すき丼」とお団子4種をいただきました♪",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7836,
+      "slug": "post-7836",
+      "legacy_path": "/post-7836/",
+      "title": "タイのお土産って美味しい♪",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7838,
+      "slug": "post-7838",
+      "legacy_path": "/post-7838/",
+      "title": "お祝いにキルフェボン浜松で春の店舗限定新作タルト「マンゴーと抹茶のショートケーキタルト」をいただきました♪",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7839,
+      "slug": "post-7839",
+      "legacy_path": "/post-7839/",
+      "title": "【がっちりマンデー！！】セブンイレブンの「金の」シリーズ「金のおむすび 炭火で炙った紅鮭 はらみ使用」を食す",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7841,
+      "slug": "post-7841",
+      "legacy_path": "/post-7841/",
+      "title": "静岡市、駿河湾を一望できる一本松公園は素敵なハイキングスポット！夜景も素敵♪",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7843,
+      "slug": "post-7843",
+      "legacy_path": "/post-7843/",
+      "title": "まさかのパンク…タイヤ交換はお早めに。アクセラのタイヤをDUNLOP「LE MANS4」へ",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7844,
+      "slug": "post-7844",
+      "legacy_path": "/post-7844/",
+      "title": "【静岡 魂心家】魂心つけめん+チャーシュー丼+ライス(ランチタイム無料サービス)",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7845,
+      "slug": "post-7845",
+      "legacy_path": "/post-7845/",
+      "title": "浜松の焼肉はやっぱり「領家肉匠 焼肉 柳之介」希少部位のザブトン、ミスジが絶品！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7846,
+      "slug": "post-7846",
+      "legacy_path": "/post-7846/",
+      "title": "スタバの「フレッシュ バナナ ＆ キャラメル(チョコレート) クリーム フラペチーノ」と「サラダラップ」をいただく！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7847,
+      "slug": "post-7847",
+      "legacy_path": "/post-7847/",
+      "title": "ザザシティにオープンした「GRILL BAR バル/029 (オニク)」で美味しいステーキランチをいただく！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7849,
+      "slug": "post-7849",
+      "legacy_path": "/post-7849/",
+      "title": "業務用PCが Surface Pro 2 に！Type Cover と併せて開封の儀♪",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7850,
+      "slug": "post-7850",
+      "legacy_path": "/post-7850/",
+      "title": "山梨日帰り旅行！④ 激レア！素敵な日帰り貸切風呂(温泉)がある甲斐の「神の湯温泉」で疲れを癒やす♪",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7851,
+      "slug": "post-7851",
+      "legacy_path": "/post-7851/",
+      "title": "山梨日帰り旅行！③ 大沢農園でシーズン先取りさくらんぼ狩り！&2回目の奥藤で鳥もつ煮をいただきました！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7852,
+      "slug": "post-7852",
+      "legacy_path": "/post-7852/",
+      "title": "山梨日帰り旅行！② 富士すばるランドドギーパークはペットがいなくても可愛い犬と触れ合えるし大人も楽しめる！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7853,
+      "slug": "post-7853",
+      "legacy_path": "/post-7853/",
+      "title": "山梨日帰り旅行！① 道の駅 富士吉田 で可愛いご当地キャラ「桜織ちゃん」と美味しいご当地グルメに出会う！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7854,
+      "slug": "post-7854",
+      "legacy_path": "/post-7854/",
+      "title": "浜松で早咲きの河津桜を見るなら滝沢の「でんでんころ」桜祭りもあり！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7855,
+      "slug": "post-7855",
+      "legacy_path": "/post-7855/",
+      "title": "スタバのザッハトルテを食しながら失恋ショコラティエ最終回を見た",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7859,
+      "slug": "post-7859",
+      "legacy_path": "/post-7859/",
+      "title": "【豚猿】チャーシューめん(塩)＆「初代餃王座」本気！ぎょうざ",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7860,
+      "slug": "post-7860",
+      "legacy_path": "/post-7860/",
+      "title": "【浜松大勝軒】あつもりチャーシュー(特盛り)",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7862,
+      "slug": "post-7862",
+      "legacy_path": "/post-7862/",
+      "title": "岡崎土産にまるや八丁味噌の「みそパイ」をいただきました！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7863,
+      "slug": "post-7863",
+      "legacy_path": "/post-7863/",
+      "title": "早くも5回目！一期一音プロジェクト「JAZZ LIVE IN CARA-CALLA VOL.5」で素敵なヒトトキ",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7864,
+      "slug": "post-7864",
+      "legacy_path": "/post-7864/",
+      "title": "佐鳴台にあるスパ1世のランチは生パスタが2種類味わえてかなりお得！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7865,
+      "slug": "post-7865",
+      "legacy_path": "/post-7865/",
+      "title": "【本場札幌 北の蔵 浜松べんがら横町店】特製つけ麺(味噌)＆炙りチャーシュー丼",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7866,
+      "slug": "post-7866",
+      "legacy_path": "/post-7866/",
+      "title": "【麺屋 てっぺん】白つけめん ＆ チャーシュー丼",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7867,
+      "slug": "post-7867",
+      "legacy_path": "/post-7867/",
+      "title": "【遠州食品加工業協同組合】「杢屋食品(株)」工場見学＆工場直営「めん処杢屋」で激安カレーうどんをいただきました！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7868,
+      "slug": "post-7868",
+      "legacy_path": "/post-7868/",
+      "title": "【ドライフルーツ】セブのマンゴーに匹敵！？タイのドライジンジャー(Dried Ginger)も絶品♪",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7869,
+      "slug": "post-7869",
+      "legacy_path": "/post-7869/",
+      "title": "【3月1日オープン！】浜松唯一であろう国産牛ホルモン丼専門店「牛若丸」に行ってきました！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7870,
+      "slug": "post-7870",
+      "legacy_path": "/post-7870/",
+      "title": "あれに見えるは\"20\"ではないか…？アクトシティ20周年おめでとう！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7871,
+      "slug": "post-7871",
+      "legacy_path": "/post-7871/",
+      "title": "【めん家 松岡】油麺チャーシュー 大盛",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7872,
+      "slug": "post-7872",
+      "legacy_path": "/post-7872/",
+      "title": "【麺屋 海老蔵】つけ麺 黒赤油",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7873,
+      "slug": "post-7873",
+      "legacy_path": "/post-7873/",
+      "title": "【つけめん 京蔵(きんぞう)】味玉つけめん 特盛 冷盛",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7875,
+      "slug": "post-7875",
+      "legacy_path": "/post-7875/",
+      "title": "富久鮨さんはランチも豪華！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7879,
+      "slug": "post-7879",
+      "legacy_path": "/post-7879/",
+      "title": "ハッピーバレンタイン！今年もいただきました♪あさのや洋菓子店の焼き菓子と手作りパン！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7880,
+      "slug": "post-7880",
+      "legacy_path": "/post-7880/",
+      "title": "【追悼】フィリップ・シーモア・ホフマンに思いを馳せて「カポーティ」「ダウト」「スーパー・チューズデー」を鑑賞",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7881,
+      "slug": "post-7881",
+      "legacy_path": "/post-7881/",
+      "title": "「浜松 桝形」で季節を感じるフルコース！焼き牡蠣、穴子の柳川が美味しい！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7882,
+      "slug": "post-7882",
+      "legacy_path": "/post-7882/",
+      "title": "poeta(ポエータ)小池店で絶品イタリアンカレーとハニートーストをいただく",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7884,
+      "slug": "post-7884",
+      "legacy_path": "/post-7884/",
+      "title": "Logicool「G600 MMO GAMING MOUSE」購入レビュー！ソフト編",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7885,
+      "slug": "post-7885",
+      "legacy_path": "/post-7885/",
+      "title": "【京都小旅行 6/6】京都駅で一休みするなら「京都茶寮」！「朱雀の薫」と共に「松上の鶴」「春隣」をいただきました。",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7886,
+      "slug": "post-7886",
+      "legacy_path": "/post-7886/",
+      "title": "【京都小旅行 5/6】京都水族館はオオサンショウウオに会える地域密着型エンターテイメント水族館！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7888,
+      "slug": "post-7888",
+      "legacy_path": "/post-7888/",
+      "title": "節分にも贅沢を！エビ・穴子入りの恵方巻きは浜松街中の「富久鮨」で決まり！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7889,
+      "slug": "post-7889",
+      "legacy_path": "/post-7889/",
+      "title": "【京都小旅行 4/6】俵屋旅館がプロデュースするミシュラン1つ星の天ぷら屋「点邑(てんゆう)」を満喫",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7890,
+      "slug": "post-7890",
+      "legacy_path": "/post-7890/",
+      "title": "【京都小旅行 3/6】数年ぶりに行った金閣寺(鹿苑寺金閣)は、曇り空でも輝いていました！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7892,
+      "slug": "post-7892",
+      "legacy_path": "/post-7892/",
+      "title": "【京都小旅行 2/6】本能寺～粟餅所澤屋～北野天満宮",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7893,
+      "slug": "post-7893",
+      "legacy_path": "/post-7893/",
+      "title": "【京都小旅行 1/6】菊屋町の「オステリア・イル・カント・デル・マッジョ」で絶品ビステッカをいただく♪",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7894,
+      "slug": "post-7894",
+      "legacy_path": "/post-7894/",
+      "title": "厄除観音 法多山 尊永寺へ初詣に！今年の運勢は・・・大吉♪でも厄除け団子はいただいちゃいました！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7895,
+      "slug": "post-7895",
+      "legacy_path": "/post-7895/",
+      "title": "インドカレーレストラン「C-2(シーツー)」袋井店のスペシャルカレー「チキンマカンワラ」が絶品！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7896,
+      "slug": "post-7896",
+      "legacy_path": "/post-7896/",
+      "title": "今年も挑戦！大学入試センター試験2014の数学ⅠA・ⅡBを解いてみた",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7897,
+      "slug": "post-7897",
+      "legacy_path": "/post-7897/",
+      "title": "【杏林堂新津店】毎月9のつく日は肉のくわばら「肉の日 大特価市」！毎週月曜日は中澤商店「青果 大特価市」！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7898,
+      "slug": "post-7898",
+      "legacy_path": "/post-7898/",
+      "title": "【屋台拉麺 身空 (MISORA)】超濃厚味噌拉麺 ミソラ＋替え玉・細麺",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7899,
+      "slug": "post-7899",
+      "legacy_path": "/post-7899/",
+      "title": "「樓蘭香廚(ローランシャンツー)」はランチの担々麺セットがオススメ！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7901,
+      "slug": "post-7901",
+      "legacy_path": "/post-7901/",
+      "title": "安くて美味しい900円ランチの「花筏」さんは夜も素敵な料理で大満足！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7902,
+      "slug": "post-7902",
+      "legacy_path": "/post-7902/",
+      "title": "キャベツダイエット敢行！でも味気ない時には「叙々苑 野菜サラダのたれ ごま風味」がオススメ！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7903,
+      "slug": "post-7903",
+      "legacy_path": "/post-7903/",
+      "title": "あさのや洋菓子店の「ムーミンのプリンカップ」は美味しい上に可愛い♪",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7904,
+      "slug": "post-7904",
+      "legacy_path": "/post-7904/",
+      "title": "【屋台拉麺 身空 (MISORA)】世田谷ベトコン(醤油・太麺＋替え玉・細麺)",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7906,
+      "slug": "post-7906",
+      "legacy_path": "/post-7906/",
+      "title": "Logicool「G600 MMO GAMING MOUSE」購入レビュー！開封～G700との外見比較編",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7907,
+      "slug": "post-7907",
+      "legacy_path": "/post-7907/",
+      "title": "【静岡 汐のや】塩そば(中盛) 塩つけ麺(中盛) 手作り餃子",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7909,
+      "slug": "post-7909",
+      "legacy_path": "/post-7909/",
+      "title": "静大前にある薪釜ピッツァと本格スープの「ピッツァ・なお」でボリューム満点のスタミナパスタをいただく！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7911,
+      "slug": "post-7911",
+      "legacy_path": "/post-7911/",
+      "title": "インド料理レストランシーツーでスペシャルセット！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7912,
+      "slug": "post-7912",
+      "legacy_path": "/post-7912/",
+      "title": "「浜フィル 2014 ニューイヤーコンサート」でオペラ、ワルツ、ポルカの名曲を堪能！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7913,
+      "slug": "post-7913",
+      "legacy_path": "/post-7913/",
+      "title": "浜フィル 2014 ニューイヤーコンサート",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7914,
+      "slug": "post-7914",
+      "legacy_path": "/post-7914/",
+      "title": "お昼は身空、夜は汐のやでラーメン三昧！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7916,
+      "slug": "post-7916",
+      "legacy_path": "/post-7916/",
+      "title": "【掛川・あじ助 掛川本店】えび味噌つけ麺大盛とみそ拉麺",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7919,
+      "slug": "post-7919",
+      "legacy_path": "/post-7919/",
+      "title": "【ラーメン横綱 豊橋店】鉄板チャーハンランチ(ラーメン＋にんにく鉄板チャーハン)",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7921,
+      "slug": "post-7921",
+      "legacy_path": "/post-7921/",
+      "title": "今年の初詣は徳川家康縁の浜松八幡宮！御神木「雲立の楠(くもたちのくす)」はパワーを感じます。",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7922,
+      "slug": "post-7922",
+      "legacy_path": "/post-7922/",
+      "title": "ブログ投稿でも重宝する超便利な画像作成・編集・加工系フリーソフト 7選",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7923,
+      "slug": "post-7923",
+      "legacy_path": "/post-7923/",
+      "title": "新年早々マウスの調子が悪い…買い換えるならロジクールの「G700s」「G600」「G602」あたりか…",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7924,
+      "slug": "post-7924",
+      "legacy_path": "/post-7924/",
+      "title": "浜松で年越しそばを食べるなら、お持ち帰りもできる「佐鳴庵」で決まり！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7926,
+      "slug": "post-7926",
+      "legacy_path": "/post-7926/",
+      "title": "【紅白派？ガキ使派？】大晦日は松阪牛とカニのすき焼きで大満足♪皆様良いお年を！！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7928,
+      "slug": "post-7928",
+      "legacy_path": "/post-7928/",
+      "title": "【餃子の王将 有玉店】大東社長を偲び、餃子をいただいてきました【追悼餃子】",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7929,
+      "slug": "post-7929",
+      "legacy_path": "/post-7929/",
+      "title": "【ラーメン二郎 三田本店】ぶたダブルラーメン【呪文解説】",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7930,
+      "slug": "post-7930",
+      "legacy_path": "/post-7930/",
+      "title": "初のプロバスケ観戦！浜松・東三河フェニックスVS信州ブレイブウォリアーズは、93－75でフェニックスが勝利！！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7932,
+      "slug": "post-7932",
+      "legacy_path": "/post-7932/",
+      "title": "中華料理「萬来」で台湾豚骨ラーメン＆エビマヨランチセットをいただく(元龍華楼)",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7933,
+      "slug": "post-7933",
+      "legacy_path": "/post-7933/",
+      "title": "【元祖浜松流 らーめん つけめん 麺房 流れ星】つけめん",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7935,
+      "slug": "post-7935",
+      "legacy_path": "/post-7935/",
+      "title": "【ラーメン入来】ミニミニセット＋豚角煮ラーメンに変更＋メルマガ登録で無料の唐揚げ",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7936,
+      "slug": "post-7936",
+      "legacy_path": "/post-7936/",
+      "title": "【12月3日オープン】東池袋大勝軒直系 東勝軒 まる秀 つけ麺【浜松市中区向宿】",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7937,
+      "slug": "post-7937",
+      "legacy_path": "/post-7937/",
+      "title": "1日笑いっぱなし！「第29回 蔵泉院寄席」と「THE MANZAI 2013」！優勝者はウーマンラッシュアワー！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7938,
+      "slug": "post-7938",
+      "legacy_path": "/post-7938/",
+      "title": "【こだわりの味 福ちゃん らーめん 上石田店】とんこつ風白湯らーめんの焼肉鉄板定食",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7939,
+      "slug": "post-7939",
+      "legacy_path": "/post-7939/",
+      "title": "12/5(日)お寺で落語が楽しめる「第29回 蔵泉院寄席」開催！JAZZLIVEとどっちに行く？",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7941,
+      "slug": "post-7941",
+      "legacy_path": "/post-7941/",
+      "title": "【一期一音プロジェクト】浜北の Cafe Dining Bar Cara-calla(カラカラ)でJAZZLIVE",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7943,
+      "slug": "post-7943",
+      "legacy_path": "/post-7943/",
+      "title": "和風なお店で和食・イタリアン「食楽酒遊処 おもてなし亭」(元「らーめん ／チョモランマ＼ 」元々「ぞうさん食堂」)",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7944,
+      "slug": "post-7944",
+      "legacy_path": "/post-7944/",
+      "title": "ビストロ・ド・ターバンのランチ限定カレーが美味しすぎて毎日通いたいレベル！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7947,
+      "slug": "post-7947",
+      "legacy_path": "/post-7947/",
+      "title": "150号線沿いのお食事「明月」でうまーい定食をいただく",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7949,
+      "slug": "post-7949",
+      "legacy_path": "/post-7949/",
+      "title": "明治24年創業の老舗「浜松 桝形」で絶品料理に舌鼓",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7950,
+      "slug": "post-7950",
+      "legacy_path": "/post-7950/",
+      "title": "【2代目 マツダ アクセラ 20S】半年点検に出したらタイヤが…DUNLOPかYOKOHAMAか【205/50R17】",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7951,
+      "slug": "post-7951",
+      "legacy_path": "/post-7951/",
+      "title": "【2代目 マツダ アクセラ 20S】走行中、停車中にかかわらず、「ピッ」という音が鳴る現象の原因と解決策",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7953,
+      "slug": "post-7953",
+      "legacy_path": "/post-7953/",
+      "title": "【浜松ブランドフードフェス Vol.4】第2回ブランドフードフェス屋台開催！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7955,
+      "slug": "post-7955",
+      "legacy_path": "/post-7955/",
+      "title": "最近食べたお菓子の数々！京ばあむ、こたべ、阿闍梨餅、助次郎、神戸かりんとうシュークリーム、ユーズー・・・",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7956,
+      "slug": "post-7956",
+      "legacy_path": "/post-7956/",
+      "title": "映画『スティーブ・ジョブズ(Steve Jobs)』",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7957,
+      "slug": "post-7957",
+      "legacy_path": "/post-7957/",
+      "title": "本当は教えたくない栄町の絶品寿司屋「富久鮨」",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7958,
+      "slug": "post-7958",
+      "legacy_path": "/post-7958/",
+      "title": "蔵泉院の音楽イベント「お寺 de こんさあと」でオペラを楽しむ",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7959,
+      "slug": "post-7959",
+      "legacy_path": "/post-7959/",
+      "title": "【浜松ブランドフードフェス】夜楽「高橋農園(森町・三倉)の無農薬野菜を楽しむ会」【ビストロ・ド・ターバン】",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7960,
+      "slug": "post-7960",
+      "legacy_path": "/post-7960/",
+      "title": "【浜松ブランドフードフェス Vol.4】ブランドフードフェス屋台開催！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7965,
+      "slug": "post-7965",
+      "legacy_path": "/post-7965/",
+      "title": "センター試験まで80日！だからこそ数学の美しさと楽しさを知る作品を紹介",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7966,
+      "slug": "post-7966",
+      "legacy_path": "/post-7966/",
+      "title": "【新たなるスタート】「懐石 KAPPO BIMI 桝形」最終日にドウマンガニをいただく",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7967,
+      "slug": "post-7967",
+      "legacy_path": "/post-7967/",
+      "title": "「風立ちぬ」を見てから気になっていた「シベリア」という菓子を発見したので食べてみた",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7969,
+      "slug": "post-7969",
+      "legacy_path": "/post-7969/",
+      "title": "【Appleイベント】MacBook Pro(Haswell)、iPad Air、iPad mini Retina 発表",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7971,
+      "slug": "post-7971",
+      "legacy_path": "/post-7971/",
+      "title": "【寸又峡温泉】紅葉の下見に行ってきました。夢の吊り橋は見てもいませんが",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7972,
+      "slug": "post-7972",
+      "legacy_path": "/post-7972/",
+      "title": "第3回遠州バザール 大盛況のうちに終了！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7973,
+      "slug": "post-7973",
+      "legacy_path": "/post-7973/",
+      "title": "第3回遠州バザール1日目大盛況！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7974,
+      "slug": "post-7974",
+      "legacy_path": "/post-7974/",
+      "title": "笑門(えもん)",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7976,
+      "slug": "post-7976",
+      "legacy_path": "/post-7976/",
+      "title": "【スイーツ】掛川「西洋菓子 卯屋」さんの「クレオール」と「煎茶のクッキー」をいただく",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7977,
+      "slug": "post-7977",
+      "legacy_path": "/post-7977/",
+      "title": "「ASIAN BAR＆CHIFFON CAKE HALE LANI(ハレラニ)」さんの優しいシフォンケーキをいただく",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7979,
+      "slug": "post-7979",
+      "legacy_path": "/post-7979/",
+      "title": "浜松城公園すぐの元寿司屋物件のカレー屋さん「エベレスト・ナン・ハウス＆バー」でインドカレーをいただく",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7980,
+      "slug": "post-7980",
+      "legacy_path": "/post-7980/",
+      "title": "「懐石 KAPPO BIMI 桝形」で贅沢なお夕飯をいただきました",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7981,
+      "slug": "post-7981",
+      "legacy_path": "/post-7981/",
+      "title": "【2012年12月13日移転】孫悟空",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7982,
+      "slug": "post-7982",
+      "legacy_path": "/post-7982/",
+      "title": "創作自炊の限界・・・ハンバーグの玉ねぎ煮バジルソースがけ",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7983,
+      "slug": "post-7983",
+      "legacy_path": "/post-7983/",
+      "title": "東京つけめん久臨 東京六厘舎",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7984,
+      "slug": "post-7984",
+      "legacy_path": "/post-7984/",
+      "title": "佐鳴台にある中華料理屋「華琳」で「五目かけご飯＆半担(担担麺)」をいただく。",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7985,
+      "slug": "post-7985",
+      "legacy_path": "/post-7985/",
+      "title": "天下一品 浜松船越店　10月1日(火)～10月14日(月) 天下一品祭り開催！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7986,
+      "slug": "post-7986",
+      "legacy_path": "/post-7986/",
+      "title": "マツダ スカイアクティブ デミオ(CVT_1.3)に500km乗った感想",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7988,
+      "slug": "post-7988",
+      "legacy_path": "/post-7988/",
+      "title": "【悲報】あの「ガチ麺道場」が9月18日の麺打ちをもって閉店し、名古屋へ移転。",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7989,
+      "slug": "post-7989",
+      "legacy_path": "/post-7989/",
+      "title": "au、ドコモ、ソフトバンク各社のiPhone5s、5cの機種代・料金プラン・キャンペーンを発表！どこがオトク？",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7990,
+      "slug": "post-7990",
+      "legacy_path": "/post-7990/",
+      "title": "浜松市中区富塚にある隠れた名店「天はる」で天丼を食す",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7991,
+      "slug": "post-7991",
+      "legacy_path": "/post-7991/",
+      "title": "iPhone5s・iPhone5c まとめ！docomoからも発売！仕様は？新機能は？予約開始日は？発売日は？",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7992,
+      "slug": "post-7992",
+      "legacy_path": "/post-7992/",
+      "title": "静岡・焼津を一望できる「笛吹段公園→高草山→美樽の滝」コース！夜景も絶景",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7993,
+      "slug": "post-7993",
+      "legacy_path": "/post-7993/",
+      "title": "絶品浜松餃子！ラーメンも美味しい「餃子の大福」お持ち帰りも充実！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7995,
+      "slug": "post-7995",
+      "legacy_path": "/post-7995/",
+      "title": "てっちゃん先生のアクアミュージアム in アクトが好評につき会期延長！9月16日まで！行く度に進化する魅惑の世界・・・",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7997,
+      "slug": "post-7997",
+      "legacy_path": "/post-7997/",
+      "title": "貴寿司さんはランチも美味しい！しかもお得！これはもはや「行きつけ」",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 7998,
+      "slug": "post-7998",
+      "legacy_path": "/post-7998/",
+      "title": "突っ込みどころ満載の「新田寺マハルレストラン」→「ネパールインドレストランパーサ」→閉店",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8001,
+      "slug": "post-8001",
+      "legacy_path": "/post-8001/",
+      "title": "【西ケ崎】夕暮れの蔵泉院と新発売のFIRE Cafe Deli サニーオレンジ・ラテ＆ビターキャラメル・ラテ",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8003,
+      "slug": "post-8003",
+      "legacy_path": "/post-8003/",
+      "title": "話題の金沢カレー屋さん「カレーのチャンピオン」が浜松進出！浜松住吉店【元一品香・中華担担】",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8004,
+      "slug": "post-8004",
+      "legacy_path": "/post-8004/",
+      "title": "No.1 ORIGINAL INDIAN CURRY HOUSE MONI (インドで一番 カレーハウス モニ)",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8005,
+      "slug": "post-8005",
+      "legacy_path": "/post-8005/",
+      "title": "麺屋 山彦",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8006,
+      "slug": "post-8006",
+      "legacy_path": "/post-8006/",
+      "title": "らーめん 中華 大将",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8007,
+      "slug": "post-8007",
+      "legacy_path": "/post-8007/",
+      "title": "らーめん ／チョモランマ＼ (元ぞうさん食堂)",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8009,
+      "slug": "post-8009",
+      "legacy_path": "/post-8009/",
+      "title": "【とある夏の日の過ごし方 後編】長坂養蜂場で絶品三ヶ日みかん＆はちみつかき氷～大浜海岸～らーめんブッチャー",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8011,
+      "slug": "post-8011",
+      "legacy_path": "/post-8011/",
+      "title": "【とある夏の日の過ごし方 前篇】西気賀駅 グリル 八雲～細江奥浜名湖展望公園",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8012,
+      "slug": "post-8012",
+      "legacy_path": "/post-8012/",
+      "title": "ラーメン ぎょうざ 省ちゃんラーメン",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8014,
+      "slug": "post-8014",
+      "legacy_path": "/post-8014/",
+      "title": "【今さら】秘密のケンミンSHOWで紹介された掛川にある「パンの郷」の浜松餃子パンを食す",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8015,
+      "slug": "post-8015",
+      "legacy_path": "/post-8015/",
+      "title": "【海水浴場百選】夏だ！ダブルビーフサルサだ！マリンパーク御前崎海水浴場だ！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8016,
+      "slug": "post-8016",
+      "legacy_path": "/post-8016/",
+      "title": "豪華絢爛！静岡県最大の花火大会「ふくろい遠州の花火」に行ってきた！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8017,
+      "slug": "post-8017",
+      "legacy_path": "/post-8017/",
+      "title": "アクトプラザで開催中の「アクアミュージアム～魅惑の水草アート水族館～」涼し気な気分に！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8019,
+      "slug": "post-8019",
+      "legacy_path": "/post-8019/",
+      "title": "【It's Cool!キャンペーン】マクドナルドでマンゴーマックフロートとマックフルーリーをいただく【アプリ】",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8020,
+      "slug": "post-8020",
+      "legacy_path": "/post-8020/",
+      "title": "【スタジオジブリ】『風立ちぬ』を見ての感想とジブリ作品の時代設定まとめ",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8021,
+      "slug": "post-8021",
+      "legacy_path": "/post-8021/",
+      "title": "【自然志向のオリジナルカレー】カレー処ヤサカさんで絶品カレーをいただく",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8022,
+      "slug": "post-8022",
+      "legacy_path": "/post-8022/",
+      "title": "天日地鶏",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8023,
+      "slug": "post-8023",
+      "legacy_path": "/post-8023/",
+      "title": "ラーメン 中華料理 大王",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8024,
+      "slug": "post-8024",
+      "legacy_path": "/post-8024/",
+      "title": "鉄道模型ジオラマを見ながら母校興誠高校(現浜松学院高校)に思いを馳せる",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8025,
+      "slug": "post-8025",
+      "legacy_path": "/post-8025/",
+      "title": "【悲報】第60回安倍川花火大会に行ってきました【話題のスーパーもちづき無】",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8026,
+      "slug": "post-8026",
+      "legacy_path": "/post-8026/",
+      "title": "しゃもじ",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8027,
+      "slug": "post-8027",
+      "legacy_path": "/post-8027/",
+      "title": "超地域密着・地産地消スーパー「一期家一笑」(いちごやいちえ)【2016年4月リニューアルオープン】",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8028,
+      "slug": "post-8028",
+      "legacy_path": "/post-8028/",
+      "title": "【2013感謝デー】年に一度の一般募集！トリイソースさんの工場見学に行ってきた！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8029,
+      "slug": "post-8029",
+      "legacy_path": "/post-8029/",
+      "title": "お試しかっ！「帰れま10」に影響されて無印のグリーンカレーを食す",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8030,
+      "slug": "post-8030",
+      "legacy_path": "/post-8030/",
+      "title": "TBS「マツコの知らない世界」を見てKENT(ケント)の白馬毛歯ブラシを買ってみた",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8031,
+      "slug": "post-8031",
+      "legacy_path": "/post-8031/",
+      "title": "助信駅すぐ！6月に移転オープンした双葉さんで天丼をいただいてきました",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8033,
+      "slug": "post-8033",
+      "legacy_path": "/post-8033/",
+      "title": "ついにGoogle MapsのアプリがiPadに対応！バージョン2.0を使ってみた",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8034,
+      "slug": "post-8034",
+      "legacy_path": "/post-8034/",
+      "title": "静岡県菊川市でブルーベリー狩りが楽しめる観光農園「ブルーベリーの郷」",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8036,
+      "slug": "post-8036",
+      "legacy_path": "/post-8036/",
+      "title": "“好きな映画”が変わるかもしれません『シネマハンドブック2013』672作品収録",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8037,
+      "slug": "post-8037",
+      "legacy_path": "/post-8037/",
+      "title": "浜名湖ガーデンパークとはままつフラワーパークで「浜名湖花博2014 ～花と緑の祭典～」開催！チケットも販売開始！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8038,
+      "slug": "post-8038",
+      "legacy_path": "/post-8038/",
+      "title": "静岡大学吹奏楽団のサマーコンサート2013が7月15日開催！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8039,
+      "slug": "post-8039",
+      "legacy_path": "/post-8039/",
+      "title": "フジヤマ55 浜松中央店",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8040,
+      "slug": "post-8040",
+      "legacy_path": "/post-8040/",
+      "title": "らーめん一郎 山田家",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8041,
+      "slug": "post-8041",
+      "legacy_path": "/post-8041/",
+      "title": "有終の美？少し寂しさの残る弁天島海開き花火大会",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8042,
+      "slug": "post-8042",
+      "legacy_path": "/post-8042/",
+      "title": "今年が最後！弁天島海開き花火大会いよいよ明日！天気も大丈夫！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8043,
+      "slug": "post-8043",
+      "legacy_path": "/post-8043/",
+      "title": "【悲報】2013年11月30日をもってNAVER Nドライブのすべてのサービスが終了【LINE Corporation】",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8044,
+      "slug": "post-8044",
+      "legacy_path": "/post-8044/",
+      "title": "らぁめん屋 大喜",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8045,
+      "slug": "post-8045",
+      "legacy_path": "/post-8045/",
+      "title": "麺屋 破天荒 風雅",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8046,
+      "slug": "post-8046",
+      "legacy_path": "/post-8046/",
+      "title": "浜松市天竜区春野町杉地先の地すべりのその後と富士砂防について",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8047,
+      "slug": "post-8047",
+      "legacy_path": "/post-8047/",
+      "title": "「月曜から夜ふかし」でも取り上げられた三省堂新明解国語辞典が面白い！アプリもイイ！",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "B00BEP3KL6",
+          "current_asin": "B00BEP3KL6",
+          "legacy_title": null,
+          "legacy_source": "amazon-url",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧Amazon URLからASINを抽出"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8048,
+      "slug": "post-8048",
+      "legacy_path": "/post-8048/",
+      "title": "天までとどけ",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8053,
+      "slug": "post-8053",
+      "legacy_path": "/post-8053/",
+      "title": "Boulangerie MARIAGE SAKANAMACHI(ブーランジェリー マリアージュ サカナマチ)",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8054,
+      "slug": "post-8054",
+      "legacy_path": "/post-8054/",
+      "title": "安いのにお腹いっぱい！Kumari Kitchen(クマリキッチン)でインドカレー",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8055,
+      "slug": "post-8055",
+      "legacy_path": "/post-8055/",
+      "title": "蔵前家",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8057,
+      "slug": "post-8057",
+      "legacy_path": "/post-8057/",
+      "title": "ブルーベリー狩りいかがですか？スズキ果物農園さん訪問！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8059,
+      "slug": "post-8059",
+      "legacy_path": "/post-8059/",
+      "title": "【ドライフルーツ】セブのドライマンゴーが美味しすぎてたまらない",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8060,
+      "slug": "post-8060",
+      "legacy_path": "/post-8060/",
+      "title": "【新・浜松の自然100選】龍潭寺庭園のつつじが見頃！梅雨ですね・・・",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8062,
+      "slug": "post-8062",
+      "legacy_path": "/post-8062/",
+      "title": "家康くんとハッピーワオンがコラボ！出世城浜松城ご当地waonゲット！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8063,
+      "slug": "post-8063",
+      "legacy_path": "/post-8063/",
+      "title": "話題沸騰！ロッテリアの「麺屋武蔵 ラーメンバーガー」を食べてみた！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8065,
+      "slug": "post-8065",
+      "legacy_path": "/post-8065/",
+      "title": "ついに日本で「Surface Pro」6月7日(金)発売！買う？買わない？",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8066,
+      "slug": "post-8066",
+      "legacy_path": "/post-8066/",
+      "title": "引佐町渋川で開催中の渋川つつじまつりに行ってきた！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8070,
+      "slug": "post-8070",
+      "legacy_path": "/post-8070/",
+      "title": "浜笑",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8071,
+      "slug": "post-8071",
+      "legacy_path": "/post-8071/",
+      "title": "濱龍",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8072,
+      "slug": "post-8072",
+      "legacy_path": "/post-8072/",
+      "title": "奉仕丸",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8073,
+      "slug": "post-8073",
+      "legacy_path": "/post-8073/",
+      "title": "愛車エイレーネちゃん(マツダアクセラ)を車検に出したら生まれ変わった",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8075,
+      "slug": "post-8075",
+      "legacy_path": "/post-8075/",
+      "title": "誰も知らない我が家限定母の味。その名も蝦子多士(ハァチートーシ)！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8076,
+      "slug": "post-8076",
+      "legacy_path": "/post-8076/",
+      "title": "絶品！まつもとフルーツのマンゴータルトとチェリータルトを食す",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8078,
+      "slug": "post-8078",
+      "legacy_path": "/post-8078/",
+      "title": "静岡県立美術館で開催中！「草間彌生 永遠の永遠の永遠」に行ってきた！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8079,
+      "slug": "post-8079",
+      "legacy_path": "/post-8079/",
+      "title": "ぐるっと駿河湾！海の幸と下田海中水族館を楽しむ伊豆旅行♪",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8080,
+      "slug": "post-8080",
+      "legacy_path": "/post-8080/",
+      "title": "つけ麺屋 麺一",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8082,
+      "slug": "post-8082",
+      "legacy_path": "/post-8082/",
+      "title": "ブータンと浜松まつりとディズニー30周年\"ザ・ハピネス・ツアー\"",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8084,
+      "slug": "post-8084",
+      "legacy_path": "/post-8084/",
+      "title": "【浜松】ついに出会えた「領家肉匠 焼肉 柳之介」【領家】",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8085,
+      "slug": "post-8085",
+      "legacy_path": "/post-8085/",
+      "title": "來來亭じゃないよ、来々軒だよ",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8086,
+      "slug": "post-8086",
+      "legacy_path": "/post-8086/",
+      "title": "【蔵泉院】第26回 こくうぞうまつり【本尊様・虚空蔵菩薩の大祭】",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8089,
+      "slug": "post-8089",
+      "legacy_path": "/post-8089/",
+      "title": "杏林堂新津店オープン！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8092,
+      "slug": "ramen-munchnoodle",
+      "legacy_path": "/ramen-munchnoodle/",
+      "title": "あの美味しさはいつまでも。マンチヌードルの思い出について語ろうか。",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4048947362",
+          "current_asin": "4048947362",
+          "legacy_title": "ラーメンウォーカームック ラーメンWalker静岡2016",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "478381936X",
+          "current_asin": "478381936X",
+          "legacy_title": "浜松ぐるぐるマップ 81(NOVEMBER 201―保存版 うまいラーメン120軒",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8093,
+      "slug": "post-8093",
+      "legacy_path": "/post-8093/",
+      "title": "山岡家",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8096,
+      "slug": "post-8096",
+      "legacy_path": "/post-8096/",
+      "title": "洋食屋みさくぼで食べたことのないカツに出会う",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8097,
+      "slug": "post-8097",
+      "legacy_path": "/post-8097/",
+      "title": "【ランド派？】東京ディズニーリゾート30周年【シー派？】",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8098,
+      "slug": "post-8098",
+      "legacy_path": "/post-8098/",
+      "title": "スターバックス浜松新津町店リベンジ！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8099,
+      "slug": "post-8099",
+      "legacy_path": "/post-8099/",
+      "title": "久しぶりの「さわやか」で新メニュー「炭焼きバーガー」をいただく。",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8101,
+      "slug": "post-8101",
+      "legacy_path": "/post-8101/",
+      "title": "iPhone5のケースを変えたいと探していた最中・・・",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "B00BT9E61K",
+          "current_asin": "B00BT9E61K",
+          "legacy_title": null,
+          "legacy_source": "amazon-url",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧Amazon URLからASINを抽出"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8103,
+      "slug": "post-8103",
+      "legacy_path": "/post-8103/",
+      "title": "支那そば 福々亭",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8104,
+      "slug": "post-8104",
+      "legacy_path": "/post-8104/",
+      "title": "【Windows RT】Surfaceを買うべきか否か。【Windows8 Pro】",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8107,
+      "slug": "post-8107",
+      "legacy_path": "/post-8107/",
+      "title": "【大工町】個人的桜の名所【若宮神社・若宮稲荷】",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8110,
+      "slug": "shop-hananomaishuzo",
+      "legacy_path": "/shop-hananomaishuzo/",
+      "title": "浜松が誇る酒蔵「花の舞酒造」で静岡極みの酒を味わう※居酒屋「はなの舞」とは無関係",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8111,
+      "slug": "post-8111",
+      "legacy_path": "/post-8111/",
+      "title": "【日本平】馬鹿と煙は高いところが好き【グリーンハウス】",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8112,
+      "slug": "post-8112",
+      "legacy_path": "/post-8112/",
+      "title": "【イタリアン】フィオーレ Fiore【ランチ】",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8113,
+      "slug": "post-8113",
+      "legacy_path": "/post-8113/",
+      "title": "【イチゴ狩】浜松のゴリラが目印の超有名イチゴ狩スポット【島野農園】",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8114,
+      "slug": "post-8114",
+      "legacy_path": "/post-8114/",
+      "title": "【T＆Riu】手作りハンバーグ　シチューの店　ティー＆リュウ",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8115,
+      "slug": "post-8115",
+      "legacy_path": "/post-8115/",
+      "title": "【餃子】冷凍だってめちゃくちゃ美味い大阪王将の冷凍餃子【COOP】",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8116,
+      "slug": "post-8116",
+      "legacy_path": "/post-8116/",
+      "title": "壇蜜さんに似ていると言われたので壇蜜さんについて調べてみた",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8117,
+      "slug": "post-8117",
+      "legacy_path": "/post-8117/",
+      "title": "【2年ぶり】懐かしさと優しさの塊「カレーハウスケララ」【プリン】",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8118,
+      "slug": "post-8118",
+      "legacy_path": "/post-8118/",
+      "title": "浜松市初！ドライブスルー有りのスターバックス浜松新津町店オープン！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8119,
+      "slug": "post-8119",
+      "legacy_path": "/post-8119/",
+      "title": "浜田山",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8120,
+      "slug": "post-8120",
+      "legacy_path": "/post-8120/",
+      "title": "らーめんブッチャー静岡小鹿店",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8122,
+      "slug": "post-8122",
+      "legacy_path": "/post-8122/",
+      "title": "きらりタウン浜北にある「染地台野鳥公園」散策",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8123,
+      "slug": "post-8123",
+      "legacy_path": "/post-8123/",
+      "title": "インド料理「タンドール」",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8124,
+      "slug": "post-8124",
+      "legacy_path": "/post-8124/",
+      "title": "ガチ麺道場(がちそばどうじょう)",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8126,
+      "slug": "post-8126",
+      "legacy_path": "/post-8126/",
+      "title": "【新潟】地酒ゼリー in チョコレート【地酒】",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8128,
+      "slug": "post-8128",
+      "legacy_path": "/post-8128/",
+      "title": "油そば「麺屋三郎」",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8130,
+      "slug": "post-8130",
+      "legacy_path": "/post-8130/",
+      "title": "5度目の正直「リアル脱出ゲーム×金田一少年の事件簿　からくり館からの脱出」クリア！？",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8132,
+      "slug": "post-8132",
+      "legacy_path": "/post-8132/",
+      "title": "スッキリ！！でも紹介された「山の水族館」に実は行ったことがある！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8134,
+      "slug": "post-8134",
+      "legacy_path": "/post-8134/",
+      "title": "酒肴遊善 JINEN はなれ(しゅこうゆうぜん じねん はなれ)",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8136,
+      "slug": "post-8136",
+      "legacy_path": "/post-8136/",
+      "title": "「無名」という名のラーメン屋！無名なままでは終わらない気配。",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8139,
+      "slug": "post-8139",
+      "legacy_path": "/post-8139/",
+      "title": "らーめん武蔵",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8140,
+      "slug": "post-8140",
+      "legacy_path": "/post-8140/",
+      "title": "久しぶりの鰻「かねりん」にお邪魔しました",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8142,
+      "slug": "post-8142",
+      "legacy_path": "/post-8142/",
+      "title": "今季最後！なばなの里「ウィンターイルミネーション」に行ってきた！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8144,
+      "slug": "post-8144",
+      "legacy_path": "/post-8144/",
+      "title": "浜松でプロジェクションマッピング！「Double box tests」に行ってきた！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8148,
+      "slug": "post-8148",
+      "legacy_path": "/post-8148/",
+      "title": "横浜家系ラーメン「藤井商店」",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8149,
+      "slug": "post-8149",
+      "legacy_path": "/post-8149/",
+      "title": "さすがヤマハ「つま恋サウンドイルミネーション」に行ってきました！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8151,
+      "slug": "post-8151",
+      "legacy_path": "/post-8151/",
+      "title": "映画『007 スカイフォール』",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8152,
+      "slug": "post-8152",
+      "legacy_path": "/post-8152/",
+      "title": "映画『ted』",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8153,
+      "slug": "post-8153",
+      "legacy_path": "/post-8153/",
+      "title": "ら～めん元亀",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8155,
+      "slug": "post-8155",
+      "legacy_path": "/post-8155/",
+      "title": "「新東名で行く！ぐる～り奥浜名湖スタンプラリー」が気になる…",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8156,
+      "slug": "shop-kanposalonrainbow",
+      "legacy_path": "/shop-kanposalonrainbow/",
+      "title": "浜松のポップな漢方専門店「漢方サロンれいんぼう」で東洋医学エステ",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8157,
+      "slug": "post-8157",
+      "legacy_path": "/post-8157/",
+      "title": "浜松でプロジェクションマッピングが見られる！「Double box tests」",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8158,
+      "slug": "post-8158",
+      "legacy_path": "/post-8158/",
+      "title": "大学入試センター試験を解いてみた！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8159,
+      "slug": "post-8159",
+      "legacy_path": "/post-8159/",
+      "title": "【原宿】ニコニコ本社見学！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8160,
+      "slug": "post-8160",
+      "legacy_path": "/post-8160/",
+      "title": "淡麗系の美味しさにうなる原宿「AFURI (阿夫利 あふり)」でつけ麺柚子露、炙りチャーシュー",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4048956531",
+          "current_asin": "4048956531",
+          "legacy_title": "ラーメンWalker東京23区2017 ラーメンウォーカームック",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8162,
+      "slug": "post-8162",
+      "legacy_path": "/post-8162/",
+      "title": "オートモーティブワールド2013",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8163,
+      "slug": "post-8163",
+      "legacy_path": "/post-8163/",
+      "title": "阪神淡路大震災について",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8164,
+      "slug": "post-8164",
+      "legacy_path": "/post-8164/",
+      "title": "マウス依存症",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "B000I0S6Y4",
+          "current_asin": "B000I0S6Y4",
+          "legacy_title": null,
+          "legacy_source": "amazon-url",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧Amazon URLからASINを抽出"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8168,
+      "slug": "post-8168",
+      "legacy_path": "/post-8168/",
+      "title": "法多山→山梨→御殿場小旅行④",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8169,
+      "slug": "post-8169",
+      "legacy_path": "/post-8169/",
+      "title": "法多山→山梨→御殿場小旅行③",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8170,
+      "slug": "post-8170",
+      "legacy_path": "/post-8170/",
+      "title": "iPhoneアプリ「Smart News」",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8171,
+      "slug": "post-8171",
+      "legacy_path": "/post-8171/",
+      "title": "法多山→山梨→御殿場小旅行②　羽田家(はねだ家)",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8172,
+      "slug": "post-8172",
+      "legacy_path": "/post-8172/",
+      "title": "法多山→山梨→御殿場小旅行①",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8174,
+      "slug": "post-8174",
+      "legacy_path": "/post-8174/",
+      "title": "レ・ミゼラブル",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8178,
+      "slug": "post-8178",
+      "legacy_path": "/post-8178/",
+      "title": "メリークリスマス！メリークリスマス・・・メリー・・・メ・・・",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8179,
+      "slug": "post-8179",
+      "legacy_path": "/post-8179/",
+      "title": "この時期に手帳を選ぶ方も多いのでは",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8180,
+      "slug": "post-8180",
+      "legacy_path": "/post-8180/",
+      "title": "「冬至」＝「日の出が最も遅くて、日の入りが最も早い日」ではない！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8181,
+      "slug": "post-8181",
+      "legacy_path": "/post-8181/",
+      "title": "営業の合間に大都会名古屋でコーヒーを嗜む",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8183,
+      "slug": "post-8183",
+      "legacy_path": "/post-8183/",
+      "title": "巧みな文章で見た者を惑わす迷惑メールにご用心！と重大予告",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8184,
+      "slug": "post-8184",
+      "legacy_path": "/post-8184/",
+      "title": "【レーピン展】浜松市美術館、静岡市美術館にて【ストラスブール美術館展】",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8185,
+      "slug": "post-8185",
+      "legacy_path": "/post-8185/",
+      "title": "静岡文化芸術大学イブニングレクチャー「茂木健一郎『脳と芸術』」",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8187,
+      "slug": "post-8187",
+      "legacy_path": "/post-8187/",
+      "title": "夕暮れ時に",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4106103079",
+          "current_asin": "4106103079",
+          "legacy_title": null,
+          "legacy_source": "amazon-url",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧Amazon URLからASINを抽出"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8189,
+      "slug": "movie-review-karasunooyayubi",
+      "legacy_path": "/movie-review-karasunooyayubi/",
+      "title": "話題の人集結映画『カラスの親指』阿部寛、石原さとみ、能年玲奈、古坂大魔王(ピコ太郎)、小柳友、なだぎ武の豪華共演",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "B00BN1JW5E",
+          "current_asin": "B00BN1JW5E",
+          "legacy_title": "カラスの親指 by rule of CROW",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4062769778",
+          "current_asin": "4062769778",
+          "legacy_title": "カラスの親指 by rule of CROW’s thumb (講談社文庫)",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8190,
+      "slug": "restaurant-tamagotowatashi",
+      "legacy_path": "/restaurant-tamagotowatashi/",
+      "title": "浜松遠鉄百貨店内にあるオムライス専門店「たまご料理の店 卵と私」はトロトロ系オムライスが美味い",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4783819688",
+          "current_asin": "4783819688",
+          "legacy_title": "浜松ぐるぐるマップ〈86〉保存版 ひとりめしみんなごはん145軒",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4780414512",
+          "current_asin": "4780414512",
+          "legacy_title": "浜松とっても上等なディナー",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8191,
+      "slug": "restaurant-konakara",
+      "legacy_path": "/restaurant-konakara/",
+      "title": "静岡市清水のIAIスタジアム日本平すぐの和食屋「こなから」は美味しい魚料理がいただける地元のお食事処",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4783819726",
+          "current_asin": "4783819726",
+          "legacy_title": "保存版 今食べたい!静岡グルメ150選 (静岡ぐるぐるマップ)",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "B00433KP9G",
+          "current_asin": "B00433KP9G",
+          "legacy_title": "静岡最強グルメ",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8192,
+      "slug": "trip-aobadori-illumination",
+      "legacy_path": "/trip-aobadori-illumination/",
+      "title": "静岡市、静岡青葉通り・青葉公園で青葉シンボルロードイルミネーションを堪能",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8193,
+      "slug": "trip-tds",
+      "legacy_path": "/trip-tds/",
+      "title": "やはり「東京ディズニーシー」の別世界感と大人も楽しめる工夫には毎度驚かされる",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8194,
+      "slug": "ramen-menshotakeya",
+      "legacy_path": "/ramen-menshotakeya/",
+      "title": "【2013年4月28日閉店】石焼つけ麺で一世を風靡した「麺匠たけや」だったが…",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4048947362",
+          "current_asin": "4048947362",
+          "legacy_title": "ラーメンウォーカームック ラーメンWalker静岡2016",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4783819785",
+          "current_asin": "4783819785",
+          "legacy_title": "静岡ぐるぐるマップ〈NO.131〉保存版ランチカタログ どこで食べる?おまちランチ×郊外ランチ",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8196,
+      "slug": "ramen-shichisei",
+      "legacy_path": "/ramen-shichisei/",
+      "title": "浜松・富塚の「七星」で珍しい和歌山ラーメンを堪能する",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4048947362",
+          "current_asin": "4048947362",
+          "legacy_title": "ラーメンウォーカームック ラーメンWalker静岡2016",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "478381936X",
+          "current_asin": "478381936X",
+          "legacy_title": "浜松ぐるぐるマップ 81(NOVEMBER 201―保存版 うまいラーメン120軒",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8197,
+      "slug": "post-8197",
+      "legacy_path": "/post-8197/",
+      "title": "【閉店】富塚のラーメン屋「黒龍」はひっそりと去っていきました…",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4048947362",
+          "current_asin": "4048947362",
+          "legacy_title": "ラーメンウォーカームック ラーメンWalker静岡2016",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "478381936X",
+          "current_asin": "478381936X",
+          "legacy_title": "浜松ぐるぐるマップ 81(NOVEMBER 201―保存版 うまいラーメン120軒",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8198,
+      "slug": "google-umbrella",
+      "legacy_path": "/google-umbrella/",
+      "title": "あのGoogleからIoTな傘が！？Google Umbrella登場！でもtotes(トーツ)の自動開閉折り畳み傘が好き",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "B01BHU66CM",
+          "current_asin": "B01BHU66CM",
+          "legacy_title": "トーツ (totes)自動開閉 折り畳み傘 Titan Line 三つ折り60cm W82(ブラウンボーダー)",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4865453555",
+          "current_asin": "4865453555",
+          "legacy_title": "新しいGoogleの教科書 2016年版―グーグルのこんな便利な使い方知っていますか? (英和MOOK らくらく講座 254)",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4800309344",
+          "current_asin": "4800309344",
+          "legacy_title": "Googleサービスがぜんぶわかる本 最新版 (洋泉社MOOK)",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8199,
+      "slug": "restaurant-tsk-hamamatsuintershokudo",
+      "legacy_path": "/restaurant-tsk-hamamatsuintershokudo/",
+      "title": "浜松トラックステーション内の浜松インター食堂はトラックの運転手さん以外も大満足！",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4783819688",
+          "current_asin": "4783819688",
+          "legacy_title": "浜松ぐるぐるマップ〈86〉保存版 ひとりめしみんなごはん145軒",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4780414512",
+          "current_asin": "4780414512",
+          "legacy_title": "浜松とっても上等なディナー",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8201,
+      "slug": "restaurant-curryhousejib",
+      "legacy_path": "/restaurant-curryhousejib/",
+      "title": "カレーハウスJIB 静岡市駿河区店でお高いカレーをいただく",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4783819726",
+          "current_asin": "4783819726",
+          "legacy_title": "保存版 今食べたい!静岡グルメ150選 (静岡ぐるぐるマップ)",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "B00433KP9G",
+          "current_asin": "B00433KP9G",
+          "legacy_title": "静岡最強グルメ",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8202,
+      "slug": "shop-altnaturalprojects",
+      "legacy_path": "/shop-altnaturalprojects/",
+      "title": "オーガニックアロマのオルトナチュラルプロジェクツ",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4800730015",
+          "current_asin": "4800730015",
+          "legacy_title": "最新! アロマセラピーのすべてがわかる本",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8203,
+      "slug": "iphone5",
+      "legacy_path": "/iphone5/",
+      "title": "iPhone5の波が静かに、だが確実に押し寄せる",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8204,
+      "slug": "trip-restaurant-horaimikawasangoku",
+      "legacy_path": "/trip-restaurant-horaimikawasangoku/",
+      "title": "新東名いなさJCT近く、新城方面、満光寺に行くなら道の駅「鳳来三河三石」がおすすめ！",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4533115055",
+          "current_asin": "4533115055",
+          "legacy_title": "るるぶ愛知 名古屋 知多 三河",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4398281339",
+          "current_asin": "4398281339",
+          "legacy_title": "まっぷる 愛知 名古屋 知多・三河 ",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8205,
+      "slug": "trip-imaestri-2012-muninoichi",
+      "legacy_path": "/trip-imaestri-2012-muninoichi/",
+      "title": "旧門谷小学校で開催された「イ・マエストリ2012無二の市」で職人達のハンドメイド作品にうなる",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4533107052",
+          "current_asin": "4533107052",
+          "legacy_title": "</span><span style=",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4398277935",
+          "current_asin": "4398277935",
+          "legacy_title": "</span><span style=",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8207,
+      "slug": "post-8207",
+      "legacy_path": "/post-8207/",
+      "title": "【2013/9/30閉店】ありがとう。みんみん亭有玉町店",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4048947362",
+          "current_asin": "4048947362",
+          "legacy_title": "ラーメンウォーカームック ラーメンWalker静岡2016",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "478381936X",
+          "current_asin": "478381936X",
+          "legacy_title": "浜松ぐるぐるマップ 81(NOVEMBER 201―保存版 うまいラーメン120軒",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8212,
+      "slug": "ramen-ichiran",
+      "legacy_path": "/ramen-ichiran/",
+      "title": "一蘭は一蘭であって一蘭以外の何者でもない",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4048947362",
+          "current_asin": "4048947362",
+          "legacy_title": "ラーメンウォーカームック ラーメンWalker静岡2016",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "478381936X",
+          "current_asin": "478381936X",
+          "legacy_title": "浜松ぐるぐるマップ 81(NOVEMBER 201―保存版 うまいラーメン120軒",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4783819785",
+          "current_asin": "4783819785",
+          "legacy_title": "静岡ぐるぐるマップ〈NO.131〉保存版ランチカタログ どこで食べる?おまちランチ×郊外ランチ",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8215,
+      "slug": "motorcycle-myogaseat",
+      "legacy_path": "/motorcycle-myogaseat/",
+      "title": "超有名！バイク発症の地浜松でバイクシートの張替えといえば茗荷シート！",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4415319629",
+          "current_asin": "4415319629",
+          "legacy_title": "自分でやりたい人の最新バイク・メンテナンス",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8219,
+      "slug": "hamamatsushi-ramen-aozorakid",
+      "legacy_path": "/hamamatsushi-ramen-aozorakid/",
+      "title": "浜松市中区曳馬の「電撃羅愛麺 青空きっど 零」はメニューは豊富でどれも完成度が高い！",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4048947362",
+          "current_asin": "4048947362",
+          "legacy_title": "ラーメンウォーカームック ラーメンWalker静岡2016",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "478381936X",
+          "current_asin": "478381936X",
+          "legacy_title": "浜松ぐるぐるマップ 81(NOVEMBER 201―保存版 うまいラーメン120軒",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8220,
+      "slug": "tokyo-ramen-kenchanramen",
+      "legacy_path": "/tokyo-ramen-kenchanramen/",
+      "title": "小田急線千歳船橋駅近く、APOCシアターへ行った帰りにけんちゃんラーメンでごまみそつけ麺とチャーハンをいただく",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4048955446",
+          "current_asin": "4048955446",
+          "legacy_title": "ラーメンWalkerが厳選! マニアも納得の東京うまいラーメンベスト100 (中経の文庫)",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8222,
+      "slug": "theater-nasakenaidanshiwohoshinokazuhodonaguttemitai",
+      "legacy_path": "/theater-nasakenaidanshiwohoshinokazuhodonaguttemitai/",
+      "title": "後輩が出演する演劇「情けない男子を星の数ほど殴ってみたい」を東京で見てきた話",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8223,
+      "slug": "shizuokashi-ramen-debidramen",
+      "legacy_path": "/shizuokashi-ramen-debidramen/",
+      "title": "静岡市駿河区池田のでびっとらーめん東静岡店で魚介豚骨のつけ麺をいただく",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4048947362",
+          "current_asin": "4048947362",
+          "legacy_title": "ラーメンウォーカームック ラーメンWalker静岡2016",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4783819785",
+          "current_asin": "4783819785",
+          "legacy_title": "静岡ぐるぐるマップ〈NO.131〉保存版ランチカタログ どこで食べる?おまちランチ×郊外ランチ",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8228,
+      "slug": "shizuokashi-trip-fujinokuni-traffic-safety-fair",
+      "legacy_path": "/shizuokashi-trip-fujinokuni-traffic-safety-fair/",
+      "title": "【交通事故件数ワースト常連静岡県】ふじのくに交通安全県民フェア2012～人と車が共存する安全・安心なまちづくり",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4532168678",
+          "current_asin": "4532168678",
+          "legacy_title": "交通事故を7割減らすたった2つの習慣",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4106105454",
+          "current_asin": "4106105454",
+          "legacy_title": "交通事故学 (新潮新書)",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8233,
+      "slug": "impulse-of-my-life",
+      "legacy_path": "/impulse-of-my-life/",
+      "title": "人はなぜ刺激を求めるのか",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4763134604",
+          "current_asin": "4763134604",
+          "legacy_title": "たった5分で体が変わる すごい熱刺激",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8234,
+      "slug": "wifi-router-nas-buffalo",
+      "legacy_path": "/wifi-router-nas-buffalo/",
+      "title": "僕のおすすめWi-Fiルーター&NASとメリットデメリットはこれ！ちなみにバッファローのサポートは超優しいし、なんとなく萌える",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "B014440ITA",
+          "current_asin": "B014440ITA",
+          "legacy_title": "BUFFALO 【iPhone6対応】 11ac/n/a/g/b 無線LAN親機(Wi-Fiルーター) エアステーション ビームフォーミング、バンドステアリング対応 1300+450Mbps WXR-1750DHP/N (利用推奨環境6人・4LDK・3階建) フラストレーションフリーパッケージ(FFP)",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "B00WYKOMMQ",
+          "current_asin": "B00WYKOMMQ",
+          "legacy_title": "BUFFALO リンクステーション スマホ・タブレットで使える ネットワークHDD(NAS) 高速モデル データを守るRAID1搭載 4TB LS420D0402C",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4801803024",
+          "current_asin": "4801803024",
+          "legacy_title": "ホームネットワークがまるごとわかる本 最新版 (100%ムックシリーズ)",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "B00HKDX2V4",
+          "current_asin": "B00HKDX2V4",
+          "legacy_title": "パソコンもスマホもタブレットも、家中かんたんバックアップ！　NASオールカタログ2014",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8238,
+      "slug": "fujisan-trip-autumnleaves",
+      "legacy_path": "/fujisan-trip-autumnleaves/",
+      "title": "早めの紅葉を富士山で見るなら富士宮口五合目がおすすめ！だけど寒いので服装に注意！",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4054058396",
+          "current_asin": "4054058396",
+          "legacy_title": "厳選 日本の紅葉",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8239,
+      "slug": "movie-review-hungergames",
+      "legacy_path": "/movie-review-hungergames/",
+      "title": "映画「ハンガー・ゲーム」は架空の国で開かれる処刑ゲームに参加する国民と特権階級の戦争映画",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "B01B2EIE1O",
+          "current_asin": "B01B2EIE1O",
+          "legacy_title": "ハンガー・ゲーム DVD コンプリートセット(初回生産限定)",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "B01B2EIGCQ",
+          "current_asin": "B01B2EIGCQ",
+          "legacy_title": "ハンガー・ゲーム ブルーレイ コンプリートセット(初回生産限定) Blu-ray",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8254,
+      "slug": "my-apple-history",
+      "legacy_path": "/my-apple-history/",
+      "title": "私のApple遍歴",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "B005V73CVG",
+          "current_asin": "B005V73CVG",
+          "legacy_title": "スティーブ・ジョブズ I・IIセット",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8260,
+      "slug": "hamamatsushi-trip-amusementpark-palpal",
+      "legacy_path": "/hamamatsushi-trip-amusementpark-palpal/",
+      "title": "静岡県浜松市の「浜名湖パルパル」はやなせたかし氏のキャラクターでいつ行っても楽しませてくれるほどよい遊園地！",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4533107052",
+          "current_asin": "4533107052",
+          "legacy_title": "るるぶ静岡 清水 浜名湖 富士山麓 伊豆",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4398277935",
+          "current_asin": "4398277935",
+          "legacy_title": "まっぷる 静岡 浜名湖・富士山麓・伊豆 ",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 8470,
+      "slug": "the-best-highest-firstclass-marimba",
+      "legacy_path": "/the-best-highest-firstclass-marimba/",
+      "title": "趣味で各楽器メーカーの最大・最上級マリンバの価格・購入先と余談でマレット8本持ちまとめ",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4873902002",
+          "current_asin": "4873902002",
+          "legacy_title": "マリンバ名曲30選",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9063,
+      "slug": "movie-review-lucy",
+      "legacy_path": "/movie-review-lucy/",
+      "title": "映画 『LUCY／ルーシー』 レビュー→「リミットレス」とは似て非なる近未来ドーピングアクション",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "B00XMZGTTQ",
+          "current_asin": "B00XMZGTTQ",
+          "legacy_title": "LUCY/ルーシー DVD",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "B00BFZGLC0",
+          "current_asin": "B00BFZGLC0",
+          "legacy_title": "リミットレス DVD",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9165,
+      "slug": "shizuokashi-ethnic-restaurant-thai-orchid",
+      "legacy_path": "/shizuokashi-ethnic-restaurant-thai-orchid/",
+      "title": "【静岡一お得】西島の「タイ・オーキッド」は本格的なタイ料理が主人のユーモア付で激安",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4783819726",
+          "current_asin": "4783819726",
+          "legacy_title": "保存版 今食べたい!静岡グルメ150選 (静岡ぐるぐるマップ)",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "B00433KP9G",
+          "current_asin": "B00433KP9G",
+          "legacy_title": "静岡最強グルメ",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9171,
+      "slug": "hamamatsushi-trip-ryugashido",
+      "legacy_path": "/hamamatsushi-trip-ryugashido/",
+      "title": "浜松引佐の有名観光スポット「竜ヶ岩洞」はわさびアイスで夏もひんやりおすすめ鍾乳洞",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4533107052",
+          "current_asin": "4533107052",
+          "legacy_title": "るるぶ静岡 清水 浜名湖 富士山麓 伊豆",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4398277935",
+          "current_asin": "4398277935",
+          "legacy_title": "まっぷる 静岡 浜名湖・富士山麓・伊豆 ",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9186,
+      "slug": "shizuokashi-ramen-menyakuranosuke",
+      "legacy_path": "/shizuokashi-ramen-menyakuranosuke/",
+      "title": "静岡市駿河区中吉田の味噌ラーメン専門店「麺屋 蔵の助」はメニューの自由度がやたら高い",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4048947362",
+          "current_asin": "4048947362",
+          "legacy_title": "ラーメンウォーカームック ラーメンWalker静岡2016",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "478381936X",
+          "current_asin": "478381936X",
+          "legacy_title": "浜松ぐるぐるマップ 81(NOVEMBER 201―保存版 うまいラーメン120軒",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9198,
+      "slug": "hamamatsushi-udon-soba-sanaruan",
+      "legacy_path": "/hamamatsushi-udon-soba-sanaruan/",
+      "title": "浜松市中区佐鳴台の「佐鳴庵」は本格的な足踏みうどん、手打ちそばが美味しい",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4783819726",
+          "current_asin": "4783819726",
+          "legacy_title": "保存版 今食べたい!静岡グルメ150選 (静岡ぐるぐるマップ)",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "B00433KP9G",
+          "current_asin": "B00433KP9G",
+          "legacy_title": "静岡最強グルメ",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9206,
+      "slug": "hamamatsushi-japanese-restaurant-tonkaraten",
+      "legacy_path": "/hamamatsushi-japanese-restaurant-tonkaraten/",
+      "title": "浜松市中区高林の「とん唐てん」は珍しい軍鶏の親子丼、低温揚げの絶品とんかつがいただけるおしゃれな和食屋さん",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4783819726",
+          "current_asin": "4783819726",
+          "legacy_title": "保存版 今食べたい!静岡グルメ150選 (静岡ぐるぐるマップ)",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "B00433KP9G",
+          "current_asin": "B00433KP9G",
+          "legacy_title": "静岡最強グルメ",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9237,
+      "slug": "hamamatsushi-gyoza-biwanoki",
+      "legacy_path": "/hamamatsushi-gyoza-biwanoki/",
+      "title": "【浜松は餃子の消費量上位常連】うなぎ餃子で有名な「ビワの木」は自家製にこだわった浜松餃子の人気店【新津本店・ザザシティ店】",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "B00K4XRCCC",
+          "current_asin": "B00K4XRCCC",
+          "legacy_title": "満笑餃子60個入 個数限定：送料込み",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9256,
+      "slug": "hamamatsushi-yakiniku-matsusakakumi",
+      "legacy_path": "/hamamatsushi-yakiniku-matsusakakumi/",
+      "title": "【浜松市中区板屋町】まちなかにある「まつさか與(くみ)」はお得に松阪牛がいただける隠れ家的焼肉屋さん",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4783819688",
+          "current_asin": "4783819688",
+          "legacy_title": "浜松ぐるぐるマップ〈86〉保存版 ひとりめしみんなごはん145軒",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4780414512",
+          "current_asin": "4780414512",
+          "legacy_title": "浜松とっても上等なディナー",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9259,
+      "slug": "hamamatsushi-ramen-tatsunoko",
+      "legacy_path": "/hamamatsushi-ramen-tatsunoko/",
+      "title": "浜松市中区和合のお客さんが絶えない「龍の子らーめん」は昔ながらの醤油ラーメン、パラパラチャーハンが美味しい！",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4048947362",
+          "current_asin": "4048947362",
+          "legacy_title": "ラーメンウォーカームック ラーメンWalker静岡2016",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "478381936X",
+          "current_asin": "478381936X",
+          "legacy_title": "浜松ぐるぐるマップ 81(NOVEMBER 201―保存版 うまいラーメン120軒",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9264,
+      "slug": "shizuokashi-restaurant-namiheishokudo",
+      "legacy_path": "/shizuokashi-restaurant-namiheishokudo/",
+      "title": "静岡市駿河区西島のオムライス、ドリアで有名な「なみへい食堂」はメニュー豊富、ボリューム満点の大人気洋食屋さん",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4783819726",
+          "current_asin": "4783819726",
+          "legacy_title": "保存版 今食べたい!静岡グルメ150選 (静岡ぐるぐるマップ)",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "B00433KP9G",
+          "current_asin": "B00433KP9G",
+          "legacy_title": "静岡最強グルメ",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9270,
+      "slug": "appeal-of-sanarudai-sanaruko",
+      "legacy_path": "/appeal-of-sanarudai-sanaruko/",
+      "title": "佐鳴台・佐鳴湖は魅力たっぷり！(大)通りにホワイト・グリーン・レモン・パープル・オレンジストリートと色名がつけられているちょっとハイカラな街",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4048947362",
+          "current_asin": "4048947362",
+          "legacy_title": "ラーメンウォーカームック ラーメンWalker静岡2016",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "478381936X",
+          "current_asin": "478381936X",
+          "legacy_title": "浜松ぐるぐるマップ 81(NOVEMBER 201―保存版 うまいラーメン120軒",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9287,
+      "slug": "shizuokashi-ramen-ippon",
+      "legacy_path": "/shizuokashi-ramen-ippon/",
+      "title": "【復活】静岡市駿河区宮竹の「らーめん一本」は濃厚な豚骨醤油と鶏白湯がいただけるスープが激ウマまっすぐなラーメン屋",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4048947362",
+          "current_asin": "4048947362",
+          "legacy_title": "ラーメンウォーカームック ラーメンWalker静岡2016",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4783819785",
+          "current_asin": "4783819785",
+          "legacy_title": "静岡ぐるぐるマップ〈NO.131〉保存版ランチカタログ どこで食べる?おまちランチ×郊外ランチ",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9306,
+      "slug": "my-stress-theory",
+      "legacy_path": "/my-stress-theory/",
+      "title": "ストレスなんて忘れることでしか発散できない。僕のストレス論【保存版】",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "B01D531A5M",
+          "current_asin": "B01D531A5M",
+          "legacy_title": "THE21 2016年 06 月号",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "B00023BNHO",
+          "current_asin": "B00023BNHO",
+          "legacy_title": "M-1グランプリ2003 DVD",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4479794964",
+          "current_asin": "4479794964",
+          "legacy_title": "スタンフォードのストレスを力に変える教科書",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4569825885",
+          "current_asin": "4569825885",
+          "legacy_title": "なぜ一流の人はストレスが溜まらないのか",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4763160095",
+          "current_asin": "4763160095",
+          "legacy_title": "（文庫）脳からストレスを消す技術 (サンマーク文庫)",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "B00QK8QJVA",
+          "current_asin": "B00QK8QJVA",
+          "legacy_title": "世界一簡単！「ストレス」と上手につき合う方法",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4860813332",
+          "current_asin": "4860813332",
+          "legacy_title": "「ストレスの整理」が上手い人下手な人 (新講社ワイド新書)",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9360,
+      "slug": "kyoto-souvenir-bento",
+      "legacy_path": "/kyoto-souvenir-bento/",
+      "title": "京都のごはん系お土産(老舗のお弁当)のオススメ「辻留のお弁当」「いづうの鯖寿司」「三嶋亭の牛しぐれ弁当」「和久傳のくりの葛焼」",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4835626079",
+          "current_asin": "4835626079",
+          "legacy_title": "京都老舗名店案内―創業100年以上の老舗や明治・大正・昭和のモダンな (ぴあMOOK関西)",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9391,
+      "slug": "hamamatsu-restaurant-motomachidoria",
+      "legacy_path": "/hamamatsu-restaurant-motomachidoria/",
+      "title": "とにかくドリアが食べたくなったらイオンモール浜松市野のドリア専門店「神戸元町ドリア」",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4783819688",
+          "current_asin": "4783819688",
+          "legacy_title": "浜松ぐるぐるマップ〈86〉保存版 ひとりめしみんなごはん145軒",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4780414512",
+          "current_asin": "4780414512",
+          "legacy_title": "浜松とっても上等なディナー",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9400,
+      "slug": "hatchsprofile",
+      "legacy_path": "/hatchsprofile/",
+      "title": "ハッチのプロフィール",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [],
+      "unresolved_urls": [
+        {
+          "url": "http://amzn.to/2fw7MPZ",
+          "type": "amazon-short-url",
+          "confidence": "medium",
+          "status": "unresolved"
+        },
+        {
+          "url": "http://amzn.to/2eOCtyi",
+          "type": "amazon-short-url",
+          "confidence": "medium",
+          "status": "unresolved"
+        },
+        {
+          "url": "http://amzn.to/2efyJtC",
+          "type": "amazon-short-url",
+          "confidence": "medium",
+          "status": "unresolved"
+        },
+        {
+          "url": "http://amzn.to/2eOAgTk",
+          "type": "amazon-short-url",
+          "confidence": "medium",
+          "status": "unresolved"
+        },
+        {
+          "url": "http://amzn.to/2eOEURB",
+          "type": "amazon-short-url",
+          "confidence": "medium",
+          "status": "unresolved"
+        },
+        {
+          "url": "http://amzn.to/2fw5yA6",
+          "type": "amazon-short-url",
+          "confidence": "medium",
+          "status": "unresolved"
+        },
+        {
+          "url": "http://amzn.to/2eOB8aC",
+          "type": "amazon-short-url",
+          "confidence": "medium",
+          "status": "unresolved"
+        },
+        {
+          "url": "http://amzn.to/2efA83h",
+          "type": "amazon-short-url",
+          "confidence": "medium",
+          "status": "unresolved"
+        }
+      ]
+    },
+    {
+      "wp_id": 9405,
+      "slug": "sweets-komugiko-letemps",
+      "legacy_path": "/sweets-komugiko-letemps/",
+      "title": "「コムギコキッチン」が2016/10/23閉店！&2016/11/11入野郵便局近くに「Patisserie le temps」(ルタン)が移転オープン！",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4783819688",
+          "current_asin": "4783819688",
+          "legacy_title": "浜松ぐるぐるマップ〈86〉保存版 ひとりめしみんなごはん145軒",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4780414512",
+          "current_asin": "4780414512",
+          "legacy_title": "浜松とっても上等なディナー",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9408,
+      "slug": "movie-review-akunokyoten",
+      "legacy_path": "/movie-review-akunokyoten/",
+      "title": "こんな先生は嫌だ！R-15映画『悪の教典』でサイコパス教師の恐ろしさを知る。",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4167839016",
+          "current_asin": "4167839016",
+          "legacy_title": "悪の教典〈上〉 (文春文庫)",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4167839024",
+          "current_asin": "4167839024",
+          "legacy_title": "悪の教典〈下〉 (文春文庫)",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "B00AIKXQLM",
+          "current_asin": "B00AIKXQLM",
+          "legacy_title": "悪の教典（１） (アフタヌーンコミックス)",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "B00BHAOBES",
+          "current_asin": "B00BHAOBES",
+          "legacy_title": "悪の教典 DVD スタンダード・エディション",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9465,
+      "slug": "anker-powerline-lightningusbcable",
+      "legacy_path": "/anker-powerline-lightningusbcable/",
+      "title": "頑丈・丈夫・高耐久なライトニングケーブルならこれ！「Anker PowerLine+ Lightning USB Cable」ポーチ付&MFi認証取得！",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "B0177L6A4O",
+          "current_asin": "B0177L6A4O",
+          "legacy_title": "Anker PowerLine+ ライトニングUSBケーブル Apple MFi認証取得【高耐久ケブラー素材 / 2重編込の高耐久ナイロン素材 / 結束バンド付属】iPhone、iPad各種他対応 (0.3m レッド)",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9476,
+      "slug": "blutooth-wireless-earphone",
+      "legacy_path": "/blutooth-wireless-earphone/",
+      "title": "iPhone7で加速！おすすめ「COULAX QY8 Bluetoothワイヤレスイヤホン」【スポーツ・ランニング・運動編】",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "B01G16R8JC",
+          "current_asin": "B01G16R8JC",
+          "legacy_title": "Bose SoundSport Pulse wireless headphones : ワイヤレスイヤホン Bluetooth・NFC対応/心拍数計測機能/リモコン・マイク付き パワーレッド SSport PLS WLSS RED【国内正規品】",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "B01G4N6CDA",
+          "current_asin": "B01G4N6CDA",
+          "legacy_title": "Bose SoundSport wireless headphones : ワイヤレスイヤホン 防滴仕様/Bluetooth・NFC対応/リモコン・マイク付き/通話可能 ブラック SSport WLSS BLK【国内正規品】",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "B011Z59XUG",
+          "current_asin": "B011Z59XUG",
+          "legacy_title": "PHILIPS ワイヤレススポーツイヤホン カナル型/Bluetooth・NFC対応/リモコン・マイク付 ブラック TX2BTBK【国内正規品】",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "B01G48RH20",
+          "current_asin": "B01G48RH20",
+          "legacy_title": "B&amp;O Play BeoPlay H5 ワイヤレス Bluetooth イヤホン/リモコン・マイク付き/通話可能 ブラック BeoPlay H5 Black【国内正規品】",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "B00KWV03YA",
+          "current_asin": "B00KWV03YA",
+          "legacy_title": "【国内正規品】Beats by Dr.Dre Powerbeats2 Wireless Bluetooth対応 カナル型ワイヤレスイヤホン スポーツ向け ブラック MHBE2PA/A",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "B01ARFLYR0",
+          "current_asin": "B01ARFLYR0",
+          "legacy_title": "JBL EVEREST 100 ワイヤレスイヤホン Bluetooth 密閉ダイナミック型 ブラック V100BTBLKGP【国内正規品】",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "B00LIZD8N2",
+          "current_asin": "B00LIZD8N2",
+          "legacy_title": "【国内正規品】 PLANTRONICS Bluetooth スポーツ用ワイヤレスヘッドセット(ステレオイヤホンタイプ) BackBeat Fit Blue BACKBEATFIT-BL",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "B018LEVFGO",
+          "current_asin": "B018LEVFGO",
+          "legacy_title": "JBL REFLECT MINI BT ワイヤレスイヤホン IPX4対応 防汗仕様/Bluetooth・リモコン・マイク付き/通話可能載 ブラック JBLREFMINIBTBLK 【国内正規品】",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "B016O5H3HM",
+          "current_asin": "B016O5H3HM",
+          "legacy_title": "Sol Republic RELAYS SPORT WIRELESS Bluetooth ワイヤレスイヤホン ブラック 《カナル型/防滴/スポーツ向け/iOS対応3ボタンマイクケーブル》 【国内正規品】",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "B01D86HQ4A",
+          "current_asin": "B01D86HQ4A",
+          "legacy_title": "COULAX 　QY8 QY7の進化版 Bluetoothイヤホン　 　Bluetooth 4.1ワイヤレスイヤホン　CVC6.0ノイズキャンセル　aptXテクノロジー採用　マイク内蔵　高音質ハンズフリー通話が可能　ランニングでも耳から落ちにくい　防汗　スポーツイヤホン (ブルー)",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9488,
+      "slug": "ramen-kijitei",
+      "legacy_path": "/ramen-kijitei/",
+      "title": "寡黙な職人が作る極濃鶏白湯、静岡市七間町「つけ麺専門店 きじ亭」で濃厚つけ麺(煮干)をいただく",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4048947362",
+          "current_asin": "4048947362",
+          "legacy_title": "ラーメンウォーカームック ラーメンWalker静岡2016",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "478381936X",
+          "current_asin": "478381936X",
+          "legacy_title": "浜松ぐるぐるマップ 81(NOVEMBER 201―保存版 うまいラーメン120軒",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9492,
+      "slug": "verus-damda-slide-card-case",
+      "legacy_path": "/verus-damda-slide-card-case/",
+      "title": "iPhone6/Plus、7/Plusでカードが収納できるハードケースなら「VERUS Damda Slide カードケース/VRS DESIGN Damda Glide」がおすすめ！",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "B01DGCW40M",
+          "current_asin": "B01DGCW40M",
+          "legacy_title": "dodocoolスマートフォン ケース カード収納ホルダー付き 粘着 財布スティックオン 黒い",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "B01GJD86XO",
+          "current_asin": "B01GJD86XO",
+          "legacy_title": "TaoTech iPhone 用 TPU シリコン クリア ケース カードホルダー ストラップホール 付 クリスタル ソフト カバー",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "B01GIVWWG4",
+          "current_asin": "B01GIVWWG4",
+          "legacy_title": "【Spigen】 iPhone7ケース, スリム・アーマー CS IC カード収納 米軍MIL規格取得 アイフォン 7 用 耐衝撃カバー (iPhone7, ブラック)",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "B00MB3P7G6",
+          "current_asin": "B00MB3P7G6",
+          "legacy_title": "iPhone6s / iPhone6 ケース VERUS Damda Slide カードケース 搭載 プラスチック + TPU ハードケース for Apple iPhone 6s / iPhone 6 4.7 インチ ダークシルバー 【国内正規品】 国内正規品証明書 付",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "B00NHCRJI4",
+          "current_asin": "B00NHCRJI4",
+          "legacy_title": "iPhone6s Plus / iPhone6 Plus ケース VERUS Damda Slide カードケース 搭載 プラスチック + TPU ハードケース for Apple iPhone 6s Plus / iPhone 6 Plus 5.5 インチ クリムゾンレッド 【国内正規品】 国内正規品証明書 付",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "B01K1HK6RS",
+          "current_asin": "B01K1HK6RS",
+          "legacy_title": "iPhone7 ケース VRS DESIGN Damda Glide 米軍MIL規格取得 カードケース 搭載 プラスチック + TPU ハードケース for Apple iPhone 7 クリムゾンレッド 【国内正規品】 国内正規品証明書 付",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9511,
+      "slug": "ramen-menyaninomiya",
+      "legacy_path": "/ramen-menyaninomiya/",
+      "title": "家系のようで家系じゃない静岡池田の「麺屋にのみや」で肉盛豪麺(麺屋たろうず、麺屋蔵の助と系列)",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4048947362",
+          "current_asin": "4048947362",
+          "legacy_title": "ラーメンウォーカームック ラーメンWalker静岡2016",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4783819785",
+          "current_asin": "4783819785",
+          "legacy_title": "静岡ぐるぐるマップ〈NO.131〉保存版ランチカタログ どこで食べる?おまちランチ×郊外ランチ",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9533,
+      "slug": "ramen-butasobaichibanboshi",
+      "legacy_path": "/ramen-butasobaichibanboshi/",
+      "title": "え？おかずラーメン知らないの？静岡浅間通り「豚SOBA一番星」で豚そば、大盛り、特のせ、肉増し、半ライス(食べ過ぎ)",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4048947362",
+          "current_asin": "4048947362",
+          "legacy_title": "ラーメンウォーカームック ラーメンWalker静岡2016",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4783819785",
+          "current_asin": "4783819785",
+          "legacy_title": "静岡ぐるぐるマップ〈NO.131〉保存版ランチカタログ どこで食べる?おまちランチ×郊外ランチ",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9543,
+      "slug": "ramen-kyoto-menyagokkei",
+      "legacy_path": "/ramen-kyoto-menyagokkei/",
+      "title": "京都の激戦区一乗寺のランキング常連「麺屋 極鶏(ごっけい)」で超濃厚肉濁鶏白湯ラーメンをはんなりと(麺や厨に似て…)",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4908070229",
+          "current_asin": "4908070229",
+          "legacy_title": "京都 滋賀 うまいらーめん",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9562,
+      "slug": "ramen-menyaclear",
+      "legacy_path": "/ramen-menyaclear/",
+      "title": "【12月5日移転】静岡・清水の人気店「麺や 厨(くりや)」で超濃厚チキポタの「ねっ鶏そば」と京都「高安」の唐揚げを(極鶏に似て…)",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4048947362",
+          "current_asin": "4048947362",
+          "legacy_title": "ラーメンウォーカームック ラーメンWalker静岡2016",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4783819785",
+          "current_asin": "4783819785",
+          "legacy_title": "静岡ぐるぐるマップ〈NO.131〉保存版ランチカタログ どこで食べる?おまちランチ×郊外ランチ",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9595,
+      "slug": "restaurant-kappadokiya",
+      "legacy_path": "/restaurant-kappadokiya/",
+      "title": "静岡街中で新鮮な食材を使った天丼・海鮮丼なら呉服町「河童土器屋(かっぱどきや)」ランチがお得",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4783819726",
+          "current_asin": "4783819726",
+          "legacy_title": "保存版 今食べたい!静岡グルメ150選 (静岡ぐるぐるマップ)",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "B00433KP9G",
+          "current_asin": "B00433KP9G",
+          "legacy_title": "静岡最強グルメ",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9597,
+      "slug": "ramen-aburasobayanagi",
+      "legacy_path": "/ramen-aburasobayanagi/",
+      "title": "静岡街中唯一の油そば専門店「油そば 柳」で実はヘルシーな中毒性のあるオーソドックスな油そばW盛り(韋駄天の隣)",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4048947362",
+          "current_asin": "4048947362",
+          "legacy_title": "ラーメンウォーカームック ラーメンWalker静岡2016",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4783819785",
+          "current_asin": "4783819785",
+          "legacy_title": "静岡ぐるぐるマップ〈NO.131〉保存版ランチカタログ どこで食べる?おまちランチ×郊外ランチ",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9607,
+      "slug": "ramen-yabuki",
+      "legacy_path": "/ramen-yabuki/",
+      "title": "キングオブ静岡ラーメンで有名な「らーめん矢吹 本店 西脇店」で釜あげつけめん、魚介豚骨ラーメン、醤油つけ麺",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4048947362",
+          "current_asin": "4048947362",
+          "legacy_title": "ラーメンウォーカームック ラーメンWalker静岡2016",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4783819785",
+          "current_asin": "4783819785",
+          "legacy_title": "静岡ぐるぐるマップ〈NO.131〉保存版ランチカタログ どこで食べる?おまちランチ×郊外ランチ",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9615,
+      "slug": "ramen-rokurinshatokyo",
+      "legacy_path": "/ramen-rokurinshatokyo/",
+      "title": "麺もつけ汁もこだわりぬかれた「六厘舎TOKYOのつけめん」を楽天でお取り寄せ！",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9618,
+      "slug": "ramen-tabushi",
+      "legacy_path": "/ramen-tabushi/",
+      "title": "チェーン店とは思えない美味しさ！静岡SBS通りにある「東京高円寺 田ぶし」で熟成醤油らーめん、味噌つけ麺",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4048947362",
+          "current_asin": "4048947362",
+          "legacy_title": "ラーメンウォーカームック ラーメンWalker静岡2016",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4783819785",
+          "current_asin": "4783819785",
+          "legacy_title": "静岡ぐるぐるマップ〈NO.131〉保存版ランチカタログ どこで食べる?おまちランチ×郊外ランチ",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9622,
+      "slug": "ramen-mentorahonten",
+      "legacy_path": "/ramen-mentorahonten/",
+      "title": "熊本系豚骨ラーメンの虎系で有名な袋井「麺屋 めん虎 本店」で冬季限定コク味噌ラーメン、チャーシュー丼セット",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4048947362",
+          "current_asin": "4048947362",
+          "legacy_title": "ラーメンウォーカームック ラーメンWalker静岡2016",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "478381936X",
+          "current_asin": "478381936X",
+          "legacy_title": "浜松ぐるぐるマップ 81(NOVEMBER 201―保存版 うまいラーメン120軒",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9624,
+      "slug": "ramen-mentorahamamatsu",
+      "legacy_path": "/ramen-mentorahamamatsu/",
+      "title": "熊本系豚骨ラーメンの虎系で有名な「麺屋 めん虎 浜松店」でとんこつ塩らーめん、冬期限定辛味噌らーめん、チャーシュー丼",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4048947362",
+          "current_asin": "4048947362",
+          "legacy_title": "ラーメンウォーカームック ラーメンWalker静岡2016",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "478381936X",
+          "current_asin": "478381936X",
+          "legacy_title": "浜松ぐるぐるマップ 81(NOVEMBER 201―保存版 うまいラーメン120軒",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9626,
+      "slug": "ramen-menyarouko",
+      "legacy_path": "/ramen-menyarouko/",
+      "title": "熊本系豚骨ラーメンの虎系で有名な菊川「麺や 老虎」でこってりらーめん、ピリ辛ネギチャーシュー丼セット",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4048947362",
+          "current_asin": "4048947362",
+          "legacy_title": "ラーメンウォーカームック ラーメンWalker静岡2016",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4783819785",
+          "current_asin": "4783819785",
+          "legacy_title": "静岡ぐるぐるマップ〈NO.131〉保存版ランチカタログ どこで食べる?おまちランチ×郊外ランチ",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9628,
+      "slug": "ramen-kodawariramenwakatora",
+      "legacy_path": "/ramen-kodawariramenwakatora/",
+      "title": "熊本系豚骨ラーメンの虎系で有名な掛川「こだわりらーめん 若虎」でランチタイムメニュー、チャーシュー飯とらーめんセット(こってり)",
+      "has_legacy_amazon": true,
+      "selection_status": "legacy-extracted",
+      "review_status": "pending",
+      "products": [
+        {
+          "old_asin": "4048947362",
+          "current_asin": "4048947362",
+          "legacy_title": "ラーメンウォーカームック ラーメンWalker静岡2016",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        },
+        {
+          "old_asin": "4783819785",
+          "current_asin": "4783819785",
+          "legacy_title": "静岡ぐるぐるマップ〈NO.131〉保存版ランチカタログ どこで食べる?おまちランチ×郊外ランチ",
+          "legacy_source": "amazonjs",
+          "selection_type": "legacy",
+          "confidence": "high",
+          "current_status": "unknown",
+          "display_status": "pending",
+          "reason": "旧amazonjsでASINを明示"
+        }
+      ],
+      "unresolved_urls": []
+    },
+    {
+      "wp_id": 9788,
+      "slug": "nekocafe-raimu",
+      "legacy_path": "/nekocafe-raimu/",
+      "title": "静岡市清水区の保護猫カフェ来夢でかわいい猫たちに癒される",
+      "has_legacy_amazon": false,
+      "selection_status": "no-product-selected",
+      "review_status": "not-needed",
+      "products": [],
+      "unresolved_urls": []
+    }
+  ]
+}

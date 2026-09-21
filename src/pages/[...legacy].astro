@@ -1,0 +1,29 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import AmazonProductCards from '../components/AmazonProductCards.astro';
+
+export async function getStaticPaths() {
+  const entries = (await getCollection('legacy')).filter((entry) => entry.data.status === 'publish');
+  return entries.map((entry) => ({
+    params: { legacy: entry.data.legacy_path.replace(/^\/+|\/+$/g, '') },
+    props: { entry },
+  }));
+}
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const date = entry.data.published_at.slice(0, 10).replaceAll('-', '.');
+---
+<BaseLayout title={entry.data.title}>
+  <article class="article">
+    <p class="archive-notice">この記事は旧Hatchmanに掲載された当時の内容を保存したものです。</p>
+    <header class="article-header">
+      <h1>{entry.data.title}</h1>
+      <p class="published"><time datetime={entry.data.published_at}>{date}</time></p>
+      {entry.data.categories.length > 0 && <p class="taxonomy">カテゴリ: {entry.data.categories.map((name) => <a href={`/categories/${encodeURIComponent(name)}/`}>{name}</a>)}</p>}
+    </header>
+    <div class="legacy-content"><Content /></div>
+    <AmazonProductCards wpId={entry.data.wp_id} />
+    {entry.data.tags.length > 0 && <footer class="tags"><strong>タグ:</strong> {entry.data.tags.join('、')}</footer>}
+  </article>
+</BaseLayout>

@@ -1,0 +1,11 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+const posts = (await getCollection('legacy')).filter((x) => x.data.status === 'publish').sort((a,b) => b.data.published_at.localeCompare(a.data.published_at));
+const years = Map.groupBy(posts, (x) => x.data.published_at.slice(0,4));
+---
+<BaseLayout title="記事一覧">
+  <h1>記事一覧</h1>
+  <p>公開記事 {posts.length} 件</p>
+  {[...years].map(([year,entries]) => <section><h2>{year}年</h2><ul class="article-list">{entries.map((entry) => <li><time>{entry.data.published_at.slice(5,10).replace('-','.')}</time><a href={entry.data.legacy_path}>{entry.data.title}</a></li>)}</ul></section>)}
+</BaseLayout>

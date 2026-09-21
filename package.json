@@ -1,0 +1,16 @@
+{
+  "name": "hatchman-archive",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "migrate": "python scripts/migrate_legacy.py",
+    "check": "astro check",
+    "build": "astro build",
+    "validate": "python scripts/validate_migration.py"
+  },
+  "engines": { "node": ">=22.12.0" },
+  "packageManager": "pnpm@11.19.0",
+  "dependencies": { "astro": "^7.3.2" },
+  "devDependencies": { "@astrojs/check": "^0.9.10", "typescript": "^5.9.3" }
+}

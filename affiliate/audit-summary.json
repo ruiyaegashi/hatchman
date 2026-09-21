@@ -1,0 +1,12 @@
+{
+  "public_articles": 404,
+  "articles_with_amazon_signals": 68,
+  "product_occurrences": 167,
+  "unique_asins": 70,
+  "unresolved_short_urls": 8,
+  "observed_associate_tags": {},
+  "high": 140,
+  "medium": 8,
+  "low": 0,
+  "articles_without_selected_product": 337
+}

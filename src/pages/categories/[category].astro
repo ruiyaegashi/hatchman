@@ -1,0 +1,14 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+export async function getStaticPaths(){
+ const posts=(await getCollection('legacy')).filter((x)=>x.data.status==='publish');
+ const names=[...new Set(posts.flatMap((x)=>x.data.categories))];
+ return names.map((name)=>({params:{category:name},props:{name,posts:posts.filter((x)=>x.data.categories.includes(name)).sort((a,b)=>b.data.published_at.localeCompare(a.data.published_at))}}));
+}
+const {name,posts}=Astro.props;
+---
+<BaseLayout title={name}>
+  <p><a href="/categories/">カテゴリ一覧</a></p><h1>{name}</h1><p>{posts.length}件</p>
+  <ul class="article-list">{posts.map((entry)=><li><time>{entry.data.published_at.slice(0,10)}</time><a href={entry.data.legacy_path}>{entry.data.title}</a></li>)}</ul>
+</BaseLayout>

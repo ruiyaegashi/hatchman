@@ -1,0 +1,21 @@
+{
+  "contents": 407,
+  "public": 404,
+  "drafts": 3,
+  "redirects": 383,
+  "inline_image_references": 3421,
+  "linked_media_references": 18,
+  "asset_status": {
+    "exact": 2682,
+    "case-insensitive": 739,
+    "external-disabled": 17,
+    "signature-corrected": 1
+  },
+  "unique_local_assets": 3371,
+  "transforms": {
+    "amazonjs": 163,
+    "iframe": 95,
+    "script": 44,
+    "browser-shot": 19
+  }
+}

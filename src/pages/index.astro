@@ -1,0 +1,19 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+const posts = (await getCollection('legacy')).filter((x) => x.data.status === 'publish').sort((a,b) => b.data.published_at.localeCompare(a.data.published_at));
+const recent = posts.slice(0, 20);
+---
+<BaseLayout>
+  <section class="hero">
+    <h1>Hatchman</h1>
+    <p>2012〜2020年に書いた個人ブログを、当時の記事のまま保存する静的アーカイブです。</p>
+  </section>
+  <section>
+    <h2>新しい記事から</h2>
+    <ul class="article-list">
+      {recent.map((entry) => <li><time>{entry.data.published_at.slice(0,10)}</time><a href={entry.data.legacy_path}>{entry.data.title}</a></li>)}
+    </ul>
+    <p><a href="/archive/">全404件の記事を見る</a></p>
+  </section>
+</BaseLayout>
