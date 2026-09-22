@@ -69,6 +69,7 @@ export const onRequestGet = async (context: { request: Request; env: Env }) => {
       try {
         const failure = await response.json() as any;
         upstream = (failure.errors ?? failure.Errors ?? []).slice(0, 3).map((item: any) => ({ code: item.code ?? item.Code, message: item.message ?? item.Message }));
+        if (!upstream.length && (failure.type || failure.reason || failure.message)) upstream = [{ code: failure.reason ?? failure.type, message: failure.message }];
       } catch { /* Amazon did not return JSON */ }
       return Response.json({ error: 'Creators API request failed', status: response.status, upstream }, { status: 502 });
     }
