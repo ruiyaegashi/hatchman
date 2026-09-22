@@ -24,7 +24,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "validation",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -47,7 +49,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4780414512",
@@ -58,7 +62,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -2809,7 +2815,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧Amazon URLからASINを抽出"
+          "reason": "旧Amazon URLからASINを抽出",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -3107,7 +3115,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "validation",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "478381936X",
@@ -3118,7 +3128,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -3196,7 +3208,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧Amazon URLからASINを抽出"
+          "reason": "旧Amazon URLからASINを抽出",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -3626,7 +3640,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -3671,7 +3687,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "validation",
-          "reason": "旧Amazon URLからASINを抽出"
+          "reason": "旧Amazon URLからASINを抽出",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -3837,7 +3855,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧Amazon URLからASINを抽出"
+          "reason": "旧Amazon URLからASINを抽出",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -3860,7 +3880,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4062769778",
@@ -3871,7 +3893,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -3894,7 +3918,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4780414512",
@@ -3905,7 +3931,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -3928,7 +3956,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "B00433KP9G",
@@ -3939,7 +3969,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -3984,7 +4016,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4783819785",
@@ -3995,7 +4029,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4018,7 +4054,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "478381936X",
@@ -4029,7 +4067,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4052,7 +4092,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "478381936X",
@@ -4063,7 +4105,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4086,7 +4130,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4865453555",
@@ -4097,7 +4143,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4800309344",
@@ -4108,7 +4156,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4131,7 +4181,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4780414512",
@@ -4142,7 +4194,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4165,7 +4219,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "B00433KP9G",
@@ -4176,7 +4232,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4199,7 +4257,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4233,7 +4293,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4398281339",
@@ -4244,7 +4306,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4267,7 +4331,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4398277935",
@@ -4278,7 +4344,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4301,7 +4369,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "478381936X",
@@ -4312,7 +4382,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4335,7 +4407,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "478381936X",
@@ -4346,7 +4420,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4783819785",
@@ -4357,7 +4433,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4380,7 +4458,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4403,7 +4483,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "478381936X",
@@ -4414,7 +4496,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4437,7 +4521,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4471,7 +4557,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4783819785",
@@ -4482,7 +4570,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4505,7 +4595,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4106105454",
@@ -4516,7 +4608,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4539,7 +4633,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4562,7 +4658,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "B00WYKOMMQ",
@@ -4573,7 +4671,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4801803024",
@@ -4584,7 +4684,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "B00HKDX2V4",
@@ -4595,7 +4697,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4618,7 +4722,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4641,7 +4747,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "B01B2EIGCQ",
@@ -4652,7 +4760,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4675,7 +4785,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4698,7 +4810,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4398277935",
@@ -4709,7 +4823,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4732,7 +4848,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4755,7 +4873,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "B00BFZGLC0",
@@ -4766,7 +4886,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4789,7 +4911,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "B00433KP9G",
@@ -4800,7 +4924,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4823,7 +4949,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4398277935",
@@ -4834,7 +4962,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4857,7 +4987,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "478381936X",
@@ -4868,7 +5000,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4891,7 +5025,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "B00433KP9G",
@@ -4902,7 +5038,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4925,7 +5063,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "B00433KP9G",
@@ -4936,7 +5076,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4959,7 +5101,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -4982,7 +5126,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4780414512",
@@ -4993,7 +5139,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -5016,7 +5164,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "478381936X",
@@ -5027,7 +5177,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -5050,7 +5202,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "B00433KP9G",
@@ -5061,7 +5215,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -5084,7 +5240,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "478381936X",
@@ -5095,7 +5253,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -5118,7 +5278,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4783819785",
@@ -5129,7 +5291,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -5152,7 +5316,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "B00023BNHO",
@@ -5163,7 +5329,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4479794964",
@@ -5174,7 +5342,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4569825885",
@@ -5185,7 +5355,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4763160095",
@@ -5196,7 +5368,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "B00QK8QJVA",
@@ -5207,7 +5381,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4860813332",
@@ -5218,7 +5394,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -5241,7 +5419,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -5264,7 +5444,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4780414512",
@@ -5275,7 +5457,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -5358,7 +5542,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4780414512",
@@ -5369,7 +5555,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -5392,7 +5580,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4167839024",
@@ -5403,7 +5593,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "B00AIKXQLM",
@@ -5414,7 +5606,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "B00BHAOBES",
@@ -5425,7 +5619,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -5448,7 +5644,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -5471,7 +5669,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "B01G4N6CDA",
@@ -5482,7 +5682,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "B011Z59XUG",
@@ -5493,7 +5695,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "B01G48RH20",
@@ -5504,7 +5708,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "B00KWV03YA",
@@ -5515,7 +5721,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "B01ARFLYR0",
@@ -5526,7 +5734,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "B00LIZD8N2",
@@ -5537,7 +5747,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "B018LEVFGO",
@@ -5548,7 +5760,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "B016O5H3HM",
@@ -5559,7 +5773,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "B01D86HQ4A",
@@ -5570,7 +5786,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -5593,7 +5811,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "478381936X",
@@ -5604,7 +5824,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -5627,7 +5849,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "B01GJD86XO",
@@ -5638,7 +5862,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "B01GIVWWG4",
@@ -5649,7 +5875,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "B00MB3P7G6",
@@ -5660,7 +5888,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "B00NHCRJI4",
@@ -5671,7 +5901,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "B01K1HK6RS",
@@ -5682,7 +5914,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -5705,7 +5939,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4783819785",
@@ -5716,7 +5952,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -5739,7 +5977,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4783819785",
@@ -5750,7 +5990,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -5773,7 +6015,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -5796,7 +6040,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4783819785",
@@ -5807,7 +6053,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -5830,7 +6078,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "B00433KP9G",
@@ -5841,7 +6091,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -5864,7 +6116,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4783819785",
@@ -5875,7 +6129,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -5898,7 +6154,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4783819785",
@@ -5909,7 +6167,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -5943,7 +6203,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4783819785",
@@ -5954,7 +6216,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -5977,7 +6241,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "478381936X",
@@ -5988,7 +6254,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -6011,7 +6279,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "478381936X",
@@ -6022,7 +6292,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -6045,7 +6317,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4783819785",
@@ -6056,7 +6330,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -6079,7 +6355,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         },
         {
           "old_asin": "4783819785",
@@ -6090,7 +6368,9 @@
           "confidence": "high",
           "current_status": "unknown",
           "display_status": "pending",
-          "reason": "旧amazonjsでASINを明示"
+          "reason": "旧amazonjsでASINを明示",
+          "text_link_status": "approved",
+          "text_link_reason": "旧原稿からASINを直接抽出"
         }
       ],
       "unresolved_urls": []
@@ -6120,5 +6400,13 @@
       "search_index": "Electronics",
       "item_count": 5
     }
-  ]
+  ],
+  "legacy_text_link_policy": {
+    "enabled": true,
+    "associate_tag": "hatchman02-22",
+    "format": "https://www.amazon.co.jp/dp/{ASIN}/ref=nosim?tag={TAG}",
+    "label_policy": "asin_only",
+    "product_metadata_source": "none",
+    "note": "旧原稿から直接抽出できたASINだけを、商品名・画像・価格・在庫を伴わないテキスト特別リンクとして表示"
+  }
 }

@@ -3,32 +3,53 @@ import mapping from '../../affiliate/mapping.json';
 interface Props { wpId: number }
 const { wpId } = Astro.props;
 const article = mapping.articles.find((item) => item.wp_id === wpId);
-const products = (article?.products ?? []).filter((item) => item.display_status === 'approved' && item.current_asin);
-const asins = products.map((item) => item.current_asin);
+const products = article?.products ?? [];
+const apiProducts = products.filter((item) => item.display_status === 'approved' && item.current_asin);
+const apiAsins = apiProducts.map((item) => item.current_asin);
+const seen = new Set<string>();
+const legacyTextProducts = products.filter((item) => {
+  if (item.text_link_status !== 'approved' || !item.old_asin || seen.has(item.old_asin)) return false;
+  seen.add(item.old_asin);
+  return true;
+});
+const policy = mapping.legacy_text_link_policy;
+const legacyHref = (asin: string) => `https://www.amazon.co.jp/dp/${asin}/ref=nosim?tag=${encodeURIComponent(policy.associate_tag)}`;
 ---
-{products.length > 0 && (
-  <aside class="amazon-products" data-amazon-products data-asins={asins.join(',')}>
-    <h2>この記事に関連する商品</h2>
+{(apiProducts.length > 0 || legacyTextProducts.length > 0) && (
+  <aside class="amazon-products" data-amazon-products={apiProducts.length ? '' : undefined} data-asins={apiAsins.join(',')}>
+    <h2>Amazon商品リンク</h2>
     <p class="amazon-disclosure">Amazonのアソシエイトとして、Hatchmanは適格販売により収入を得ています。</p>
-    <div class="amazon-product-list" aria-live="polite">
-      {products.map((item) => <a class="amazon-product-card" href={`https://www.amazon.co.jp/dp/${item.current_asin}`} rel="sponsored noopener noreferrer"><span>{item.legacy_title ?? item.current_asin}</span><small>Amazonで確認する</small></a>)}
-    </div>
+    {legacyTextProducts.length > 0 && (
+      <div class="amazon-legacy-links">
+        <p>旧記事に記録されていたASINへのテキストリンクです。商品名・価格・在庫などの最新情報はAmazonでご確認ください。</p>
+        <ul>
+          {legacyTextProducts.map((item) => (
+            <li><a href={legacyHref(item.old_asin)} rel="sponsored noopener noreferrer">Amazonで商品を確認（ASIN: {item.old_asin}）</a></li>
+          ))}
+        </ul>
+      </div>
+    )}
+    {apiProducts.length > 0 && (
+      <div class="amazon-product-list" aria-live="polite">
+        {apiProducts.map((item) => <a class="amazon-product-card" href={`https://www.amazon.co.jp/dp/${item.current_asin}/ref=nosim?tag=${encodeURIComponent(policy.associate_tag)}`} rel="sponsored noopener noreferrer"><span>{item.legacy_title ?? item.current_asin}</span><small>Amazonで確認する</small></a>)}
+      </div>
+    )}
   </aside>
 )}
-<script>
-  for (const root of document.querySelectorAll<HTMLElement>('[data-amazon-products]')) {
-    const asins = root.dataset.asins;
-    if (!asins) continue;
-    fetch(`/api/amazon?asins=${encodeURIComponent(asins)}`).then((response) => response.ok ? response.json() : null).then((data) => {
-      if (!data?.items) return;
-      const list = root.querySelector('.amazon-product-list');
-      if (!list) return;
-      list.replaceChildren(...data.items.map((item: { asin:string; title:string; url:string; image?:string }) => {
-        const link=document.createElement('a'); link.className='amazon-product-card'; link.href=item.url; link.rel='sponsored noopener noreferrer';
-        if(item.image){const image=document.createElement('img');image.src=item.image;image.alt='';image.loading='lazy';link.append(image)}
-        const text=document.createElement('span');text.textContent=item.title;link.append(text);
-        const small=document.createElement('small');small.textContent='Amazonで確認する';link.append(small);return link;
-      }));
-    }).catch(() => {});
-  }
-</script>
+{apiProducts.length > 0 && (
+  <script>
+    for (const root of document.querySelectorAll<HTMLElement>('[data-amazon-products]')) {
+      const asins = root.dataset.asins;
+      if (!asins) continue;
+      fetch(`/api/amazon?asins=${encodeURIComponent(asins)}`).then((response) => response.ok ? response.json() : null).then((data) => {
+        if (!data?.items) return;
+        const list = root.querySelector('.amazon-product-list'); if (!list) return;
+        list.replaceChildren(...data.items.map((item: { asin:string; title:string; url:string; image?:string }) => {
+          const link=document.createElement('a');link.className='amazon-product-card';link.href=item.url;link.rel='sponsored noopener noreferrer';
+          if(item.image){const image=document.createElement('img');image.src=item.image;image.alt='';image.loading='lazy';link.append(image)}
+          const text=document.createElement('span');text.textContent=item.title;link.append(text);const small=document.createElement('small');small.textContent='Amazonで確認する';link.append(small);return link;
+        }));
+      }).catch(() => {});
+    }
+  </script>
+)}

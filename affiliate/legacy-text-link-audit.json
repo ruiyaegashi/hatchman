@@ -1,0 +1,52 @@
+{
+  "site": "hatchman",
+  "associate_tag": "hatchman02-22",
+  "restorable_occurrences": 140,
+  "rendered_unique_article_asin_links": 140,
+  "target_articles": 67,
+  "unique_asins": 70,
+  "unresolved_short_urls": 8,
+  "manual_review": [
+    {
+      "wp_id": 9400,
+      "legacy_path": "/hatchsprofile/",
+      "url": "http://amzn.to/2fw7MPZ"
+    },
+    {
+      "wp_id": 9400,
+      "legacy_path": "/hatchsprofile/",
+      "url": "http://amzn.to/2eOCtyi"
+    },
+    {
+      "wp_id": 9400,
+      "legacy_path": "/hatchsprofile/",
+      "url": "http://amzn.to/2efyJtC"
+    },
+    {
+      "wp_id": 9400,
+      "legacy_path": "/hatchsprofile/",
+      "url": "http://amzn.to/2eOAgTk"
+    },
+    {
+      "wp_id": 9400,
+      "legacy_path": "/hatchsprofile/",
+      "url": "http://amzn.to/2eOEURB"
+    },
+    {
+      "wp_id": 9400,
+      "legacy_path": "/hatchsprofile/",
+      "url": "http://amzn.to/2fw5yA6"
+    },
+    {
+      "wp_id": 9400,
+      "legacy_path": "/hatchsprofile/",
+      "url": "http://amzn.to/2eOB8aC"
+    },
+    {
+      "wp_id": 9400,
+      "legacy_path": "/hatchsprofile/",
+      "url": "http://amzn.to/2efA83h"
+    }
+  ],
+  "verification_scope": "ASIN形式・旧原稿内直接参照・特別リンク形式のみ。現在の商品名・画像・価格・在庫・販売可否は保証しない。"
+}
