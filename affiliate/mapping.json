@@ -23,7 +23,7 @@
           "selection_type": "legacy",
           "confidence": "high",
           "current_status": "unknown",
-          "display_status": "pending",
+          "display_status": "validation",
           "reason": "旧amazonjsでASINを明示"
         }
       ],
@@ -3106,7 +3106,7 @@
           "selection_type": "legacy",
           "confidence": "high",
           "current_status": "unknown",
-          "display_status": "pending",
+          "display_status": "validation",
           "reason": "旧amazonjsでASINを明示"
         },
         {
@@ -3670,7 +3670,7 @@
           "selection_type": "legacy",
           "confidence": "high",
           "current_status": "unknown",
-          "display_status": "pending",
+          "display_status": "validation",
           "reason": "旧Amazon URLからASINを抽出"
         }
       ],
@@ -6105,6 +6105,20 @@
       "review_status": "not-needed",
       "products": [],
       "unresolved_urls": []
+    }
+  ],
+  "test_searches": [
+    {
+      "key": "ramen-walker-tokai",
+      "keywords": "ラーメンWalker東海 2026",
+      "search_index": "Books",
+      "item_count": 5
+    },
+    {
+      "key": "wired-mouse",
+      "keywords": "ロジクール 有線 マウス",
+      "search_index": "Electronics",
+      "item_count": 5
     }
   ]
 }
