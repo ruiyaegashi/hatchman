@@ -23,7 +23,7 @@ pnpm run dev
 
 `dev` はローカル開発サーバーです。Cloudflare Pages Functionsや本番DNS・メール・Amazon APIの動作確認にはなりません。
 
-`src/content/legacy/` が移行後コンテンツの正本です。`status: draft` の3件は保存されますが、サイトには生成されません。
+移行後コンテンツは `src/content/legacy/` を基準に扱います。`status: draft` の3件は保存されますが、サイトには生成されません。
 
 ## 元バックアップを使う作業
 

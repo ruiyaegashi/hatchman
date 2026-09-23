@@ -4,7 +4,7 @@
 
 ## 1. 現在状態を確定する
 
-組織の入口はREADMEから参照するYDI正本です。GitHub mainを採用済み、branch / open PRを未統合成果として読み、Issueや過去レポートを実装済み機能と混同しません。
+組織の入口はREADMEから参照するYDIの文書です。YDIの現在状態はGitHub上のmainを基準とし、branch / open PRは未統合成果として読み、Issueや過去レポートを実装済み機能と混同しません。
 
 ローカル作業が残っていれば、最初に `git status --short --branch`、`git diff`、`git diff --cached` を確認し、変更を消さずに保全します。その後、通常のGit環境で次を確認します。取得はローカルrefを更新しますが、checkoutやmergeは行いません。
 
