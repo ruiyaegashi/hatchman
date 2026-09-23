@@ -1,7 +1,9 @@
 # Hatchman 2.0 ローカル移行検証レポート
 
 作成日: 2026-09-22  
-基準資料: `HATCHMAN_ARCHAEOLOGY.md`
+基準資料: `HATCHMAN_ARCHAEOLOGY.md`（当時のローカル発掘台帳。repository内のファイルではない。[所在・履歴の調査結果](RECOVERY_AUDIT_2026-09-23.md)を参照）
+
+このレポートは2026-09-22の移行時点の記録です。現在の復旧手順は [Recovery](../docs/RECOVERY.md)、mainと未統合Amazon成果の区別は [Recovery調査](RECOVERY_AUDIT_2026-09-23.md) を参照してください。
 
 ## 結果
 

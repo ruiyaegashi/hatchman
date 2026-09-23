@@ -1,14 +1,24 @@
 from __future__ import annotations
 
-import collections, gzip, hashlib, html, json, re, shutil, sys, zipfile
+import argparse, collections, gzip, hashlib, html, json, os, re, shutil, sys, zipfile
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
-BACKUP = Path(r"C:\Users\yahat\OneDrive\仮\Hatchman")
-ZIP = BACKUP / "mysql55_20260921.zip"
-WEB = BACKUP / "public_html"
+def resolve_backup_root(value=None, *, require_web=False):
+    """Resolve an explicit local source; never guess a machine-specific path."""
+    value = value or os.environ.get('HATCHMAN_BACKUP_ROOT')
+    if not value:
+        raise SystemExit('Set --backup-root or HATCHMAN_BACKUP_ROOT (see docs/RECOVERY.md).')
+    root = Path(value).expanduser().resolve()
+    if root == ROOT or ROOT in root.parents or root in ROOT.parents:
+        raise SystemExit('Backup root must be outside and separate from the repository.')
+    if not (root / 'mysql55_20260921.zip').is_file():
+        raise SystemExit('Backup root must contain mysql55_20260921.zip.')
+    if require_web and not (root / 'public_html').is_dir():
+        raise SystemExit('Migration requires the extracted public_html directory.')
+    return root
 
 FIELDS = {
  "wp_posts": ["ID","post_author","post_date","post_date_gmt","post_content","post_title","post_excerpt","post_status","comment_status","ping_status","post_password","post_name","to_ping","pinged","post_modified","post_modified_gmt","post_content_filtered","post_parent","guid","menu_order","post_type","post_mime_type","comment_count"],
@@ -51,9 +61,9 @@ def tuples(payload):
         elif c==',' and depth==1: row.append(token(''.join(buf))); buf=[]
         elif c==')' and depth==1: row.append(token(''.join(buf))); yield row; depth=0
         elif depth==1: buf.append(c)
-def read_tables():
+def read_tables(backup_root):
     out={k:[] for k in FIELDS}; rx=re.compile(r"^INSERT INTO `([^`]+)` VALUES (.*);$")
-    with zipfile.ZipFile(ZIP) as z:
+    with zipfile.ZipFile(backup_root / 'mysql55_20260921.zip') as z:
         inner=next(n for n in z.namelist() if n.endswith('.sql.gz'))
         with z.open(inner) as compressed, gzip.GzipFile(fileobj=compressed) as raw:
             for binary in raw:
@@ -148,8 +158,12 @@ def shortcode_placeholders(text, stats):
     return repl('browser-shot',repl('amazonjs',text))
 
 def main():
-    if not ZIP.exists() or not WEB.exists(): raise SystemExit('Backup not found: '+str(BACKUP))
-    tables=read_tables(); options={r['option_name']:r['option_value'] for r in tables['wp_options']}; pattern=options.get('permalink_structure') or '/%postname%/'
+    parser = argparse.ArgumentParser(description='Regenerate migrated content in a disposable checkout; reads the original backup only.')
+    parser.add_argument('--backup-root', help='Directory containing mysql55_20260921.zip and public_html; overrides HATCHMAN_BACKUP_ROOT')
+    args = parser.parse_args()
+    backup_root = resolve_backup_root(args.backup_root, require_web=True)
+    web = backup_root / 'public_html'
+    tables=read_tables(backup_root); options={r['option_name']:r['option_value'] for r in tables['wp_options']}; pattern=options.get('permalink_structure') or '/%postname%/'
     targets=[p for p in tables['wp_posts'] if p['post_type'] in {'post','page'} and p['post_status'] in {'publish','draft'}]
     terms={r['term_id']:r for r in tables['wp_terms']}; tax={r['term_taxonomy_id']:r for r in tables['wp_term_taxonomy']}; assigned=collections.defaultdict(list)
     for r in tables['wp_term_relationships']:
@@ -159,9 +173,9 @@ def main():
     for r in tables['wp_postmeta']:
         if r['meta_key']=='_wp_old_slug': meta[r['post_id']].append(r['meta_value'])
     files={}; folded=collections.defaultdict(list)
-    for f in WEB.rglob('*'):
+    for f in web.rglob('*'):
         if f.is_file():
-            rel='/'+f.relative_to(WEB).as_posix(); files[rel]=f; folded[rel.casefold()].append(rel)
+            rel='/'+f.relative_to(web).as_posix(); files[rel]=f; folded[rel.casefold()].append(rel)
     out=ROOT/'src/content/legacy'; media=ROOT/'public/legacy-media'; migration=ROOT/'migration'; reports=ROOT/'reports'
     for d in (out,media,migration,reports):
         if d.exists() and d in (out,media): shutil.rmtree(d)
