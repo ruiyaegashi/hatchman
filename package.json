@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "dev": "astro dev",
     "migrate": "python scripts/migrate_legacy.py",
     "check": "astro check",
     "build": "astro build",

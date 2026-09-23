@@ -8,3 +8,11 @@ dist/
 affiliate/products.generated.json
 .dev.vars
 .wrangler/
+.recovery/
+__pycache__/
+*.pyc
+/backups/
+/sources/
+*.sql
+*.sql.gz
+*.zip

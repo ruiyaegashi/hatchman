@@ -1,5 +1,5 @@
 from __future__ import annotations
-import collections, hashlib, html, json, re, sys
+import argparse, collections, hashlib, html, json, re, sys
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
@@ -26,12 +26,18 @@ def output_for(path):
     return direct/'index.html'
 
 def main():
+    parser = argparse.ArgumentParser(description='Validate a local build against the original SQL backup (read-only source).')
+    parser.add_argument('--backup-root', help='Directory containing mysql55_20260921.zip; overrides HATCHMAN_BACKUP_ROOT')
+    args = parser.parse_args()
+    backup_root = migration.resolve_backup_root(args.backup_root)
+    if not (ROOT/'dist/index.html').is_file() or not (ROOT/'dist/_redirects').is_file():
+        raise SystemExit('Build output is missing. Run pnpm run build before validation.')
     inventory=json.loads((ROOT/'migration/inventory.json').read_text(encoding='utf-8'))
     assets=json.loads((ROOT/'migration/asset-map.json').read_text(encoding='utf-8'))
     redirects=json.loads((ROOT/'migration/old-slugs.json').read_text(encoding='utf-8'))
     markdown=list((ROOT/'src/content/legacy').glob('*.md'))
     public=[x for x in inventory if x['status']=='publish']; drafts=[x for x in inventory if x['status']=='draft']
-    tables=migration.read_tables(); source={int(p['ID']):p for p in tables['wp_posts'] if p['post_type'] in {'post','page'} and p['post_status'] in {'publish','draft'}}
+    tables=migration.read_tables(backup_root); source={int(p['ID']):p for p in tables['wp_posts'] if p['post_type'] in {'post','page'} and p['post_status'] in {'publish','draft'}}
     hash_mismatch=[]
     for item in inventory:
         actual=hashlib.sha256((source[item['wp_id']]['post_content'] or '').encode()).hexdigest()
@@ -90,7 +96,9 @@ def main():
     if bad_assets or missing_rendered_images or statuses.get('missing',0): fatal.append('assets')
     if danger or unresolved_shortcodes or old_media or any(security.values()): fatal.append('security')
     result['fatal']=fatal
-    (ROOT/'reports/validation.json').write_text(json.dumps(result,ensure_ascii=False,indent=2),encoding='utf-8')
+    report = ROOT/'.recovery/validation.json'
+    report.parent.mkdir(exist_ok=True)
+    report.write_text(json.dumps(result,ensure_ascii=False,indent=2),encoding='utf-8')
     print(json.dumps({**result,'links':{'internal_broken_count':len(broken)}},ensure_ascii=False,indent=2))
     raise SystemExit(1 if fatal else 0)
 if __name__=='__main__': main()
