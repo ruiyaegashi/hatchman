@@ -4,7 +4,7 @@
 
 ## 着任・復旧の入口
 
-部署の責任・情報flowはYDIの [Organization](https://github.com/ruiyaegashi/YDI/blob/main/docs/Organization.md) / [Information Flow](https://github.com/ruiyaegashi/YDI/blob/main/docs/Information_Flow.md) を参照します（private repositoryへのアクセスが必要です）。
+Hatchmanの責任・現在の仕事・BODとの境界は [YDI-Unit-Hatchman](https://github.com/ruiyaegashi/YDI-Unit-Hatchman) のmainを入口にします（private repositoryへのアクセスが必要です）。YDI全体のOrganization / Information Flowをこのservice repositoryへ複製しません。
 
 - [Recovery手順](docs/RECOVERY.md): main・全branch・未反映変更の確認、通常build、元バックアップ照合、再移行の区別。
 - [2026-09-23 Recovery調査](reports/RECOVERY_AUDIT_2026-09-23.md): 未統合Amazon成果、発掘台帳の所在、調査時点の不明点。
