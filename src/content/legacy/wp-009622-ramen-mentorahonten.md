@@ -17,7 +17,7 @@ source_content_chars: 2168
 migration_review: "review"
 ---
 <h2>静岡県西部で有名な豚骨ラーメン専門店</h2>
-<img class="aligncenter" title="袋井「麺屋 めん虎 本店」冬季限定コク味噌ラーメン、チャーシュー丼セット" src="/legacy-media/4972b029fcf5-02_342.jpg" width="700" height="525">
+<img class="aligncenter" title="袋井「麺屋 めん虎 本店」冬季限定コク味噌ラーメン、チャーシュー丼セット" src="/media/legacy/legacy-000788.jpg" width="700" height="525">
 
 袋井、浜松、掛川、菊川に4店舗を構える熊本系豚骨ラーメンの虎系。
 
@@ -41,11 +41,11 @@ migration_review: "review"
 
 <aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4048947362&quot; locale=&quot;JP&quot; title=&quot;ラーメンウォーカームック ラーメンWalker静岡2016&quot;]</code></details></aside>
 <h2>冬季限定のコク味噌ラーメン、チャーシュー丼セット</h2>
-<img class="aligncenter" title="袋井「麺屋 めん虎 本店」冬季限定コク味噌ラーメン、チャーシュー丼セット" src="/legacy-media/65741c5af417-01_378.jpg" width="700" height="525">
+<img class="aligncenter" title="袋井「麺屋 めん虎 本店」冬季限定コク味噌ラーメン、チャーシュー丼セット" src="/media/legacy/legacy-000381.jpg" width="700" height="525">
 
-<img class="aligncenter" title="袋井「麺屋 めん虎 本店」冬季限定コク味噌ラーメン、チャーシュー丼セット" src="/legacy-media/29d4102cbbaf-03_322.jpg" width="700" height="525">
+<img class="aligncenter" title="袋井「麺屋 めん虎 本店」冬季限定コク味噌ラーメン、チャーシュー丼セット" src="/media/legacy/legacy-001177.jpg" width="700" height="525">
 
-<img class="aligncenter" title="袋井「麺屋 めん虎 本店」冬季限定コク味噌ラーメン、チャーシュー丼セット" src="/legacy-media/599aa3ae4c22-04_294.jpg" width="700" height="525">
+<img class="aligncenter" title="袋井「麺屋 めん虎 本店」冬季限定コク味噌ラーメン、チャーシュー丼セット" src="/media/legacy/legacy-001523.jpg" width="700" height="525">
 
 虎系はは流行っているラーメン屋さんの中でもかなりリーズナブルな価格。
 

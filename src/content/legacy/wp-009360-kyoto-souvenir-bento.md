@@ -33,7 +33,7 @@ migration_review: "review"
 
 &nbsp;
 <h2>「辻留」のお弁当</h2>
-<img class="aligncenter" title="辻留のお弁当" src="/legacy-media/a9c44423ab66-P20121105_205157312.jpg" width="300" height="225">
+<img class="aligncenter" title="辻留のお弁当" src="/media/legacy/legacy-004472.jpg" width="300" height="225">
 京都辻留。明治35年(1902年)から続く有名な老舗。
 
 お弁当は本店で予約して買うこともできるのですが、京都伊勢丹(京都駅)でも買えます。
@@ -52,7 +52,7 @@ migration_review: "review"
 
 &nbsp;
 <h2>「いづう」の鯖寿司</h2>
-<img class="aligncenter" title="いづうの鯖寿司" src="/legacy-media/d3c810247bd5-P20121105_205338598.jpg" width="300" height="225">
+<img class="aligncenter" title="いづうの鯖寿司" src="/media/legacy/legacy-004473.JPG" width="300" height="225">
 
 こちらも有名ないづうの鯖寿司。辻留より古く、天明元年(1781年)創業。
 
@@ -74,7 +74,7 @@ migration_review: "review"
 
 &nbsp;
 <h2>「三嶋亭」の牛しぐれ弁当</h2>
-<img class="aligncenter size-full wp-image-9358" src="/legacy-media/5a7730c18a72-2016-03-21-10.44.35.jpg" alt="三嶋亭の牛しぐれ弁当" width="1060" height="795">
+<img class="aligncenter size-full wp-image-9358" src="/media/legacy/legacy-003725.jpg" alt="三嶋亭の牛しぐれ弁当" width="1060" height="795">
 
 肉と言えば三嶋亭、三嶋亭と言えば肉。明治6年(1873年)創業。
 
@@ -90,7 +90,7 @@ migration_review: "review"
 
 &nbsp;
 <h2>和久傳のくりの葛焼</h2>
-<img class="aligncenter" src="/legacy-media/62a4b417ffed-P20121105_212417836.jpg" alt="">
+<img class="aligncenter" src="/media/legacy/legacy-004474.jpg" alt="">
 
 お弁当ではありませんが、甘味も一つ。
 

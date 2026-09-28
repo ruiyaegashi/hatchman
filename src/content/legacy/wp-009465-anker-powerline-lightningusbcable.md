@@ -17,7 +17,7 @@ source_content_chars: 2566
 migration_review: "review"
 ---
 <h2>色んなケーブルを使ってきた僕のオススメ</h2>
-<img class="aligncenter wp-image-9470 size-large" title="Anker PowerLine+ ライトニング USB ケーブル" src="/legacy-media/04e17adcf818-2016-06-25-12.41.13-1060x795.jpg" width="640" height="480">
+<img class="aligncenter wp-image-9470 size-large" title="Anker PowerLine+ ライトニング USB ケーブル" src="/media/legacy/legacy-003736.jpg" width="640" height="480">
 
 いやーやっとこさ素晴らしいライトニングケーブルに出会えました。
 
@@ -47,19 +47,19 @@ migration_review: "review"
 
 &nbsp;
 <h2>専用収納ポーチが秀逸すぎる</h2>
-<img class="aligncenter wp-image-9466 size-large" title="Anker PowerLine+ ライトニング USB ケーブル" src="/legacy-media/d451d0920f99-2016-06-25-12.34.08-1060x795.jpg" width="640" height="480">
+<img class="aligncenter wp-image-9466 size-large" title="Anker PowerLine+ ライトニング USB ケーブル" src="/media/legacy/legacy-003728.jpg" width="640" height="480">
 
 商品はこのような小箱に梱包されています。Apple MFi認証もしっかり明記。これがないと通信とかかなり不安なんですよね。
 
-<img class="aligncenter wp-image-9467 size-large" title="Anker PowerLine+ ライトニング USB ケーブル" src="/legacy-media/281d96d5cead-2016-06-25-12.36.21-1060x795.jpg" width="640" height="480">
+<img class="aligncenter wp-image-9467 size-large" title="Anker PowerLine+ ライトニング USB ケーブル" src="/media/legacy/legacy-003730.jpg" width="640" height="480">
 
-<img class="aligncenter wp-image-9468 size-large" title="Anker PowerLine+ ライトニング USB ケーブル" src="/legacy-media/e9b10b9fc82b-2016-06-25-12.37.41-1060x795.jpg" width="640" height="480">
+<img class="aligncenter wp-image-9468 size-large" title="Anker PowerLine+ ライトニング USB ケーブル" src="/media/legacy/legacy-003732.jpg" width="640" height="480">
 
-<img class="aligncenter wp-image-9472 size-large" title="Anker PowerLine+ ライトニング USB ケーブル" src="/legacy-media/9a34fd181fdc-2016-06-25-12.54.44-1060x795.jpg" width="640" height="480">
+<img class="aligncenter wp-image-9472 size-large" title="Anker PowerLine+ ライトニング USB ケーブル" src="/media/legacy/legacy-003738.jpg" width="640" height="480">
 
 そして、数ある商品の中でさすがAnkerと言わざるを得ないのがこの専用ポーチ。
 
-<img class="aligncenter wp-image-9469 size-large" title="Anker PowerLine+ ライトニング USB ケーブル" src="/legacy-media/ba1b4edf58be-2016-06-25-12.38.23-1060x795.jpg" width="640" height="480">
+<img class="aligncenter wp-image-9469 size-large" title="Anker PowerLine+ ライトニング USB ケーブル" src="/media/legacy/legacy-003734.jpg" width="640" height="480">
 
 僕のは1.8mなのですが、2回2つ折り、1回3つ折りでちょうど収まります。
 

@@ -16,3 +16,6 @@ __pycache__/
 *.sql
 *.sql.gz
 *.zip
+
+# STEP 24 local canonical hydration; binaries will be served from private R2 later.
+/public/media/

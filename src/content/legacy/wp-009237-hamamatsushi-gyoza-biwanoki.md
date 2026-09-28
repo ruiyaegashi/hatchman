@@ -17,7 +17,7 @@ source_content_chars: 5514
 migration_review: "review"
 ---
 <h2>今や全国的に有名になった浜松餃子！</h2>
-<img class="aligncenter wp-image-2806 size-full" src="/legacy-media/fe6ee3020a47-11_32.jpg" alt="浜松餃子 消費量日本一" width="590" height="443">
+<img class="aligncenter wp-image-2806 size-full" src="/media/legacy/legacy-003045.jpg" alt="浜松餃子 消費量日本一" width="590" height="443">
 
 2011年、15年連続餃子の消費量日本一だった宇都宮を抜いて1位になった浜松ですが、それからは抜きつ抜かれつ良い勝負をしています。
 
@@ -43,7 +43,7 @@ migration_review: "review"
 
 一応参考のために総務省統計局のデータを見た目だけ変えて載せておきます。
 
-<a href="/legacy-media/044788824e6b-rank10.png"><img class="aligncenter wp-image-9253 size-full" src="/legacy-media/044788824e6b-rank10.png" alt="品目別都道府県庁所在市及び政令指定都市ランキング" width="1060" height="749"></a>
+<a href="/media/legacy/legacy-004920.png"><img class="aligncenter wp-image-9253 size-full" src="/media/legacy/legacy-004920.png" alt="品目別都道府県庁所在市及び政令指定都市ランキング" width="1060" height="749"></a>
 
 <a href="http://www.stat.go.jp/data/kakei/5.htm">家計調査（二人以上の世帯）　品目別都道府県庁所在市及び政令指定都市ランキング（平成25年（2013年）～27年（2015年）平均） - 総務省統計局</a>
 
@@ -66,7 +66,7 @@ migration_review: "review"
 
 &nbsp;
 <h2>安定の美味しさ、万人受けする「ビワの木」新津本店</h2>
-<img class="aligncenter size-full wp-image-2226" src="/legacy-media/929b97369656-02_71.jpg" alt="02_71" width="590" height="787">
+<img class="aligncenter size-full wp-image-2226" src="/media/legacy/legacy-000863.jpg" alt="02_71" width="590" height="787">
 
 ということで、ここからは浜松では有名な餃子の専門店「ビワの木」の紹介。
 
@@ -74,35 +74,35 @@ migration_review: "review"
 
 杏林堂新津町店の裏にあるこちらのビワの木新津本店。目印は大きな看板と、浜松餃子学会のど派手な自販機。
 
-<img class="aligncenter size-full wp-image-2525" src="/legacy-media/565c1d8c51ef-03_69.jpg" alt="03_69" width="590" height="443">
+<img class="aligncenter size-full wp-image-2525" src="/media/legacy/legacy-001246.jpg" alt="03_69" width="590" height="443">
 
 店内はウッディでログハウスのよう。おしゃれなカフェみたいですね。
 
-<img class="aligncenter size-full wp-image-2806" src="/legacy-media/b74a403720b9-04_69.jpg" alt="04_69" width="590" height="443">
+<img class="aligncenter size-full wp-image-2806" src="/media/legacy/legacy-001590.jpg" alt="04_69" width="590" height="443">
 
 主なメニューは餃子、うなぎ餃子、チャーハン。それにお得な日替わりランチや定食があります。
 
 ※追記 : メニュー改変で和食も追加されたそうです。
 
-<img class="aligncenter size-full wp-image-2806" src="/legacy-media/86fbac67b3d4-05_65.jpg" alt="04_69" width="590" height="443">
+<img class="aligncenter size-full wp-image-2806" src="/media/legacy/legacy-001887.jpg" alt="04_69" width="590" height="443">
 
-<img class="aligncenter size-full wp-image-2806" src="/legacy-media/d846618f8841-06_58.jpg" alt="04_69" width="590" height="443">
+<img class="aligncenter size-full wp-image-2806" src="/media/legacy/legacy-002141.jpg" alt="04_69" width="590" height="443">
 
-<img class="aligncenter size-full wp-image-2806" src="/legacy-media/efdce50b0aee-07_59.jpg" alt="04_69" width="590" height="443">
+<img class="aligncenter size-full wp-image-2806" src="/media/legacy/legacy-002385.jpg" alt="04_69" width="590" height="443">
 
-<img class="aligncenter size-full wp-image-2806" src="/legacy-media/563a6982146e-08_50.jpg" alt="04_69" width="590" height="443">
+<img class="aligncenter size-full wp-image-2806" src="/media/legacy/legacy-002590.jpg" alt="04_69" width="590" height="443">
 
 お持ち帰りも充実しています。これだけ安いなら持ち帰ってお家で食べても良いですね～
 
-<img class="aligncenter size-full wp-image-2806" src="/legacy-media/5df22ce01bc6-09_42.jpg" alt="04_69" width="590" height="443">
+<img class="aligncenter size-full wp-image-2806" src="/media/legacy/legacy-002765.jpg" alt="04_69" width="590" height="443">
 
 卓上にはシンプルに餃子のタレとラー油のみ。
 
 &nbsp;
 <h2>大定食に餃子10個追加！</h2>
-<img class="aligncenter size-full wp-image-2806" src="/legacy-media/3a701068b4c7-10_38.jpg" alt="04_69" width="590" height="443">
+<img class="aligncenter size-full wp-image-2806" src="/media/legacy/legacy-002919.jpg" alt="04_69" width="590" height="443">
 
-<img class="aligncenter size-full wp-image-2806" src="/legacy-media/fe6ee3020a47-11_32.jpg" alt="04_69" width="590" height="443">
+<img class="aligncenter size-full wp-image-2806" src="/media/legacy/legacy-003045.jpg" alt="04_69" width="590" height="443">
 
 正直、餃子ってなかなかお腹いっぱいにならないので、基本的に20個は食べたい。
 
@@ -114,13 +114,13 @@ migration_review: "review"
 
 &nbsp;
 <h2>まちなかでもいただける「ビワの木」ザザシティ店</h2>
-<img class="aligncenter size-full wp-image-5846" src="/legacy-media/09988ddc46b8-IMG_0493.jpg" alt="biwanoki_hamamatsugyoza" width="300" height="400">
+<img class="aligncenter size-full wp-image-5846" src="/media/legacy/legacy-004385.jpg" alt="biwanoki_hamamatsugyoza" width="300" height="400">
 
 浜松の中心街にある商業施設ザザシティの地下にもお店があります。
 
 こちらはフードコートでいただいても良いですし、お持ち帰りも可。
 
-<img class="aligncenter size-full wp-image-5853" src="/legacy-media/46a4dcbff76e-IMG_0512.jpg" alt="biwanoki_hamamatsugyoza" width="300" height="225">
+<img class="aligncenter size-full wp-image-5853" src="/media/legacy/legacy-004392.JPG" alt="biwanoki_hamamatsugyoza" width="300" height="225">
 
 味は本店と同じで、焼き、生、冷凍が選べるので使い勝手抜群。
 

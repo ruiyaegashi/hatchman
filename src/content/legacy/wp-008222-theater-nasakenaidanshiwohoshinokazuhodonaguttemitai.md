@@ -17,7 +17,7 @@ source_content_chars: 1097
 migration_review: "passed"
 ---
 <h2>久しぶりの演劇</h2>
-<img class="aligncenter" title="「情けない男子を星の数ほど殴ってみたい」のチラシ" src="/legacy-media/e6e08d2a22aa-P20121104_114324997.jpg" width="300" height="225">
+<img class="aligncenter" title="「情けない男子を星の数ほど殴ってみたい」のチラシ" src="/media/legacy/legacy-004463.jpg" width="300" height="225">
 
 音楽とかオペラとかミュージカルとかに目がない僕は演劇も好きな部類。
 
@@ -29,7 +29,7 @@ migration_review: "passed"
 
 &nbsp;
 <h2>APOCシアター</h2>
-<img class="aligncenter" title="APOCシアター" src="/legacy-media/26fc8042ced8-P20121104_114234020.jpg" width="300" height="225">
+<img class="aligncenter" title="APOCシアター" src="/media/legacy/legacy-004462.jpg" width="300" height="225">
 <a href="http://apoc-theater.net/" target="_blank">APOCシアター</a>
 
 東京はすごいね。こんな劇場がいくつもあるんだろうな～

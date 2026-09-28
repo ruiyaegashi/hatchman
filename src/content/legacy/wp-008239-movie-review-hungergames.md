@@ -16,9 +16,9 @@ source_content_sha256: "bfd38929ff2d39664ccd9f4174b2ebe0ff87f76ead666218bee26302
 source_content_chars: 2235
 migration_review: "review"
 ---
-<img class="aligncenter size-full wp-image-9209" src="/legacy-media/74e4906de4d1-1_1.jpg" alt="tonkaraten6" width="300" height="225">
-<img class="aligncenter size-full wp-image-9209" src="/legacy-media/adee5d415f1d-3.jpg" alt="tonkaraten6" width="300" height="225">
-<img class="aligncenter size-full wp-image-9209" src="/legacy-media/f27402e45e08-2.jpg" alt="tonkaraten6" width="300" height="225">
+<img class="aligncenter size-full wp-image-9209" src="/media/legacy/legacy-003698.jpg" alt="tonkaraten6" width="300" height="225">
+<img class="aligncenter size-full wp-image-9209" src="/media/legacy/legacy-004030.jpg" alt="tonkaraten6" width="300" height="225">
+<img class="aligncenter size-full wp-image-9209" src="/media/legacy/legacy-003706.jpg" alt="tonkaraten6" width="300" height="225">
 
 『<a href="http://www.hungergames.jp/" target="_blank">ハンガー・ゲーム</a>』
 

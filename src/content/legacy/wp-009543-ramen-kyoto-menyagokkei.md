@@ -17,7 +17,7 @@ source_content_chars: 3964
 migration_review: "review"
 ---
 <h2>「ランキング」や「おすすめ」で常連のお店</h2>
-<img class="aligncenter wp-image-9549 size-large" title="京都一乗寺「麺屋 極鶏(ごっけい)」超濃厚肉濁鶏白湯ラーメン" src="/legacy-media/4c88625f45ef-kyotogokkei1-1060x795.jpg" alt="kyotogokkei1" width="640" height="480">
+<img class="aligncenter wp-image-9549 size-large" title="京都一乗寺「麺屋 極鶏(ごっけい)」超濃厚肉濁鶏白湯ラーメン" src="/media/legacy/legacy-004796.jpg" alt="kyotogokkei1" width="640" height="480">
 
 「京都 ラーメン」で検索すればあっという間に見つかるこちらのお店。
 
@@ -27,7 +27,7 @@ migration_review: "review"
 
 <aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4908070229&quot; locale=&quot;JP&quot; title=&quot;京都 滋賀 うまいらーめん&quot;]</code></details></aside>
 <h2>1時間半待ち</h2>
-<img class="aligncenter wp-image-9544 size-large" title="京都一乗寺「麺屋 極鶏(ごっけい)」超濃厚肉濁鶏白湯ラーメン" src="/legacy-media/bea2ccd77dad-kyotogokkei2-1060x795.jpg" alt="kyotogokkei2" width="640" height="480">
+<img class="aligncenter wp-image-9544 size-large" title="京都一乗寺「麺屋 極鶏(ごっけい)」超濃厚肉濁鶏白湯ラーメン" src="/media/legacy/legacy-004798.jpg" alt="kyotogokkei2" width="640" height="480">
 
 場所は一乗寺、東大路通沿いにあります。この通りはラーメン屋さんだらけ。休日のお昼時ともなればあちこちで行列が見られます。
 
@@ -47,9 +47,9 @@ migration_review: "review"
 
 &nbsp;
 <h2>メニューはシンプルに「極鶏」のみ</h2>
-<img class="aligncenter wp-image-9545 size-large" title="京都一乗寺「麺屋 極鶏(ごっけい)」超濃厚肉濁鶏白湯ラーメン" src="/legacy-media/4517324f8bd2-kyotogokkei3-1060x795.jpg" alt="kyotogokkei3" width="640" height="480">
+<img class="aligncenter wp-image-9545 size-large" title="京都一乗寺「麺屋 極鶏(ごっけい)」超濃厚肉濁鶏白湯ラーメン" src="/media/legacy/legacy-004800.jpg" alt="kyotogokkei3" width="640" height="480">
 
-<img class="aligncenter wp-image-9546 size-large" title="京都一乗寺「麺屋 極鶏(ごっけい)」超濃厚肉濁鶏白湯ラーメン" src="/legacy-media/d8a51215cdb2-kyotogokkei4-1060x795.jpg" alt="kyotogokkei4" width="640" height="480">
+<img class="aligncenter wp-image-9546 size-large" title="京都一乗寺「麺屋 極鶏(ごっけい)」超濃厚肉濁鶏白湯ラーメン" src="/media/legacy/legacy-004802.jpg" alt="kyotogokkei4" width="640" height="480">
 
 ラーメンのメニューはシンプルで、
 <ul>
@@ -66,9 +66,9 @@ migration_review: "review"
 
 <aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4908070229&quot; locale=&quot;JP&quot; title=&quot;京都 滋賀 うまいらーめん&quot;]</code></details></aside>
 <h2>極鶏 鶏だく、大盛、チャーシュー増、玉子かけご飯セット</h2>
-<img class="aligncenter wp-image-9547 size-large" title="京都一乗寺「麺屋 極鶏(ごっけい)」超濃厚肉濁鶏白湯ラーメン" src="/legacy-media/f5127636fad9-kyotogokkei5-1060x795.jpg" alt="kyotogokkei5" width="640" height="480">
+<img class="aligncenter wp-image-9547 size-large" title="京都一乗寺「麺屋 極鶏(ごっけい)」超濃厚肉濁鶏白湯ラーメン" src="/media/legacy/legacy-004804.jpg" alt="kyotogokkei5" width="640" height="480">
 
-<img class="aligncenter wp-image-9548 size-large" title="京都一乗寺「麺屋 極鶏(ごっけい)」超濃厚肉濁鶏白湯ラーメン" src="/legacy-media/4959a28fbb52-kyotogokkei6-1060x795.jpg" alt="kyotogokkei6" width="640" height="480">
+<img class="aligncenter wp-image-9548 size-large" title="京都一乗寺「麺屋 極鶏(ごっけい)」超濃厚肉濁鶏白湯ラーメン" src="/media/legacy/legacy-004806.jpg" alt="kyotogokkei6" width="640" height="480">
 
 並んでいるときにオーダーを聞いてくれるので、着席から数分で着丼。
 

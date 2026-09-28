@@ -16,7 +16,7 @@ source_content_sha256: "250968fd982fbf7424229de2cb90ae5c444b94f6ff186da83e3b9344
 source_content_chars: 4181
 migration_review: "review"
 ---
-<img class="aligncenter wp-image-9233 size-full" src="/legacy-media/08c8663ffcd8-01_406.jpg" alt="アプリ Filmarks オスカー" width="370" height="500">
+<img class="aligncenter wp-image-9233 size-full" src="/media/legacy/legacy-000416.jpg" alt="アプリ Filmarks オスカー" width="370" height="500">
 
 いやー2014年も色々映画見られました。ということで備忘録的まとめをば。
 

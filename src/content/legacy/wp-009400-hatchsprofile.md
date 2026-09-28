@@ -17,7 +17,7 @@ source_content_chars: 3313
 migration_review: "review"
 ---
 <h2>ご挨拶</h2>
-<img class="aligncenter size-large wp-image-9399" src="/legacy-media/d30c22aa24d5-ryskprofile-1060x1060.jpg" alt="ryskprofile" width="640" height="640">
+<img class="aligncenter size-large wp-image-9399" src="/media/legacy/legacy-004922.jpg" alt="ryskprofile" width="640" height="640">
 
 我がブログ「ハッチマン」に足をお運びくださり誠にありがとうございます。
 

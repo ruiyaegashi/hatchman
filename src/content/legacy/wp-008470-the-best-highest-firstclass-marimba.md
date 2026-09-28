@@ -16,7 +16,7 @@ source_content_sha256: "64faa2274dfa9b00cb390f9f43c64f2474ca0aab1c2c302d3a5fcc0f
 source_content_chars: 6688
 migration_review: "review"
 ---
-<center><img class="size-medium wp-image-8472 aligncenter" src="/legacy-media/c4555cdcec66-740f966e7c927741cd8d770eb6bab805-670x608.png" alt="マリンバ" width="670" height="608"></center>&nbsp;
+<center><img class="size-medium wp-image-8472 aligncenter" src="/media/legacy/legacy-004319.png" alt="マリンバ" width="670" height="608"></center>&nbsp;
 <h2>マリンバとは?</h2>
 個人的には中学校からずっと吹奏楽で打楽器・パーカッションを担当し、高校ではマリンバのレッスンを受けていたのでマリンバには思い入れがあります。
 
@@ -47,7 +47,7 @@ migration_review: "review"
 
 &nbsp;
 <h2>マリンバの最大・最上級グレードと価格</h2>
-<center><img class="alignnone" src="/legacy-media/66cf579309d3-03_339.jpg" alt="6オクターブマリンバ 浜松楽器博物館" width="700" height="525"></center>『<a href="http://studiocranberry.blog122.fc2.com/blog-entry-806.html" target="_blank">浜松にて - the garden of studio cranberry</a>』より借用
+<center><img class="alignnone" src="/media/legacy/legacy-001196.jpg" alt="6オクターブマリンバ 浜松楽器博物館" width="700" height="525"></center>『<a href="http://studiocranberry.blog122.fc2.com/blog-entry-806.html" target="_blank">浜松にて - the garden of studio cranberry</a>』より借用
 マリンバは鍵盤打楽器の中でもお高く、数十万～数百万といった感じ。
 
 大きさは様々で、基本的には曲で要求されている音域があれ良いのです。国内で手に入るのは5・2/3オクターブが最大でしょうか。

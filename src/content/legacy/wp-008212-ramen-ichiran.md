@@ -33,24 +33,24 @@ migration_review: "review"
 
 &nbsp;
 <h2>斬新な店作り</h2>
-<img class="aligncenter" title="一蘭の外観" src="/legacy-media/27587258df10-P20121111_181519041.jpg" width="300" height="225">
+<img class="aligncenter" title="一蘭の外観" src="/media/legacy/legacy-004485.jpg" width="300" height="225">
 
 赤い看板に「こだわりたい美味しさがある」の文字。 普通に前を通っただけでもインパクトがあるというものです。
 
-<img class="aligncenter" title="一蘭の看板「赤い秘伝のたれ発祥」" src="/legacy-media/0011ebb2a01b-P20121111_181530866.jpg" width="300" height="400">
+<img class="aligncenter" title="一蘭の看板「赤い秘伝のたれ発祥」" src="/media/legacy/legacy-004486.jpg" width="300" height="400">
 入りぐり前に「赤い秘伝のたれ発祥」の文字。昭和35年(1960年)創業。
 
-<img class="aligncenter" title="一蘭の券売機" src="/legacy-media/55d71beba0da-P20121111_181627929.jpg" width="300" height="400">
+<img class="aligncenter" title="一蘭の券売機" src="/media/legacy/legacy-004487.jpg" width="300" height="400">
 
 中に入ると券売機2つ。さすがチェーン店。
 
 聞いていた通りラーメンの種類は1つだけ。「ラーメン＋替え玉」がデフォですよという注意書きもありましたが、女性もそんなに食べるのかな？
 
-<img class="aligncenter" title="一蘭の味集中カウンター" src="/legacy-media/925b94ad1964-P20121111_182419905.jpg" width="300" height="225">
+<img class="aligncenter" title="一蘭の味集中カウンター" src="/media/legacy/legacy-004495.jpg" width="300" height="225">
 
 噂の味集中カウンター。複数名で来た場合は間仕切りを折り畳めるので、強制個食とはなりません。
 
-<img class="aligncenter" title="一蘭のオーダー用紙" src="/legacy-media/da638d24930c-P20121111_181954737.jpg" width="300" height="225">
+<img class="aligncenter" title="一蘭のオーダー用紙" src="/media/legacy/legacy-004489.JPG" width="300" height="225">
 
 席で書くのがこのオーダー用紙。
 
@@ -60,35 +60,35 @@ migration_review: "review"
 
 ただ、可愛い店員さん目当てで通うという可能性はなくなります。
 
-<img class="aligncenter" title="一蘭の箸袋表" src="/legacy-media/6fc290c91569-P20121111_182241499.jpg" width="300" height="225">
+<img class="aligncenter" title="一蘭の箸袋表" src="/media/legacy/legacy-004490.jpg" width="300" height="225">
 
 お箸には宣伝と、
 
-<img class="aligncenter" title="一蘭の箸袋裏" src="/legacy-media/b2240c93fde9-P20121111_182251159.jpg" width="300" height="225">
+<img class="aligncenter" title="一蘭の箸袋裏" src="/media/legacy/legacy-004491.jpg" width="300" height="225">
 
 追加注文用紙。
 
 箸袋でさえ無駄にしないんですね。
 
-<img class="aligncenter" title="一蘭のラー娘の独りごと" src="/legacy-media/11a9896e0fe3-P20121111_182313789.jpg" width="300" height="400">
+<img class="aligncenter" title="一蘭のラー娘の独りごと" src="/media/legacy/legacy-004492.jpg" width="300" height="400">
 席にはこんなものが。
 
 月1でしょうか？No.6です。
 
 内容は宣伝だとしても、ラーメンを待つ良い時間つぶしにはなります。
 
-<img class="aligncenter" title="一蘭の替玉の説明" src="/legacy-media/5dba013d2309-P20121111_182344199.jpg" width="300" height="225">
+<img class="aligncenter" title="一蘭の替玉の説明" src="/media/legacy/legacy-004493.jpg" width="300" height="225">
 
 替玉についても詳しく説明されています。
 
-<img class="aligncenter" title="一蘭のお持ち帰り宣伝" src="/legacy-media/1513402d12d6-P20121111_182359566.jpg" width="300" height="400">
+<img class="aligncenter" title="一蘭のお持ち帰り宣伝" src="/media/legacy/legacy-004494.JPG" width="300" height="400">
 今考えるとくどいくらいに宣伝ですね。
 
 でも美味しそうで欲しくなってしまいます。1回くらい買ってみても良いかな。
 
 &nbsp;
 <h2>ラーメン</h2>
-<img class="aligncenter" title="一蘭のとんこつラーメン" src="/legacy-media/2d05a05359e8-P20121111_183150331.jpg" width="300" height="225">
+<img class="aligncenter" title="一蘭のとんこつラーメン" src="/media/legacy/legacy-004496.jpg" width="300" height="225">
 
 簾の向こうからラーメン登場。
 
@@ -96,7 +96,7 @@ migration_review: "review"
 
 豚骨の強い香りがします。
 
-<img class="aligncenter" title="一蘭のチャーシュー" src="/legacy-media/6888ac17290b-P20121111_183201951.jpg" width="300" height="225">
+<img class="aligncenter" title="一蘭のチャーシュー" src="/media/legacy/legacy-004497.jpg" width="300" height="225">
 
 スープは豚骨を限界まで煮だしたような、普通のお店では出していない味まで出ています。モツ鍋に近いような…
 

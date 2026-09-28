@@ -7,7 +7,7 @@
     "dev": "astro dev",
     "migrate": "python scripts/migrate_legacy.py",
     "check": "astro check",
-    "build": "astro build",
+    "build": "node scripts/check_media_build.mjs && astro build",
     "validate": "python scripts/validate_migration.py"
   },
   "engines": { "node": ">=22.12.0" },

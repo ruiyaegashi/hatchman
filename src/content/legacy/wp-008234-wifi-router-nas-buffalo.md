@@ -17,7 +17,7 @@ source_content_chars: 4237
 migration_review: "review"
 ---
 <h2>使っているWi-FiルーターはWXR-1750DHP！</h2>
-<img class="aligncenter size-full wp-image-9216" src="/legacy-media/ffed7f1f720b-WXR1750DHP.jpg" alt="WXR1750DHP" width="720" height="280">
+<img class="aligncenter size-full wp-image-9216" src="/media/legacy/legacy-004682.jpg" alt="WXR1750DHP" width="720" height="280">
 
 Wi-FiルーターをWXR-1750DHPに変えた際、それに伴ってNASも導入することにしました。
 

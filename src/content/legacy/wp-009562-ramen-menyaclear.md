@@ -30,7 +30,7 @@ migration_review: "review"
 
 &nbsp;
 <h2>行列が絶えない清水の人気店</h2>
-<img class="aligncenter wp-image-9576 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/legacy-media/40f9a3d0a2bc-menyaclear02-1060x795.jpg" alt="menyaclear02" width="640" height="480">
+<img class="aligncenter wp-image-9576 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/media/legacy/legacy-004837.jpg" alt="menyaclear02" width="640" height="480">
 
 2014年にオープンしてからずーっと人気のこちらのお店。回転率がちょっと悪いのもありますが、並んででも食べたりラーメンがそこにある。
 
@@ -38,7 +38,7 @@ migration_review: "review"
 
 &nbsp;
 <h2>駐車場にご注意を</h2>
-<img class="aligncenter wp-image-9577 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/legacy-media/edfc848c475e-menyaclear03-795x1060.jpg" alt="menyaclear03" width="640" height="853">
+<img class="aligncenter wp-image-9577 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/media/legacy/legacy-004839.jpg" alt="menyaclear03" width="640" height="853">
 
 お店の方が苦労してかき集めたと思われる駐車場が複数あります。
 
@@ -48,7 +48,7 @@ migration_review: "review"
 
 <aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4048947362&quot; locale=&quot;JP&quot; title=&quot;ラーメンウォーカームック ラーメンWalker静岡2016&quot;]</code></details></aside>
 <h2>大将は徳島出身、京都「高安」で修行</h2>
-<img class="aligncenter wp-image-9578 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/legacy-media/ffba12069b6d-menyaclear04-795x1060.jpg" alt="menyaclear04" width="640" height="853">
+<img class="aligncenter wp-image-9578 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/media/legacy/legacy-004841.jpg" alt="menyaclear04" width="640" height="853">
 
 本当になぜ清水に来たんだと思わずにはいられないのですが、「清水に恋しちゃいました❤」だそうです。
 
@@ -56,27 +56,27 @@ migration_review: "review"
 
 &nbsp;
 <h2>メニュー</h2>
-<img class="aligncenter wp-image-9579 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/legacy-media/f77dd4b108bf-menyaclear05-795x1060.jpg" alt="menyaclear05" width="640" height="853">
+<img class="aligncenter wp-image-9579 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/media/legacy/legacy-004843.jpg" alt="menyaclear05" width="640" height="853">
 
-<img class="aligncenter wp-image-9580 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/legacy-media/1c3896c69f42-menyaclear06-795x1060.jpg" alt="menyaclear06" width="640" height="853">
+<img class="aligncenter wp-image-9580 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/media/legacy/legacy-004845.jpg" alt="menyaclear06" width="640" height="853">
 
-<img class="aligncenter wp-image-9581 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/legacy-media/1b92ea020d31-menyaclear07-795x1060.jpg" alt="menyaclear07" width="640" height="853">
+<img class="aligncenter wp-image-9581 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/media/legacy/legacy-004847.jpg" alt="menyaclear07" width="640" height="853">
 
-<img class="aligncenter wp-image-9582 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/legacy-media/895dfa4b21fb-menyaclear08-795x1060.jpg" alt="menyaclear08" width="640" height="853">
+<img class="aligncenter wp-image-9582 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/media/legacy/legacy-004849.jpg" alt="menyaclear08" width="640" height="853">
 
-<img class="aligncenter wp-image-9563 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/legacy-media/8556800040aa-menyaclear09-795x1060.jpg" alt="menyaclear09" width="640" height="853">
+<img class="aligncenter wp-image-9563 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/media/legacy/legacy-004851.jpg" alt="menyaclear09" width="640" height="853">
 
-<img class="aligncenter wp-image-9564 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/legacy-media/ae842b05d9d0-menyaclear10-795x1060.jpg" alt="menyaclear10" width="640" height="853">
+<img class="aligncenter wp-image-9564 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/media/legacy/legacy-004853.jpg" alt="menyaclear10" width="640" height="853">
 
-<img class="aligncenter wp-image-9565 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/legacy-media/b8ed5b7a8026-menyaclear11-795x1060.jpg" alt="menyaclear11" width="640" height="853">
+<img class="aligncenter wp-image-9565 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/media/legacy/legacy-004855.jpg" alt="menyaclear11" width="640" height="853">
 
-<img class="aligncenter wp-image-9566 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/legacy-media/4cb509525432-menyaclear12-795x1060.jpg" alt="menyaclear12" width="640" height="853">
+<img class="aligncenter wp-image-9566 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/media/legacy/legacy-004857.jpg" alt="menyaclear12" width="640" height="853">
 
-<img class="aligncenter wp-image-9567 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/legacy-media/3dc44e3fcc27-menyaclear13-795x1060.jpg" alt="menyaclear13" width="640" height="853">
+<img class="aligncenter wp-image-9567 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/media/legacy/legacy-004859.jpg" alt="menyaclear13" width="640" height="853">
 
 基本のメニューはうっ鶏そば(+トロ軟骨)、しっ鶏そば(塩・醤油)、ねっ鶏そば、台湾まぜそば。そして、はずせないサイドメニューとして、高安インスパイアと思われる大ぶりの唐揚げがあります。
 
-<img class="aligncenter wp-image-9568 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/legacy-media/735380a3f33a-menyaclear14-795x1060.jpg" alt="menyaclear14" width="640" height="853">
+<img class="aligncenter wp-image-9568 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/media/legacy/legacy-004861.jpg" alt="menyaclear14" width="640" height="853">
 
 こちらの券売機はタッチパネル式。都会では珍しくありませんが静岡ではレア。券を購入すると自動でオーダーが通るので券を店員さんに渡さなくてもオッケーです。
 
@@ -84,9 +84,9 @@ migration_review: "review"
 
 &nbsp;
 <h2>落ち着く席</h2>
-<img class="aligncenter wp-image-9569 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/legacy-media/72096dadbfae-menyaclear15-1060x795.jpg" alt="menyaclear15" width="640" height="480">
+<img class="aligncenter wp-image-9569 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/media/legacy/legacy-004863.jpg" alt="menyaclear15" width="640" height="480">
 
-<img class="aligncenter wp-image-9570 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/legacy-media/d7e0fdb03fb0-menyaclear16-1060x795.jpg" alt="menyaclear16" width="640" height="480">
+<img class="aligncenter wp-image-9570 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/media/legacy/legacy-004865.jpg" alt="menyaclear16" width="640" height="480">
 
 席は色々ありますが、このときは小上がりでした。一人で使うのは申し訳ないと思いつつ、ひっそり落ち着いた空間を堪能させていただきました。
 
@@ -96,13 +96,13 @@ migration_review: "review"
 
 <aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4048947362&quot; locale=&quot;JP&quot; title=&quot;ラーメンウォーカームック ラーメンWalker静岡2016&quot;]</code></details></aside>
 <h2>厨の全部のせ ねっ鶏そば、大盛り、唐揚げセット</h2>
-<img class="aligncenter wp-image-9575 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/legacy-media/d83edd11d8f3-menyaclear01-1060x795.jpg" alt="menyaclear01" width="640" height="480">
+<img class="aligncenter wp-image-9575 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/media/legacy/legacy-004835.jpg" alt="menyaclear01" width="640" height="480">
 
-<img class="aligncenter wp-image-9571 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/legacy-media/1ea477bc3b36-menyaclear17-1060x795.jpg" alt="menyaclear17" width="640" height="480">
+<img class="aligncenter wp-image-9571 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/media/legacy/legacy-004867.jpg" alt="menyaclear17" width="640" height="480">
 
-<img class="aligncenter wp-image-9572 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/legacy-media/364d0e684f02-menyaclear18-1060x795.jpg" alt="menyaclear18" width="640" height="480">
+<img class="aligncenter wp-image-9572 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/media/legacy/legacy-004869.jpg" alt="menyaclear18" width="640" height="480">
 
-<img class="aligncenter wp-image-9573 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/legacy-media/20edac350a47-menyaclear19-1060x795.jpg" alt="menyaclear19" width="640" height="480">
+<img class="aligncenter wp-image-9573 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/media/legacy/legacy-004871.jpg" alt="menyaclear19" width="640" height="480">
 
 一番濃厚なねっ鶏そば。
 
@@ -122,7 +122,7 @@ migration_review: "review"
 
 しっ鶏とうっ鶏も美味しいのですが、気付いたらいつもねっ鶏を頼んでしまっています。
 
-<img class="aligncenter wp-image-9574 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/legacy-media/f2c3f77be9f3-menyaclear20-1060x795.jpg" alt="menyaclear20" width="640" height="480">
+<img class="aligncenter wp-image-9574 size-large" title="静岡・清水「麺や厨」ねっ鶏そば" src="/media/legacy/legacy-004873.jpg" alt="menyaclear20" width="640" height="480">
 
 名物の唐揚げ。大きめで衣もしっかりあり、カリッパリに揚がっていて美味しい。
 

@@ -17,7 +17,7 @@ source_content_chars: 3490
 migration_review: "review"
 ---
 <h2>言わずと知れたデビット伊東のお店</h2>
-<img class="aligncenter" title="でびっとらーめんの看板" src="/legacy-media/8efd788d7f25-IMG_0576.jpg" width="300" height="225">
+<img class="aligncenter" title="でびっとらーめんの看板" src="/media/legacy/legacy-004410.jpg" width="300" height="225">
 
 <a href="http://www.davidramen.com/">でびっとらーめん公式ウェブサイト</a>
 
@@ -29,19 +29,19 @@ migration_review: "review"
 
 浜松のべんがら横丁にもあったのですが、べんがら横丁自体が終了したので…
 
-<img class="aligncenter" title="でびっとらーめんの卓上" src="/legacy-media/eecdb61b0b85-IMG_0572.jpg" width="300" height="225">
+<img class="aligncenter" title="でびっとらーめんの卓上" src="/media/legacy/legacy-004407.jpg" width="300" height="225">
 このお店はつけ麺の替え玉がなく、並か、大盛り(＋1玉)しかありませんのでご注意を。
 
 &nbsp;
 <h2>チャーシューつけ麺大盛り</h2>
-<img class="aligncenter" title="でびっとらーめんのチャーシューつけ麺大盛り" src="/legacy-media/66f0d2c59d36-IMG_0573.jpg" width="300" height="225">
+<img class="aligncenter" title="でびっとらーめんのチャーシューつけ麺大盛り" src="/media/legacy/legacy-004408.JPG" width="300" height="225">
 スープは魚介豚骨であっさり、タレは濃い目。
 
 色々な素材の味、香りがしますが、魚粉が大量に入っているためかなり魚介が強めなバランス。
 
 スープの粘度は低いのですが、つけ汁の濃さと太麺の絡む量のバランスは良いです。
 
-<img class="aligncenter" title="でびっとらーめんのチャーシューつけ麺大盛り" src="/legacy-media/1aed60f73380-IMG_0575.jpg" width="300" height="225">
+<img class="aligncenter" title="でびっとらーめんのチャーシューつけ麺大盛り" src="/media/legacy/legacy-004409.jpg" width="300" height="225">
 
 チャーシューは肩とバラの2種類。チャーシュー好きとしてはありがたい。
 

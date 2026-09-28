@@ -17,7 +17,7 @@ source_content_chars: 3000
 migration_review: "review"
 ---
 <h2>静岡市にある超お得なタイ料理屋さん！</h2>
-<img class="aligncenter wp-image-2410 size-medium" src="/legacy-media/38c9c10d7a77-02_363-670x503.jpg" alt="静岡市 タイ料理 タイ・オーキッド" width="670" height="503">
+<img class="aligncenter wp-image-2410 size-medium" src="/media/legacy/legacy-000813.jpg" alt="静岡市 タイ料理 タイ・オーキッド" width="670" height="503">
 
 場所は西島、静岡インターから高速道路の南側の道を東へ行ったハローワークの手前。駐車場はお店の目の前にあります。
 
@@ -35,22 +35,22 @@ migration_review: "review"
 
 以下はメイン2品が選べるセット2人前。
 <h3>選べるスープ「カキスープ」</h3>
-<img class="aligncenter wp-image-2699 size-medium" src="/legacy-media/752bea90e4bc-03_343-670x503.jpg" alt="タイ料理 カキスープ" width="670" height="503">
+<img class="aligncenter wp-image-2699 size-medium" src="/media/legacy/legacy-001201.jpg" alt="タイ料理 カキスープ" width="670" height="503">
 
 牡蠣のスープなのですが、臭みはなく、ほんのり香辛料が良い香り。選べるトムヤムクンも捨てがたい。
 <h3>デフォルトメニュー「チキンサラダ」</h3>
-<img class="aligncenter wp-image-2990 size-medium" src="/legacy-media/927d39106408-04_309-670x503.jpg" alt="タイ料理 チキンサラダ" width="670" height="503">
+<img class="aligncenter wp-image-2990 size-medium" src="/media/legacy/legacy-001541.jpg" alt="タイ料理 チキンサラダ" width="670" height="503">
 
 こちらは想像通り。ドレッシングは意外と普通。
 <h3>アラカルトメニュー「タイラーメン」</h3>
-<img class="aligncenter wp-image-3299 size-medium" src="/legacy-media/223f88abf605-05_278-670x503.jpg" alt="タイ料理 タイラーメン" width="670" height="503">
+<img class="aligncenter wp-image-3299 size-medium" src="/media/legacy/legacy-001838.jpg" alt="タイ料理 タイラーメン" width="670" height="503">
 ベトナムのフォーのようなライスヌードルのツルツル感とあっさりスープが美味しい。野菜も次郎ばりにてんこ盛り。
 <h3>アラカルトメニュー「グリーンカレー・シーフードカレー」</h3>
-<img class="aligncenter wp-image-6363 size-medium" src="/legacy-media/790ef0afb71b-01_401-670x503.jpg" alt="タイ料理 グリーンカレー" width="670" height="503">
+<img class="aligncenter wp-image-6363 size-medium" src="/media/legacy/legacy-000410.jpg" alt="タイ料理 グリーンカレー" width="670" height="503">
 
-<img class="aligncenter wp-image-3544 size-medium" src="/legacy-media/45394aa99eb8-06_243-670x503.jpg" alt="タイ料理 シーフードカレー" width="670" height="503">
+<img class="aligncenter wp-image-3544 size-medium" src="/media/legacy/legacy-002097.jpg" alt="タイ料理 シーフードカレー" width="670" height="503">
 
-<img class="aligncenter wp-image-3794 size-full" src="/legacy-media/2e2d5b8016fe-07_228.jpg" alt="タイ料理 お櫃" width="525" height="700">
+<img class="aligncenter wp-image-3794 size-full" src="/media/legacy/legacy-002341.jpg" alt="タイ料理 お櫃" width="525" height="700">
 
 超具だくさんカレーで、しかもライスはおかわり自由。というかタイ風おひつごと来るのでよそい放題。ご飯はタイ米で香りも良い。
 

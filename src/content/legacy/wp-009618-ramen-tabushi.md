@@ -17,7 +17,7 @@ source_content_chars: 4026
 migration_review: "review"
 ---
 <h2>東京、高円寺発</h2>
-<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/legacy-media/bd948f5f2891-386.jpg" width="300" height="225">
+<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/legacy/legacy-004163.jpg" width="300" height="225">
 
 東京の高円寺から始まった田ぶし。
 
@@ -41,13 +41,13 @@ migration_review: "review"
 
 <aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4048947362&quot; locale=&quot;JP&quot; title=&quot;ラーメンウォーカームック ラーメンWalker静岡2016&quot;]</code></details></aside>
 <h2>メニュー</h2>
-<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/legacy-media/614d96d49517-387.jpg" width="300" height="225">
+<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/legacy/legacy-004164.jpg" width="300" height="225">
 
-<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/legacy-media/6fa4bea3fca2-388.jpg" width="300" height="225">
+<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/legacy/legacy-004165.jpg" width="300" height="225">
 
-<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/legacy-media/e4fa30cbcc73-389.jpg" width="300" height="225">
+<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/legacy/legacy-004166.jpg" width="300" height="225">
 
-<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/legacy-media/065850e36252-390.jpg" width="300" height="225">
+<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/legacy/legacy-004173.jpg" width="300" height="225">
 
 メニューは魚介豚骨、醤油豚骨、味噌豚骨のラーメンとつけ麺。
 
@@ -59,19 +59,19 @@ migration_review: "review"
 
 &nbsp;
 <h2>やる気満々の店員さん</h2>
-<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/legacy-media/ec5d5f5b9c15-391.jpg" width="300" height="225">
+<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/legacy/legacy-004174.jpg" width="300" height="225">
 
 テーブルの薬味は特別なものはありませんがとても綺麗。女性、家族連れ受けもいいでしょう。
 
-<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/legacy-media/3ec321cc169b-392.jpg" width="300" height="225">
+<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/legacy/legacy-004175.jpg" width="300" height="225">
 
 ラーメンを作るのは主に2人。挨拶はしつつ、テキパキ、黙々と作っています。
 
 &nbsp;
 <h2>醤油らーめん</h2>
-<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/legacy-media/7f64bb543e4b-393.jpg" width="300" height="225">
+<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/legacy/legacy-004176.jpg" width="300" height="225">
 
-<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/legacy-media/e2d156b67674-394.jpg" width="300" height="400">
+<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/legacy/legacy-004177.jpg" width="300" height="400">
 
 どちらかというと醤油が前に出た豚骨醤油です。
 
@@ -85,9 +85,9 @@ migration_review: "review"
 
 <aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4048947362&quot; locale=&quot;JP&quot; title=&quot;ラーメンウォーカームック ラーメンWalker静岡2016&quot;]</code></details></aside>
 <h2>味噌つけ麺、大盛り、マル得トッピング</h2>
-<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/legacy-media/3daff22c6354-395.jpg" width="300" height="225">
+<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/legacy/legacy-004178.jpg" width="300" height="225">
 
-<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/legacy-media/5cfcf94a5a1f-396.jpg" width="300" height="225">
+<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/legacy/legacy-004179.jpg" width="300" height="225">
 
 スープは味噌が強め、というか田ぶしはかなり香りを押さえた豚骨スープなので、豚骨の役割はコク、旨味、こってり感なのでしょう。
 
@@ -103,7 +103,7 @@ migration_review: "review"
 
 味噌豚骨に対しては弱いかも知れませんが、単体でも売れそうなくらい美味しいです。
 
-<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/legacy-media/fd4bfc0bd396-397.jpg" width="300" height="400">
+<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/legacy/legacy-004180.jpg" width="300" height="400">
 
 スープ割り。
 

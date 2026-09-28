@@ -17,7 +17,7 @@ source_content_chars: 1745
 migration_review: "review"
 ---
 <h2>実は僕がバイトをしていたお店</h2>
-<img class="aligncenter wp-image-9200 size-full" src="/legacy-media/593fbaac059f-sanaruan2.jpg" alt="浜松 佐鳴庵 外観" width="300" height="400">
+<img class="aligncenter wp-image-9200 size-full" src="/media/legacy/legacy-004935.jpg" alt="浜松 佐鳴庵 外観" width="300" height="400">
 
 もうさすがに時効でしょう。こちらの佐鳴庵、実は僕が高校生の時にアルバイトしていたお店なんです。
 
@@ -31,7 +31,7 @@ migration_review: "review"
 
 &nbsp;
 <h2>ごまみそうどん</h2>
-<img class="aligncenter wp-image-9199 size-full" src="/legacy-media/4f4885a28dc5-sanaruan1-1.jpg" alt="佐鳴庵 ごまみそうどん" width="300" height="225">
+<img class="aligncenter wp-image-9199 size-full" src="/media/legacy/legacy-004933.jpg" alt="佐鳴庵 ごまみそうどん" width="300" height="225">
 
 バイト時代はまかないとしてオリジナルメニューをいただくことが多かったので、なかなか本メニューを食べることがなかったのですが、その中でも思い入れがあるのがこのごまみそうどん。
 

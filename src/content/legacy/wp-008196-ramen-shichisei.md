@@ -36,24 +36,24 @@ migration_review: "review"
 
 が、炙り煮豚も気になったので追加トッピング。
 
-<img class="aligncenter" title="和歌山ラーメン七星" src="/legacy-media/d3f3ff9e006e-265.jpg" width="300" height="225">
+<img class="aligncenter" title="和歌山ラーメン七星" src="/media/legacy/legacy-003939.jpg" width="300" height="225">
 
 特盛にしたからか、器の周りに海苔が並べられていました。後はネギ、メンマ、煮玉子、チャーシューです。
 
-<img class="aligncenter" title="和歌山ラーメン七星" src="/legacy-media/9d7e556f0baa-266.jpg" width="300" height="225">
+<img class="aligncenter" title="和歌山ラーメン七星" src="/media/legacy/legacy-003940.jpg" width="300" height="225">
 
 スープはコクはあるけど豚骨にしてはあっさりで、魚介の風味もちょうどよかったです。感じとしては家系に近いかも。
 
 麺は中太ツルツル。つけ麺で考えると、少し味が弱い＆スープが絡みづらいかなとも感じました。
 
-<img class="aligncenter" title="和歌山ラーメン七星" src="/legacy-media/651546c94837-267.jpg" width="300" height="225">
+<img class="aligncenter" title="和歌山ラーメン七星" src="/media/legacy/legacy-003941.jpg" width="300" height="225">
 左が炙り煮豚、右が焼豚です。
 
 炙り煮豚はしっかりと煮こまれた後に炙られているので非常に香ばしく、焼き豚は味が染み込んでいて柔らかかったです。
 
 &nbsp;
 <h2>店舗情報</h2>
-<img class="aligncenter" title="和歌山ラーメン七星" src="/legacy-media/c53e29101810-268.jpg" width="300" height="400">
+<img class="aligncenter" title="和歌山ラーメン七星" src="/media/legacy/legacy-003942.jpg" width="300" height="400">
 
 &nbsp;
 <div><strong><a href="https://tabelog.com/shizuoka/A2202/A220201/22005994/" target="_blank">七星</a></strong>

@@ -17,7 +17,7 @@ source_content_chars: 3827
 migration_review: "review"
 ---
 <h2>浜松では知らない人はいない超有名スポット！</h2>
-<img class="aligncenter" src="/legacy-media/60db9edba1fe-018.jpg" alt="竜ヶ岩洞 外観" width="300" height="225">
+<img class="aligncenter" src="/media/legacy/legacy-000037.jpg" alt="竜ヶ岩洞 外観" width="300" height="225">
 
 場所は浜松市北区引佐町。新東名引佐JCTから15分くらいなので、遠方から来る人も増えているとか。
 
@@ -27,7 +27,7 @@ migration_review: "review"
 
 &nbsp;
 <h2>こんなんで終わり？とはならない400mという長さ！</h2>
-<img class="aligncenter wp-image-9172 size-full" src="/legacy-media/f40ca979282c-ryugashidomap.gif" alt="竜ヶ岩洞 マップ" width="493" height="520">
+<img class="aligncenter wp-image-9172 size-full" src="/media/legacy/legacy-004925.gif" alt="竜ヶ岩洞 マップ" width="493" height="520">
 
 『<a href="http://www.doukutu.co.jp/do-title.html">洞窟の概要 - 竜ヶ岩洞</a>』より
 
@@ -37,7 +37,7 @@ migration_review: "review"
 
 &nbsp;
 <h2>夏でも涼しい洞窟内でオモシロ岩の数々が楽しめる！</h2>
-<img class="aligncenter" src="/legacy-media/44ee34ca5ddc-019.jpg" alt="竜ヶ岩洞 鍾乳洞" width="300" height="400">
+<img class="aligncenter" src="/media/legacy/legacy-000038.jpg" alt="竜ヶ岩洞 鍾乳洞" width="300" height="400">
 
 鍾乳洞の中の気温は年間を通してやや涼しいくらいに保たれているので、避暑・避寒にはもってこいですし、程よい湿度でお肌もしっとり。
 
@@ -47,7 +47,7 @@ migration_review: "review"
 
 &nbsp;
 <h2>子供が楽しめるスポットもあり！</h2>
-<img class="aligncenter" src="/legacy-media/e8c1e77d3d6b-020.jpg" alt="竜ヶ岩洞 登竜門" width="300" height="400">
+<img class="aligncenter" src="/media/legacy/legacy-000487.jpg" alt="竜ヶ岩洞 登竜門" width="300" height="400">
 
 鍾乳洞内は見て楽しむだけでなく、この「登竜門」のようなアトラクション(？)もあります。
 
@@ -55,7 +55,7 @@ migration_review: "review"
 
 ちなみに、この登竜門は180cmの私が完全にしゃがんで、ずりずりと足を滑らせながらやっと通れる程度の大きさで、ゴツゴツした頭上と濡れている地面に要注意です。
 
-<img class="aligncenter wp-image-9173 size-full" src="/legacy-media/954c12d1eb69-ougonnootaki.gif" alt="竜ヶ岩洞 黄金の大滝" width="335" height="277">
+<img class="aligncenter wp-image-9173 size-full" src="/media/legacy/legacy-004901.gif" alt="竜ヶ岩洞 黄金の大滝" width="335" height="277">
 
 『<a href="http://www.doukutu.co.jp/do-otaki.html">黄金の大滝 - 竜ヶ岩洞</a>』より
 
@@ -65,7 +65,7 @@ migration_review: "review"
 
 &nbsp;
 <h2>まさに昭和！シュールな展示でしっかり勉強！</h2>
-<img class="aligncenter" src="/legacy-media/cff6ccdb01ac-021.jpg" alt="竜ヶ岩洞 展示 自由研究" width="300" height="225">
+<img class="aligncenter" src="/media/legacy/legacy-000488.jpg" alt="竜ヶ岩洞 展示 自由研究" width="300" height="225">
 
 ちょっとシュールではありますが、歴史を感じられる展示もあります。
 
@@ -73,7 +73,7 @@ migration_review: "review"
 
 &nbsp;
 <h2>鍾乳洞の外でも楽しめる！</h2>
-<img class="aligncenter" src="/legacy-media/53327407194d-023.jpg" alt="竜ヶ岩洞 わさびアイス" width="300" height="400">
+<img class="aligncenter" src="/media/legacy/legacy-000490.jpg" alt="竜ヶ岩洞 わさびアイス" width="300" height="400">
 
 竜ヶ岩洞は鍾乳洞だけでなく、外でも楽しめます。
 
@@ -81,13 +81,13 @@ migration_review: "review"
 
 後は定番とも言える食事処とお土産店、特にお土産店は竜ヶ岩洞ならではのものも多いので見ているだけで楽しいかも。
 
-<img class="aligncenter wp-image-9175 size-full" src="/legacy-media/873901ed49e6-youkitado.jpg" alt="竜ヶ岩洞 ようきた洞 足水" width="398" height="264">
+<img class="aligncenter wp-image-9175 size-full" src="/media/legacy/legacy-004991.jpg" alt="竜ヶ岩洞 ようきた洞 足水" width="398" height="264">
 
 『<a href="http://www.doukutu.co.jp/topics.events-coolspot-koji.html">ようきた洞 - 竜ヶ岩洞</a>』より
 
 鍾乳洞の水、涼風を活用した足湯ならぬ足水もあります。なんと無料。
 
-<img class="aligncenter wp-image-9177 size-full" src="/legacy-media/73e6f79a8b93-ryugashidokaohame.jpg" alt="竜ヶ岩洞 顔ハメ 記念写真" width="400" height="293">
+<img class="aligncenter wp-image-9177 size-full" src="/media/legacy/legacy-004924.jpg" alt="竜ヶ岩洞 顔ハメ 記念写真" width="400" height="293">
 
 『<a href="http://www.doukutu.co.jp/1-kaohame.html">顔ハメ - 竜ヶ岩洞</a>』より
 
@@ -95,7 +95,7 @@ migration_review: "review"
 
 不思議なもので、誰が顔をはめてもしっくりくるのがすごい。ヘルメット部分が本物だからですかね。
 
-<img class="aligncenter" src="/legacy-media/d27eae5f3a50-022.jpg" alt="竜ヶ岩洞 トラバウアー" width="300" height="400">
+<img class="aligncenter" src="/media/legacy/legacy-000489.jpg" alt="竜ヶ岩洞 トラバウアー" width="300" height="400">
 
 最後に、いつからあるか分かりませんが「ウアー　トラバウアー」。
 

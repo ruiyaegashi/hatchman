@@ -29,12 +29,12 @@ migration_review: "review"
 
 &nbsp;
 <h2>マンチヌードルBLACK ＆ 期間限定 メキシカンつけ麺しょうゆ大盛</h2>
-<img class="aligncenter" title="マンチヌードル" src="/legacy-media/f256ba96701e-01_58.jpg" width="300" height="225">
+<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-000436.jpg" width="300" height="225">
 店名の「マンチ」は英語の「munch」=「むしゃむしゃ食べる」という意味だそうです。
 
 その名の通り、二郎インスパイア系です。
 
-<img class="aligncenter" title="マンチヌードル" src="/legacy-media/ee0c696872e4-02_49.jpg" width="300" height="400">
+<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-000835.jpg" width="300" height="400">
 
 外観、内装ともにオシャレで、落ち着いたカフェのようにも思えます。
 
@@ -42,17 +42,17 @@ migration_review: "review"
 
 壁にはDr Pepperがずらり。メニューにも載っています。
 
-<img class="aligncenter" title="マンチヌードル" src="/legacy-media/fb62f791787d-03_47.jpg" width="300" height="400">
+<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-001220.jpg" width="300" height="400">
 
-<img class="aligncenter" title="マンチヌードル" src="/legacy-media/b6ade7dbf84f-04_47.jpg" width="300" height="400">
+<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-001564.jpg" width="300" height="400">
 
 メニューはしょうゆ、カレー、辛いの3種類。それに期間限定のメキシカンつけ麺が。
 
-<img class="aligncenter" title="マンチヌードル" src="/legacy-media/a32c9350da4d-05_44.jpg" width="300" height="225">
+<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-001862.jpg" width="300" height="225">
 
 卓上の調味料はコショウのみ。
 
-<img class="aligncenter" title="マンチヌードル" src="/legacy-media/04227d9d4427-06_38.jpg" width="300" height="225">
+<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-002117.jpg" width="300" height="225">
 
 こちらはマンチヌードルBLACK。
 
@@ -60,9 +60,9 @@ migration_review: "review"
 
 ガッツリ系かとおもいきや、スープはどちらかと言えばあっさりで、しっかりとコクのあるものでした。
 
-<img class="aligncenter" title="マンチヌードル" src="/legacy-media/a39ed1fd017a-07_39.jpg" width="300" height="225">
+<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-002362.jpg" width="300" height="225">
 
-<img class="aligncenter" title="マンチヌードル" src="/legacy-media/f50060c9d110-08_31.jpg" width="300" height="225">
+<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-002567.jpg" width="300" height="225">
 
 こちらがメキシカンつけ麺しょうゆ大盛。
 
@@ -72,16 +72,16 @@ migration_review: "review"
 
 メンマは薄味で良い食感。トロトロチャーシューを程よい香ばしさに炙ってあります。
 
-<img class="aligncenter" title="マンチヌードル" src="/legacy-media/619bdd88a5a3-09_25.jpg" width="300" height="225">
+<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-002744.jpg" width="300" height="225">
 チャーシューの味を確かめるためにチャーシュー丼も注文。角切りされたチャーシューがニンニク醤油で炒められ、食欲をそそる香り。
 
 &nbsp;
 <h2>マンチヌードルBLACK(カラメ・アブラ・ニンニクマシ)</h2>
-<img class="aligncenter" title="マンチヌードル" src="/legacy-media/f2cd3f8cf96b-01_243.jpg" width="550" height="413">
+<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-000217.jpg" width="550" height="413">
 
 久しぶりにがっつり食べたいと思い行ってきました！
 
-<img class="aligncenter" title="マンチヌードル" src="/legacy-media/b7194dd1c6a7-02_218.jpg" width="550" height="413">
+<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-000637.jpg" width="550" height="413">
 
 オープンしてその後すぐに食べに行ったのですが、二郎インスパイア系では珍しく凝った種類のラーメンが揃っていたのでちょくちょくおじゃましています。
 
@@ -95,21 +95,21 @@ migration_review: "review"
 
 &nbsp;
 <h2>エムジェー BLACK (ショウガチョイス、全マシ、肉増し)</h2>
-<img class="aligncenter" title="マンチヌードル" src="/legacy-media/15904e986850-01_373.jpg" width="700" height="525">
+<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-000376.jpg" width="700" height="525">
 
 新しい味が追加されたという噂をだいぶ前から聞いていたのですが、確かめるために行ってきました！
 
-<img class="aligncenter" title="マンチヌードル" src="/legacy-media/f7da31834a3c-02_337.jpg" width="700" height="525">
+<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-000781.jpg" width="700" height="525">
 
 外観は相変わらず可愛い感じ。でもその実態はラーメンを貪る漢の巣窟。
 
 と言いつつ、いつも一人は女性のお客さんがいます。全部食べきったのを見たことはありませんが。
 
-<img class="aligncenter" title="マンチヌードル" src="/legacy-media/d8fa3ea313db-03_317.jpg" width="700" height="525">
+<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-001170.jpg" width="700" height="525">
 
-<img class="aligncenter" title="マンチヌードル" src="/legacy-media/a0f59c34bbc0-04_289.jpg" width="700" height="525">
+<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-001517.jpg" width="700" height="525">
 
-<img class="aligncenter" title="マンチヌードル" src="/legacy-media/f8d797c09da7-05_262.jpg" width="525" height="700">
+<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-001821.jpg" width="525" height="700">
 
 メニューを見てみると…
 
@@ -119,7 +119,7 @@ migration_review: "review"
 
 それだけかと思ったらオリジナルヌードルの種類も増えてる！肉盛り塩とかめっちゃ気になる…良いですね～良い進化ですね～！
 
-<img class="aligncenter" title="マンチヌードル" src="/legacy-media/785b5885b497-06_230.jpg" width="700" height="525">
+<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-002083.jpg" width="700" height="525">
 
 ということで、注文したのはエムジェー BLACK、「ショウガ」チョイスの全マシ、肉増しで。
 
@@ -137,21 +137,21 @@ migration_review: "review"
 
 &nbsp;
 <h2>火曜・木曜限定 マンチヌードル ディップ AKANE MISO(大盛り 全マシ)</h2>
-<center><img class="aligncenter" title="マンチヌードル" src="/legacy-media/238200db6494-01_377.jpg" width="700" height="525"></center>
+<center><img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-000380.jpg" width="700" height="525"></center>
 あまりにもコストパフォーマンスが良いのでついつい行ってしまうマンチヌードルさん。
 
 平日にたまたま行ったらなんとつけ麺があるではないですか！ということで、火曜、木曜限定のマンチヌードルディップを食べてきました！
 
-<img class="aligncenter" title="マンチヌードル" src="/legacy-media/9a6f2be9f3d2-02_341.jpg" width="700" height="525">
+<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-000787.jpg" width="700" height="525">
 
 今日はマンチにしようかエムジェーにしようか悩みつつお店に行ってみると、火曜、木曜限定のマンチヌードルディップ、つけ麺があるではないですか！知りませんでした…
 
 通常、夏季のつけ麺は細麺なので、いつもの極太麺がつけ麺でいただけるんですから頼むしかないですよね！しかも味噌がある！
 ということで即決。
 
-<img class="aligncenter" title="マンチヌードル" src="/legacy-media/d48ad842ca84-03_321.jpg" width="700" height="525">
+<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-001176.jpg" width="700" height="525">
 
-<img class="aligncenter" title="マンチヌードル" src="/legacy-media/e5f72ab3f2cc-04_293.jpg" width="700" height="525">
+<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-001522.jpg" width="700" height="525">
 
 注文したのは火曜・木曜限定 マンチヌードル ディップ AKANE MISO(大盛り 全マシ)。
 
@@ -179,11 +179,11 @@ migration_review: "review"
 
 &nbsp;
 <h2>火曜・木曜限定 マンチヌードル ディップ SPICY CURRY (全マシ)</h2>
-<img class="aligncenter" title="マンチヌードル" src="/legacy-media/ed2ef5501e32-01_392.jpg" width="700" height="525">
+<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-000398.jpg" width="700" height="525">
 
 マンチヌードル中毒が止まらねぇ！これは危険ドラッグならぬ危険ラーメンだぁ！
 
-<img class="aligncenter" title="マンチヌードル" src="/legacy-media/bea1828fa32e-02_355.jpg" width="700" height="525">
+<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-000803.jpg" width="700" height="525">
 
 ほんともう中毒っす。この山を見なければ行きていけない体になりつつある…
 
@@ -193,9 +193,9 @@ migration_review: "review"
 
 でもやみつきになる何かが絶対入ってるって！
 
-<img class="aligncenter" title="マンチヌードル" src="/legacy-media/04f98d725ec4-03_335.jpg" width="700" height="525">
+<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-001192.jpg" width="700" height="525">
 
-<img class="aligncenter" title="マンチヌードル" src="/legacy-media/18ce62414a0f-04_305.jpg" width="525" height="700">
+<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-001537.jpg" width="525" height="700">
 
 今日は前回に引き続き火曜・木曜限定のマンチヌードル ディップ SPICY CURRYの全マシ。
 
@@ -227,7 +227,7 @@ migration_review: "review"
 
 &nbsp;
 <h2>本当にありがとうございました。復活願っています。</h2>
-<img class="aligncenter" title="マンチヌードル" src="/legacy-media/1cd096c67d19-10_24.jpg" width="300" height="400">
+<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-002903.jpg" width="300" height="400">
 
 &nbsp;
 <h2>店舗情報</h2>
