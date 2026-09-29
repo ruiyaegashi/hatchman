@@ -1,19 +1,12 @@
-// Fail closed until local canonical assets are hydrated. STEP 24 is not deployable.
 import fs from 'node:fs';
-import crypto from 'node:crypto';
-const ledger = JSON.parse(fs.readFileSync(new URL('../migration/media-canonical.json', import.meta.url)));
-const assets = JSON.parse(fs.readFileSync(new URL('../migration/asset-map.json', import.meta.url)));
-const objects = new Map(ledger.objects.map(o => [o.canonical_url, o]));
-const used = new Set(assets.filter(a => a.public_path).map(a => a.public_path));
-used.add('/media/site/external-image-disabled.svg');
-for (const url of used) {
-  const object = objects.get(url);
-  if (!object) throw new Error(`No canonical object: ${url}`);
-  const path = new URL(`../public${url}`, import.meta.url);
-  if (!fs.existsSync(path)) throw new Error(`Local media missing: ${url}. Run scripts/normalize_media.py as documented in docs/MEDIA_NORMALIZATION.md. R2 delivery is not implemented; do not deploy STEP 24.`);
-  const data = fs.readFileSync(path);
-  if (data.length !== object.bytes || crypto.createHash('sha256').update(data).digest('hex') !== object.sha256) {
-    throw new Error(`Canonical media differs: ${url}`);
-  }
-}
-console.log(`Canonical local build assets verified: ${used.size}`);
+import assert from 'node:assert/strict';
+import { execFileSync } from 'node:child_process';
+import { fileURLToPath } from 'node:url';
+execFileSync(process.execPath,[fileURLToPath(new URL('generate_media_runtime.mjs',import.meta.url)),'--check'],{stdio:'inherit'});
+const root=new URL('../',import.meta.url);
+const assets=JSON.parse(fs.readFileSync(new URL('migration/asset-map.json',root)));
+const registry=JSON.parse(fs.readFileSync(new URL('migration/media-manifest.json',root)));
+const urls=new Set(registry.objects.map(o=>o.canonical_url));
+for(const a of assets)if(a.public_path)assert(urls.has(a.public_path),`Missing media ${a.public_path}`);
+for(const dir of ['public/legacy-media','public/media'])assert(!fs.existsSync(new URL(dir,root)),`${dir} must not be shipped; retain source/staging outside public`);
+console.log('R2 manifest references verified; static media payload absent. Upload and deployment remain separate steps.');

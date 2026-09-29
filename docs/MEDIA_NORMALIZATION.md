@@ -1,5 +1,7 @@
 # STEP 24: local canonical media normalization
 
+現在の配信実装と検証手順は [MEDIA_DELIVERY.md](MEDIA_DELIVERY.md) を参照。この文書はSTEP 24時点の正規化手順を記録するもので、local hydrationをSTEP 28の配信buildへ持ち込まない。
+
 Decision: YDI `Issues/Hatchman-Production.md`, STEP 23 / STEP 24, 2026-09-28.
 Source service main: `6f1c205fbeeccb120fb8af9fe56a43c913498679`.
 
