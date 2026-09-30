@@ -57,13 +57,15 @@ async function serve(request:Request,env:MediaEnv,key:string):Promise<Response> 
   const rangeAllowed=!ifRange || ifRange===metadata.httpEtag || (!ifRange.includes('"') && Math.floor(metadata.uploaded.getTime()/1000)*1000<=Date.parse(ifRange));
   const range=rangeAllowed?parseRange(request.headers.get('range'),metadata.size):null;
   if(range==='unsatisfiable'){headers.set('content-range',`bytes */${metadata.size}`);return new Response(null,{status:416,headers});}
-  const conditions=new Headers(request.headers);
-  if(conditions.has('if-match'))conditions.delete('if-unmodified-since');
-  if(conditions.has('if-none-match'))conditions.delete('if-modified-since');
-  const object=await env.MEDIA.get(key,{onlyIf:conditions,...(range?{range}:{})});
+  const object=await env.MEDIA.get(key,range?{range}:{});
   if(!object)return new Response(null,{status:404});
+
   const responseHeaders=headersFor(object,key);
-  if(!('body' in object))return new Response(null,{status:conditionStatus(conditions,object)??412,headers:responseHeaders});
+
+  const finalPrecondition=conditionStatus(request.headers,object);
+  if(finalPrecondition)return new Response(null,{status:finalPrecondition,headers:responseHeaders});
+
+  if(!('body' in object))return new Response(null,{status:500,headers:responseHeaders});
   const actual=object.range;
   if(range && actual && 'offset' in actual && actual.offset!==undefined && 'length' in actual && actual.length!==undefined){
     responseHeaders.set('content-range',`bytes ${actual.offset}-${actual.offset+actual.length-1}/${object.size}`);
