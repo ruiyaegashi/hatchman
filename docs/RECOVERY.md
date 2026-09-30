@@ -2,6 +2,29 @@
 
 この文書は既存productへ戻るための手順です。責任・設計の変更や、Amazon / Domain / Mailの採用判断を行うものではありません。
 
+## 0. 現在のProduction Reality
+
+2026-09-30時点:
+
+- public domain: `https://hatchman.org`
+- hosting: Cloudflare Pages project `hatchman`
+- deploy source: このrepositoryの `main`
+- production deploy: GitHub連携のautomatic deployment
+- DNS authority: Cloudflare DNS
+- Registrar: XServer
+- XServer独自ドメイン永久無料特典: 維持
+- media storage: private R2 bucket `hatchman-media`
+- Pages binding: `MEDIA -> hatchman-media`
+- runtime: Astro static site + Cloudflare Pages Functions
+- old XServer WordPress / Web hosting: 退役済み
+
+Production復旧では、XServerの旧WordPress環境をoriginとして戻すことを前提にしません。
+まずCloudflare Pages / DNS / R2 / 実HTTPを現在Realityとして確認してください。
+
+Production復帰の詳細な完了記録はYDI Drive logical ID
+`log/hatchman/20260930/production-recovery-closeout`
+を参照します。
+
 ## 1. 現在状態を確定する
 
 組織の入口はREADMEから参照するYDIの文書です。YDIの現在状態はGitHub上のmainを基準とし、branch / open PRは未統合成果として読み、Issueや過去レポートを実装済み機能と混同しません。
@@ -26,7 +49,7 @@ originが `https://github.com/ruiyaegashi/hatchman.git` を指すことを確認
 
 ## 2. GitHubだけで戻れる範囲
 
-`src/content/legacy/`、`public/legacy-media/`、`public/_redirects`、`migration/`、実装とlockfileはGitHubにあります。READMEのinstall / check / build / devで静的サイトを復元でき、元SQLや発掘台帳は通常buildの必須入力ではありません。
+`src/content/legacy/`、`public/_redirects`、`migration/`、media manifest / mapping、Pages Functions実装、lockfileはGitHubにあります。canonical media binary本体はGitHubではなくprivate R2 `hatchman-media` にあります。READMEのinstall / check / build / devで静的サイト部分を復元できますが、Production相当のmedia配信にはR2 bindingが必要です。元SQLや発掘台帳は通常buildの必須入力ではありません。
 
 `pnpm run dev` は起動し続けるので終了はCtrl+C。表示処理を変えていない復旧作業でも、公開記事とdraftを分けて確認します。静的buildだけではCloudflare Function、Amazon資格、メール、本番配信を確認したことにはなりません。
 
@@ -68,7 +91,7 @@ pnpm run validate --backup-root "<backup-root>"
 
 ## 4. 再移行は別作業
 
-`migrate` は既存 `src/content/legacy/` と `public/legacy-media/` を削除して再生成し、migration台帳と `_redirects` を上書きします。通常確認の前処理ではありません。
+`migrate` は既存 `src/content/legacy/` とmigration由来資産を再生成し、migration台帳やredirect関連成果を上書きし得ます。現在のProduction mediaはprivate R2構成なので、再移行結果をそのままR2やProductionへ反映しません。通常確認の前処理ではありません。
 
 必要な指示を受けた場合だけ、変更を保全したうえで新しい使い捨てcheckoutを作り、元バックアップを外部指定します。
 
@@ -88,3 +111,45 @@ git status --short
 `HATCHMAN_ARCHAEOLOGY.md` は元作業領域の `hatchman-archaeology/` にある発掘時の資料です。SHA-256と調査範囲は [Recovery調査](../reports/RECOVERY_AUDIT_2026-09-23.md) を参照します。保管場所を管理者へ確認し、日付と実物を照合してください。この資料がなくても現在の静的サイトはbuildできます。
 
 資料中の移行案・旧パスを現在の手順へ自動適用しません。現行台帳と実装を優先し、矛盾や不足はBODへ返します。Amazon Previewの統合、商品採用、Domain / Mailの方式・切替、全体Architectureの判断はこの復旧手順の範囲外です。
+
+
+## 6. Production復旧チェック
+
+Production障害時は次を分離して確認します。
+
+1. GitHub
+   - `main` のSHA
+   - open PR / 未統合branch
+   - `pnpm check`
+   - `pnpm build`
+   - media / Functions関連test
+2. Cloudflare Pages
+   - project `hatchman`
+   - Production branch `main`
+   - latest Production deployment
+   - custom domain `hatchman.org`
+3. Cloudflare DNS
+   - `hatchman.org` zoneがActiveか
+   - authorityがCloudflare nameserverか
+   - Pages custom domainと矛盾する旧origin recordがないか
+4. R2
+   - private bucket `hatchman-media`
+   - Pages binding `MEDIA`
+   - canonical object存在
+5. 実HTTP
+   - homepage / article
+   - canonical `/media/*`
+   - old media URL -> canonical 301
+   - `?p=` / `?page_id=`
+   - old slug
+   - Range
+   - ETag / If-None-Match
+   - 404 / 405
+   - cache header
+
+注意:
+
+- PreviewでPASSしてもProduction固有の挙動を省略しない。2026-09-30にはR2 conditional GETがProductionで500になりhotfixした。
+- Cloudflare Browser Cache TTLがorigin `Cache-Control` を上書きしていないか確認する。
+- HEADで `Content-Length` がないobjectは、GET body size / Content-Type / 必要ならSHA-256へfallbackして判定する。
+- XServerはWeb hostingのRecovery先ではない。Registrarとhostingを混同しない。
