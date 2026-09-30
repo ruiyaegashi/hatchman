@@ -13,7 +13,10 @@ try {
   let r=await fetch('/media/'+key);const etag=r.headers.get('etag');eq(r.status,200);eq(await r.text(),'0123456789');eq(r.headers.get('content-type'),'image/png');
   r=await fetch('/media/'+key,{method:'HEAD'});eq(r.status,200);eq(await r.text(),'');eq(r.headers.get('content-length'),'10');
   r=await fetch('/media/'+key,{headers:{'if-none-match':etag}});eq(r.status,304);
+  r=await fetch('/media/'+key,{headers:{'if-none-match':'"different"'}});eq(r.status,200);eq(await r.text(),'0123456789');
+  r=await fetch('/media/'+key,{headers:{'if-none-match':'*'}});eq(r.status,304);
   r=await fetch('/media/'+key,{headers:{'if-match':'"different"'}});eq(r.status,412);
+  r=await fetch('/media/'+key,{headers:{'if-modified-since':'Wed, 30 Sep 2037 00:00:00 GMT'}});eq(r.status,304);
   for(const [range,expected,body,contentRange] of [['bytes=2-4',206,'234','bytes 2-4/10'],['bytes=-2',206,'89','bytes 8-9/10'],['bytes=10-',416,'','bytes */10']]){
     r=await fetch('/media/'+key,{headers:{range}});eq(r.status,expected);eq(await r.text(),body);eq(r.headers.get('content-range'),contentRange);
   }
