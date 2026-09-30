@@ -17,7 +17,7 @@ source_content_chars: 4098
 migration_review: "review"
 ---
 <h2>静岡街中唯一の油そば専門店</h2>
-<img class="aligncenter wp-image-9603 size-large" title="静岡御幸町(韋駄天の隣)油そば専門店「油そば 柳」油そばW盛り" src="/legacy-media/c3260f9c1048-aburasobayanagi1-1060x795.jpg" alt="aburasobayanagi1" width="640" height="480">
+<img class="aligncenter wp-image-9603 size-large" title="静岡御幸町(韋駄天の隣)油そば専門店「油そば 柳」油そばW盛り" src="/media/legacy/legacy-004688.jpg" alt="aburasobayanagi1" width="640" height="480">
 
 油そばが浸透して結構経ちますが、こちらの「油そば 柳」は静岡の街中で唯一の専門店です。
 
@@ -31,9 +31,9 @@ migration_review: "review"
 
 <aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4048947362&quot; locale=&quot;JP&quot; title=&quot;ラーメンウォーカームック ラーメンWalker静岡2016&quot;]</code></details></aside>
 <h2>メニュー</h2>
-<img class="aligncenter wp-image-9604 size-large" title="静岡御幸町(韋駄天の隣)油そば専門店「油そば 柳」油そばW盛り" src="/legacy-media/959f9ba1cbc0-aburasobayanagi2-795x1060.jpg" alt="aburasobayanagi2" width="640" height="853">
+<img class="aligncenter wp-image-9604 size-large" title="静岡御幸町(韋駄天の隣)油そば専門店「油そば 柳」油そばW盛り" src="/media/legacy/legacy-004690.jpg" alt="aburasobayanagi2" width="640" height="853">
 
-<img class="aligncenter wp-image-9598 size-large" title="静岡御幸町(韋駄天の隣)油そば専門店「油そば 柳」油そばW盛り" src="/legacy-media/121047089d78-aburasobayanagi3-1060x795.jpg" alt="aburasobayanagi3" width="640" height="480">
+<img class="aligncenter wp-image-9598 size-large" title="静岡御幸町(韋駄天の隣)油そば専門店「油そば 柳」油そばW盛り" src="/media/legacy/legacy-004692.jpg" alt="aburasobayanagi3" width="640" height="480">
 
 メニューは専門店なのでシンプル。
 
@@ -45,7 +45,7 @@ migration_review: "review"
 
 &nbsp;
 <h2>油そばの食べ方</h2>
-<img class="aligncenter wp-image-9599 size-large" title="静岡御幸町(韋駄天の隣)油そば専門店「油そば 柳」油そばW盛り" src="/legacy-media/5f35f61cb244-aburasobayanagi4-1060x795.jpg" alt="aburasobayanagi4" width="640" height="480">
+<img class="aligncenter wp-image-9599 size-large" title="静岡御幸町(韋駄天の隣)油そば専門店「油そば 柳」油そばW盛り" src="/media/legacy/legacy-004694.jpg" alt="aburasobayanagi4" width="640" height="480">
 
 油そばを食べたことのない人のために「油そば 美味しい召し上がり方」という説明書きもあります。
 
@@ -55,7 +55,7 @@ migration_review: "review"
 
 紙エプロンも目の前に置いてあるので、服が気になる女性も安心。
 
-<img class="aligncenter wp-image-9600 size-large" title="静岡御幸町(韋駄天の隣)油そば専門店「油そば 柳」油そばW盛り" src="/legacy-media/97ceccb24541-aburasobayanagi5-1060x795.jpg" alt="aburasobayanagi5" width="640" height="480">
+<img class="aligncenter wp-image-9600 size-large" title="静岡御幸町(韋駄天の隣)油そば専門店「油そば 柳」油そばW盛り" src="/media/legacy/legacy-004696.jpg" alt="aburasobayanagi5" width="640" height="480">
 
 こちらのお店は調味料が豊富。お酢とラー油は当たり前として、ごま、豆板醤、刻みタマネギ、ニンニク、フライドオニオンがあります。
 
@@ -65,9 +65,9 @@ migration_review: "review"
 
 <aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4048947362&quot; locale=&quot;JP&quot; title=&quot;ラーメンウォーカームック ラーメンWalker静岡2016&quot;]</code></details></aside>
 <h2>油そばW盛、Bトッピング、追い飯</h2>
-<img class="aligncenter wp-image-9601 size-large" title="静岡御幸町(韋駄天の隣)油そば専門店「油そば 柳」油そばW盛り" src="/legacy-media/5fc304c39ec7-aburasobayanagi6-1060x795.jpg" alt="aburasobayanagi6" width="640" height="480">
+<img class="aligncenter wp-image-9601 size-large" title="静岡御幸町(韋駄天の隣)油そば専門店「油そば 柳」油そばW盛り" src="/media/legacy/legacy-004698.jpg" alt="aburasobayanagi6" width="640" height="480">
 
-<img class="aligncenter wp-image-9602 size-large" title="静岡御幸町(韋駄天の隣)油そば専門店「油そば 柳」油そばW盛り" src="/legacy-media/980fca7ce282-aburasobayanagi7-1060x795.jpg" alt="aburasobayanagi7" width="640" height="480">
+<img class="aligncenter wp-image-9602 size-large" title="静岡御幸町(韋駄天の隣)油そば専門店「油そば 柳」油そばW盛り" src="/media/legacy/legacy-004700.jpg" alt="aburasobayanagi7" width="640" height="480">
 
 この見た目、ねこまんまが食べられない人には無理でしょう。関西人ならなんの抵抗もないはず。
 

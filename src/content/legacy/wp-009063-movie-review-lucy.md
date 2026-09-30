@@ -16,7 +16,7 @@ source_content_sha256: "9a5ff967fffe7324ca7fb4d203878859927ca29b413934dc9be5abf5
 source_content_chars: 1698
 migration_review: "review"
 ---
-<img class="aligncenter" title="" src="/legacy-media/15b3d72ee480-01_28.png" alt="映画 『LUCY／ルーシー』 ">
+<img class="aligncenter" title="" src="/media/legacy/legacy-000262.png" alt="映画 『LUCY／ルーシー』 ">
 
 <a href="http://lucymovie.jp/" target="_blank">『LUCY／ルーシー』公式サイト</a>
 

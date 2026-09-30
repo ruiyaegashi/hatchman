@@ -17,15 +17,15 @@ source_content_chars: 1679
 migration_review: "review"
 ---
 <h2>クロマキースタジオとは？</h2>
-<img class="aligncenter" title="クロマキースタジオで映像制作を支援する「パンダスタジオ浜松 by NOKIOO」" src="/legacy-media/c307e2b2d75f-01_316.jpg" width="700" height="525">
+<img class="aligncenter" title="クロマキースタジオで映像制作を支援する「パンダスタジオ浜松 by NOKIOO」" src="/media/legacy/legacy-000307.jpg" width="700" height="525">
 
 一度見学させていただきたいと思っていた<a href="http://hamamatsu.pandastudio.tv/" target="_blank">パンダスタジオ浜松さん</a>ですが、縁あって見学させてもらいました。
 
-<img class="aligncenter" title="クロマキースタジオで映像制作を支援する「パンダスタジオ浜松 by NOKIOO」" src="/legacy-media/20bacdc44e79-02_288.jpg" width="700" height="525">
+<img class="aligncenter" title="クロマキースタジオで映像制作を支援する「パンダスタジオ浜松 by NOKIOO」" src="/media/legacy/legacy-000720.jpg" width="700" height="525">
 
-<img class="aligncenter" title="クロマキースタジオで映像制作を支援する「パンダスタジオ浜松 by NOKIOO」" src="/legacy-media/beca7451645f-03_273.jpg" width="525" height="700">
+<img class="aligncenter" title="クロマキースタジオで映像制作を支援する「パンダスタジオ浜松 by NOKIOO」" src="/media/legacy/legacy-001116.jpg" width="525" height="700">
 
-<img class="aligncenter" title="クロマキースタジオで映像制作を支援する「パンダスタジオ浜松 by NOKIOO」" src="/legacy-media/f28a4264aacb-04_251.jpg" width="700" height="525">
+<img class="aligncenter" title="クロマキースタジオで映像制作を支援する「パンダスタジオ浜松 by NOKIOO」" src="/media/legacy/legacy-001475.jpg" width="700" height="525">
 <blockquote>クロマキースタジオとは
 
 クロマキーは、グリーンバック（緑の背景）の前で撮影した映像と、別の映像を合成する技術です。この技術を使うことで、パソコン画面の中とプレゼンターを合成することが可能です。パンダスタジオ浜松では、フルハイビジョンによるリアルタイム合成が可能です。

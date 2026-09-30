@@ -17,7 +17,7 @@ source_content_chars: 2494
 migration_review: "review"
 ---
 <h2>良い食材で美味しい料理を</h2>
-<img class="aligncenter" title="静岡市清水IAIスタジアム日本平 こなから" src="/legacy-media/cdf7174548e9-P20121123_143513431.jpg" width="300" height="225">
+<img class="aligncenter" title="静岡市清水IAIスタジアム日本平 こなから" src="/media/legacy/legacy-004573.JPG" width="300" height="225">
 
 先日清水に行ったついでに美味しい魚が食べたいとお店を探していたら、こちらのお店を見つけました。
 
@@ -27,31 +27,31 @@ migration_review: "review"
 
 &nbsp;
 <h2>ランチメニューは定食メイン</h2>
-<img class="aligncenter" title="静岡市清水IAIスタジアム日本平 こなから" src="/legacy-media/987e91715079-P20121123_142955764.jpg" width="300" height="400">
+<img class="aligncenter" title="静岡市清水IAIスタジアム日本平 こなから" src="/media/legacy/legacy-004572.jpg" width="300" height="400">
 
 お昼すぎに行ったのですが、メニューはこんな感じ。
 
 基本は定食なのですが、一品料理にも美味しそうなものがずらり。
 
-<img class="aligncenter" title="静岡市清水IAIスタジアム日本平 こなから" src="/legacy-media/5952ee8fa528-P20121123_140032356.jpg" width="300" height="225">
+<img class="aligncenter" title="静岡市清水IAIスタジアム日本平 こなから" src="/media/legacy/legacy-004567.jpg" width="300" height="225">
 
 我慢できず、とりあえず牛すじ煮込みを注文。これが大当たり。
 
 よく煮込まれた牛すじは柔らかく、魚介の香りのする煮汁がよく染み込んでいて、たまりませんでした。
 
-<img class="aligncenter" title="静岡市清水IAIスタジアム日本平 こなから" src="/legacy-media/28fdacd72ff1-P20121123_140324026.jpg" width="300" height="225">
+<img class="aligncenter" title="静岡市清水IAIスタジアム日本平 こなから" src="/media/legacy/legacy-004570.jpg" width="300" height="225">
 
 そしてメインで頼んだのがこちらのまぐろのカマ塩焼き定食。
 
-<img class="aligncenter" title="静岡市清水IAIスタジアム日本平 こなから" src="/legacy-media/4d4b113d5203-P20121123_140338224.jpg" width="300" height="225">
+<img class="aligncenter" title="静岡市清水IAIスタジアム日本平 こなから" src="/media/legacy/legacy-004571.jpg" width="300" height="225">
 
 これが立派なカマで、脂も乗っており、身自体も柔らかくて美味しい。ほんとに塩だけで十分。
 
-<img class="aligncenter" title="静岡市清水IAIスタジアム日本平 こなから" src="/legacy-media/96e2951b2762-P20121123_140136741.jpg" width="300" height="225">
+<img class="aligncenter" title="静岡市清水IAIスタジアム日本平 こなから" src="/media/legacy/legacy-004568.jpg" width="300" height="225">
 
 こちらはマグロのネギトロ丼。
 
-<img class="aligncenter" title="静岡市清水IAIスタジアム日本平 こなから" src="/legacy-media/606bc4d56ae2-P20121123_140143544.jpg" width="300" height="225">
+<img class="aligncenter" title="静岡市清水IAIスタジアム日本平 こなから" src="/media/legacy/legacy-004569.jpg" width="300" height="225">
 
 温泉卵が乗っていたのでこれはもしや…と嫌な予感がしたのですが、それは良い意味で裏切ってくれました。
 

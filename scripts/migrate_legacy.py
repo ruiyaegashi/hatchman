@@ -241,5 +241,7 @@ def main():
     (ROOT/'public/_redirects').write_text(redirects,encoding='utf-8')
     summary={'contents':len(inventory),'public':sum(x['status']=='publish' for x in inventory),'drafts':sum(x['status']=='draft' for x in inventory),'redirects':len(redirect_rows),'inline_image_references':sum(x['kind']=='inline-image' for x in asset_map),'linked_media_references':sum(x['kind']=='linked-media' for x in asset_map),'asset_status':dict(collections.Counter(x['status'] for x in asset_map)),'unique_local_assets':len(copied),'transforms':dict(transform_stats)}
     (migration/'migration-summary.json').write_text(json.dumps(summary,ensure_ascii=False,indent=2),encoding='utf-8')
+    from normalize_media import apply_canonical_references
+    summary['canonical_media'] = apply_canonical_references(ROOT)
     print(json.dumps(summary,ensure_ascii=False,indent=2))
 if __name__=='__main__': main()

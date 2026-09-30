@@ -17,7 +17,7 @@ source_content_chars: 1665
 migration_review: "review"
 ---
 <h2>怪しい…</h2>
-<img class="aligncenter" title="浜松漢方サロンれいんぼう" src="/legacy-media/1a905d12edc5-433.jpg" width="300" height="400">
+<img class="aligncenter" title="浜松漢方サロンれいんぼう" src="/media/legacy/legacy-004229.jpg" width="300" height="400">
 
 <aside class="legacy-disabled legacy-shortcode"><strong>旧browser-shot（停止）</strong><details><summary>原文</summary><code>[browser-shot url=&quot;http://www.kanpo-rainbow.net/&quot; width=&quot;600&quot; height=&quot;450&quot;]</code></details></aside>
 
@@ -39,13 +39,13 @@ migration_review: "review"
 原因がはっきりしていない病気や不定愁訴、検査結果には出ない不快な症状、未病の状態などを得意としています。</blockquote>
 &nbsp;
 <h2>漢方の香り漂う店内</h2>
-<img class="aligncenter" title="浜松漢方サロンれいんぼう" src="/legacy-media/cf11100254b1-434.jpg" width="300" height="400">
+<img class="aligncenter" title="浜松漢方サロンれいんぼう" src="/media/legacy/legacy-004230.jpg" width="300" height="400">
 
-<img class="aligncenter" title="浜松漢方サロンれいんぼう" src="/legacy-media/f8f35bd5afdf-435.jpg" width="300" height="225">
+<img class="aligncenter" title="浜松漢方サロンれいんぼう" src="/media/legacy/legacy-004231.jpg" width="300" height="225">
 
-<img class="aligncenter" title="浜松漢方サロンれいんぼう" src="/legacy-media/23dbe1130fca-436.jpg" width="300" height="225">
+<img class="aligncenter" title="浜松漢方サロンれいんぼう" src="/media/legacy/legacy-004232.jpg" width="300" height="225">
 
-<img class="aligncenter" title="浜松漢方サロンれいんぼう" src="/legacy-media/82e601361460-437.jpg" width="300" height="225">
+<img class="aligncenter" title="浜松漢方サロンれいんぼう" src="/media/legacy/legacy-004233.jpg" width="300" height="225">
 
 多種多様な漢方が揃っていて、漢方独特の香りがします。
 
@@ -57,7 +57,7 @@ migration_review: "review"
 
 &nbsp;
 <h2>漢方を使ったエステ</h2>
-<img class="aligncenter" title="浜松漢方サロンれいんぼう" src="/legacy-media/847981814838-438.jpg" width="300" height="400">
+<img class="aligncenter" title="浜松漢方サロンれいんぼう" src="/media/legacy/legacy-004234.jpg" width="300" height="400">
 
 漢方はただ飲むだけの薬ではありません。
 
@@ -70,7 +70,7 @@ migration_review: "review"
 </ul>
 等のエステメニューもあります。
 
-<img class="aligncenter" title="浜松漢方サロンれいんぼう" src="/legacy-media/222daf023600-439.jpg" width="300" height="400">
+<img class="aligncenter" title="浜松漢方サロンれいんぼう" src="/media/legacy/legacy-004235.jpg" width="300" height="400">
 
 他にも、体の芯から温まる「デトックス漢方座浴」も。
 

@@ -17,7 +17,7 @@ source_content_chars: 3949
 migration_review: "review"
 ---
 <h2>麺屋たろうず、麺屋蔵の助と同系列</h2>
-<img class="aligncenter wp-image-9521 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/legacy-media/0b5308766f90-menyaninomiya1-1060x795.jpg" alt="menyaninomiya1" width="640" height="480">
+<img class="aligncenter wp-image-9521 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/media/legacy/legacy-004875.jpg" alt="menyaninomiya1" width="640" height="480">
 
 流通通りと南幹線の池田交差点すぐ南にあるこちらの「麺屋にのみや」。
 
@@ -31,19 +31,19 @@ migration_review: "review"
 
 <aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4048947362&quot; locale=&quot;JP&quot; title=&quot;ラーメンウォーカームック ラーメンWalker静岡2016&quot;]</code></details></aside>
 <h2>ちょっと見づらいメニュー</h2>
-<img class="aligncenter wp-image-9522 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/legacy-media/9e88a09d340e-menyaninomiya2-795x1060.jpg" alt="menyaninomiya2" width="640" height="853">
+<img class="aligncenter wp-image-9522 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/media/legacy/legacy-004877.jpg" alt="menyaninomiya2" width="640" height="853">
 
-<img class="aligncenter wp-image-9523 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/legacy-media/38ed598d08a1-menyaninomiya3-795x1060.jpg" alt="menyaninomiya3" width="640" height="853">
+<img class="aligncenter wp-image-9523 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/media/legacy/legacy-004879.jpg" alt="menyaninomiya3" width="640" height="853">
 
-<img class="aligncenter wp-image-9524 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/legacy-media/51e8f52007be-menyaninomiya4-795x1060.jpg" alt="menyaninomiya4" width="640" height="853">
+<img class="aligncenter wp-image-9524 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/media/legacy/legacy-004881.jpg" alt="menyaninomiya4" width="640" height="853">
 
-<img class="aligncenter wp-image-9525 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/legacy-media/e9a75650d2ba-menyaninomiya5-795x1060.jpg" alt="menyaninomiya5" width="640" height="853">
+<img class="aligncenter wp-image-9525 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/media/legacy/legacy-004883.jpg" alt="menyaninomiya5" width="640" height="853">
 
-<img class="aligncenter wp-image-9526 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/legacy-media/58b2e978dd87-menyaninomiya6-795x1060.jpg" alt="menyaninomiya6" width="640" height="853">
+<img class="aligncenter wp-image-9526 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/media/legacy/legacy-004885.jpg" alt="menyaninomiya6" width="640" height="853">
 
-<img class="aligncenter wp-image-9527 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/legacy-media/a03651fd53ce-menyaninomiya7-795x1060.jpg" alt="menyaninomiya7" width="640" height="853">
+<img class="aligncenter wp-image-9527 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/media/legacy/legacy-004887.jpg" alt="menyaninomiya7" width="640" height="853">
 
-<img class="aligncenter wp-image-9528 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/legacy-media/244a8f49645d-menyaninomiya8-795x1060.jpg" alt="menyaninomiya8" width="640" height="853">
+<img class="aligncenter wp-image-9528 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/media/legacy/legacy-004889.jpg" alt="menyaninomiya8" width="640" height="853">
 
 もはやこの系列あるあるなのですが、ファミレスのようでメニューが見づらい。
 
@@ -61,7 +61,7 @@ migration_review: "review"
 
 <aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4048947362&quot; locale=&quot;JP&quot; title=&quot;ラーメンウォーカームック ラーメンWalker静岡2016&quot;]</code></details></aside>
 <h2>肉盛豪麺</h2>
-<img class="aligncenter wp-image-9529 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/legacy-media/53ec68167f25-menyaninomiya9-1060x795.jpg" alt="menyaninomiya9" width="640" height="480">
+<img class="aligncenter wp-image-9529 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/media/legacy/legacy-004891.jpg" alt="menyaninomiya9" width="640" height="480">
 
 味は家系ではないにしてもかなりオーソドックスで万人受け。系列だなぁ。
 

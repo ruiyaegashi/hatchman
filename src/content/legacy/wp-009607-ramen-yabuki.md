@@ -17,7 +17,7 @@ source_content_chars: 4595
 migration_review: "review"
 ---
 <h2>ランキング常連でも気を抜かないお店</h2>
-<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/legacy-media/68dc13a349e4-10_112.jpg" width="700" height="525">
+<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/legacy/legacy-002853.jpg" width="700" height="525">
 
 キングオブ静岡ラーメンで1位、食べログランキングでも上位常連ながら、無駄に多店舗展開せず、味が安定している人気店です。
 
@@ -29,9 +29,9 @@ migration_review: "review"
 
 <aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4048947362&quot; locale=&quot;JP&quot; title=&quot;ラーメンウォーカームック ラーメンWalker静岡2016&quot;]</code></details></aside>
 <h2>メニュー(本店)</h2>
-<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/legacy-media/a212ffd91c01-03_224.jpg" width="700" height="525">
+<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/legacy/legacy-001058.jpg" width="700" height="525">
 
-<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/legacy-media/a8f3d0e74853-04_214.jpg" width="700" height="525">
+<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/legacy/legacy-001431.jpg" width="700" height="525">
 
 メニューは豚骨、魚介豚骨、つけ麺とシンプル。
 
@@ -43,7 +43,7 @@ migration_review: "review"
 
 &nbsp;
 <h2>魚介豚骨ラーメン(本店)</h2>
-<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/legacy-media/64f7a6df5ff6-05_200.jpg" width="700" height="525">
+<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/legacy/legacy-001753.jpg" width="700" height="525">
 魚介が強く、それに負けないカエシの味、かなりパンチがあるので豚骨醤油ラーメンでは珍しい部類です。
 
 麺は中太ストレートでスープとのバランスも良い。
@@ -54,13 +54,13 @@ migration_review: "review"
 
 &nbsp;
 <h2>期間限定 丸特釜あげつけめん(本店)</h2>
-<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/legacy-media/1d90f4cffa52-01_260.jpg" width="700" height="525">
+<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/legacy/legacy-000238.jpg" width="700" height="525">
 
-<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/legacy-media/3fe469b5a1e3-06_177.jpg" width="700" height="525">
+<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/legacy/legacy-002023.jpg" width="700" height="525">
 
-<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/legacy-media/05fd3bc85756-07_169.jpg" width="700" height="525">
+<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/legacy/legacy-002275.jpg" width="700" height="525">
 
-<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/legacy-media/d4d0da8aa54b-08_153.jpg" width="700" height="525">
+<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/legacy/legacy-002498.jpg" width="700" height="525">
 
 熱盛の進化系「釜あげ」。最後まで麺があつあつの状態でいただけます。
 
@@ -78,13 +78,13 @@ migration_review: "review"
 
 <aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4048947362&quot; locale=&quot;JP&quot; title=&quot;ラーメンウォーカームック ラーメンWalker静岡2016&quot;]</code></details></aside>
 <h2>ギョーザ(本店)</h2>
-<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/legacy-media/7f7725539b15-09_131.jpg" width="700" height="525">
+<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/legacy/legacy-002688.jpg" width="700" height="525">
 
 カリカリもっちり、オーソドックスですが、タネも食材がたくさん感じられて美味しい。
 
 &nbsp;
 <h2>醤油つけ麺、特盛、特トッピング、チャーシューライス(西脇店)</h2>
-<img class="aligncenter wp-image-9608 size-large" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/legacy-media/74e881d469e9-yabukinishiwaki-1060x795.jpg" alt="yabukinishiwaki" width="640" height="480">
+<img class="aligncenter wp-image-9608 size-large" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/legacy/legacy-004989.jpg" alt="yabukinishiwaki" width="640" height="480">
 
 明らかに食べ過ぎ(笑)
 

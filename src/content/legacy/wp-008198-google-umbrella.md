@@ -17,7 +17,7 @@ source_content_chars: 1511
 migration_review: "review"
 ---
 <h2>こ、このアイコンは…</h2>
-<img src="/legacy-media/e7a192b9d5f4-P20121116_084844326.jpg" alt="">
+<img src="/media/legacy/legacy-004519.jpg" alt="">
 
 誰でも見覚えがあるでしょう、このピン。
 

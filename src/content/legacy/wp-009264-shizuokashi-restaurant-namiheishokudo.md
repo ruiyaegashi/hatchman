@@ -17,7 +17,7 @@ source_content_chars: 2494
 migration_review: "review"
 ---
 <h2>地元で知らない人はいない有名洋食屋さん！</h2>
-<img class="aligncenter wp-image-5866 size-full" src="/legacy-media/ff3cd73ef16d-IMG_0563.jpg" alt="静岡市 なみへい食堂 外観" width="300" height="400">
+<img class="aligncenter wp-image-5866 size-full" src="/media/legacy/legacy-004404.jpg" alt="静岡市 なみへい食堂 外観" width="300" height="400">
 
 名前も相まって地元では超有名な「なみへい食堂」さん。
 
@@ -31,7 +31,7 @@ migration_review: "review"
 
 &nbsp;
 <h2>おすすめはオムライスとドリア！</h2>
-<img class="aligncenter wp-image-5864 size-full" src="/legacy-media/afeee63ffae8-IMG_0560.jpg" alt="静岡市 なみへい食堂 オムライス" width="300" height="225">
+<img class="aligncenter wp-image-5864 size-full" src="/media/legacy/legacy-004402.jpg" alt="静岡市 なみへい食堂 オムライス" width="300" height="225">
 
 いわゆる街の洋食屋さんよりはメニューが豊富で、その中でもオムライスとドリアが有名。美味しいドリアがお手軽にいただけるお店って少ないので非常にありがたいです。
 
@@ -41,7 +41,7 @@ migration_review: "review"
 
 &nbsp;
 <h2>魚介がプリップリ「シーフードクリームのオムライス」</h2>
-<img class="aligncenter wp-image-5863 size-full" src="/legacy-media/ae548f30de3f-IMG_0559.jpg" alt="静岡市 なみへい食堂 シーフードクリームのオムライス" width="300" height="225">
+<img class="aligncenter wp-image-5863 size-full" src="/media/legacy/legacy-004401.jpg" alt="静岡市 なみへい食堂 シーフードクリームのオムライス" width="300" height="225">
 
 どれもこれも美味しいのですが、甘すぎない大人向けの○○クリーム系も美味しいです。
 
@@ -51,7 +51,7 @@ migration_review: "review"
 
 &nbsp;
 <h2>具材たっぷり「キノコとチキンのクリームドリア」</h2>
-<img class="aligncenter wp-image-5865 size-full" src="/legacy-media/0bbe7c0d3263-IMG_0561.jpg" alt="静岡市 なみへい食堂 キノコとチキンのクリームドリア" width="300" height="225">
+<img class="aligncenter wp-image-5865 size-full" src="/media/legacy/legacy-004403.jpg" alt="静岡市 なみへい食堂 キノコとチキンのクリームドリア" width="300" height="225">
 
 なみへい食堂さんの好きなところは具材がたっぷりなところ。
 

@@ -109,19 +109,19 @@ OEMのようなシステムで、QCYは当然のこと、今回ご紹介するCO
 
 &nbsp;
 <h2>結論。「COULAX QY8」で必要十分大満足。</h2>
-<img class="aligncenter size-large wp-image-9478" src="/legacy-media/36774e3dd9e8-COULAXQY8Bluetoothearphone2-1060x795.jpg" alt="coulaxqy8bluetoothearphone2" width="640" height="480">
+<img class="aligncenter size-large wp-image-9478" src="/media/legacy/legacy-004344.jpg" alt="coulaxqy8bluetoothearphone2" width="640" height="480">
 
 ということで、早速開封していきます。外箱は白でおしゃれ。なぜかイヤーピース、イヤークッションは別添。
 
-<img class="aligncenter size-large wp-image-9479" src="/legacy-media/7a90951b1118-COULAXQY8Bluetoothearphone3-1060x795.jpg" alt="coulaxqy8bluetoothearphone3" width="640" height="480">
+<img class="aligncenter size-large wp-image-9479" src="/media/legacy/legacy-004346.jpg" alt="coulaxqy8bluetoothearphone3" width="640" height="480">
 
 いいね～。おしゃれっぽい。
 
-<img class="aligncenter size-large wp-image-9480" src="/legacy-media/5003aa50c0f1-COULAXQY8Bluetoothearphone4-1060x795.jpg" alt="coulaxqy8bluetoothearphone4" width="640" height="480">
+<img class="aligncenter size-large wp-image-9480" src="/media/legacy/legacy-004348.jpg" alt="coulaxqy8bluetoothearphone4" width="640" height="480">
 
 同梱されていたのは、充電用のケーブルと英語の説明書とペラッペラのケース。説明書は雰囲気でなんとかなります。
 
-<img class="aligncenter size-large wp-image-9481" src="/legacy-media/ece4de961c9b-COULAXQY8Bluetoothearphone5-1060x795.jpg" alt="coulaxqy8bluetoothearphone5" width="640" height="480">
+<img class="aligncenter size-large wp-image-9481" src="/media/legacy/legacy-004350.jpg" alt="coulaxqy8bluetoothearphone5" width="640" height="480">
 
 こちらがイヤークッション(上)とイヤーピース(下)。元々イヤホンについていたのも外して並べたので、種類的にはイヤークッション5種類、イヤーピース3種類ですね。
 
@@ -131,7 +131,7 @@ OEMのようなシステムで、QCYは当然のこと、今回ご紹介するCO
 
 ちなみに、上のブーメランみたいなイヤークッションは成形時のバリのようなものがあるので、カッターとか爪切りとかでとると、耳が擦れたり痛まないと思います。
 
-<img class="aligncenter size-large wp-image-9477" src="/legacy-media/e5fb0b5a07ab-COULAXQY8Bluetoothearphone1-1060x795.jpg" alt="coulaxqy8bluetoothearphone1" width="640" height="480">
+<img class="aligncenter size-large wp-image-9477" src="/media/legacy/legacy-004342.jpg" alt="coulaxqy8bluetoothearphone1" width="640" height="480">
 
 ということでこれが全貌。ぱっと見大きそうですが、とても軽いので着けてしまえば気になりません。ケーブルはシリコンっぽくて平で柔軟性は十分。
 
@@ -143,7 +143,7 @@ Onにしたときは青色に、Offにしたときは赤色にロゴ部分が光
 
 あと、Bluetooth接続するとiPhoneの通知センター等にバッテリーの残量が出るのが便利。使用後は毎回充電するので関係ないのですが、充電を忘れたときにあとどれくらい使えるかな～と確認できるとそわそわせずに済む。
 
-<img class="aligncenter size-large wp-image-9482" src="/legacy-media/a68fe8e5ea86-COULAXQY8Bluetoothearphone6-1060x795.jpg" alt="coulaxqy8bluetoothearphone6" width="640" height="480">
+<img class="aligncenter size-large wp-image-9482" src="/media/legacy/legacy-004352.jpg" alt="coulaxqy8bluetoothearphone6" width="640" height="480">
 
 イヤホン側面を見ると、右耳側にボタンがあります。上の点2つが音量アップ、長押しで次の曲、下の点1つが音量ダウン、長押しで前の曲という感じです。
 
@@ -155,7 +155,7 @@ Onにしたときは青色に、Offにしたときは赤色にロゴ部分が光
 
 左耳側には見慣れたUSBマークのmicroUSB充電口があります。このカバー、めちゃくちゃ開けづらいのでご注意を。まあ、簡単に外れてぷらぷらされるよりはマシだと思いましょう。
 
-<img class="aligncenter size-large wp-image-9483" src="/legacy-media/c0943564c04a-COULAXQY8Bluetoothearphone7-1060x795.jpg" alt="coulaxqy8bluetoothearphone7" width="640" height="480">
+<img class="aligncenter size-large wp-image-9483" src="/media/legacy/legacy-004354.jpg" alt="coulaxqy8bluetoothearphone7" width="640" height="480">
 
 後は、イヤホン装着時、首の後のケーブルをまとめるためのパーツがあるのですが、これが結構すべっちゃう。
 

@@ -41,7 +41,7 @@ migration_review: "review"
 
 それ以外はほかの猫カフェと同じように、飲み物を片手にかわいい猫と触れ合うことができます。
 
-<img class="alignnone size-medium wp-image-9801" src="/legacy-media/7415a93fc249-s-raimu_02-670x377.jpg" alt="" width="670" height="377">
+<img class="alignnone size-medium wp-image-9801" src="/media/legacy/legacy-004927.jpg" alt="" width="670" height="377">
 
 普通の民家を改装して猫カフェをやっているこのお店では、たくさんの猫たちが穏やかにのんびり暮らしています。
 
@@ -49,7 +49,7 @@ migration_review: "review"
 
 ほかにお客さんがいないときは、膝の上に乗るのが好きな子たちがわらわらと寄ってきたり、ひとつのおもちゃを奪い合ったり......。モテモテになれるかもしれません。
 
-<img class="alignnone size-medium wp-image-9803" src="/legacy-media/1f98283ff002-s-raimu_04-503x670.jpg" alt="" width="503" height="670">
+<img class="alignnone size-medium wp-image-9803" src="/media/legacy/legacy-004931.jpg" alt="" width="503" height="670">
 
 &nbsp;
 <h2>猫スタッフを家に迎え入れることができる！かも？</h2>
@@ -79,7 +79,7 @@ migration_review: "review"
 
 猫に癒されたい方も、家に猫をお迎えしたい方も、猫カフェ来夢に足を運んでみてはいかかでしょうか？
 
-<img class="alignnone size-medium wp-image-9802" src="/legacy-media/227bf1472e72-s-raimu_03-670x503.jpg" alt="" width="670" height="503">
+<img class="alignnone size-medium wp-image-9802" src="/media/legacy/legacy-004929.jpg" alt="" width="670" height="503">
 
 &nbsp;
 <h2>お店の詳細</h2>

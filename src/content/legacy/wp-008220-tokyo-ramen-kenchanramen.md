@@ -17,7 +17,7 @@ source_content_chars: 1842
 migration_review: "review"
 ---
 <h2>千歳船橋駅、APOCシアター近く</h2>
-<img class="aligncenter" title="けんちゃんラーメンの外観" src="/legacy-media/5a9d6487f4c0-P20121104_121839545.jpg" width="300" height="225">
+<img class="aligncenter" title="けんちゃんラーメンの外観" src="/media/legacy/legacy-004466.jpg" width="300" height="225">
 
 東京都世田谷区桜丘、小田急線千歳船橋駅、APOCシアターすぐそばにあるこちらのラーメン屋さん。
 
@@ -27,13 +27,13 @@ migration_review: "review"
 
 &nbsp;
 <h2>ごまみそつけ麺+半チャーハン</h2>
-<img class="aligncenter" title="けんちゃんラーメンのごまみそつけ麺" src="/legacy-media/7369cdfb7f60-P20121104_115823783.jpg" width="300" height="225">
+<img class="aligncenter" title="けんちゃんラーメンのごまみそつけ麺" src="/media/legacy/legacy-004464.jpg" width="300" height="225">
 
 当然初めてなので大将におすすめを聞くと丁寧に説明してくれました。
 
 よく出るというこちらのごまみそつけ麺と
 
-<img class="aligncenter" title="けんちゃんラーメンの半チャーハン" src="/legacy-media/cdd50bf67767-P20121104_120052938.jpg" width="300" height="400">
+<img class="aligncenter" title="けんちゃんラーメンの半チャーハン" src="/media/legacy/legacy-004465.jpg" width="300" height="400">
 半チャーハンをいただくことに。
 
 ごまみそつけ麺はこってりと思いきやベースの動物系スープがあっさりまろやか。
@@ -50,7 +50,7 @@ migration_review: "review"
 
 &nbsp;
 <h2>割引券…</h2>
-<img class="aligncenter" title="けんちゃんラーメンの割引券" src="/legacy-media/6922f6240724-P20121104_121951729.jpg" width="300" height="400">
+<img class="aligncenter" title="けんちゃんラーメンの割引券" src="/media/legacy/legacy-004467.jpg" width="300" height="400">
 最後に割引券をいただきました。
 
 有効期限がないのは好感が持てるのですが、

@@ -35,7 +35,7 @@ Appleと聞いて何を連想しますか？僕は当然のことながら果物
 
 &nbsp;
 <h2>パソコンやインターネットに興味のなかった僕がAppleホリックに</h2>
-<img class="aligncenter size-full wp-image-5699" src="/legacy-media/3a375399754b-CIMG3905.jpg" alt="CIMG3905" width="300" height="400">
+<img class="aligncenter size-full wp-image-5699" src="/media/legacy/legacy-004336.jpg" alt="CIMG3905" width="300" height="400">
 
 それまでスティーブ・ジョブズについては名前くらいしか知りませんでしたし、アップル社といえばiPodと、玄人好み(？)のMacintoshくらいのイメージでした。
 
@@ -45,7 +45,7 @@ Appleと聞いて何を連想しますか？僕は当然のことながら果物
 
 &nbsp;
 <h2>スティーブ・ジョブズに影響ををじわじわと受け続け、流されるのをやめた</h2>
-<img class="aligncenter size-full wp-image-5700" src="/legacy-media/2ba67e893e4c-CIMG3906.jpg" alt="CIMG3906" width="300" height="400">
+<img class="aligncenter size-full wp-image-5700" src="/media/legacy/legacy-004337.jpg" alt="CIMG3906" width="300" height="400">
 
 そんなスティーブ・ジョブズが亡くなったのが、 2011年10月5日。多くのアップルユーザーが悲しみ、亡くなった直後に発売されたiPhone4Sに、「4S」＝「for s」＝「for steven」という意味があるのではないかという噂も立ちました。
 

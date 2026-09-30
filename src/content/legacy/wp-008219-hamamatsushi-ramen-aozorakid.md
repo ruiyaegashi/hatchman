@@ -17,7 +17,7 @@ source_content_chars: 1982
 migration_review: "review"
 ---
 <h2>名前がド派手な人気店</h2>
-<img class="aligncenter" title="青空きっどの外観" src="/legacy-media/2b20a18f0213-P20121105_122205074.jpg" width="300" height="225">
+<img class="aligncenter" title="青空きっどの外観" src="/media/legacy/legacy-004471.jpg" width="300" height="225">
 
 遠州鉄道曳馬駅すぐそばにあるこちらのお店。暴走族を思わせるド派手な名前は伊達じゃありません。
 
@@ -39,7 +39,7 @@ migration_review: "review"
 
 &nbsp;
 <h2> 金つけ弐号（鶏スープ・味噌）</h2>
-<img class="aligncenter" title="青空きっどの金つけ弐号" src="/legacy-media/c2f766e6e197-P20121105_121240111.jpg" width="300" height="225">
+<img class="aligncenter" title="青空きっどの金つけ弐号" src="/media/legacy/legacy-004469.jpg" width="300" height="225">
 
 今のところ一番のお気に入りがこちら。
 
@@ -53,7 +53,7 @@ migration_review: "review"
 
 &nbsp;
 <h2>炙りチャーシュー丼（小）</h2>
-<img class="aligncenter" title="青空きっどの炙りチャーシュー丼" src="/legacy-media/95fc508e9bc7-P20121105_121344763.jpg" width="300" height="400">
+<img class="aligncenter" title="青空きっどの炙りチャーシュー丼" src="/media/legacy/legacy-004470.jpg" width="300" height="400">
 
 こちらも行くと必ず食べる逸品。
 

@@ -39,8 +39,8 @@ migration_review: "review"
 
 (写真は許可を得て撮影させていただきました)
 
-<img class="aligncenter" title="茗荷シートの工場" src="/legacy-media/2cda30dcecdf-P20121113_095412079.jpg" width="300" height="225">
-<img class="aligncenter" title="茗荷シートの作業場" src="/legacy-media/30a5c6492c10-P20121113_095806839.jpg" width="300" height="225">
+<img class="aligncenter" title="茗荷シートの工場" src="/media/legacy/legacy-004502.jpg" width="300" height="225">
+<img class="aligncenter" title="茗荷シートの作業場" src="/media/legacy/legacy-004503.jpg" width="300" height="225">
 細かくは写せないのですが、1000を超えるレザーのストックがあり、色々なシートの形やお客様の要望に合わせて熟練の方々が1つ1つ丁寧に作業されています。
 
 思わず見入ってしまう手際の良さ。

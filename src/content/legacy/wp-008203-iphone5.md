@@ -17,7 +17,7 @@ source_content_chars: 1943
 migration_review: "passed"
 ---
 <h2>iPhone5 最高すぎる</h2>
-<img class="aligncenter" title="iPhone5" src="/legacy-media/433e7b2ce72c-CIMG4031.jpg" width="300" height="400">
+<img class="aligncenter" title="iPhone5" src="/media/legacy/legacy-004340.jpg" width="300" height="400">
 私がiPhone5を使い始めて、はや1ヶ月が経ちました。
 
 そして1ヶ月で、なくてはならない存在になりつつあります。
@@ -32,7 +32,7 @@ migration_review: "passed"
 
 職場もそうなのですが我が家にも。父が買い、母が買い…家に3台のiPhone5がある状態。
 
-<img class="aligncenter" title="iPhone5" src="/legacy-media/8e8b90527843-CIMG4032.jpg" width="300" height="225">
+<img class="aligncenter" title="iPhone5" src="/media/legacy/legacy-004341.jpg" width="300" height="225">
 
 そして予想通り質問攻めに合う毎日です。
 

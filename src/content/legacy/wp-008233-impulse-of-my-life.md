@@ -17,7 +17,7 @@ source_content_chars: 1751
 migration_review: "review"
 ---
 <h2>刺激は人に必要なのか？</h2>
-<img class="aligncenter size-full wp-image-9232" src="/legacy-media/d60e398b9cb6-couple_billiards.jpg" alt="couple_billiards" width="1060" height="707">
+<img class="aligncenter size-full wp-image-9232" src="/media/legacy/legacy-004746.jpg" alt="couple_billiards" width="1060" height="707">
 
 逆に考えれば、刺激がなかったら人はどうなってしまうのでしょうか。
 <blockquote>しげき【刺激 stimulus】
@@ -34,7 +34,7 @@ migration_review: "review"
 
 &nbsp;
 <h2>僕にとって一番の刺激は旅行</h2>
-<img class="aligncenter size-full wp-image-9233" src="/legacy-media/226cd28a6c9a-foreigner_couple_travel.jpg" alt="foreigner_couple_travel" width="1060" height="707">
+<img class="aligncenter size-full wp-image-9233" src="/media/legacy/legacy-004757.jpg" alt="foreigner_couple_travel" width="1060" height="707">
 
 僕は刺激を求める質です。毎日同じなんて考えるも
 
@@ -60,6 +60,6 @@ migration_review: "review"
 
 そんなことを、車の停まっていない駐車場に置いてあったテープカッター(テープなし)を見て思いましたとさ。
 
-<img class="aligncenter size-full wp-image-5840" src="/legacy-media/30ce8ccbe335-IMG_0475.jpg" alt="IMG_0475" width="300" height="400">
+<img class="aligncenter size-full wp-image-5840" src="/media/legacy/legacy-004379.jpg" alt="IMG_0475" width="300" height="400">
 
 <aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4763134604&quot; locale=&quot;JP&quot; title=&quot;たった5分で体が変わる すごい熱刺激&quot;]</code></details></aside>

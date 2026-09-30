@@ -17,7 +17,7 @@ source_content_chars: 2479
 migration_review: "review"
 ---
 <h2>騙されると知りながら見るからこそ</h2>
-<img class="aligncenter" title="映画『カラスの親指』" src="/legacy-media/a73d669f1157-karasu.jpg" width="300" height="425">
+<img class="aligncenter" title="映画『カラスの親指』" src="/media/legacy/legacy-004791.jpg" width="300" height="425">
 
 <aside class="legacy-disabled legacy-shortcode"><strong>旧browser-shot（停止）</strong><details><summary>原文</summary><code>[browser-shot url=&quot;http://movies.foxjapan.com/crow/index.html&quot; width=&quot;600&quot; height=&quot;450&quot;]</code></details></aside>
 

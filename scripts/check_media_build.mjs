@@ -1,0 +1,12 @@
+import fs from 'node:fs';
+import assert from 'node:assert/strict';
+import { execFileSync } from 'node:child_process';
+import { fileURLToPath } from 'node:url';
+execFileSync(process.execPath,[fileURLToPath(new URL('generate_media_runtime.mjs',import.meta.url)),'--check'],{stdio:'inherit'});
+const root=new URL('../',import.meta.url);
+const assets=JSON.parse(fs.readFileSync(new URL('migration/asset-map.json',root)));
+const registry=JSON.parse(fs.readFileSync(new URL('migration/media-manifest.json',root)));
+const urls=new Set(registry.objects.map(o=>o.canonical_url));
+for(const a of assets)if(a.public_path)assert(urls.has(a.public_path),`Missing media ${a.public_path}`);
+for(const dir of ['public/legacy-media','public/media'])assert(!fs.existsSync(new URL(dir,root)),`${dir} must not be shipped; retain source/staging outside public`);
+console.log('R2 manifest references verified; static media payload absent. Upload and deployment remain separate steps.');

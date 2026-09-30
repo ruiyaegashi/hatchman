@@ -17,7 +17,7 @@ source_content_chars: 3707
 migration_review: "review"
 ---
 <h2>閉店からの復活！</h2>
-<img class="aligncenter size-full wp-image-9288" src="/legacy-media/acee22514c66-rahmenippon1.jpg" alt="rahmenippon1" width="1060" height="795">
+<img class="aligncenter size-full wp-image-9288" src="/media/legacy/legacy-004906.jpg" alt="rahmenippon1" width="1060" height="795">
 
 以前両替町にあったお店が一度閉店し、場所を変えて復活しました。
 
@@ -27,7 +27,7 @@ migration_review: "review"
 
 &nbsp;
 
-<img class="aligncenter size-full wp-image-9289" src="/legacy-media/d25b4ec567fd-rahmenippon2.jpg" alt="rahmenippon2" width="1060" height="795">
+<img class="aligncenter size-full wp-image-9289" src="/media/legacy/legacy-004907.jpg" alt="rahmenippon2" width="1060" height="795">
 
 店内は広く、某牛丼屋のようにコの字のカウンターが2列、入って右手にはテーブル席、全部で30席ほど。掃除も行き届いていてとても綺麗な店内です。
 
@@ -35,7 +35,7 @@ migration_review: "review"
 
 &nbsp;
 <h2>ベースは豚骨と鶏白湯でメニュー量が豊富</h2>
-<img class="aligncenter size-full wp-image-9290" src="/legacy-media/49c4b997a662-rahmenippon3.jpg" alt="rahmenippon3" width="596" height="795">
+<img class="aligncenter size-full wp-image-9290" src="/media/legacy/legacy-004908.jpg" alt="rahmenippon3" width="596" height="795">
 
 入って右手に券売機があります。
 
@@ -45,19 +45,19 @@ migration_review: "review"
 
 &nbsp;
 
-<img class="aligncenter size-full wp-image-9291" src="/legacy-media/be5b1aeee38b-rahmenippon4.jpg" alt="rahmenippon4" width="1060" height="795">
+<img class="aligncenter size-full wp-image-9291" src="/media/legacy/legacy-004909.jpg" alt="rahmenippon4" width="1060" height="795">
 
 &nbsp;
 
-<img class="aligncenter size-full wp-image-9292" src="/legacy-media/5a93801f0497-rahmenippon5.jpg" alt="rahmenippon5" width="1060" height="795">
+<img class="aligncenter size-full wp-image-9292" src="/media/legacy/legacy-004910.jpg" alt="rahmenippon5" width="1060" height="795">
 
 &nbsp;
 
-<img class="aligncenter size-full wp-image-9293" src="/legacy-media/7c76f440ceef-rahmenippon6.jpg" alt="rahmenippon6" width="1060" height="795">
+<img class="aligncenter size-full wp-image-9293" src="/media/legacy/legacy-004911.jpg" alt="rahmenippon6" width="1060" height="795">
 
 &nbsp;
 <h2>とんこつしょうゆラーメン</h2>
-<img class="aligncenter size-full wp-image-9295" src="/legacy-media/65472b960033-rahmenippon8.jpg" alt="rahmenippon8" width="1060" height="795">
+<img class="aligncenter size-full wp-image-9295" src="/media/legacy/legacy-004913.jpg" alt="rahmenippon8" width="1060" height="795">
 
 写真はOC(脂多め・味濃いめ)で注文したとんこつしょうゆラーメン。お好みは？と聞かれることと聞かれないことがあるので、好みがある方は食券を渡すときに店員さんに聞きましょう。
 
@@ -73,7 +73,7 @@ migration_review: "review"
 
 &nbsp;
 <h2>鶏白湯ラーメン</h2>
-<img class="aligncenter size-full wp-image-9294" src="/legacy-media/88520e9dd5f6-rahmenippon7.jpg" alt="rahmenippon7" width="1060" height="795">
+<img class="aligncenter size-full wp-image-9294" src="/media/legacy/legacy-004912.jpg" alt="rahmenippon7" width="1060" height="795">
 
 スープは相当な濃さが感じられるバター色で、鶏の香りが漂います。味は昆布等の海鮮出汁も使われているようですが完全に鶏の引き立て役で、かえしも優しい塩加減なので鶏の美味しさがストレートに感じられます。
 
@@ -83,7 +83,7 @@ migration_review: "review"
 
 &nbsp;
 <h2>スープまで飲み干すと「ニコニコありがとうございます！」</h2>
-<img class="aligncenter size-full wp-image-9296" src="/legacy-media/daec312593b5-rahmenippon9.jpg" alt="rahmenippon9" width="1060" height="795">
+<img class="aligncenter size-full wp-image-9296" src="/media/legacy/legacy-004914.jpg" alt="rahmenippon9" width="1060" height="795">
 
 スープを飲み干すと底からニコニコマークが。
 

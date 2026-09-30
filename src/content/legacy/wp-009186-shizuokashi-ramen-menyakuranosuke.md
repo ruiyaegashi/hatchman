@@ -17,7 +17,7 @@ source_content_chars: 3599
 migration_review: "review"
 ---
 <h2>ひたすら味噌にこだわった味噌ラーメン専門店！</h2>
-<img class="aligncenter wp-image-6189 size-full" src="/legacy-media/42f4a611e147-P20121125_194039819.jpg" alt="麺屋 蔵の助 外観" width="300" height="225">
+<img class="aligncenter wp-image-6189 size-full" src="/media/legacy/legacy-004591.jpg" alt="麺屋 蔵の助 外観" width="300" height="225">
 
 場所は静岡市駿河区中吉田、南幹線の高速高架近く、静鉄県立美術館前駅すぐそばです。
 
@@ -29,19 +29,19 @@ migration_review: "review"
 
 &nbsp;
 <h2>2種類のベーススープ、3種類の味噌、豊富なトッピングの組み合わせは自由すぎるかも？</h2>
-<img class="aligncenter wp-image-6190 size-full" src="/legacy-media/5508847ec8df-P20121125_194240397.jpg" alt="麺屋 蔵の助 メニュー" width="300" height="225">
+<img class="aligncenter wp-image-6190 size-full" src="/media/legacy/legacy-004592.jpg" alt="麺屋 蔵の助 メニュー" width="300" height="225">
 
-<img class="aligncenter wp-image-6191 size-full" src="/legacy-media/c800e6a2a4af-P20121125_194639142.jpg" alt="麺屋 蔵の助 メニュー" width="300" height="400">
+<img class="aligncenter wp-image-6191 size-full" src="/media/legacy/legacy-004593.jpg" alt="麺屋 蔵の助 メニュー" width="300" height="400">
 
-<img class="aligncenter wp-image-6192 size-full" src="/legacy-media/f2c90b4fabdd-P20121125_194655704.jpg" alt="麺屋 蔵の助 メニュー" width="300" height="400">
+<img class="aligncenter wp-image-6192 size-full" src="/media/legacy/legacy-004594.JPG" alt="麺屋 蔵の助 メニュー" width="300" height="400">
 
-<img class="aligncenter wp-image-6193 size-full" src="/legacy-media/dbfdd3627f4e-P20121125_194710958.jpg" alt="麺屋 蔵の助 メニュー" width="300" height="400">
+<img class="aligncenter wp-image-6193 size-full" src="/media/legacy/legacy-004595.jpg" alt="麺屋 蔵の助 メニュー" width="300" height="400">
 
 &nbsp;
 
-<img class="aligncenter wp-image-6196 size-full" src="/legacy-media/38fd53ce44a7-P20121125_201413703.jpg" alt="麺屋 蔵の助 メニュー" width="300" height="225">
+<img class="aligncenter wp-image-6196 size-full" src="/media/legacy/legacy-004598.jpg" alt="麺屋 蔵の助 メニュー" width="300" height="225">
 
-<img class="aligncenter wp-image-6197 size-full" src="/legacy-media/ad2678e12ebc-P20121125_201428418.jpg" alt="麺屋 蔵の助 メニュー" width="300" height="225">
+<img class="aligncenter wp-image-6197 size-full" src="/media/legacy/legacy-004599.JPG" alt="麺屋 蔵の助 メニュー" width="300" height="225">
 
 メニュー表ではかなり種類が多いように思えますが、味噌ラーメンに関しては、ベースのスープ(あっさり鶏がら・こってり豚骨)、味噌3種類(蔵の助味噌・北海道味噌・九州味噌)、トッピングの組み合わ例のようなもので、豊富なトッピングから色々選んで自分好みにアレンジできます。後は、ベースのスープを使ったと思われる普通のとんこつ、中華そば、つけ麺といったオーソドックスなラーメンもあります。
 
@@ -51,7 +51,7 @@ migration_review: "review"
 
 &nbsp;
 <h2>こってり豚骨・蔵の助味噌・味噌炭火焼炙りチャーシュー麺</h2>
-<img class="aligncenter wp-image-6194 size-full" src="/legacy-media/aa10871ce5f4-P20121125_195619567.jpg" alt="麺屋 蔵の助 こってり豚骨 蔵の助味噌 味噌炭火焼炙りチャーシュー麺" width="300" height="225">
+<img class="aligncenter wp-image-6194 size-full" src="/media/legacy/legacy-004596.jpg" alt="麺屋 蔵の助 こってり豚骨 蔵の助味噌 味噌炭火焼炙りチャーシュー麺" width="300" height="225">
 
 こちらはベースのスープがこってり豚骨、選べる味噌が蔵の助味噌の味噌炭火焼炙りチャーシュー麺です。
 
@@ -59,7 +59,7 @@ migration_review: "review"
 
 具だくさんには違いありませんが、写真と違い過ぎる感が。
 
-<img class="aligncenter wp-image-6195 size-full" src="/legacy-media/938d92d49daa-P20121125_195651734.jpg" alt="麺屋 蔵の助 こってり豚骨 蔵の助味噌 味噌炭火焼炙りチャーシュー麺" width="300" height="400">
+<img class="aligncenter wp-image-6195 size-full" src="/media/legacy/legacy-004597.jpg" alt="麺屋 蔵の助 こってり豚骨 蔵の助味噌 味噌炭火焼炙りチャーシュー麺" width="300" height="400">
 
 スープは味噌が強めでこってりという割には飲みやすく、コク弱めで風味が良い。
 

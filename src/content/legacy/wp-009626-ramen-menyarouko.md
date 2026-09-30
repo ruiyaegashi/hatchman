@@ -17,7 +17,7 @@ source_content_chars: 2213
 migration_review: "review"
 ---
 <h2><span id="i">静岡県西部で有名な豚骨ラーメン専門店</span></h2>
-<img class="aligncenter" title="菊川「麺や 老虎」でこってりらーめん、ピリ辛ネギチャーシュー丼セット" src="/legacy-media/b864131ebd3a-02_328.jpg" width="700" height="525">
+<img class="aligncenter" title="菊川「麺や 老虎」でこってりらーめん、ピリ辛ネギチャーシュー丼セット" src="/media/legacy/legacy-000770.jpg" width="700" height="525">
 
 袋井、浜松、掛川、菊川に4店舗を構える熊本系豚骨ラーメンの虎系。
 
@@ -41,11 +41,11 @@ migration_review: "review"
 
 <aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4048947362&quot; locale=&quot;JP&quot; title=&quot;ラーメンウォーカームック ラーメンWalker静岡2016&quot;]</code></details></aside>
 <h2>こってりらーめん、ピリ辛ネギチャーシュー丼セット</h2>
-<img class="aligncenter" title="菊川「麺や 老虎」でこってりらーめん、ピリ辛ネギチャーシュー丼セット" src="/legacy-media/2e391986ff51-01_362.jpg" width="700" height="525">
+<img class="aligncenter" title="菊川「麺や 老虎」でこってりらーめん、ピリ辛ネギチャーシュー丼セット" src="/media/legacy/legacy-000363.jpg" width="700" height="525">
 
-<img class="aligncenter" title="菊川「麺や 老虎」でこってりらーめん、ピリ辛ネギチャーシュー丼セット" src="/legacy-media/d74e0c09ed4e-03_309.jpg" width="700" height="525">
+<img class="aligncenter" title="菊川「麺や 老虎」でこってりらーめん、ピリ辛ネギチャーシュー丼セット" src="/media/legacy/legacy-001160.jpg" width="700" height="525">
 
-<img class="aligncenter" title="菊川「麺や 老虎」でこってりらーめん、ピリ辛ネギチャーシュー丼セット" src="/legacy-media/be3d91efb074-04_282.jpg" width="700" height="525">
+<img class="aligncenter" title="菊川「麺や 老虎」でこってりらーめん、ピリ辛ネギチャーシュー丼セット" src="/media/legacy/legacy-001510.jpg" width="700" height="525">
 
 これで714円は驚きの安さ。どこぞの豚骨ラーメン屋とはコスパが違います。クオリティもちゃんと高いですし。
 

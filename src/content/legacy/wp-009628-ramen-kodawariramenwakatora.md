@@ -17,7 +17,7 @@ source_content_chars: 2679
 migration_review: "review"
 ---
 <h2><span id="i">静岡県西部で有名な豚骨ラーメン専門店</span></h2>
-<img class="aligncenter" title="掛川「こだわりらーめん 若虎」ランチタイムメニュー、チャーシュー飯とらーめんセット(こってり)" src="/legacy-media/856deaeb0ed8-02_320.jpg" width="700" height="525">
+<img class="aligncenter" title="掛川「こだわりらーめん 若虎」ランチタイムメニュー、チャーシュー飯とらーめんセット(こってり)" src="/media/legacy/legacy-000762.jpg" width="700" height="525">
 
 袋井、浜松、掛川、菊川に4店舗を構える熊本系豚骨ラーメンの虎系。
 
@@ -37,9 +37,9 @@ migration_review: "review"
 
 <aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4048947362&quot; locale=&quot;JP&quot; title=&quot;ラーメンウォーカームック ラーメンWalker静岡2016&quot;]</code></details></aside>
 <h2>メニュー</h2>
-<img class="aligncenter" title="掛川「こだわりらーめん 若虎」ランチタイムメニュー、チャーシュー飯とらーめんセット(こってり)" src="/legacy-media/3d4c31b6f4a2-03_301.jpg" width="525" height="700">
+<img class="aligncenter" title="掛川「こだわりらーめん 若虎」ランチタイムメニュー、チャーシュー飯とらーめんセット(こってり)" src="/media/legacy/legacy-001152.jpg" width="525" height="700">
 
-<img class="aligncenter" title="掛川「こだわりらーめん 若虎」ランチタイムメニュー、チャーシュー飯とらーめんセット(こってり)" src="/legacy-media/d1938c481eaa-04_276.jpg" width="525" height="700">
+<img class="aligncenter" title="掛川「こだわりらーめん 若虎」ランチタイムメニュー、チャーシュー飯とらーめんセット(こってり)" src="/media/legacy/legacy-001503.jpg" width="525" height="700">
 
 めん虎同様、ランチは超お得。
 
@@ -49,11 +49,11 @@ migration_review: "review"
 
 &nbsp;
 <h2>チャーシュー飯とらーめんセット(こってり)</h2>
-<img class="aligncenter" title="掛川「こだわりらーめん 若虎」ランチタイムメニュー、チャーシュー飯とらーめんセット(こってり)" src="/legacy-media/d3cc36c9792c-01_352.jpg" width="700" height="525">
+<img class="aligncenter" title="掛川「こだわりらーめん 若虎」ランチタイムメニュー、チャーシュー飯とらーめんセット(こってり)" src="/media/legacy/legacy-000351.jpg" width="700" height="525">
 
-<img class="aligncenter" title="掛川「こだわりらーめん 若虎」ランチタイムメニュー、チャーシュー飯とらーめんセット(こってり)" src="/legacy-media/c0ec750acccd-05_251.jpg" width="700" height="525">
+<img class="aligncenter" title="掛川「こだわりらーめん 若虎」ランチタイムメニュー、チャーシュー飯とらーめんセット(こってり)" src="/media/legacy/legacy-001809.jpg" width="700" height="525">
 
-<img class="aligncenter" title="掛川「こだわりらーめん 若虎」ランチタイムメニュー、チャーシュー飯とらーめんセット(こってり)" src="/legacy-media/928e378ff96e-06_221.jpg" width="700" height="525">
+<img class="aligncenter" title="掛川「こだわりらーめん 若虎」ランチタイムメニュー、チャーシュー飯とらーめんセット(こってり)" src="/media/legacy/legacy-002073.jpg" width="700" height="525">
 
 ランチセットのらーめんはこってり、あっさり、中華そば、塩中華そばから選ぶことができ、いつも通り麺の硬さも指定できます。
 

@@ -17,7 +17,7 @@ source_content_chars: 4037
 migration_review: "review"
 ---
 <h2><span id="i">静岡県西部で有名な豚骨ラーメン専門店</span></h2>
-<img class="aligncenter" title="「麺屋 めん虎 浜松店」とんこつ塩らーめん、冬期限定辛味噌らーめん、チャーシュー丼" src="/legacy-media/97c060a18e5c-399.jpg" width="300" height="400">
+<img class="aligncenter" title="「麺屋 めん虎 浜松店」とんこつ塩らーめん、冬期限定辛味噌らーめん、チャーシュー丼" src="/media/legacy/legacy-004181.jpg" width="300" height="400">
 
 袋井、浜松、掛川、菊川に4店舗を構える熊本系豚骨ラーメンの虎系。
 
@@ -39,11 +39,11 @@ migration_review: "review"
 
 <aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4048947362&quot; locale=&quot;JP&quot; title=&quot;ラーメンウォーカームック ラーメンWalker静岡2016&quot;]</code></details></aside>
 <h2>メニュー</h2>
-<img class="aligncenter" title="「麺屋 めん虎 浜松店」とんこつ塩らーめん、冬期限定辛味噌らーめん、チャーシュー丼" src="/legacy-media/4302f325dc5d-400.jpg" width="300" height="225">
+<img class="aligncenter" title="「麺屋 めん虎 浜松店」とんこつ塩らーめん、冬期限定辛味噌らーめん、チャーシュー丼" src="/media/legacy/legacy-004190.jpg" width="300" height="225">
 
-<img class="aligncenter" title="「麺屋 めん虎 浜松店」とんこつ塩らーめん、冬期限定辛味噌らーめん、チャーシュー丼" src="/legacy-media/7e6646964e92-401.jpg" width="300" height="225">
+<img class="aligncenter" title="「麺屋 めん虎 浜松店」とんこつ塩らーめん、冬期限定辛味噌らーめん、チャーシュー丼" src="/media/legacy/legacy-004191.jpg" width="300" height="225">
 
-<img class="aligncenter" title="「麺屋 めん虎 浜松店」とんこつ塩らーめん、冬期限定辛味噌らーめん、チャーシュー丼" src="/legacy-media/8e9bf0c6fe0c-402.jpg" width="300" height="400">
+<img class="aligncenter" title="「麺屋 めん虎 浜松店」とんこつ塩らーめん、冬期限定辛味噌らーめん、チャーシュー丼" src="/media/legacy/legacy-004192.jpg" width="300" height="400">
 
 ここのランチセットはお好きなラーメンに100円プラスでライス、130円プラスでチャーシュー丼をつけることができます。しかもサイズはふつう、大盛り、特盛りから自由に選べるという。
 
@@ -51,9 +51,9 @@ migration_review: "review"
 
 &nbsp;
 <h2>とんこつ塩らーめん</h2>
-<img class="aligncenter" title="「麺屋 めん虎 浜松店」とんこつ塩らーめん、冬期限定辛味噌らーめん、チャーシュー丼" src="/legacy-media/a1713fcee672-403.jpg" width="300" height="225">
+<img class="aligncenter" title="「麺屋 めん虎 浜松店」とんこつ塩らーめん、冬期限定辛味噌らーめん、チャーシュー丼" src="/media/legacy/legacy-004193.jpg" width="300" height="225">
 
-<img class="aligncenter" title="「麺屋 めん虎 浜松店」とんこつ塩らーめん、冬期限定辛味噌らーめん、チャーシュー丼" src="/legacy-media/dfc2b41f78a3-404.jpg" width="300" height="225">
+<img class="aligncenter" title="「麺屋 めん虎 浜松店」とんこつ塩らーめん、冬期限定辛味噌らーめん、チャーシュー丼" src="/media/legacy/legacy-004194.jpg" width="300" height="225">
 
 スープは見た目からしてこってりなのですが、くどくはなく、最後まで美味しくいただけました。
 
@@ -69,9 +69,9 @@ migration_review: "review"
 
 &nbsp;
 <h2>冬季限定辛味噌らーめん</h2>
-<img class="aligncenter" title="「麺屋 めん虎 浜松店」とんこつ塩らーめん、冬期限定辛味噌らーめん、チャーシュー丼" src="/legacy-media/790611784ced-01_183.jpg" width="550" height="413">
+<img class="aligncenter" title="「麺屋 めん虎 浜松店」とんこつ塩らーめん、冬期限定辛味噌らーめん、チャーシュー丼" src="/media/legacy/legacy-000143.jpg" width="550" height="413">
 
-<img class="aligncenter" title="「麺屋 めん虎 浜松店」とんこつ塩らーめん、冬期限定辛味噌らーめん、チャーシュー丼" src="/legacy-media/10e589abd85c-02_166.jpg" width="550" height="413">
+<img class="aligncenter" title="「麺屋 めん虎 浜松店」とんこつ塩らーめん、冬期限定辛味噌らーめん、チャーシュー丼" src="/media/legacy/legacy-000573.jpg" width="550" height="413">
 
 普段は味がわからなくなりますし、何より熱さ＋辛さは猫舌の私にはきついのでカレー以外はあまり辛いものを頼まないのですが、この日は温まりたかったこともあり、思い切って注文してみました。
 
@@ -95,14 +95,14 @@ migration_review: "review"
 
 <aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4048947362&quot; locale=&quot;JP&quot; title=&quot;ラーメンウォーカームック ラーメンWalker静岡2016&quot;]</code></details></aside>
 <h2>チャーシュー丼</h2>
-<img class="aligncenter" title="「麺屋 めん虎 浜松店」とんこつ塩らーめん、冬期限定辛味噌らーめん、チャーシュー丼" src="/legacy-media/1aacf73a7c59-405.jpg" width="300" height="225">
+<img class="aligncenter" title="「麺屋 めん虎 浜松店」とんこつ塩らーめん、冬期限定辛味噌らーめん、チャーシュー丼" src="/media/legacy/legacy-004195.jpg" width="300" height="225">
 大きさは分かり辛いですが、ごはんは400gあるので大満足。
 
 チャーシューは甘辛で、完全にほぐされています。やみつきになりますね。
 
 &nbsp;
 <h2>まるチャーシュー丼(中)</h2>
-<img class="aligncenter" title="「麺屋 めん虎 浜松店」とんこつ塩らーめん、冬期限定辛味噌らーめん、チャーシュー丼" src="/legacy-media/796b3edeb2cb-03_161.jpg" width="550" height="413">
+<img class="aligncenter" title="「麺屋 めん虎 浜松店」とんこつ塩らーめん、冬期限定辛味噌らーめん、チャーシュー丼" src="/media/legacy/legacy-000981.jpg" width="550" height="413">
 刻まれたチャーシューの上に、丸いチャーシューがそのまま乗っており、ボリューム感もあります。
 
 青ネギ、塩ネギと醤油だれが合わさり、美味しいのなんの。オススメです。
