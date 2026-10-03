@@ -27,6 +27,7 @@ pnpm run dev
 
 ## Current implementation locators
 
+- Current R2 / Pages Functions media delivery design and verification: [docs/MEDIA_DELIVERY.md](docs/MEDIA_DELIVERY.md)
 - Amazon affiliate current design / pending approval boundary: [reports/AMAZON_AFFILIATE_MIGRATION.md](reports/AMAZON_AFFILIATE_MIGRATION.md)
 - Recovery input safety guard: [tests/test_recovery.py](tests/test_recovery.py)
 
