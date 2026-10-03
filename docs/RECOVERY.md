@@ -89,6 +89,16 @@ pnpm run validate --backup-root "<backup-root>"
 
 バックアップが見つからなければSQL照合・再移行を止め、GitHubだけの復元結果と未確認事項を報告します。欠けた原本やハッシュを推測で補いません。
 
+### Recovery tooling guard
+
+Recovery / migration入口のfail-closed条件を変更する場合は、[tests/test_recovery.py](../tests/test_recovery.py) を現在の安全guardとして確認する。
+
+```console
+python -m unittest tests.test_recovery
+```
+
+通常onboardingで再移行を実行する意味ではなく、Recovery tooling自体を変更したときのregression確認に使う。
+
 ## 4. 再移行は別作業
 
 `migrate` は既存 `src/content/legacy/` とmigration由来資産を再生成し、migration台帳やredirect関連成果を上書きし得ます。現在のProduction mediaはprivate R2構成なので、再移行結果をそのままR2やProductionへ反映しません。通常確認の前処理ではありません。
