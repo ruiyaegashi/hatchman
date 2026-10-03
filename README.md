@@ -25,6 +25,13 @@ pnpm run dev
 
 移行後コンテンツは `src/content/legacy/` を基準に扱います。`status: draft` の3件は保存されますが、サイトには生成されません。
 
+## Current implementation locators
+
+- Amazon affiliate current design / pending approval boundary: [reports/AMAZON_AFFILIATE_MIGRATION.md](reports/AMAZON_AFFILIATE_MIGRATION.md)
+- Recovery input safety guard: [tests/test_recovery.py](tests/test_recovery.py)
+
+Amazonの商品採用や承認状態は移行レポートだけで決めず、current `affiliate/mapping.json` と実装を合わせて確認する。
+
 ## 元バックアップを使う作業
 
 Python 3.12で検証しています。`python` がPATH上で使える状態で、[Recovery手順](docs/RECOVERY.md)に従って `--backup-root` または `HATCHMAN_BACKUP_ROOT` を指定します。Pythonスクリプトは `.env` を自動読込しません。
