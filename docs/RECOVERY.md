@@ -49,6 +49,8 @@ originが `https://github.com/ruiyaegashi/hatchman.git` を指すことを確認
 
 ## 2. GitHubだけで戻れる範囲
 
+Current media配信の構成・生成・route・cache / conditional request境界は [Media delivery design](MEDIA_DELIVERY.md) を実装入口として確認する。
+
 `src/content/legacy/`、`public/_redirects`、`migration/`、media manifest / mapping、Pages Functions実装、lockfileはGitHubにあります。canonical media binary本体はGitHubではなくprivate R2 `hatchman-media` にあります。READMEのinstall / check / build / devで静的サイト部分を復元できますが、Production相当のmedia配信にはR2 bindingが必要です。元SQLや発掘台帳は通常buildの必須入力ではありません。
 
 `pnpm run dev` は起動し続けるので終了はCtrl+C。表示処理を変えていない復旧作業でも、公開記事とdraftを分けて確認します。静的buildだけではCloudflare Function、Amazon資格、メール、本番配信を確認したことにはなりません。
