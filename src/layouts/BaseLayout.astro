@@ -17,7 +17,9 @@ const fullTitle = title === 'Hatchman' ? title : `${title} | Hatchman`;
   </head>
   <body>
     <header class="site-header">
-      <a href="/">Hatchman</a>
+      <a href="/" aria-label="Hatchman">
+        <img src="/media/site/logo_title.png" alt="Hatchman" />
+      </a>
     </header>
     <main><slot /></main>
   </body>
