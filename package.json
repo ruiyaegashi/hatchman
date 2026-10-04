@@ -5,19 +5,12 @@
   "type": "module",
   "scripts": {
     "dev": "astro dev",
-    "migrate": "python scripts/migrate_legacy.py",
     "check": "astro check && tsc -p tsconfig.functions.json",
-    "media:generate": "node scripts/generate_media_runtime.mjs",
-    "media:check": "node scripts/generate_media_runtime.mjs --check",
-    "test:media": "node tests/media-runtime.mjs",
-    "test:worker": "node tests/media-worker.mjs",
-    "functions:verify": "node scripts/verify_functions.mjs",
-    "functions:build": "wrangler pages functions build functions --outdir .wrangler/step28-build --output-routes-path .wrangler/step28-functions-routes.json",
-    "build": "node scripts/check_media_build.mjs && astro build",
-    "validate": "python scripts/validate_migration.py"
+    "functions:build": "wrangler pages functions build functions --outdir .wrangler/functions-build --output-routes-path .wrangler/functions-routes.json",
+    "build": "astro build"
   },
   "engines": {
-    "node": ">=22.12.0"
+    "node": ">=22.13.0"
   },
   "packageManager": "pnpm@11.19.0",
   "dependencies": {

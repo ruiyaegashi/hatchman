@@ -1,7 +1,11 @@
 ---
 import '../styles/global.css';
-interface Props { title?: string; description?: string }
-const { title = 'Hatchman', description = '2012〜2020年に書かれた個人ブログの静的アーカイブ' } = Astro.props;
+
+interface Props {
+  title?: string;
+}
+
+const { title = 'Hatchman' } = Astro.props;
 const fullTitle = title === 'Hatchman' ? title : `${title} | Hatchman`;
 ---
 <!doctype html>
@@ -9,29 +13,14 @@ const fullTitle = title === 'Hatchman' ? title : `${title} | Hatchman`;
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
-    <meta name="description" content={description} />
     <title>{fullTitle}</title>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-E571E34BQF"></script>
-    <script is:inline>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() { dataLayer.push(arguments); }
-      gtag('js', new Date());
-      gtag('config', 'G-E571E34BQF');
-    </script>
-    <script
-      async
-      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7781274978364717"
-      crossorigin="anonymous"
-    ></script>
   </head>
   <body>
     <header class="site-header">
-      <a class="brand" href="/">Hatchman</a>
-      <nav aria-label="主要ナビゲーション">
-        <a href="/archive/">記事一覧</a><a href="/categories/">カテゴリ</a>
-      </nav>
+      <a href="/" aria-label="Hatchman">
+        <img src="/media/site/logo_title.png" alt="Hatchman" />
+      </a>
     </header>
     <main><slot /></main>
-    <footer>Hatchman — 2012〜2020年の個人ブログアーカイブ</footer>
   </body>
 </html>

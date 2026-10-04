@@ -1,18 +1,41 @@
-# Hatchman 2.0
+# Hatchman
 
-2012〜2020年の旧WordPressブログを保存するAstro製の静的アーカイブです。
+Hatchman is a small Astro site that keeps the rescued articles and their media online.
 
-## 着任・復旧の入口
+## Production requirements
 
-Hatchmanの責任・現在の仕事・BODとの境界は [YDI-Unit-Hatchman](https://github.com/ruiyaegashi/YDI-Unit-Hatchman) のmainを入口にします（private repositoryへのアクセスが必要です）。YDI全体のOrganization / Information Flowをこのservice repositoryへ複製しません。
+1. Existing articles remain available, including their images and files.
+2. Markdown lives in GitHub. Images and other binary files live in Cloudflare R2.
+3. New articles can be added as Markdown.
 
-- [Recovery手順](docs/RECOVERY.md): main・全branch・未反映変更の確認、通常build、元バックアップ照合、再移行の区別。
-- [2026-09-23 Recovery調査](reports/RECOVERY_AUDIT_2026-09-23.md): 未統合Amazon成果、発掘台帳の所在、調査時点の不明点。
-- [移行レポート](reports/MIGRATION_REPORT.md) / [保存済み検証結果](reports/validation.json): 過去の検証記録。現在のbuild・公開状態の証明とは区別します。
+Everything else from the old WordPress migration is intentionally outside the production design.
 
-## 通常のローカル確認（元バックアップ不要）
+## Structure
 
-Node.jsは `package.json` のengines、pnpmはpackageManager、依存関係はlockfileに従います。
+- `src/content/legacy/`: article Markdown. Existing rescued articles stay here; new articles can be added here too.
+- `src/pages/index.astro`: article list.
+- `src/pages/[...legacy].astro`: article pages.
+- `functions/_middleware.ts` + `src/media/handler.ts`: minimal `/media/*` delivery from R2.
+- `wrangler.toml`: Cloudflare Pages / R2 binding.
+
+The current article Markdown already points to `/media/...` for rescued media.
+
+## Add an article
+
+Create a Markdown file under `src/content/legacy/` with at least:
+
+```yaml
+---
+title: "Article title"
+published_at: "2026-10-04 12:00:00"
+path: "/article-path/"
+status: publish
+---
+```
+
+Then write the article body below the front matter. Upload any images/files to R2 and reference them as `/media/<object-key>`.
+
+## Local check
 
 ```console
 pnpm install --frozen-lockfile
@@ -21,23 +44,4 @@ pnpm run build
 pnpm run dev
 ```
 
-`dev` はローカル開発サーバーです。Cloudflare Pages Functionsや本番DNS・メール・Amazon APIの動作確認にはなりません。
-
-移行後コンテンツは `src/content/legacy/` を基準に扱います。`status: draft` の3件は保存されますが、サイトには生成されません。
-
-## Current implementation locators
-
-- Current R2 / Pages Functions media delivery design and verification: [docs/MEDIA_DELIVERY.md](docs/MEDIA_DELIVERY.md)
-- Amazon affiliate current design / pending approval boundary: [reports/AMAZON_AFFILIATE_MIGRATION.md](reports/AMAZON_AFFILIATE_MIGRATION.md)
-- Recovery input safety guard: [tests/test_recovery.py](tests/test_recovery.py)
-
-Amazonの商品採用や承認状態は移行レポートだけで決めず、current `affiliate/mapping.json` と実装を合わせて確認する。
-
-## 元バックアップを使う作業
-
-Python 3.12で検証しています。`python` がPATH上で使える状態で、[Recovery手順](docs/RECOVERY.md)に従って `--backup-root` または `HATCHMAN_BACKUP_ROOT` を指定します。Pythonスクリプトは `.env` を自動読込しません。
-
-- `pnpm run validate --backup-root "<バックアップの保存先>"`: build後にSQLと照合。結果はGit管理外の `.recovery/validation.json` へ出力します。
-- `pnpm run migrate --backup-root "<バックアップの保存先>"`: 原稿・素材・移行台帳・転送を再生成する別作業です。通常のonboardingでは実行せず、再生成が必要な場合だけ使い捨てcheckoutで実行します。
-
-旧バックアップはデータとして読みます。旧PHP、テーマ、プラグイン、JavaScriptは実行もコピーもしません。バックアップや秘密情報はrepository外で保管してください。
+The site is intentionally minimal. The original Hatchman top header is the only visual element planned for restoration.
