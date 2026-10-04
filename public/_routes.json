@@ -2,12 +2,7 @@
   "version": 1,
   "include": [
     "/api/*",
-    "/media/*",
-    "/images/*",
-    "/wp-content/uploads/*",
-    "/legacy-media/*",
-    "/",
-    "/wallpaper_design.pdf"
+    "/media/*"
   ],
   "exclude": []
 }
