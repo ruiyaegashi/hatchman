@@ -1,8 +1,7 @@
 {
   "version": 1,
   "include": [
-    "/media/*",
-    "/__ydi_step68_binary"
+    "/media/*"
   ],
   "exclude": []
 }
