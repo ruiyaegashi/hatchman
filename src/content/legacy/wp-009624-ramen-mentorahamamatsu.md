@@ -37,7 +37,7 @@ migration_review: "review"
 
 &nbsp;
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4048947362&quot; locale=&quot;JP&quot; title=&quot;ラーメンウォーカームック ラーメンWalker静岡2016&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4048947362">ラーメンウォーカームック ラーメンWalker静岡2016</a>
 <h2>メニュー</h2>
 <img class="aligncenter" title="「麺屋 めん虎 浜松店」とんこつ塩らーめん、冬期限定辛味噌らーめん、チャーシュー丼" src="/media/legacy/legacy-004190.jpg" width="300" height="225">
 
@@ -93,7 +93,7 @@ migration_review: "review"
 
 &nbsp;
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4048947362&quot; locale=&quot;JP&quot; title=&quot;ラーメンウォーカームック ラーメンWalker静岡2016&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4048947362">ラーメンウォーカームック ラーメンWalker静岡2016</a>
 <h2>チャーシュー丼</h2>
 <img class="aligncenter" title="「麺屋 めん虎 浜松店」とんこつ塩らーめん、冬期限定辛味噌らーめん、チャーシュー丼" src="/media/legacy/legacy-004195.jpg" width="300" height="225">
 大きさは分かり辛いですが、ごはんは400gあるので大満足。
@@ -114,5 +114,5 @@ migration_review: "review"
 <div><strong><a href="https://tabelog.com/shizuoka/A2202/A220201/22020112/" target="_blank">麺屋めん虎 浜松店</a></strong>
 <aside class="legacy-disabled">旧script埋め込み（安全のため停止）: https://tabelog.com/badge/google_badge?escape=false&amp;rcd=22020112</aside></div>
 <p style="color: #444444; font-size: 12px;"><strong>関連ランキング：</strong><a href="https://tabelog.com/rstLst/ramen/">ラーメン</a> | <a href="https://tabelog.com/shizuoka/A2202/A220201/R7932/rstLst/">八幡駅</a>、<a href="https://tabelog.com/shizuoka/A2202/A220201/R5393/rstLst/">助信駅</a></p>
-<p style="margin-top: 5pt; margin-bottom: 5pt; font-family: &amp;amp; font-size: 9.0pt; color: #444444;"><aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4048947362&quot; locale=&quot;JP&quot; title=&quot;ラーメンウォーカームック ラーメンWalker静岡2016&quot;]</code></details></aside></p>
-<p style="margin-top: 5pt; margin-bottom: 5pt; font-family: &amp;amp; font-size: 9.0pt; color: #444444;"><aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;478381936X&quot; locale=&quot;JP&quot; title=&quot;浜松ぐるぐるマップ 81(NOVEMBER 201―保存版 うまいラーメン120軒&quot;]</code></details></aside></p>
+<p style="margin-top: 5pt; margin-bottom: 5pt; font-family: &amp;amp; font-size: 9.0pt; color: #444444;"><a href="https://www.amazon.co.jp/dp/4048947362">ラーメンウォーカームック ラーメンWalker静岡2016</a></p>
+<p style="margin-top: 5pt; margin-bottom: 5pt; font-family: &amp;amp; font-size: 9.0pt; color: #444444;"><a href="https://www.amazon.co.jp/dp/478381936X">浜松ぐるぐるマップ 81(NOVEMBER 201―保存版 うまいラーメン120軒</a></p>
