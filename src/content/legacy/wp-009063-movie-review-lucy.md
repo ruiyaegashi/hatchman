@@ -47,8 +47,8 @@ migration_review: "review"
 
 ということで、皆さんにはぜひ先入観を捨て、リミットレスを見ずに鑑賞して欲しい映画です。
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B00XMZGTTQ&quot; locale=&quot;JP&quot; title=&quot;LUCY/ルーシー DVD&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B00XMZGTTQ">LUCY/ルーシー DVD</a>
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B00BFZGLC0&quot; locale=&quot;JP&quot; title=&quot;リミットレス DVD&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B00BFZGLC0">リミットレス DVD</a>
 
 &nbsp;
