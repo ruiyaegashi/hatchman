@@ -62,7 +62,7 @@ jobs:
               status = re.search(r"(?m)^status:\s*([^\r\n]+)", head)
               route = re.search(r"(?m)^path:\s*(.+)$", head)
               assert status
-              if status.group(1).strip() == "publish":
+              if status.group(1).strip().strip('"').strip("\'") == "publish":
                   assert route, path
                   published_paths.append(route.group(1).strip().strip('"').strip("'"))
 
