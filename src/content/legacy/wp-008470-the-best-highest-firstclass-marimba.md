@@ -185,4 +185,4 @@ GRAND SOLOIST</td>
 
 &nbsp;
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4873902002&quot; locale=&quot;JP&quot; title=&quot;マリンバ名曲30選&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4873902002">マリンバ名曲30選</a>
