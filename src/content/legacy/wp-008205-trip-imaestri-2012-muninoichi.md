@@ -110,5 +110,5 @@ migration_review: "review"
 <img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/legacy/legacy-003486.jpg" width="300" height="400">
 
 帰りがけにちょっとした紅葉を。スローな1日を過ごすことができました。
-<p style="margin-top: 5pt; margin-bottom: 5pt; font-size: 11.0pt;"><span style="font-family: Calibri;"><a href="https://www.amazon.co.jp/dp/4533107052">&lt;/span&gt;&lt;span style=</a></span></p>
-<p style="margin-top: 5pt; margin-bottom: 5pt; font-size: 11.0pt;"><span style="font-family: Calibri;"><a href="https://www.amazon.co.jp/dp/4398277935">&lt;/span&gt;&lt;span style=</a></span></p>
+<p style="margin-top: 5pt; margin-bottom: 5pt; font-size: 11.0pt;"><span style="font-family: Calibri;"><a href="https://www.amazon.co.jp/dp/4533107052"></span><span style=</a></span></p>
+<p style="margin-top: 5pt; margin-bottom: 5pt; font-size: 11.0pt;"><span style="font-family: Calibri;"><a href="https://www.amazon.co.jp/dp/4398277935"></span><span style=</a></span></p>
