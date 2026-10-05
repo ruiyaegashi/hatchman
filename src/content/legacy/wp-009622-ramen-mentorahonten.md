@@ -39,7 +39,7 @@ migration_review: "review"
 
 &nbsp;
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4048947362&quot; locale=&quot;JP&quot; title=&quot;ラーメンウォーカームック ラーメンWalker静岡2016&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4048947362">ラーメンウォーカームック ラーメンWalker静岡2016</a>
 <h2>冬季限定のコク味噌ラーメン、チャーシュー丼セット</h2>
 <img class="aligncenter" title="袋井「麺屋 めん虎 本店」冬季限定コク味噌ラーメン、チャーシュー丼セット" src="/media/legacy/legacy-000381.jpg" width="700" height="525">
 
@@ -66,5 +66,5 @@ migration_review: "review"
 <strong><a href="https://tabelog.com/shizuoka/A2202/A220202/22004743/" target="_blank">めん虎</a></strong>
 <aside class="legacy-disabled">旧script埋め込み（安全のため停止）: https://tabelog.com/badge/google_badge?escape=false&amp;rcd=22004743</aside>
 <p style="color: #444444; font-size: 12px;"><strong>関連ランキング：</strong><a href="https://tabelog.com/rstLst/ramen/">ラーメン</a> | <a href="https://tabelog.com/shizuoka/A2202/A220202/R45/rstLst/">袋井駅</a></p>
-<p style="margin-top: 5pt; margin-bottom: 5pt; font-family: &amp;amp; font-size: 9.0pt; color: #444444;"><aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4048947362&quot; locale=&quot;JP&quot; title=&quot;ラーメンウォーカームック ラーメンWalker静岡2016&quot;]</code></details></aside></p>
-<p style="margin-top: 5pt; margin-bottom: 5pt; font-family: &amp;amp; font-size: 9.0pt; color: #444444;"><aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;478381936X&quot; locale=&quot;JP&quot; title=&quot;浜松ぐるぐるマップ 81(NOVEMBER 201―保存版 うまいラーメン120軒&quot;]</code></details></aside></p>
+<p style="margin-top: 5pt; margin-bottom: 5pt; font-family: &amp;amp; font-size: 9.0pt; color: #444444;"><a href="https://www.amazon.co.jp/dp/4048947362">ラーメンウォーカームック ラーメンWalker静岡2016</a></p>
+<p style="margin-top: 5pt; margin-bottom: 5pt; font-family: &amp;amp; font-size: 9.0pt; color: #444444;"><a href="https://www.amazon.co.jp/dp/478381936X">浜松ぐるぐるマップ 81(NOVEMBER 201―保存版 うまいラーメン120軒</a></p>
