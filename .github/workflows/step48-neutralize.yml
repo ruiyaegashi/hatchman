@@ -2,7 +2,7 @@ name: STEP48 neutralize Hatchman articles
 
 on:
   pull_request:
-    types: [opened, reopened]
+    types: [opened, reopened, synchronize]
 
 permissions:
   contents: write
@@ -72,6 +72,7 @@ jobs:
           parsed = []
           published_paths = defaultdict(list)
           disabled_files = 0
+          disabled_names = []
           shortcode_files = 0
 
           for path in files:
@@ -100,13 +101,18 @@ jobs:
 
               if 'legacy-disabled' in body:
                   disabled_files += 1
+                  disabled_names.append(path.name)
               if 'legacy-shortcode' in body:
                   shortcode_files += 1
               parsed.append((path, eol, lines, body, fields, status))
 
           collisions = {k: v for k, v in published_paths.items() if len(v) > 1}
           assert not collisions, f'published path collisions: {collisions}'
-          assert disabled_files == 127, f'legacy-disabled file count changed: {disabled_files}'
+          print('LEGACY_DISABLED_FILES_BEGIN')
+          for name in disabled_names:
+              print(name)
+          print('LEGACY_DISABLED_FILES_END')
+          assert disabled_files == 130, f'legacy-disabled file count changed: {disabled_files}'
           assert shortcode_files == 13, f'legacy-shortcode file count changed: {shortcode_files}'
 
           new_dir.mkdir(parents=True, exist_ok=False)
