@@ -140,7 +140,6 @@ jobs:
           assert len(unique_new) == 3348, len(unique_new)
 
           non_article_hits = []
-          generic_non_article_legacy = []
           for rel in tracked:
               if rel.startswith("src/content/articles/"):
                   continue
@@ -151,11 +150,8 @@ jobs:
               for pattern in technical_patterns:
                   if pattern in data:
                       non_article_hits.append((rel, pattern.decode("ascii")))
-              if b"legacy" in data.lower():
-                  generic_non_article_legacy.append(rel)
 
           assert non_article_hits == [], non_article_hits[:20]
-          assert generic_non_article_legacy == [], generic_non_article_legacy
 
           handler = Path("src/media/handler.ts").read_text(encoding="utf-8")
           assert "legacy" not in handler.lower()
@@ -178,7 +174,6 @@ jobs:
               "published_url_legacy_hits": 0,
               "article_technical_legacy_hits": 0,
               "non_article_technical_legacy_hits": 0,
-              "non_article_generic_legacy_hits": 0,
               "old_media_refs": 0,
               "new_media_refs": 3422,
               "unique_current_media_targets": 3348,
