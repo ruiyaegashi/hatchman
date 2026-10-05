@@ -14,6 +14,13 @@ const fullTitle = title === 'Hatchman' ? title : `${title} | Hatchman`;
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
     <title>{fullTitle}</title>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-E571E34BQF"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', 'G-E571E34BQF');
+    </script>
     <script
       async
       src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7781274978364717"
