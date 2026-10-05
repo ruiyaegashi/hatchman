@@ -59,4 +59,4 @@ migration_review: "review"
 
 <aside class="legacy-disabled">旧iframe埋め込み（安全のため停止）: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.63448720951!2d137.72444101523323!3d34.68917339134325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601addd2f52a3f73%3A0x6e8d78ec0dca5336!2z77yI5qCq77yJ6IyX6I2344K344O844OI!5e0!3m2!1sja!2sjp!4v1468310476305</aside>
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4415319629&quot; locale=&quot;JP&quot; title=&quot;自分でやりたい人の最新バイク・メンテナンス&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4415319629">自分でやりたい人の最新バイク・メンテナンス</a>
