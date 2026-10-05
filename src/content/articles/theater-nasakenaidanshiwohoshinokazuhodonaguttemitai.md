@@ -5,7 +5,7 @@ published_at: "2012-11-06 18:32:58"
 path: "/theater-nasakenaidanshiwohoshinokazuhodonaguttemitai/"
 ---
 <h2>久しぶりの演劇</h2>
-<img class="aligncenter" title="「情けない男子を星の数ほど殴ってみたい」のチラシ" src="/media/legacy/legacy-004463.jpg" width="300" height="225">
+<img class="aligncenter" title="「情けない男子を星の数ほど殴ってみたい」のチラシ" src="/media/content/asset-004463.jpg" width="300" height="225">
 
 音楽とかオペラとかミュージカルとかに目がない僕は演劇も好きな部類。
 
@@ -17,7 +17,7 @@ path: "/theater-nasakenaidanshiwohoshinokazuhodonaguttemitai/"
 
 &nbsp;
 <h2>APOCシアター</h2>
-<img class="aligncenter" title="APOCシアター" src="/media/legacy/legacy-004462.jpg" width="300" height="225">
+<img class="aligncenter" title="APOCシアター" src="/media/content/asset-004462.jpg" width="300" height="225">
 <a href="http://apoc-theater.net/" target="_blank">APOCシアター</a>
 
 東京はすごいね。こんな劇場がいくつもあるんだろうな～

@@ -5,7 +5,7 @@ published_at: "2016-11-13 12:12:28"
 path: "/ramen-kijitei/"
 ---
 <h2>静岡一濃厚な鶏白湯がいただける名店</h2>
-<img class="aligncenter wp-image-9489 size-large" title="つけ麺専門店 きじ亭 濃厚鶏白湯" src="/media/legacy/legacy-004916.jpg" alt="ramenkijitei1" width="640" height="480">
+<img class="aligncenter wp-image-9489 size-large" title="つけ麺専門店 きじ亭 濃厚鶏白湯" src="/media/content/asset-004916.jpg" alt="ramenkijitei1" width="640" height="480">
 
 静岡市、七間町通り、静岡北ワシントンホテルプラザの横を人宿町通りに向かって入っていってすぐのところにあるこちらのお店。静岡のラーメン好きなら1度は訪れたことがあるでしょう。隣には麺屋やまもともあります。
 
@@ -36,7 +36,7 @@ path: "/ramen-kijitei/"
 出典：店内の案内書き</blockquote>
 &nbsp;
 <h2>濃厚つけ麺、煮干し、2倍盛り、冷盛り、鶏ほぐし</h2>
-<img class="aligncenter wp-image-9490 size-large" title="つけ麺専門店 きじ亭 濃厚鶏白湯" src="/media/legacy/legacy-004918.jpg" alt="ramenkijitei2" width="640" height="480">
+<img class="aligncenter wp-image-9490 size-large" title="つけ麺専門店 きじ亭 濃厚鶏白湯" src="/media/content/asset-004918.jpg" alt="ramenkijitei2" width="640" height="480">
 
 見てくださいこの真っ白なスープ。見るからに濃厚。このスープはバイキングでカレーが入っているようなマイコンジャー(保温器)からよそわれます。
 

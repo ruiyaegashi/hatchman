@@ -5,7 +5,7 @@ published_at: "2016-05-12 11:15:59"
 path: "/shizuokashi-restaurant-namiheishokudo/"
 ---
 <h2>地元で知らない人はいない有名洋食屋さん！</h2>
-<img class="aligncenter wp-image-5866 size-full" src="/media/legacy/legacy-004404.jpg" alt="静岡市 なみへい食堂 外観" width="300" height="400">
+<img class="aligncenter wp-image-5866 size-full" src="/media/content/asset-004404.jpg" alt="静岡市 なみへい食堂 外観" width="300" height="400">
 
 名前も相まって地元では超有名な「なみへい食堂」さん。
 
@@ -19,7 +19,7 @@ path: "/shizuokashi-restaurant-namiheishokudo/"
 
 &nbsp;
 <h2>おすすめはオムライスとドリア！</h2>
-<img class="aligncenter wp-image-5864 size-full" src="/media/legacy/legacy-004402.jpg" alt="静岡市 なみへい食堂 オムライス" width="300" height="225">
+<img class="aligncenter wp-image-5864 size-full" src="/media/content/asset-004402.jpg" alt="静岡市 なみへい食堂 オムライス" width="300" height="225">
 
 いわゆる街の洋食屋さんよりはメニューが豊富で、その中でもオムライスとドリアが有名。美味しいドリアがお手軽にいただけるお店って少ないので非常にありがたいです。
 
@@ -29,7 +29,7 @@ path: "/shizuokashi-restaurant-namiheishokudo/"
 
 &nbsp;
 <h2>魚介がプリップリ「シーフードクリームのオムライス」</h2>
-<img class="aligncenter wp-image-5863 size-full" src="/media/legacy/legacy-004401.jpg" alt="静岡市 なみへい食堂 シーフードクリームのオムライス" width="300" height="225">
+<img class="aligncenter wp-image-5863 size-full" src="/media/content/asset-004401.jpg" alt="静岡市 なみへい食堂 シーフードクリームのオムライス" width="300" height="225">
 
 どれもこれも美味しいのですが、甘すぎない大人向けの○○クリーム系も美味しいです。
 
@@ -39,7 +39,7 @@ path: "/shizuokashi-restaurant-namiheishokudo/"
 
 &nbsp;
 <h2>具材たっぷり「キノコとチキンのクリームドリア」</h2>
-<img class="aligncenter wp-image-5865 size-full" src="/media/legacy/legacy-004403.jpg" alt="静岡市 なみへい食堂 キノコとチキンのクリームドリア" width="300" height="225">
+<img class="aligncenter wp-image-5865 size-full" src="/media/content/asset-004403.jpg" alt="静岡市 なみへい食堂 キノコとチキンのクリームドリア" width="300" height="225">
 
 なみへい食堂さんの好きなところは具材がたっぷりなところ。
 

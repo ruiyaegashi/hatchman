@@ -34,21 +34,21 @@ path: "/ramen-rokurinshatokyo/"
 </table>
 ある人におすすめされて取り寄せたこちらのつけ麺がボクの認識を変えてくれました。
 
-<img class="aligncenter" title="「六厘舎TOKYOのつけめん」楽天お取り寄せ" src="/media/legacy/legacy-004560.jpg" width="300" height="400">
+<img class="aligncenter" title="「六厘舎TOKYOのつけめん」楽天お取り寄せ" src="/media/content/asset-004560.jpg" width="300" height="400">
 
-<img class="aligncenter" title="「六厘舎TOKYOのつけめん」楽天お取り寄せ" src="/media/legacy/legacy-004561.jpg" width="300" height="400">
+<img class="aligncenter" title="「六厘舎TOKYOのつけめん」楽天お取り寄せ" src="/media/content/asset-004561.jpg" width="300" height="400">
 
 かなり丁寧な説明書がついています。
 
 なるべくお店の味に近づけるための指南書で、ちゃんと読み込んでから調理します。
 
-<img class="aligncenter" title="「六厘舎TOKYOのつけめん」楽天お取り寄せ" src="/media/legacy/legacy-004557.JPG" width="300" height="225">
+<img class="aligncenter" title="「六厘舎TOKYOのつけめん」楽天お取り寄せ" src="/media/content/asset-004557.JPG" width="300" height="225">
 
 出来上がったのがこちら。
 
 なんと、割りスープもついています。
 
-<img class="aligncenter" title="「六厘舎TOKYOのつけめん」楽天お取り寄せ" src="/media/legacy/legacy-004558.jpg" width="300" height="225">
+<img class="aligncenter" title="「六厘舎TOKYOのつけめん」楽天お取り寄せ" src="/media/content/asset-004558.jpg" width="300" height="225">
 
 超濃厚つけだれ。
 
@@ -58,7 +58,7 @@ path: "/ramen-rokurinshatokyo/"
 
 今まで、家で食べるなら某コンビニの冷凍つけ麺の麺がいちばん好きだったのですが、覆りました。
 
-<img class="aligncenter" title="「六厘舎TOKYOのつけめん」楽天お取り寄せ" src="/media/legacy/legacy-004559.jpg" width="300" height="400">
+<img class="aligncenter" title="「六厘舎TOKYOのつけめん」楽天お取り寄せ" src="/media/content/asset-004559.jpg" width="300" height="400">
 
 チャーシューはつけだれに合う、肉感が楽しめるものです。
 

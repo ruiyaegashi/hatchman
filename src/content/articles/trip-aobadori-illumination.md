@@ -21,19 +21,19 @@ path: "/trip-aobadori-illumination/"
 
 以下、市役所から常磐公園に向かって歩いた様子です。
 
-<img class="aligncenter" title="静岡青葉通り・青葉公園 青葉シンボルロードイルミネーション" src="/media/legacy/legacy-004585.jpg" width="300" height="400">
+<img class="aligncenter" title="静岡青葉通り・青葉公園 青葉シンボルロードイルミネーション" src="/media/content/asset-004585.jpg" width="300" height="400">
 
 両側にはオープニングイベントの日だけ、出店があります。
 
-<img class="aligncenter" title="静岡青葉通り・青葉公園 青葉シンボルロードイルミネーション" src="/media/legacy/legacy-004586.jpg" width="300" height="225">
+<img class="aligncenter" title="静岡青葉通り・青葉公園 青葉シンボルロードイルミネーション" src="/media/content/asset-004586.jpg" width="300" height="225">
 
 ずんずん歩いて行くと、
 
-<img class="aligncenter" title="静岡青葉通り・青葉公園 青葉シンボルロードイルミネーション" src="/media/legacy/legacy-004587.jpg" width="300" height="225">
+<img class="aligncenter" title="静岡青葉通り・青葉公園 青葉シンボルロードイルミネーション" src="/media/content/asset-004587.jpg" width="300" height="225">
 
 クリスマスツリーです。いろんな色に点灯し、とても綺麗です。
 
-<img class="aligncenter" title="静岡青葉通り・青葉公園 青葉シンボルロードイルミネーション" src="/media/legacy/legacy-004588.jpg" width="300" height="400">
+<img class="aligncenter" title="静岡青葉通り・青葉公園 青葉シンボルロードイルミネーション" src="/media/content/asset-004588.jpg" width="300" height="400">
 
 そして目につくのがこのモニュメント。
 
@@ -41,7 +41,7 @@ path: "/trip-aobadori-illumination/"
 
 行ったことはないがなんとなく見覚えが…という方は多分ヨシコンのCMではないでしょうか。
 
-<img class="aligncenter" title="静岡青葉通り・青葉公園 青葉シンボルロードイルミネーション" src="/media/legacy/legacy-004589.jpg" width="300" height="225">
+<img class="aligncenter" title="静岡青葉通り・青葉公園 青葉シンボルロードイルミネーション" src="/media/content/asset-004589.jpg" width="300" height="225">
 
 そしてこれが通りの端。ペガサスと天使のイルミネーションがある門です。
 

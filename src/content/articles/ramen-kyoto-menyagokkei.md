@@ -5,7 +5,7 @@ published_at: "2016-11-13 22:46:42"
 path: "/ramen-kyoto-menyagokkei/"
 ---
 <h2>「ランキング」や「おすすめ」で常連のお店</h2>
-<img class="aligncenter wp-image-9549 size-large" title="京都一乗寺「麺屋 極鶏(ごっけい)」超濃厚肉濁鶏白湯ラーメン" src="/media/legacy/legacy-004796.jpg" alt="kyotogokkei1" width="640" height="480">
+<img class="aligncenter wp-image-9549 size-large" title="京都一乗寺「麺屋 極鶏(ごっけい)」超濃厚肉濁鶏白湯ラーメン" src="/media/content/asset-004796.jpg" alt="kyotogokkei1" width="640" height="480">
 
 「京都 ラーメン」で検索すればあっという間に見つかるこちらのお店。
 
@@ -15,7 +15,7 @@ path: "/ramen-kyoto-menyagokkei/"
 
 <a href="https://www.amazon.co.jp/dp/4908070229">京都 滋賀 うまいらーめん</a>
 <h2>1時間半待ち</h2>
-<img class="aligncenter wp-image-9544 size-large" title="京都一乗寺「麺屋 極鶏(ごっけい)」超濃厚肉濁鶏白湯ラーメン" src="/media/legacy/legacy-004798.jpg" alt="kyotogokkei2" width="640" height="480">
+<img class="aligncenter wp-image-9544 size-large" title="京都一乗寺「麺屋 極鶏(ごっけい)」超濃厚肉濁鶏白湯ラーメン" src="/media/content/asset-004798.jpg" alt="kyotogokkei2" width="640" height="480">
 
 場所は一乗寺、東大路通沿いにあります。この通りはラーメン屋さんだらけ。休日のお昼時ともなればあちこちで行列が見られます。
 
@@ -35,9 +35,9 @@ path: "/ramen-kyoto-menyagokkei/"
 
 &nbsp;
 <h2>メニューはシンプルに「極鶏」のみ</h2>
-<img class="aligncenter wp-image-9545 size-large" title="京都一乗寺「麺屋 極鶏(ごっけい)」超濃厚肉濁鶏白湯ラーメン" src="/media/legacy/legacy-004800.jpg" alt="kyotogokkei3" width="640" height="480">
+<img class="aligncenter wp-image-9545 size-large" title="京都一乗寺「麺屋 極鶏(ごっけい)」超濃厚肉濁鶏白湯ラーメン" src="/media/content/asset-004800.jpg" alt="kyotogokkei3" width="640" height="480">
 
-<img class="aligncenter wp-image-9546 size-large" title="京都一乗寺「麺屋 極鶏(ごっけい)」超濃厚肉濁鶏白湯ラーメン" src="/media/legacy/legacy-004802.jpg" alt="kyotogokkei4" width="640" height="480">
+<img class="aligncenter wp-image-9546 size-large" title="京都一乗寺「麺屋 極鶏(ごっけい)」超濃厚肉濁鶏白湯ラーメン" src="/media/content/asset-004802.jpg" alt="kyotogokkei4" width="640" height="480">
 
 ラーメンのメニューはシンプルで、
 <ul>
@@ -54,9 +54,9 @@ path: "/ramen-kyoto-menyagokkei/"
 
 <a href="https://www.amazon.co.jp/dp/4908070229">京都 滋賀 うまいらーめん</a>
 <h2>極鶏 鶏だく、大盛、チャーシュー増、玉子かけご飯セット</h2>
-<img class="aligncenter wp-image-9547 size-large" title="京都一乗寺「麺屋 極鶏(ごっけい)」超濃厚肉濁鶏白湯ラーメン" src="/media/legacy/legacy-004804.jpg" alt="kyotogokkei5" width="640" height="480">
+<img class="aligncenter wp-image-9547 size-large" title="京都一乗寺「麺屋 極鶏(ごっけい)」超濃厚肉濁鶏白湯ラーメン" src="/media/content/asset-004804.jpg" alt="kyotogokkei5" width="640" height="480">
 
-<img class="aligncenter wp-image-9548 size-large" title="京都一乗寺「麺屋 極鶏(ごっけい)」超濃厚肉濁鶏白湯ラーメン" src="/media/legacy/legacy-004806.jpg" alt="kyotogokkei6" width="640" height="480">
+<img class="aligncenter wp-image-9548 size-large" title="京都一乗寺「麺屋 極鶏(ごっけい)」超濃厚肉濁鶏白湯ラーメン" src="/media/content/asset-004806.jpg" alt="kyotogokkei6" width="640" height="480">
 
 並んでいるときにオーダーを聞いてくれるので、着席から数分で着丼。
 

@@ -5,7 +5,7 @@ published_at: "2014-07-25 23:09:00"
 path: "/shop-cyclistbuddyabc/"
 ---
 <h2>ママチャリからスポーツまで</h2>
-<img class="aligncenter" title="浜松城北自転車専門店「Cyclist Buddy ABC」Bianchi (ビアンキ)が充実" src="/media/legacy/legacy-000305.jpg" width="525" height="700">
+<img class="aligncenter" title="浜松城北自転車専門店「Cyclist Buddy ABC」Bianchi (ビアンキ)が充実" src="/media/content/asset-000305.jpg" width="525" height="700">
 城北の大きな坂の下にある自転車専門店「<a href="http://buddyabc.hamazo.tv/" target="_blank">Cyclist Buddy ABC</a>」
 
 取り扱いブランドは
@@ -33,9 +33,9 @@ Bianchi等のおしゃれな本格志向の自転車が普段乗り用として�
 
 &nbsp;
 <h2>グッズも充実</h2>
-<img class="aligncenter" title="浜松城北自転車専門店「Cyclist Buddy ABC」Bianchi (ビアンキ)が充実" src="/media/legacy/legacy-000718.jpg" width="525" height="700">
+<img class="aligncenter" title="浜松城北自転車専門店「Cyclist Buddy ABC」Bianchi (ビアンキ)が充実" src="/media/content/asset-000718.jpg" width="525" height="700">
 
-<img class="aligncenter" title="浜松城北自転車専門店「Cyclist Buddy ABC」Bianchi (ビアンキ)が充実" src="/media/legacy/legacy-001114.jpg" width="525" height="700">
+<img class="aligncenter" title="浜松城北自転車専門店「Cyclist Buddy ABC」Bianchi (ビアンキ)が充実" src="/media/content/asset-001114.jpg" width="525" height="700">
 
 自転車はもちろん、パーツやグッズも充実しています。
 

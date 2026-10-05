@@ -5,7 +5,7 @@ published_at: "2016-11-13 15:21:02"
 path: "/verus-damda-slide-card-case/"
 ---
 <h2>なんやかんやでカードに縛られる人生</h2>
-<img class="aligncenter wp-image-9497 size-large" title="iPhone VERUS Damda Slide カードケース/VRS DESIGN Damda Glide" src="/media/legacy/legacy-004658.jpg" alt="verusdamdaslidecardcase01" width="640" height="480">
+<img class="aligncenter wp-image-9497 size-large" title="iPhone VERUS Damda Slide カードケース/VRS DESIGN Damda Glide" src="/media/content/asset-004658.jpg" alt="verusdamdaslidecardcase01" width="640" height="480">
 
 僕が子供の頃に比べたら現金を使う機会もかなり減ってきました。未だに現金使うのって地元の飲食店やラーメン屋さんくらいでしょうかね。
 
@@ -51,13 +51,13 @@ iPhone7/Plus用
 
 &nbsp;
 <h2>VERUS Damda Slide カードケース【外観】</h2>
-<img class="aligncenter wp-image-9498 size-large" title="iPhone VERUS Damda Slide カードケース/VRS DESIGN Damda Glide" src="/media/legacy/legacy-004660.jpg" alt="verusdamdaslidecardcase02" width="640" height="853">
+<img class="aligncenter wp-image-9498 size-large" title="iPhone VERUS Damda Slide カードケース/VRS DESIGN Damda Glide" src="/media/content/asset-004660.jpg" alt="verusdamdaslidecardcase02" width="640" height="853">
 
 ということで、早速手に入れたこちらのケースを検証していきます。
 
 ケースのケースは硬いプラスチック製なので中のケースが傷つくことはないでしょう。良い梱包。
 
-<img class="aligncenter wp-image-9499 size-large" title="iPhone VERUS Damda Slide カードケース/VRS DESIGN Damda Glide" src="/media/legacy/legacy-004662.jpg" alt="verusdamdaslidecardcase03" width="640" height="853">
+<img class="aligncenter wp-image-9499 size-large" title="iPhone VERUS Damda Slide カードケース/VRS DESIGN Damda Glide" src="/media/content/asset-004662.jpg" alt="verusdamdaslidecardcase03" width="640" height="853">
 
 ケースの背面。シンプルです。上下の黒い部分が赤い部分より少しだけ高さがあるので、机等に置いて赤い部分が傷だらけになることはありません。
 
@@ -65,43 +65,43 @@ iPhone7/Plus用
 
 重さは50g程。iPhoneが170g程なのでまあ許容範囲でしょう。
 
-<img class="aligncenter wp-image-9500 size-large" title="iPhone VERUS Damda Slide カードケース/VRS DESIGN Damda Glide" src="/media/legacy/legacy-004664.jpg" alt="verusdamdaslidecardcase04" width="640" height="853">
+<img class="aligncenter wp-image-9500 size-large" title="iPhone VERUS Damda Slide カードケース/VRS DESIGN Damda Glide" src="/media/content/asset-004664.jpg" alt="verusdamdaslidecardcase04" width="640" height="853">
 
 ケースの内側。黒い部分はTPU素材という硬いゴムのようなものなので、iPhoneの脱着の際に傷つくことはありません。赤い部分はプラスチックです。
 
 装着すると画面が縁から1mmくらい沈むので、画面を下にしておいても画面が傷つくことはありません。
 
-<img class="aligncenter wp-image-9501 size-large" title="iPhone VERUS Damda Slide カードケース/VRS DESIGN Damda Glide" src="/media/legacy/legacy-004666.jpg" alt="verusdamdaslidecardcase05" width="640" height="480">
+<img class="aligncenter wp-image-9501 size-large" title="iPhone VERUS Damda Slide カードケース/VRS DESIGN Damda Glide" src="/media/content/asset-004666.jpg" alt="verusdamdaslidecardcase05" width="640" height="480">
 
 MADE IN KOREA です。ものが良ければどこ製でも気になりません。
 
-<img class="aligncenter wp-image-9502 size-large" title="iPhone VERUS Damda Slide カードケース/VRS DESIGN Damda Glide" src="/media/legacy/legacy-004668.jpg" alt="verusdamdaslidecardcase06" width="640" height="480">
+<img class="aligncenter wp-image-9502 size-large" title="iPhone VERUS Damda Slide カードケース/VRS DESIGN Damda Glide" src="/media/content/asset-004668.jpg" alt="verusdamdaslidecardcase06" width="640" height="480">
 
 ケース内側の上下にちょっとした隙間があるので、iPhoneと直接触れることにはなりますが、緊急用の折りたたんだお札や爪楊枝は入れられます。
 
-<img class="aligncenter wp-image-9503 size-large" title="iPhone VERUS Damda Slide カードケース/VRS DESIGN Damda Glide" src="/media/legacy/legacy-004670.jpg" alt="verusdamdaslidecardcase07" width="640" height="480">
+<img class="aligncenter wp-image-9503 size-large" title="iPhone VERUS Damda Slide カードケース/VRS DESIGN Damda Glide" src="/media/content/asset-004670.jpg" alt="verusdamdaslidecardcase07" width="640" height="480">
 
 ケース底面。スピーカー、Lightningコネクタ、マイク、イヤホンジャック部分に穴が空いています。深さ(厚さ)は3mm程で余裕のある大きさなので、周辺機器をつける際にも干渉することは少ないです。
 
-<img class="aligncenter wp-image-9504 size-large" title="iPhone VERUS Damda Slide カードケース/VRS DESIGN Damda Glide" src="/media/legacy/legacy-004672.jpg" alt="verusdamdaslidecardcase08" width="640" height="480">
+<img class="aligncenter wp-image-9504 size-large" title="iPhone VERUS Damda Slide カードケース/VRS DESIGN Damda Glide" src="/media/content/asset-004672.jpg" alt="verusdamdaslidecardcase08" width="640" height="480">
 
 ケース左側。サウンドスイッチ部分には穴があるので直接、音量ボタンはケースの上から操作するタイプです。音量ボタンは位置も密着度も十分なので押し損なうこともありません。
 
-<img class="aligncenter wp-image-9493 size-large" title="iPhone VERUS Damda Slide カードケース/VRS DESIGN Damda Glide" src="/media/legacy/legacy-004674.jpg" alt="verusdamdaslidecardcase09" width="640" height="480">
+<img class="aligncenter wp-image-9493 size-large" title="iPhone VERUS Damda Slide カードケース/VRS DESIGN Damda Glide" src="/media/content/asset-004674.jpg" alt="verusdamdaslidecardcase09" width="640" height="480">
 
 ケース右側。電源ボタンは音量ボタンと同タイプ。
 
-<img class="aligncenter wp-image-9494 size-large" title="iPhone VERUS Damda Slide カードケース/VRS DESIGN Damda Glide" src="/media/legacy/legacy-004676.jpg" alt="verusdamdaslidecardcase10" width="640" height="480">
+<img class="aligncenter wp-image-9494 size-large" title="iPhone VERUS Damda Slide カードケース/VRS DESIGN Damda Glide" src="/media/content/asset-004676.jpg" alt="verusdamdaslidecardcase10" width="640" height="480">
 
 カメラ部分は深さ(厚さ)6mm程。レンズもしっかり守ってくれます。当然撮影に影響なし。
 
-<img class="aligncenter wp-image-9495 size-large" title="iPhone VERUS Damda Slide カードケース/VRS DESIGN Damda Glide" src="/media/legacy/legacy-004678.jpg" alt="verusdamdaslidecardcase11" width="640" height="480">
+<img class="aligncenter wp-image-9495 size-large" title="iPhone VERUS Damda Slide カードケース/VRS DESIGN Damda Glide" src="/media/content/asset-004678.jpg" alt="verusdamdaslidecardcase11" width="640" height="480">
 
 ロゴはエンボスでスマート。
 
 &nbsp;
 <h2>VERUS Damda Slide カードケース【使用感】</h2>
-<img class="aligncenter wp-image-9496 size-large" title="iPhone VERUS Damda Slide カードケース/VRS DESIGN Damda Glide" src="/media/legacy/legacy-004680.jpg" alt="verusdamdaslidecardcase12" width="640" height="853">
+<img class="aligncenter wp-image-9496 size-large" title="iPhone VERUS Damda Slide カードケース/VRS DESIGN Damda Glide" src="/media/content/asset-004680.jpg" alt="verusdamdaslidecardcase12" width="640" height="853">
 
 いちばん重要な使い勝手ですが、これが良いんですよ。
 

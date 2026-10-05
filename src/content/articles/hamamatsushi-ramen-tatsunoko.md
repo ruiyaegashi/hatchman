@@ -5,9 +5,9 @@ published_at: "2016-05-11 13:51:08"
 path: "/hamamatsushi-ramen-tatsunoko/"
 ---
 <h2>地元民に愛されるラーメンの老舗！</h2>
-<img class="aligncenter wp-image-5841 size-full" src="/media/legacy/legacy-004380.JPG" alt="浜松 龍の子ラーメン 外観" width="300" height="225">
+<img class="aligncenter wp-image-5841 size-full" src="/media/content/asset-004380.JPG" alt="浜松 龍の子ラーメン 外観" width="300" height="225">
 
-<img class="aligncenter wp-image-5842 size-full" src="/media/legacy/legacy-004381.jpg" alt="浜松 龍の子ラーメン 看板" width="300" height="400">
+<img class="aligncenter wp-image-5842 size-full" src="/media/content/asset-004381.jpg" alt="浜松 龍の子ラーメン 看板" width="300" height="400">
 
 場所は城北高校の近く、姫街道和合町交差点を西に行ってすぐのところにあります。赤い看板が目印。
 
@@ -17,7 +17,7 @@ path: "/hamamatsushi-ramen-tatsunoko/"
 
 &nbsp;
 <h2>改装した店内がおしゃれ！</h2>
-<img class="aligncenter wp-image-5845 size-full" src="/media/legacy/legacy-004384.jpg" alt="浜松 龍の子ラーメン ランプシェード" width="300" height="400">
+<img class="aligncenter wp-image-5845 size-full" src="/media/content/asset-004384.jpg" alt="浜松 龍の子ラーメン ランプシェード" width="300" height="400">
 
 店内は改装されてとても綺麗でおしゃれ。
 
@@ -27,7 +27,7 @@ path: "/hamamatsushi-ramen-tatsunoko/"
 
 &nbsp;
 <h2>昔ながらの醤油ラーメンはバランス良くて飽きがこない！</h2>
-<img class="aligncenter wp-image-5843 size-full" src="/media/legacy/legacy-004382.jpg" alt="浜松 龍の子ラーメン 醤油ラーメン" width="300" height="225">
+<img class="aligncenter wp-image-5843 size-full" src="/media/content/asset-004382.jpg" alt="浜松 龍の子ラーメン 醤油ラーメン" width="300" height="225">
 
 スープはあっさりシンプルながら、鶏豚の旨味が感じられて美味しい。
 
@@ -39,7 +39,7 @@ path: "/hamamatsushi-ramen-tatsunoko/"
 
 &nbsp;
 <h2>チャーハンはかまぼこ入り！</h2>
-<img class="aligncenter wp-image-5844 size-full" src="/media/legacy/legacy-004383.jpg" alt="浜松 龍の子ラーメン チャーハン" width="300" height="400">
+<img class="aligncenter wp-image-5844 size-full" src="/media/content/asset-004383.jpg" alt="浜松 龍の子ラーメン チャーハン" width="300" height="400">
 
 チャーハンはパラパラ系、油も少なめでラーメンとセットでもぺろっといただけてしまいます。
 

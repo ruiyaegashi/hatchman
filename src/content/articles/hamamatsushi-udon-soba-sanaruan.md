@@ -5,7 +5,7 @@ published_at: "2016-04-29 13:31:11"
 path: "/hamamatsushi-udon-soba-sanaruan/"
 ---
 <h2>実は僕がバイトをしていたお店</h2>
-<img class="aligncenter wp-image-9200 size-full" src="/media/legacy/legacy-004935.jpg" alt="浜松 佐鳴庵 外観" width="300" height="400">
+<img class="aligncenter wp-image-9200 size-full" src="/media/content/asset-004935.jpg" alt="浜松 佐鳴庵 外観" width="300" height="400">
 
 もうさすがに時効でしょう。こちらの佐鳴庵、実は僕が高校生の時にアルバイトしていたお店なんです。
 
@@ -19,7 +19,7 @@ path: "/hamamatsushi-udon-soba-sanaruan/"
 
 &nbsp;
 <h2>ごまみそうどん</h2>
-<img class="aligncenter wp-image-9199 size-full" src="/media/legacy/legacy-004933.jpg" alt="佐鳴庵 ごまみそうどん" width="300" height="225">
+<img class="aligncenter wp-image-9199 size-full" src="/media/content/asset-004933.jpg" alt="佐鳴庵 ごまみそうどん" width="300" height="225">
 
 バイト時代はまかないとしてオリジナルメニューをいただくことが多かったので、なかなか本メニューを食べることがなかったのですが、その中でも思い入れがあるのがこのごまみそうどん。
 

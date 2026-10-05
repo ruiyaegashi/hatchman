@@ -15,9 +15,9 @@ path: "/hamamatsushi-yakiniku-matsusakakumi/"
 
 &nbsp;
 <h2>BARの居抜きな店内</h2>
-<img class="aligncenter wp-image-5862 size-full" src="/media/legacy/legacy-004400.jpg" alt="浜松 まつさか與 店内" width="300" height="225">
+<img class="aligncenter wp-image-5862 size-full" src="/media/content/asset-004400.jpg" alt="浜松 まつさか與 店内" width="300" height="225">
 
-<img class="aligncenter wp-image-5856 size-full" src="/media/legacy/legacy-004395.jpg" alt="浜松 まつさか與 カウンター" width="300" height="225">
+<img class="aligncenter wp-image-5856 size-full" src="/media/content/asset-004395.jpg" alt="浜松 まつさか與 カウンター" width="300" height="225">
 
 店内はBARのような内装でカウンター席とテーブル席があり、遠赤プレートが並んでいます。
 
@@ -29,7 +29,7 @@ path: "/hamamatsushi-yakiniku-matsusakakumi/"
 
 &nbsp;
 <h2>どんなお肉が待ち構えているのか…</h2>
-<img class="aligncenter wp-image-5854 size-full" src="/media/legacy/legacy-004393.jpg" alt="まつさか與 松阪牛 切り落とし 牛ホルモン" width="300" height="225">
+<img class="aligncenter wp-image-5854 size-full" src="/media/content/asset-004393.jpg" alt="まつさか與 松阪牛 切り落とし 牛ホルモン" width="300" height="225">
 
 <strong>「切り落としとホルモン」</strong>
 
@@ -37,7 +37,7 @@ path: "/hamamatsushi-yakiniku-matsusakakumi/"
 
 ホルモンは脂多めでプリップリ。
 
-<img class="aligncenter wp-image-5855 size-full" src="/media/legacy/legacy-004394.jpg" alt="まつさか與 松阪牛 特上カルビ" width="300" height="225">
+<img class="aligncenter wp-image-5855 size-full" src="/media/content/asset-004394.jpg" alt="まつさか與 松阪牛 特上カルビ" width="300" height="225">
 
 <strong>「特上カルビ」</strong>
 
@@ -49,7 +49,7 @@ path: "/hamamatsushi-yakiniku-matsusakakumi/"
 
 &nbsp;
 
-<img class="aligncenter wp-image-5857 size-full" src="/media/legacy/legacy-004396.jpg" alt="まつさか與 松阪牛 タン ホホ" width="300" height="225">
+<img class="aligncenter wp-image-5857 size-full" src="/media/content/asset-004396.jpg" alt="まつさか與 松阪牛 タン ホホ" width="300" height="225">
 
 <strong>「タンとホホ」</strong>
 
@@ -57,13 +57,13 @@ path: "/hamamatsushi-yakiniku-matsusakakumi/"
 
 ホホは見た目が筋っぽいのですが、実際に食べると独特な食感で硬くはありません。
 
-<img class="aligncenter wp-image-5860 size-full" src="/media/legacy/legacy-004398.jpg" alt="まつさか與 松阪牛 ハラミ" width="300" height="225">
+<img class="aligncenter wp-image-5860 size-full" src="/media/content/asset-004398.jpg" alt="まつさか與 松阪牛 ハラミ" width="300" height="225">
 
 <strong>「ハラミ」</strong>
 
 これがびっくり。こんなに分厚いのに、さっくり噛み切れます。
 
-<img class="aligncenter wp-image-5861 size-full" src="/media/legacy/legacy-004399.jpg" alt="まつさか與 松阪牛 ハツコリ 海鮮盛り" width="300" height="225">
+<img class="aligncenter wp-image-5861 size-full" src="/media/content/asset-004399.jpg" alt="まつさか與 松阪牛 ハツコリ 海鮮盛り" width="300" height="225">
 
 <strong>「ハツコリと海鮮盛り」</strong>
 
@@ -71,7 +71,7 @@ path: "/hamamatsushi-yakiniku-matsusakakumi/"
 
 海鮮盛りは、エビ、ホタテ、イカ。焼いても生でもと言われたので、生、半生、焼きでいただきました。
 
-<img class="aligncenter wp-image-5859 size-full" src="/media/legacy/legacy-004397.jpg" alt="まつさか與 餃子ウィンナー" width="300" height="225">
+<img class="aligncenter wp-image-5859 size-full" src="/media/content/asset-004397.jpg" alt="まつさか與 餃子ウィンナー" width="300" height="225">
 
 <strong>「餃子ウィンナー」</strong>
 

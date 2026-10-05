@@ -5,7 +5,7 @@ published_at: "2016-11-12 19:47:00"
 path: "/anker-powerline-lightningusbcable/"
 ---
 <h2>色んなケーブルを使ってきた僕のオススメ</h2>
-<img class="aligncenter wp-image-9470 size-large" title="Anker PowerLine+ ライトニング USB ケーブル" src="/media/legacy/legacy-003736.jpg" width="640" height="480">
+<img class="aligncenter wp-image-9470 size-large" title="Anker PowerLine+ ライトニング USB ケーブル" src="/media/content/asset-003736.jpg" width="640" height="480">
 
 いやーやっとこさ素晴らしいライトニングケーブルに出会えました。
 
@@ -35,19 +35,19 @@ path: "/anker-powerline-lightningusbcable/"
 
 &nbsp;
 <h2>専用収納ポーチが秀逸すぎる</h2>
-<img class="aligncenter wp-image-9466 size-large" title="Anker PowerLine+ ライトニング USB ケーブル" src="/media/legacy/legacy-003728.jpg" width="640" height="480">
+<img class="aligncenter wp-image-9466 size-large" title="Anker PowerLine+ ライトニング USB ケーブル" src="/media/content/asset-003728.jpg" width="640" height="480">
 
 商品はこのような小箱に梱包されています。Apple MFi認証もしっかり明記。これがないと通信とかかなり不安なんですよね。
 
-<img class="aligncenter wp-image-9467 size-large" title="Anker PowerLine+ ライトニング USB ケーブル" src="/media/legacy/legacy-003730.jpg" width="640" height="480">
+<img class="aligncenter wp-image-9467 size-large" title="Anker PowerLine+ ライトニング USB ケーブル" src="/media/content/asset-003730.jpg" width="640" height="480">
 
-<img class="aligncenter wp-image-9468 size-large" title="Anker PowerLine+ ライトニング USB ケーブル" src="/media/legacy/legacy-003732.jpg" width="640" height="480">
+<img class="aligncenter wp-image-9468 size-large" title="Anker PowerLine+ ライトニング USB ケーブル" src="/media/content/asset-003732.jpg" width="640" height="480">
 
-<img class="aligncenter wp-image-9472 size-large" title="Anker PowerLine+ ライトニング USB ケーブル" src="/media/legacy/legacy-003738.jpg" width="640" height="480">
+<img class="aligncenter wp-image-9472 size-large" title="Anker PowerLine+ ライトニング USB ケーブル" src="/media/content/asset-003738.jpg" width="640" height="480">
 
 そして、数ある商品の中でさすがAnkerと言わざるを得ないのがこの専用ポーチ。
 
-<img class="aligncenter wp-image-9469 size-large" title="Anker PowerLine+ ライトニング USB ケーブル" src="/media/legacy/legacy-003734.jpg" width="640" height="480">
+<img class="aligncenter wp-image-9469 size-large" title="Anker PowerLine+ ライトニング USB ケーブル" src="/media/content/asset-003734.jpg" width="640" height="480">
 
 僕のは1.8mなのですが、2回2つ折り、1回3つ折りでちょうど収まります。
 

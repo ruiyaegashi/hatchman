@@ -5,7 +5,7 @@ published_at: "2016-11-13 21:12:26"
 path: "/ramen-butasobaichibanboshi/"
 ---
 <h2>静岡でじわじわ浸透している「おかずラーメン」</h2>
-<img class="aligncenter wp-image-9538 size-large" title="静岡浅間通り「豚SOBA一番星」濃厚豚骨醤油の豚そば" src="/media/legacy/legacy-004727.jpg" alt="butasobaichibanboshi1" width="640" height="480">
+<img class="aligncenter wp-image-9538 size-large" title="静岡浅間通り「豚SOBA一番星」濃厚豚骨醤油の豚そば" src="/media/content/asset-004727.jpg" alt="butasobaichibanboshi1" width="640" height="480">
 
 「おかずラーメン」という言葉をご存知でしょうか。知らない？ですよね。
 <blockquote>2日間かけて炊き上げた自慢の「濃厚豚骨醤油スープ」と相性バツグンの特製ダレで香ばしく炒めた香ばしい「豚焼肉」！！
@@ -29,7 +29,7 @@ path: "/ramen-butasobaichibanboshi/"
 
 <a href="https://www.amazon.co.jp/dp/4048947362">ラーメンウォーカームック ラーメンWalker静岡2016</a>
 <h2>メニューは「豚そば」「台湾豚そば」「まぜ豚そば」の3種類</h2>
-<img class="aligncenter wp-image-9534 size-large" title="静岡浅間通り「豚SOBA一番星」濃厚豚骨醤油の豚そば" src="/media/legacy/legacy-004729.jpg" alt="butasobaichibanboshi2" width="640" height="480">
+<img class="aligncenter wp-image-9534 size-large" title="静岡浅間通り「豚SOBA一番星」濃厚豚骨醤油の豚そば" src="/media/content/asset-004729.jpg" alt="butasobaichibanboshi2" width="640" height="480">
 
 ラーメンは3種類、それにトッピングが選べます。
 
@@ -37,7 +37,7 @@ path: "/ramen-butasobaichibanboshi/"
 
 &nbsp;
 <h2>豚SOBA食べ方講座！！</h2>
-<img class="aligncenter wp-image-9535 size-large" title="静岡浅間通り「豚SOBA一番星」濃厚豚骨醤油の豚そば" src="/media/legacy/legacy-004731.jpg" alt="butasobaichibanboshi3" width="640" height="480">
+<img class="aligncenter wp-image-9535 size-large" title="静岡浅間通り「豚SOBA一番星」濃厚豚骨醤油の豚そば" src="/media/content/asset-004731.jpg" alt="butasobaichibanboshi3" width="640" height="480">
 
 メインの豚そばにはおすすめの食べ方があります。
 
@@ -47,7 +47,7 @@ path: "/ramen-butasobaichibanboshi/"
 
 &nbsp;
 <h2>豚そば、大盛り、特のせ、肉増し、半ライス</h2>
-<img class="aligncenter wp-image-9536 size-large" title="静岡浅間通り「豚SOBA一番星」濃厚豚骨醤油の豚そば" src="/media/legacy/legacy-004733.jpg" alt="butasobaichibanboshi4" width="640" height="480">
+<img class="aligncenter wp-image-9536 size-large" title="静岡浅間通り「豚SOBA一番星」濃厚豚骨醤油の豚そば" src="/media/content/asset-004733.jpg" alt="butasobaichibanboshi4" width="640" height="480">
 
 このときは訳あって大盛り、特のせ(チャーシュー、味玉、のり、メンマ)、肉増し(焼肉+100g)と、トッピング増し増しです。
 
@@ -93,7 +93,7 @@ path: "/ramen-butasobaichibanboshi/"
 
 <a href="https://www.amazon.co.jp/dp/4048947362">ラーメンウォーカームック ラーメンWalker静岡2016</a>
 <h2>2周年おめでとうございます！</h2>
-<img class="aligncenter wp-image-9539 size-large" title="静岡浅間通り「豚SOBA一番星」濃厚豚骨醤油の豚そば" src="/media/legacy/legacy-004735.jpg" alt="butasobaichibanboshi5" width="640" height="853">
+<img class="aligncenter wp-image-9539 size-large" title="静岡浅間通り「豚SOBA一番星」濃厚豚骨醤油の豚そば" src="/media/content/asset-004735.jpg" alt="butasobaichibanboshi5" width="640" height="853">
 
 2周年、おめでたいことです。静岡市もお店の入れ替わりが激しいので、これからもこのオンリーワンをつらぬいて残って欲しいです。
 

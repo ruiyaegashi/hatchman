@@ -4,7 +4,7 @@ status: "publish"
 published_at: "2016-04-11 15:24:53"
 path: "/movie-review-lucy/"
 ---
-<img class="aligncenter" title="" src="/media/legacy/legacy-000262.png" alt="映画 『LUCY／ルーシー』 ">
+<img class="aligncenter" title="" src="/media/content/asset-000262.png" alt="映画 『LUCY／ルーシー』 ">
 
 <a href="http://lucymovie.jp/" target="_blank">『LUCY／ルーシー』公式サイト</a>
 

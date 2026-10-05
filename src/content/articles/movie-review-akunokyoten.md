@@ -5,7 +5,7 @@ published_at: "2016-11-08 16:30:55"
 path: "/movie-review-akunokyoten/"
 ---
 <h2>あなたは耐えられるか。既視感に潜む理想の教師の闇に。</h2>
-<img class="aligncenter" title="映画『悪の教典』" src="/media/legacy/legacy-004704.jpg" width="300" height="264">
+<img class="aligncenter" title="映画『悪の教典』" src="/media/content/asset-004704.jpg" width="300" height="264">
 
 本作は貴志祐介著の小説『悪の教典』を原作とするホラー・サスペンス映画です。
 

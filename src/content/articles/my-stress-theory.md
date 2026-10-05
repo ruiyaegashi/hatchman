@@ -5,7 +5,7 @@ published_at: "2016-06-01 14:19:51"
 path: "/my-stress-theory/"
 ---
 <h2>ストレスをこれ以上気にしない強いメンタルの作り方</h2>
-<img class="aligncenter size-full wp-image-9308" src="/media/legacy/legacy-003727.jpg" alt="THE21201606" width="1060" height="795">
+<img class="aligncenter size-full wp-image-9308" src="/media/content/asset-003727.jpg" alt="THE21201606" width="1060" height="795">
 
 <a href="https://www.amazon.co.jp/dp/B01D531A5M">THE21 2016年 06 月号</a>
 
@@ -21,7 +21,7 @@ path: "/my-stress-theory/"
 <h2>ストレスとは？メンタルとは？言葉の整理</h2>
 &nbsp;
 
-<img class="aligncenter size-full wp-image-9310" src="/media/legacy/legacy-000005.png" alt="女医の説明" width="625" height="624">
+<img class="aligncenter size-full wp-image-9310" src="/media/content/asset-000005.png" alt="女医の説明" width="625" height="624">
 
 一般的にストレスとは「精神的・肉体的に負担となる刺激や状況」のことを言います。プレッシャーもストレスの一種として考えられることが多いでしょう。
 
@@ -37,7 +37,7 @@ path: "/my-stress-theory/"
 
 &nbsp;
 <h2>僕のストレス史</h2>
-<img class="aligncenter size-full wp-image-9311" src="/media/legacy/legacy-000010.png" alt="僕のストレス史" width="625" height="625">
+<img class="aligncenter size-full wp-image-9311" src="/media/content/asset-000010.png" alt="僕のストレス史" width="625" height="625">
 
 ストレス論を語る上で一応僕のストレス史を。
 <h3>小学校</h3>
@@ -79,7 +79,7 @@ path: "/my-stress-theory/"
 
 &nbsp;
 <h2>僕のストレス論【まえがき】</h2>
-<img class="aligncenter wp-image-9316 size-full" src="/media/legacy/legacy-000003.png" alt="僕のストレス論【まえがき】" width="625" height="624">
+<img class="aligncenter wp-image-9316 size-full" src="/media/content/asset-000003.png" alt="僕のストレス論【まえがき】" width="625" height="624">
 
 ストレス史でも書きましたが、僕のストレス論は大学で形成されました。若造ではありましたが、今でも十二分に効力があります。
 
@@ -113,7 +113,7 @@ path: "/my-stress-theory/"
 
 &nbsp;
 <h2>僕のストレス論【序論】</h2>
-<img class="aligncenter wp-image-9317 size-full" src="/media/legacy/legacy-000007.png" alt="僕のストレス論【序論】" width="625" height="625">
+<img class="aligncenter wp-image-9317 size-full" src="/media/content/asset-000007.png" alt="僕のストレス論【序論】" width="625" height="625">
 
 僕のストレス論の前提は<strong>「ストレスは刺激の記憶である」</strong>ということ。放たれた言葉の振動ではなく、内容がストレスになるのです。
 
@@ -129,7 +129,7 @@ path: "/my-stress-theory/"
 
 &nbsp;
 <h2>僕のストレス論【第1章 メンタル定義編】</h2>
-<img class="aligncenter wp-image-9322 size-full" src="/media/legacy/legacy-000002.png" alt="僕のストレス論【メンタル定義編】" width="624" height="625">
+<img class="aligncenter wp-image-9322 size-full" src="/media/content/asset-000002.png" alt="僕のストレス論【メンタル定義編】" width="624" height="625">
 
 「君ってメンタル強いよね～」
 
@@ -181,7 +181,7 @@ path: "/my-stress-theory/"
 
 &nbsp;
 <h2>僕のストレス論【第2章 ストレス、発生源分析編】</h2>
-<img class="aligncenter wp-image-9326 size-full" src="/media/legacy/legacy-000008.png" alt="僕のストレス論【ストレス・ストレッサー分析編】" width="625" height="625">
+<img class="aligncenter wp-image-9326 size-full" src="/media/content/asset-000008.png" alt="僕のストレス論【ストレス・ストレッサー分析編】" width="625" height="625">
 
 ストレスに対処する準備はできましたので、まずは一呼吸。
 
@@ -232,7 +232,7 @@ path: "/my-stress-theory/"
 
 &nbsp;
 <h2>僕のストレス論【第3章 ストレス発生源排除編】</h2>
-<img class="aligncenter wp-image-9321 size-full" src="/media/legacy/legacy-000001.png" alt="僕のストレス論【ストレッサー排除編】" width="624" height="625">
+<img class="aligncenter wp-image-9321 size-full" src="/media/content/asset-000001.png" alt="僕のストレス論【ストレッサー排除編】" width="624" height="625">
 
 ストレス、発生源の分析ができたら、ストレス発生源の排除を試みましょう。これにつきます。
 
@@ -298,7 +298,7 @@ path: "/my-stress-theory/"
 
 &nbsp;
 <h2>僕のストレス論【第4章 ストレス処理編】</h2>
-<img class="aligncenter size-full wp-image-9328" src="/media/legacy/legacy-000006.png" alt="僕のストレス論【ストレス処理編】" width="625" height="624">
+<img class="aligncenter size-full wp-image-9328" src="/media/content/asset-000006.png" alt="僕のストレス論【ストレス処理編】" width="625" height="624">
 
 ストレス、発生源を分析したけど、ストレス発生源の排除がどうしてもできないときは、ストレスを受ける前提で素早く処理しましょう。
 
@@ -324,7 +324,7 @@ path: "/my-stress-theory/"
 
 &nbsp;
 <h2>僕のストレス論【第5章 ストレス発散編】</h2>
-<img class="aligncenter wp-image-9330 size-full" src="/media/legacy/legacy-000009.png" alt="僕のストレス論【ストレス発散編】" width="625" height="625">
+<img class="aligncenter wp-image-9330 size-full" src="/media/content/asset-000009.png" alt="僕のストレス論【ストレス発散編】" width="625" height="625">
 
 元も子もありませんが、ストレスは刺激の記憶なので完全に発散することはできません。忘れるのを待つしかないんです。
 
@@ -354,7 +354,7 @@ path: "/my-stress-theory/"
 
 &nbsp;
 <h2>僕のストレス論【結論】</h2>
-<img class="aligncenter wp-image-9331 size-full" src="/media/legacy/legacy-000004.png" alt="僕のストレス論【結論】" width="624" height="624">
+<img class="aligncenter wp-image-9331 size-full" src="/media/content/asset-000004.png" alt="僕のストレス論【結論】" width="624" height="624">
 
 随分長くなってしまいましたが、無駄な部分はなかったかと思います。
 

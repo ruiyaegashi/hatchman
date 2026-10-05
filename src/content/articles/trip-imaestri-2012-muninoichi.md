@@ -19,40 +19,40 @@ path: "/trip-imaestri-2012-muninoichi/"
 
 &nbsp;
 <h2>鳳来寺山の周辺の見どころ</h2>
-<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/legacy/legacy-003702.jpg" width="300" height="225">
+<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/content/asset-003702.jpg" width="300" height="225">
 
 鳳来寺山周辺の地図ですが、かなりの数の名所があります。ただ、絵で見る限り徒歩でしか行けないような場所が多そう。
 
-<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/legacy/legacy-004028.jpg" width="300" height="225">
+<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/content/asset-004028.jpg" width="300" height="225">
 
 駐車場近くにはお土産屋さんや食事処がありました。この時点で良い雰囲気。ここからてくてく歩いていきます。
 
-<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/legacy/legacy-004184.jpg" width="300" height="225">
+<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/content/asset-004184.jpg" width="300" height="225">
 狭い道の両側には時が止まったようなお家がちらほら。ちょっとしたタイムトリップです。
 
-<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/legacy/legacy-004187.jpg" width="300" height="225">
+<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/content/asset-004187.jpg" width="300" height="225">
 
 そうかと思えば「鳳来いろいろの森」という植林地ですかね？
 
-<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/legacy/legacy-004296.jpg" width="300" height="225">
+<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/content/asset-004296.jpg" width="300" height="225">
 
 ここから見ても様々な木が見て取れました。
 
 &nbsp;
 <h2>イベントと旧門谷小学校</h2>
-<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/legacy/legacy-004309.jpg" width="300" height="400">
+<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/content/asset-004309.jpg" width="300" height="400">
 
 10分くらい歩くと門谷小学校の文字が。常時あるであろう食堂と今回のイベントの案内。
 
-<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/legacy/legacy-004318.jpg" width="300" height="225">
+<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/content/asset-004318.jpg" width="300" height="225">
 
 紅葉が始まったところで、少しずつ色づいていました。
 
-<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/legacy/legacy-004322.jpg" width="300" height="225">
+<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/content/asset-004322.jpg" width="300" height="225">
 
 趣きのある校門をくぐると、
 
-<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/legacy/legacy-004326.jpg" width="300" height="225">
+<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/content/asset-004326.jpg" width="300" height="225">
 
 会場に到着です。
 
@@ -60,7 +60,7 @@ path: "/trip-imaestri-2012-muninoichi/"
 
 陶芸、木工、ガラス、竹細工、布、織り、革、染め、紡ぎ、タイルアート、フェルト、ペーパーアート、カリンバ、絵画等々、僕から見ても魅力的な作品がたくさん。
 
-<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/legacy/legacy-002897.jpg" width="300" height="225">
+<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/content/asset-002897.jpg" width="300" height="225">
 
 そしてこちらが門谷小学校。
 
@@ -68,15 +68,15 @@ path: "/trip-imaestri-2012-muninoichi/"
 
 ほんとに昔のままという感じ。
 
-<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/legacy/legacy-003029.jpg" width="300" height="400">
+<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/content/asset-003029.jpg" width="300" height="400">
 
 玄関から入るとすぐに「門谷校区観察図」
 
-<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/legacy/legacy-003141.jpg" width="300" height="225">
+<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/content/asset-003141.jpg" width="300" height="225">
 
 そして校訓。
 
-<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/legacy/legacy-003251.jpg" width="300" height="400">
+<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/content/asset-003251.jpg" width="300" height="400">
 
 廊下。
 
@@ -90,12 +90,12 @@ path: "/trip-imaestri-2012-muninoichi/"
 
 &nbsp;
 <h2>食も</h2>
-<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/legacy/legacy-003412.JPG" width="300" height="225">
+<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/content/asset-003412.JPG" width="300" height="225">
 小腹がすいたので、外で揚げまんじゅうを購入。
 
 揚げたてで外はサクサク、中はホクホクで美味でした。
 
-<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/legacy/legacy-003486.jpg" width="300" height="400">
+<img class="aligncenter" title="イ・マエストリ 2012 無二の市" src="/media/content/asset-003486.jpg" width="300" height="400">
 
 帰りがけにちょっとした紅葉を。スローな1日を過ごすことができました。
 <p style="margin-top: 5pt; margin-bottom: 5pt; font-size: 11.0pt;"><span style="font-family: Calibri;"><a href="https://www.amazon.co.jp/dp/4533107052"></span><span style=</a></span></p>

@@ -36,7 +36,7 @@ path: "/appeal-of-sanarudai-sanaruko/"
 
 &nbsp;
 <h2>佐鳴台の通りは5色に色分けされている！</h2>
-<a href="/media/legacy/legacy-004936.jpg"><img class="aligncenter size-full wp-image-9281" src="/media/legacy/legacy-004936.jpg" alt="sanarudai" width="1060" height="795"></a>
+<a href="/media/content/asset-004936.jpg"><img class="aligncenter size-full wp-image-9281" src="/media/content/asset-004936.jpg" alt="sanarudai" width="1060" height="795"></a>
 <p style="text-align: center;">黒：ホワイトストリート　緑：グリーンストリート　黄：レモンストリート　紫：パープルストリート　橙：オレンジストリート</p>
 まちづくりの一環で、佐鳴台の主要道路に色の名前がつけられています。
 
@@ -46,17 +46,17 @@ path: "/appeal-of-sanarudai-sanaruko/"
 
 &nbsp;
 
-<img class="aligncenter size-full wp-image-5851" src="/media/legacy/legacy-004390.jpg" alt="IMG_0505" width="300" height="225">
+<img class="aligncenter size-full wp-image-5851" src="/media/content/asset-004390.jpg" alt="IMG_0505" width="300" height="225">
 <p style="text-align: center;">＜ホワイトストリート＞</p>
-<img class="aligncenter size-full wp-image-5848" src="/media/legacy/legacy-004387.jpg" alt="IMG_0500" width="300" height="225">
+<img class="aligncenter size-full wp-image-5848" src="/media/content/asset-004387.jpg" alt="IMG_0500" width="300" height="225">
 <p style="text-align: center;">＜グリーンストリート＞</p>
-<img class="aligncenter size-full wp-image-5849" src="/media/legacy/legacy-004388.jpg" alt="IMG_0502" width="300" height="225">
+<img class="aligncenter size-full wp-image-5849" src="/media/content/asset-004388.jpg" alt="IMG_0502" width="300" height="225">
 <p style="text-align: center;">＜レモンストリート＞</p>
-<img class="aligncenter size-full wp-image-5847" src="/media/legacy/legacy-004386.JPG" alt="IMG_0499" width="300" height="225">
+<img class="aligncenter size-full wp-image-5847" src="/media/content/asset-004386.JPG" alt="IMG_0499" width="300" height="225">
 <p style="text-align: center;">＜パープルストリート＞</p>
-<img class="aligncenter size-full wp-image-5852" src="/media/legacy/legacy-004391.jpg" alt="IMG_0511" width="300" height="225">
+<img class="aligncenter size-full wp-image-5852" src="/media/content/asset-004391.jpg" alt="IMG_0511" width="300" height="225">
 <p style="text-align: center;">＜オレンジストリート＞</p>
-<img class="aligncenter size-full wp-image-5850" src="/media/legacy/legacy-004389.jpg" alt="IMG_0504" width="300" height="400">
+<img class="aligncenter size-full wp-image-5850" src="/media/content/asset-004389.jpg" alt="IMG_0504" width="300" height="400">
 <p style="text-align: center;">＜グリーンストリートとホワイトストリートの交差点＞</p>
 各ストリートには看板が建てられていて、迷子の心配もなし。
 

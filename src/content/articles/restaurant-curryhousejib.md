@@ -13,7 +13,7 @@ path: "/restaurant-curryhousejib/"
 
 &nbsp;
 <h2>おしゃれな店内</h2>
-<img class="aligncenter" title="カレーハウスジブ" src="/media/legacy/legacy-004562.jpg" width="300" height="399">
+<img class="aligncenter" title="カレーハウスジブ" src="/media/content/asset-004562.jpg" width="300" height="399">
 
 店内はアンティークものが多く、小さなクラシックやジャズコンサートが開かれるため多少の楽器や機材があります。
 
@@ -21,15 +21,15 @@ path: "/restaurant-curryhousejib/"
 
 &nbsp;
 <h2>ビーフ&amp;ナスカレー、キーマ＆ナスカレー</h2>
-<img class="aligncenter" title="カレーハウスジブ" src="/media/legacy/legacy-004563.jpg" width="300" height="399">
+<img class="aligncenter" title="カレーハウスジブ" src="/media/content/asset-004563.jpg" width="300" height="399">
 
 何を頼んでもついてくるサラダ。他では見ない、野菜とフルーツがてんこ盛りです。
 
-<img class="aligncenter" title="カレーハウスジブ" src="/media/legacy/legacy-004564.jpg" width="300" height="399">
+<img class="aligncenter" title="カレーハウスジブ" src="/media/content/asset-004564.jpg" width="300" height="399">
 
 ビーフ＆ナスカレー
 
-<img class="aligncenter" title="カレーハウスジブ" src="/media/legacy/legacy-004565.jpg" width="300" height="399">
+<img class="aligncenter" title="カレーハウスジブ" src="/media/content/asset-004565.jpg" width="300" height="399">
 
 キーマ＆ナスカレー
 
@@ -41,7 +41,7 @@ path: "/restaurant-curryhousejib/"
 
 スパイスやコクは弱めなので、カレーと言いつつかなりあっさり系です。
 
-<img class="aligncenter" title="カレーハウスジブ" src="/media/legacy/legacy-004566.jpg" width="300" height="225">
+<img class="aligncenter" title="カレーハウスジブ" src="/media/content/asset-004566.jpg" width="300" height="225">
 
 セットを頼んだので、デザートがついてきます。
 
@@ -53,7 +53,7 @@ path: "/restaurant-curryhousejib/"
 
 &nbsp;
 <h2>店舗情報</h2>
-<img class="aligncenter" title="カレーハウスジブ" src="/media/legacy/legacy-004574.jpg" width="300" height="400">
+<img class="aligncenter" title="カレーハウスジブ" src="/media/content/asset-004574.jpg" width="300" height="400">
 <div><strong><a href="https://tabelog.com/shizuoka/A2201/A220101/22002165/" target="_blank">カレーハウスジブ 静岡市駿河区店</a></strong>
 <aside class="preserved-content unsupported-embed">旧script埋め込み（安全のため停止）: https://tabelog.com/badge/google_badge?escape=false&amp;rcd=22002165</aside></div>
 <p style="color: #444444; font-size: 12px;"><strong>関連ランキング：</strong><a href="https://tabelog.com/rstLst/RC1201/">カレーライス</a> | <a href="https://tabelog.com/shizuoka/A2201/A220101/R8213/rstLst/">静岡駅</a></p>

@@ -5,7 +5,7 @@ published_at: "2012-10-26 17:13:34"
 path: "/impulse-of-my-life/"
 ---
 <h2>刺激は人に必要なのか？</h2>
-<img class="aligncenter size-full wp-image-9232" src="/media/legacy/legacy-004746.jpg" alt="couple_billiards" width="1060" height="707">
+<img class="aligncenter size-full wp-image-9232" src="/media/content/asset-004746.jpg" alt="couple_billiards" width="1060" height="707">
 
 逆に考えれば、刺激がなかったら人はどうなってしまうのでしょうか。
 <blockquote>しげき【刺激 stimulus】
@@ -22,7 +22,7 @@ path: "/impulse-of-my-life/"
 
 &nbsp;
 <h2>僕にとって一番の刺激は旅行</h2>
-<img class="aligncenter size-full wp-image-9233" src="/media/legacy/legacy-004757.jpg" alt="foreigner_couple_travel" width="1060" height="707">
+<img class="aligncenter size-full wp-image-9233" src="/media/content/asset-004757.jpg" alt="foreigner_couple_travel" width="1060" height="707">
 
 僕は刺激を求める質です。毎日同じなんて考えるも
 
@@ -48,6 +48,6 @@ path: "/impulse-of-my-life/"
 
 そんなことを、車の停まっていない駐車場に置いてあったテープカッター(テープなし)を見て思いましたとさ。
 
-<img class="aligncenter size-full wp-image-5840" src="/media/legacy/legacy-004379.jpg" alt="IMG_0475" width="300" height="400">
+<img class="aligncenter size-full wp-image-5840" src="/media/content/asset-004379.jpg" alt="IMG_0475" width="300" height="400">
 
 <a href="https://www.amazon.co.jp/dp/4763134604">たった5分で体が変わる すごい熱刺激</a>
