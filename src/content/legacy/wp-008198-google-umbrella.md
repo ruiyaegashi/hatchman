@@ -43,7 +43,7 @@ Googleが手がけたGoogle Umbrellaです。
 <h2>もちろん全て嘘です。 すみません。</h2>
 僕は天気予報は見ず、常に折り畳み傘を持ち運ぶ派で、少し重くても自動開閉で丈夫で長持ちするこの傘を愛用しています。
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B01BHU66CM&quot; locale=&quot;JP&quot; title=&quot;トーツ (totes)自動開閉 折り畳み傘 Titan Line 三つ折り60cm W82(ブラウンボーダー)&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B01BHU66CM">トーツ (totes)自動開閉 折り畳み傘 Titan Line 三つ折り60cm W82(ブラウンボーダー)</a>
 
 天気予報なんて当たるも八卦当たらぬも八卦、気にかけるだけ時間のムダですよ。
 
@@ -59,6 +59,6 @@ Googleが手がけたGoogle Umbrellaです。
 
 カバンからこのピンだけ出して歩けば注目されること間違いなし。皆さんもGoogleのイベントに参加してみては？
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4865453555&quot; locale=&quot;JP&quot; title=&quot;新しいGoogleの教科書 2016年版―グーグルのこんな便利な使い方知っていますか? (英和MOOK らくらく講座 254)&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4865453555">新しいGoogleの教科書 2016年版―グーグルのこんな便利な使い方知っていますか? (英和MOOK らくらく講座 254)</a>
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4800309344&quot; locale=&quot;JP&quot; title=&quot;Googleサービスがぜんぶわかる本 最新版 (洋泉社MOOK)&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4800309344">Googleサービスがぜんぶわかる本 最新版 (洋泉社MOOK)</a>
