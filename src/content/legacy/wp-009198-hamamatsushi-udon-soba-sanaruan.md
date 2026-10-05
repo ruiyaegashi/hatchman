@@ -56,5 +56,5 @@ migration_review: "review"
 <div><strong><a href="http://tabelog.com/shizuoka/A2202/A220201/22001482/" target="_blank">佐鳴庵</a></strong>
 <aside class="legacy-disabled">旧script埋め込み（安全のため停止）: http://tabelog.com/badge/google_badge?escape=false&amp;rcd=22001482</aside></div>
 <p style="color: #444444; font-size: 12px;"><strong>関連ランキング：</strong><a href="http://tabelog.com/rstLst/soba/">そば（蕎麦）</a> | <a href="http://tabelog.com/shizuoka/A2202/A220201/R8036/rstLst/">高塚駅</a></p>
-<p style="color: #444444; font-size: 12px;"><aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4783819726&quot; locale=&quot;JP&quot; title=&quot;保存版 今食べたい!静岡グルメ150選 (静岡ぐるぐるマップ)&quot;]</code></details></aside></p>
-<p style="color: #444444; font-size: 12px;"><aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B00433KP9G&quot; locale=&quot;JP&quot; title=&quot;静岡最強グルメ&quot;]</code></details></aside></p>
+<p style="color: #444444; font-size: 12px;"><a href="https://www.amazon.co.jp/dp/4783819726">保存版 今食べたい!静岡グルメ150選 (静岡ぐるぐるマップ)</a></p>
+<p style="color: #444444; font-size: 12px;"><a href="https://www.amazon.co.jp/dp/B00433KP9G">静岡最強グルメ</a></p>
