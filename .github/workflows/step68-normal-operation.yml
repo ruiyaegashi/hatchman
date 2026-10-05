@@ -1,0 +1,190 @@
+name: STEP68 Hatchman normal operation test
+
+on:
+  push:
+    branches:
+      - bod-step56-final-residue-check
+    paths:
+      - ".github/workflows/step68-normal-operation.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: '11.19.0'
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22.13.0'
+
+      - name: Validate article build
+        run: |
+          set -euo pipefail
+          pnpm install --frozen-lockfile
+          pnpm run check
+          pnpm run build
+          pnpm run functions:build
+          test -f dist/__ydi-step68-normal-operation/index.html
+          grep -F '/media/content/ydi-step68-normal-operation.png' dist/__ydi-step68-normal-operation/index.html
+
+      - name: Validate article plus new nested R2 binary through Preview
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import base64
+          import json
+          import time
+          import urllib.error
+          import urllib.request
+
+          BASE = "https://c37ef7b4.hatchman.pages.dev"
+          HARNESS = BASE + "/__ydi_step68_binary"
+          ARTICLE = BASE + "/__ydi-step68-normal-operation/"
+          MEDIA = BASE + "/media/content/ydi-step68-normal-operation.png"
+          PROD_ARTICLE = "https://hatchman.org/__ydi-step68-normal-operation/"
+          EXPECTED_COUNT = 5001
+          PNG = base64.b64decode(
+              "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII="
+          )
+
+          class NoRedirect(urllib.request.HTTPRedirectHandler):
+              def redirect_request(self, req, fp, code, msg, headers, newurl):
+                  return None
+
+          opener = urllib.request.build_opener(NoRedirect)
+
+          def request(url, method="GET", data=None, content_type=None):
+              headers = {"User-Agent": "YDI-STEP68-Normal-Operation/1.0"}
+              if content_type:
+                  headers["Content-Type"] = content_type
+              req = urllib.request.Request(url, method=method, data=data, headers=headers)
+              try:
+                  with opener.open(req, timeout=30) as r:
+                      body = r.read() if method != "HEAD" else b""
+                      return r.status, dict(r.headers), body
+              except urllib.error.HTTPError as e:
+                  body = e.read() if method != "HEAD" else b""
+                  return e.code, dict(e.headers), body
+
+          def wait_json(url, timeout=240):
+              deadline = time.time() + timeout
+              last = None
+              while time.time() < deadline:
+                  code, _, body = request(url)
+                  if code == 200:
+                      try:
+                          return json.loads(body.decode("utf-8"))
+                      except Exception as e:
+                          last = repr(e)
+                  else:
+                      last = f"HTTP {code}"
+                  time.sleep(2)
+              raise RuntimeError(f"endpoint unavailable: {url}: {last}")
+
+          def wait_article(timeout=240):
+              deadline = time.time() + timeout
+              last = None
+              while time.time() < deadline:
+                  code, _, body = request(ARTICLE)
+                  text = body.decode("utf-8", "replace")
+                  if code == 200 and "YDI STEP68 normal operation test" in text and "/media/content/ydi-step68-normal-operation.png" in text:
+                      return
+                  last = (code, text[:200])
+                  time.sleep(2)
+              raise RuntimeError(f"article preview unavailable: {last}")
+
+          uploaded = False
+          primary_error = None
+          before = None
+          try:
+              before = wait_json(HARNESS)
+              assert before["count"] == EXPECTED_COUNT, before
+              assert before["test_exists"] is False, before
+
+              prod_code, _, _ = request(PROD_ARTICLE)
+              assert prod_code == 404, prod_code
+
+              code, _, body = request(
+                  HARNESS,
+                  method="POST",
+                  data=PNG,
+                  content_type="image/png",
+              )
+              assert code == 200, (code, body[:500])
+              uploaded = True
+              after_put = json.loads(body.decode("utf-8"))
+              assert after_put["count"] == EXPECTED_COUNT + 1, after_put
+              assert after_put["total_bytes"] == before["total_bytes"] + len(PNG), after_put
+              assert after_put["test_exists"] is True, after_put
+
+              wait_article()
+
+              deadline = time.time() + 120
+              media_result = None
+              while time.time() < deadline:
+                  code, headers, _ = request(MEDIA, method="HEAD")
+                  ctype = headers.get("Content-Type", headers.get("content-type", ""))
+                  clen = headers.get("Content-Length", headers.get("content-length", ""))
+                  if code == 200 and "image/png" in ctype.lower() and int(clen) == len(PNG):
+                      media_result = {
+                          "status": code,
+                          "content_type": ctype,
+                          "content_length": int(clen),
+                      }
+                      break
+                  time.sleep(2)
+              assert media_result is not None, "Preview nested media did not become readable"
+
+              print(json.dumps({
+                  "article_build": "PASS",
+                  "preview_article": "PASS",
+                  "new_nested_binary_put": "PASS",
+                  "preview_media": media_result,
+                  "pre_count": before["count"],
+                  "during_count": after_put["count"],
+                  "production_test_article": 404,
+              }, ensure_ascii=False, indent=2))
+
+          except Exception as e:
+              primary_error = e
+              raise
+          finally:
+              if uploaded:
+                  code, _, body = request(HARNESS, method="DELETE")
+                  if code != 200:
+                      raise RuntimeError(f"cleanup delete failed: HTTP {code}: {body[:500]!r}") from primary_error
+
+                  deadline = time.time() + 120
+                  cleaned = None
+                  while time.time() < deadline:
+                      status = wait_json(HARNESS, timeout=30)
+                      media_code, _, _ = request(MEDIA, method="HEAD")
+                      if (
+                          status["count"] == before["count"]
+                          and status["total_bytes"] == before["total_bytes"]
+                          and status["test_exists"] is False
+                          and media_code == 404
+                      ):
+                          cleaned = status
+                          break
+                      time.sleep(2)
+
+                  if cleaned is None:
+                      raise RuntimeError("R2 cleanup verification failed") from primary_error
+
+                  print(json.dumps({
+                      "cleanup": "PASS",
+                      "r2_count": cleaned["count"],
+                      "r2_total_bytes": cleaned["total_bytes"],
+                      "test_exists": cleaned["test_exists"],
+                      "test_media_status": 404,
+                  }, ensure_ascii=False, indent=2))
+          PY
