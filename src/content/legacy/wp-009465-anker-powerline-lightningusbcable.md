@@ -21,7 +21,7 @@ migration_review: "review"
 
 いやーやっとこさ素晴らしいライトニングケーブルに出会えました。
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B0177L6A4O&quot; locale=&quot;JP&quot; title=&quot;Anker PowerLine+ ライトニングUSBケーブル Apple MFi認証取得【高耐久ケブラー素材 / 2重編込の高耐久ナイロン素材 / 結束バンド付属】iPhone、iPad各種他対応 (0.3m レッド)&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B0177L6A4O">Anker PowerLine+ ライトニングUSBケーブル Apple MFi認証取得【高耐久ケブラー素材 / 2重編込の高耐久ナイロン素材 / 結束バンド付属】iPhone、iPad各種他対応 (0.3m レッド)</a>
 
 ここまでの道のりは長かった。ネットで調べて購入しては断線、通信エラーの繰り返し。もううんざりと思っていたところにこのケーブル。
 
@@ -71,4 +71,4 @@ migration_review: "review"
 
 ということで、ライトニングケーブル選びに迷っている方にはぜひとも試してもらいたい逸品。
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B0177L6A4O&quot; locale=&quot;JP&quot; title=&quot;Anker PowerLine+ ライトニングUSBケーブル Apple MFi認証取得【高耐久ケブラー素材 / 2重編込の高耐久ナイロン素材 / 結束バンド付属】iPhone、iPad各種他対応 (0.3m レッド)&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B0177L6A4O">Anker PowerLine+ ライトニングUSBケーブル Apple MFi認証取得【高耐久ケブラー素材 / 2重編込の高耐久ナイロン素材 / 結束バンド付属】iPhone、iPad各種他対応 (0.3m レッド)</a>
