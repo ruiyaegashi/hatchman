@@ -1,0 +1,104 @@
+name: STEP52 neutralize Hatchman media URLs
+
+on:
+  push:
+    branches:
+      - bod-step52-neutral-media-urls
+    paths:
+      - ".github/workflows/step52-neutralize-media.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  transform:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: bod-step52-neutral-media-urls
+          fetch-depth: 0
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: '11.19.0'
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22.13.0'
+
+      - name: Rewrite article media URLs
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 <<'PY'
+          from pathlib import Path
+          import re
+
+          root = Path("src/content/articles")
+          files = sorted(root.rglob("*.md"))
+          assert len(files) == 407, len(files)
+
+          pattern = re.compile(r"/media/legacy/legacy-(\d{6})\.([A-Za-z0-9]+)")
+          before_count = 0
+          before_unique = set()
+          changed_files = 0
+
+          for path in files:
+              text = path.read_text(encoding="utf-8")
+              matches = list(pattern.finditer(text))
+              before_count += len(matches)
+              before_unique.update(m.group(0) for m in matches)
+              new = pattern.sub(r"/media/content/asset-\1.\2", text)
+              if new != text:
+                  path.write_text(new, encoding="utf-8")
+                  changed_files += 1
+
+          assert before_count == 3422, before_count
+          assert len(before_unique) == 3348, len(before_unique)
+
+          after_old = 0
+          after_new = 0
+          after_unique = set()
+          new_pattern = re.compile(r"/media/content/asset-(\d{6})\.([A-Za-z0-9]+)")
+
+          for path in files:
+              text = path.read_text(encoding="utf-8")
+              after_old += len(pattern.findall(text))
+              matches = list(new_pattern.finditer(text))
+              after_new += len(matches)
+              after_unique.update(m.group(0) for m in matches)
+
+          assert after_old == 0, after_old
+          assert after_new == 3422, after_new
+          assert len(after_unique) == 3348, len(after_unique)
+          assert changed_files > 0
+
+          print(f"articles={len(files)}")
+          print(f"changed_files={changed_files}")
+          print(f"old_refs_before={before_count}")
+          print(f"old_unique_before={len(before_unique)}")
+          print(f"old_refs_after={after_old}")
+          print(f"new_refs_after={after_new}")
+          print(f"new_unique_after={len(after_unique)}")
+          PY
+
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm run check
+      - run: pnpm run build
+      - run: pnpm run functions:build
+      - run: git diff --check
+
+      - name: Commit STEP52 repository change
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git rm .github/workflows/step52-neutralize-media.yml
+          git add src/content/articles
+          git diff --cached --quiet && { echo "No STEP52 changes"; exit 1; }
+          git commit -m 'Complete STEP52 Hatchman neutral media URLs'
+          git push origin HEAD:bod-step52-neutral-media-urls
