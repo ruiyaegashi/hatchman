@@ -135,8 +135,8 @@ migration_review: "review"
 <div><strong><a href="http://tabelog.com/shizuoka/A2201/A220101/22023815/" target="_blank">一蘭 静岡駅前店</a></strong>
 <aside class="legacy-disabled">旧script埋め込み（安全のため停止）: http://tabelog.com/badge/google_badge?escape=false&amp;rcd=22023815</aside></div>
 <p style="color: #444444; font-size: 12px;"><strong>関連ランキング：</strong><a href="http://tabelog.com/rstLst/ramen/">ラーメン</a> | <a href="http://tabelog.com/shizuoka/A2201/A220101/R5162/rstLst/">新静岡駅</a>、<a href="http://tabelog.com/shizuoka/A2201/A220101/R8213/rstLst/">静岡駅</a>、<a href="http://tabelog.com/shizuoka/A2201/A220101/R8548/rstLst/">日吉町駅</a></p>
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4048947362&quot; locale=&quot;JP&quot; title=&quot;ラーメンウォーカームック ラーメンWalker静岡2016&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4048947362">ラーメンウォーカームック ラーメンWalker静岡2016</a>
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;478381936X&quot; locale=&quot;JP&quot; title=&quot;浜松ぐるぐるマップ 81(NOVEMBER 201―保存版 うまいラーメン120軒&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/478381936X">浜松ぐるぐるマップ 81(NOVEMBER 201―保存版 うまいラーメン120軒</a>
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4783819785&quot; locale=&quot;JP&quot; title=&quot;静岡ぐるぐるマップ〈NO.131〉保存版ランチカタログ どこで食べる?おまちランチ×郊外ランチ&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4783819785">静岡ぐるぐるマップ〈NO.131〉保存版ランチカタログ どこで食べる?おまちランチ×郊外ランチ</a>
