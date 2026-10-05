@@ -90,7 +90,7 @@ migration_review: "review"
 
 住むには良い街なんですけどね…。
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4048947362&quot; locale=&quot;JP&quot; title=&quot;ラーメンウォーカームック ラーメンWalker静岡2016&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4048947362">ラーメンウォーカームック ラーメンWalker静岡2016</a>
 <div>
-<div><aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;478381936X&quot; locale=&quot;JP&quot; title=&quot;浜松ぐるぐるマップ 81(NOVEMBER 201―保存版 うまいラーメン120軒&quot;]</code></details></aside></div>
+<div><a href="https://www.amazon.co.jp/dp/478381936X">浜松ぐるぐるマップ 81(NOVEMBER 201―保存版 うまいラーメン120軒</a></div>
 </div>
