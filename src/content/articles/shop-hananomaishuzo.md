@@ -5,7 +5,7 @@ published_at: "2013-03-28 23:58:43"
 path: "/shop-hananomaishuzo/"
 ---
 <h2>浜松が誇る酒蔵</h2>
-<img class="aligncenter" title="酒蔵「花の舞酒造」" src="/media/legacy/legacy-000418.jpg" width="300" height="400">
+<img class="aligncenter" title="酒蔵「花の舞酒造」" src="/media/content/asset-000418.jpg" width="300" height="400">
 
 静岡には磯自慢や初亀といった有名な酒蔵が多く、こちらの「花の舞酒造」もそのうちの1つ。
 
@@ -13,7 +13,7 @@ path: "/shop-hananomaishuzo/"
 
 &nbsp;
 <h2>趣のある酒蔵</h2>
-<img class="aligncenter wp-image-6237 size-full" title="酒蔵「花の舞酒造」" src="/media/legacy/legacy-004638.jpg" alt="P20130319_135533536" width="300" height="225">
+<img class="aligncenter wp-image-6237 size-full" title="酒蔵「花の舞酒造」" src="/media/content/asset-004638.jpg" alt="P20130319_135533536" width="300" height="225">
 
 住宅街を進むと不意に現れ、そこだけ周りと違うオーラを放っています。
 
@@ -23,9 +23,9 @@ path: "/shop-hananomaishuzo/"
 
 &nbsp;
 <h2>直売所でニヤける</h2>
-<img class="aligncenter" title="酒蔵「花の舞酒造」" src="/media/legacy/legacy-004642.jpg" width="300" height="225">
-<img class="aligncenter" title="酒蔵「花の舞酒造」" src="/media/legacy/legacy-004640.jpg" width="300" height="225">
-<img class="aligncenter" title="酒蔵「花の舞酒造」" src="/media/legacy/legacy-004643.jpg" width="300" height="400">
+<img class="aligncenter" title="酒蔵「花の舞酒造」" src="/media/content/asset-004642.jpg" width="300" height="225">
+<img class="aligncenter" title="酒蔵「花の舞酒造」" src="/media/content/asset-004640.jpg" width="300" height="225">
+<img class="aligncenter" title="酒蔵「花の舞酒造」" src="/media/content/asset-004643.jpg" width="300" height="400">
 
 直売所もあるのですが、お酒好きにはたまらなく、観ているだけでニヤけてしまいます。
 

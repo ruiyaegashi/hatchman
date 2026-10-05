@@ -5,7 +5,7 @@ published_at: "2016-04-30 21:57:43"
 path: "/hamamatsushi-japanese-restaurant-tonkaraten/"
 ---
 <h2>美味しい親子丼が食べられるお店って少ない…</h2>
-<img class="aligncenter wp-image-5380 size-full" src="/media/legacy/legacy-004977.jpg" alt="浜松市 とん唐てん 親子丼" width="300" height="400">
+<img class="aligncenter wp-image-5380 size-full" src="/media/content/asset-004977.jpg" alt="浜松市 とん唐てん 親子丼" width="300" height="400">
 
 親子丼といえば和食、定食屋さんの定番、どこでもいただけることに違いはないのですが、専門店とは言わないまでも、こだわりの強いお店ってあまりないんですよね。
 
@@ -17,11 +17,11 @@ path: "/hamamatsushi-japanese-restaurant-tonkaraten/"
 
 &nbsp;
 <h2>こだわり尽くされた一黒しゃも匠み炙り親子丼！</h2>
-<img class="aligncenter wp-image-5380 size-full" src="/media/legacy/legacy-000904.jpg" alt="とん唐てん 一黒しゃも匠み炙り親子丼" width="300" height="400">
+<img class="aligncenter wp-image-5380 size-full" src="/media/content/asset-000904.jpg" alt="とん唐てん 一黒しゃも匠み炙り親子丼" width="300" height="400">
 
 こちらが噂の親子丼。まずもって見た目がたまらない。卵でとじてあり、さらにその上に生卵。トロットロって音が聞こえてきそうです。
 
-<img class="aligncenter wp-image-5380 size-full" src="/media/legacy/legacy-000903.jpg" alt="とん唐てん 召し上がり方" width="300" height="400">
+<img class="aligncenter wp-image-5380 size-full" src="/media/content/asset-000903.jpg" alt="とん唐てん 召し上がり方" width="300" height="400">
 
 こだわりは「召し上がり方」にも現れています。
 
@@ -29,13 +29,13 @@ path: "/hamamatsushi-japanese-restaurant-tonkaraten/"
 
 普通に親子丼として食べると、ほどよい味加減とふわふわの卵、香ばしく炙ってある軍鶏が絶妙。
 
-<img class="aligncenter wp-image-5380 size-full" src="/media/legacy/legacy-001287.jpg" alt="とん唐てん 黒七味" width="300" height="400">
+<img class="aligncenter wp-image-5380 size-full" src="/media/content/asset-001287.jpg" alt="とん唐てん 黒七味" width="300" height="400">
 
 わさび等の薬味と黒七味を加えてスープを注ぐと、
 
-<img class="aligncenter wp-image-5380 size-full" src="/media/legacy/legacy-004975.jpg" alt="とん唐てん 親子まぶし" width="300" height="400">
+<img class="aligncenter wp-image-5380 size-full" src="/media/content/asset-004975.jpg" alt="とん唐てん 親子まぶし" width="300" height="400">
 
-<img class="aligncenter wp-image-5380 size-full" src="/media/legacy/legacy-004976.jpg" alt="とん唐てん 親子まぶし" width="300" height="400">
+<img class="aligncenter wp-image-5380 size-full" src="/media/content/asset-004976.jpg" alt="とん唐てん 親子まぶし" width="300" height="400">
 
 親子まぶし。卵が少しだけ固まり相性が抜群。2度美味しいとはまさにこのことですね。
 

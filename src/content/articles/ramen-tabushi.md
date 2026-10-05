@@ -5,7 +5,7 @@ published_at: "2016-11-17 10:42:36"
 path: "/ramen-tabushi/"
 ---
 <h2>東京、高円寺発</h2>
-<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/legacy/legacy-004163.jpg" width="300" height="225">
+<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/content/asset-004163.jpg" width="300" height="225">
 
 東京の高円寺から始まった田ぶし。
 
@@ -29,13 +29,13 @@ path: "/ramen-tabushi/"
 
 <a href="https://www.amazon.co.jp/dp/4048947362">ラーメンウォーカームック ラーメンWalker静岡2016</a>
 <h2>メニュー</h2>
-<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/legacy/legacy-004164.jpg" width="300" height="225">
+<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/content/asset-004164.jpg" width="300" height="225">
 
-<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/legacy/legacy-004165.jpg" width="300" height="225">
+<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/content/asset-004165.jpg" width="300" height="225">
 
-<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/legacy/legacy-004166.jpg" width="300" height="225">
+<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/content/asset-004166.jpg" width="300" height="225">
 
-<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/legacy/legacy-004173.jpg" width="300" height="225">
+<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/content/asset-004173.jpg" width="300" height="225">
 
 メニューは魚介豚骨、醤油豚骨、味噌豚骨のラーメンとつけ麺。
 
@@ -47,19 +47,19 @@ path: "/ramen-tabushi/"
 
 &nbsp;
 <h2>やる気満々の店員さん</h2>
-<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/legacy/legacy-004174.jpg" width="300" height="225">
+<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/content/asset-004174.jpg" width="300" height="225">
 
 テーブルの薬味は特別なものはありませんがとても綺麗。女性、家族連れ受けもいいでしょう。
 
-<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/legacy/legacy-004175.jpg" width="300" height="225">
+<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/content/asset-004175.jpg" width="300" height="225">
 
 ラーメンを作るのは主に2人。挨拶はしつつ、テキパキ、黙々と作っています。
 
 &nbsp;
 <h2>醤油らーめん</h2>
-<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/legacy/legacy-004176.jpg" width="300" height="225">
+<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/content/asset-004176.jpg" width="300" height="225">
 
-<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/legacy/legacy-004177.jpg" width="300" height="400">
+<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/content/asset-004177.jpg" width="300" height="400">
 
 どちらかというと醤油が前に出た豚骨醤油です。
 
@@ -73,9 +73,9 @@ path: "/ramen-tabushi/"
 
 <a href="https://www.amazon.co.jp/dp/4048947362">ラーメンウォーカームック ラーメンWalker静岡2016</a>
 <h2>味噌つけ麺、大盛り、マル得トッピング</h2>
-<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/legacy/legacy-004178.jpg" width="300" height="225">
+<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/content/asset-004178.jpg" width="300" height="225">
 
-<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/legacy/legacy-004179.jpg" width="300" height="225">
+<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/content/asset-004179.jpg" width="300" height="225">
 
 スープは味噌が強め、というか田ぶしはかなり香りを押さえた豚骨スープなので、豚骨の役割はコク、旨味、こってり感なのでしょう。
 
@@ -91,7 +91,7 @@ path: "/ramen-tabushi/"
 
 味噌豚骨に対しては弱いかも知れませんが、単体でも売れそうなくらい美味しいです。
 
-<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/legacy/legacy-004180.jpg" width="300" height="400">
+<img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/content/asset-004180.jpg" width="300" height="400">
 
 スープ割り。
 

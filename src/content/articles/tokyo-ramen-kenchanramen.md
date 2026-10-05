@@ -5,7 +5,7 @@ published_at: "2012-11-08 18:00:00"
 path: "/tokyo-ramen-kenchanramen/"
 ---
 <h2>千歳船橋駅、APOCシアター近く</h2>
-<img class="aligncenter" title="けんちゃんラーメンの外観" src="/media/legacy/legacy-004466.jpg" width="300" height="225">
+<img class="aligncenter" title="けんちゃんラーメンの外観" src="/media/content/asset-004466.jpg" width="300" height="225">
 
 東京都世田谷区桜丘、小田急線千歳船橋駅、APOCシアターすぐそばにあるこちらのラーメン屋さん。
 
@@ -15,13 +15,13 @@ path: "/tokyo-ramen-kenchanramen/"
 
 &nbsp;
 <h2>ごまみそつけ麺+半チャーハン</h2>
-<img class="aligncenter" title="けんちゃんラーメンのごまみそつけ麺" src="/media/legacy/legacy-004464.jpg" width="300" height="225">
+<img class="aligncenter" title="けんちゃんラーメンのごまみそつけ麺" src="/media/content/asset-004464.jpg" width="300" height="225">
 
 当然初めてなので大将におすすめを聞くと丁寧に説明してくれました。
 
 よく出るというこちらのごまみそつけ麺と
 
-<img class="aligncenter" title="けんちゃんラーメンの半チャーハン" src="/media/legacy/legacy-004465.jpg" width="300" height="400">
+<img class="aligncenter" title="けんちゃんラーメンの半チャーハン" src="/media/content/asset-004465.jpg" width="300" height="400">
 半チャーハンをいただくことに。
 
 ごまみそつけ麺はこってりと思いきやベースの動物系スープがあっさりまろやか。
@@ -38,7 +38,7 @@ path: "/tokyo-ramen-kenchanramen/"
 
 &nbsp;
 <h2>割引券…</h2>
-<img class="aligncenter" title="けんちゃんラーメンの割引券" src="/media/legacy/legacy-004467.jpg" width="300" height="400">
+<img class="aligncenter" title="けんちゃんラーメンの割引券" src="/media/content/asset-004467.jpg" width="300" height="400">
 最後に割引券をいただきました。
 
 有効期限がないのは好感が持てるのですが、

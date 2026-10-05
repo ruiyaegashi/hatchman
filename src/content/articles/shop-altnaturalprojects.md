@@ -5,7 +5,7 @@ published_at: "2012-11-26 18:47:06"
 path: "/shop-altnaturalprojects/"
 ---
 <h2>オルトナチュラルプジェクツとはどんなお店？</h2>
-<img class="aligncenter" title="オルトナチュラルプロジェクツ" src="/media/legacy/legacy-003843.jpg" width="300" height="225">
+<img class="aligncenter" title="オルトナチュラルプロジェクツ" src="/media/content/asset-003843.jpg" width="300" height="225">
 
 <aside class="preserved-content unsupported-embed"><strong>埋め込みコンテンツ（現在非表示）</strong><details><summary>原文</summary><code>[browser-shot url=&quot;http://www.alternatives.co.jp/&quot; width=&quot;600&quot; height=&quot;450&quot;]</code></details></aside>
 <blockquote>Alternatives（オルタナティブス）とは日本語で「代替」や「選択肢」を意味します。
@@ -27,18 +27,18 @@ path: "/shop-altnaturalprojects/"
 
 &nbsp;
 <h2>オーガニック商品の数々は自社製</h2>
-<img class="aligncenter" title="オルトナチュラルプロジェクツ" src="/media/legacy/legacy-003844.jpg" width="300" height="225">
+<img class="aligncenter" title="オルトナチュラルプロジェクツ" src="/media/content/asset-003844.jpg" width="300" height="225">
 
 店内にはアロマを中心に、色々な商品が並べられているのですが、非常におしゃれ。
 
-<img class="aligncenter" title="オルトナチュラルプロジェクツ" src="/media/legacy/legacy-003846.jpg" width="300" height="400">
+<img class="aligncenter" title="オルトナチュラルプロジェクツ" src="/media/content/asset-003846.jpg" width="300" height="400">
 商品自体も高級感漂う、ハードルの高いもののように感じるのですが、こちらのお店は原材料を輸入して自社で製造しているため同品質の商品に比べて価格は抑えられています。
 
 ネットショップで展開されていたものを、リアルの店舗でもできないかと思われたのがきっかけだとか。
 
 &nbsp;
 <h2>おしゃれな店内</h2>
-<img class="aligncenter" title="オルトナチュラルプロジェクツ" src="/media/legacy/legacy-003847.jpg" width="300" height="225">
+<img class="aligncenter" title="オルトナチュラルプロジェクツ" src="/media/content/asset-003847.jpg" width="300" height="225">
 
 アンティークでまとめられた店内はいるだけで不思議な気分に。
 

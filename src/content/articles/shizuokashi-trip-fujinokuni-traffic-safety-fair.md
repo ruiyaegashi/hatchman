@@ -19,7 +19,7 @@ path: "/shizuokashi-trip-fujinokuni-traffic-safety-fair/"
 
 &nbsp;
 <h2>「ふじのくに交通安全県民フェア」とは？</h2>
-<img class="aligncenter size-full wp-image-1756" src="/media/legacy/legacy-000029.jpg" alt="01" width="300" height="225">
+<img class="aligncenter size-full wp-image-1756" src="/media/content/asset-000029.jpg" alt="01" width="300" height="225">
 
 「ふじのくに交通安全県民フェア」とは最新の安全装置を搭載した自動車や、安全技術の展示、紹介、交通安全に関する体験イベントなど、楽しみながら交通安全を体験できるイベントです。
 
@@ -27,46 +27,46 @@ path: "/shizuokashi-trip-fujinokuni-traffic-safety-fair/"
 
 &nbsp;
 <h2>様々なメーカーの安全意識が見られる展示の数々</h2>
-<img class="aligncenter size-full wp-image-2115" src="/media/legacy/legacy-000485.jpg" alt="02" width="300" height="225">
+<img class="aligncenter size-full wp-image-2115" src="/media/content/asset-000485.jpg" alt="02" width="300" height="225">
 
-<img class="aligncenter size-full wp-image-2422" src="/media/legacy/legacy-000896.jpg" alt="03" width="300" height="400">
+<img class="aligncenter size-full wp-image-2422" src="/media/content/asset-000896.jpg" alt="03" width="300" height="400">
 
-<img class="aligncenter size-full wp-image-2709" src="/media/legacy/legacy-001285.jpg" alt="04" width="300" height="225">
+<img class="aligncenter size-full wp-image-2709" src="/media/content/asset-001285.jpg" alt="04" width="300" height="225">
 
-<img class="aligncenter size-full wp-image-2999" src="/media/legacy/legacy-001626.jpg" alt="05" width="300" height="225">
+<img class="aligncenter size-full wp-image-2999" src="/media/content/asset-001626.jpg" alt="05" width="300" height="225">
 
-<img class="aligncenter size-full wp-image-3800" src="/media/legacy/legacy-002433.jpg" alt="08" width="300" height="225">
+<img class="aligncenter size-full wp-image-3800" src="/media/content/asset-002433.jpg" alt="08" width="300" height="225">
 
 スバルのeyesight(アイサイト)体験や、国内自動車メーカーの販売店による安全機能の展示は大人向け。
 
-<img class="aligncenter size-full wp-image-3307" src="/media/legacy/legacy-001927.jpg" alt="06" width="300" height="225">
+<img class="aligncenter size-full wp-image-3307" src="/media/content/asset-001927.jpg" alt="06" width="300" height="225">
 
-<img class="aligncenter size-full wp-image-3551" src="/media/legacy/legacy-002190.jpg" alt="07" width="300" height="225">
+<img class="aligncenter size-full wp-image-3551" src="/media/content/asset-002190.jpg" alt="07" width="300" height="225">
 
 警察、自衛隊の特殊車両が多く集まり、大きな子供やその子供の注目の的。
 
-<img class="aligncenter size-full wp-image-4618" src="/media/legacy/legacy-003237.jpg" alt="13" width="300" height="400">
+<img class="aligncenter size-full wp-image-4618" src="/media/content/asset-003237.jpg" alt="13" width="300" height="400">
 
 子どもの一番人気はダンプ型のプレイバルーンでしたね。
 
-<img class="aligncenter size-full wp-image-4506" src="/media/legacy/legacy-003125.jpg" alt="12" width="300" height="400">
+<img class="aligncenter size-full wp-image-4506" src="/media/content/asset-003125.jpg" alt="12" width="300" height="400">
 
 あと、黄色と赤色のランランルーの人。
 
 &nbsp;
 
-<img class="aligncenter size-full wp-image-4021" src="/media/legacy/legacy-002646.jpg" alt="09" width="300" height="225">
+<img class="aligncenter size-full wp-image-4021" src="/media/content/asset-002646.jpg" alt="09" width="300" height="225">
 
 シミュレーターも豊富で、よくあるJAFさんのシミュレーターや、
 
-<img class="aligncenter size-full wp-image-4209" src="/media/legacy/legacy-002833.jpg" alt="10" width="300" height="225">
+<img class="aligncenter size-full wp-image-4209" src="/media/content/asset-002833.jpg" alt="10" width="300" height="225">
 
 バイクのシミュレーターも。
-<img class="aligncenter size-full wp-image-4370" src="/media/legacy/legacy-002991.jpg" alt="11" width="300" height="400">
+<img class="aligncenter size-full wp-image-4370" src="/media/content/asset-002991.jpg" alt="11" width="300" height="400">
 
 僕も体験したところ、町の中を危険予測しながら1週するというものなのですが、
 
-<img class="aligncenter size-large wp-image-5426" src="/media/legacy/legacy-002648.jpg" alt="099" width="670" height="503">
+<img class="aligncenter size-large wp-image-5426" src="/media/content/asset-002648.jpg" alt="099" width="670" height="503">
 
 最後にこんな成績表をいただきました。さすが僕、ブレーキ以外はオールAです。
 
@@ -76,7 +76,7 @@ path: "/shizuokashi-trip-fujinokuni-traffic-safety-fair/"
 
 大学生のときに乗っていたのですが、卒業を機に手放しまして、いつかまた手に入れていじりたいですね。
 
-<img class="aligncenter size-full wp-image-4715" src="/media/legacy/legacy-003331.jpg" alt="14" width="300" height="400">
+<img class="aligncenter size-full wp-image-4715" src="/media/content/asset-003331.jpg" alt="14" width="300" height="400">
 
 後は競輪普及のための競輪シミュレーターがありました。(画面が某汎用人型決戦兵器っぽい)
 

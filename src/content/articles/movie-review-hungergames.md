@@ -4,9 +4,9 @@ status: "publish"
 published_at: "2012-10-20 23:00:00"
 path: "/movie-review-hungergames/"
 ---
-<img class="aligncenter size-full wp-image-9209" src="/media/legacy/legacy-003698.jpg" alt="tonkaraten6" width="300" height="225">
-<img class="aligncenter size-full wp-image-9209" src="/media/legacy/legacy-004030.jpg" alt="tonkaraten6" width="300" height="225">
-<img class="aligncenter size-full wp-image-9209" src="/media/legacy/legacy-003706.jpg" alt="tonkaraten6" width="300" height="225">
+<img class="aligncenter size-full wp-image-9209" src="/media/content/asset-003698.jpg" alt="tonkaraten6" width="300" height="225">
+<img class="aligncenter size-full wp-image-9209" src="/media/content/asset-004030.jpg" alt="tonkaraten6" width="300" height="225">
+<img class="aligncenter size-full wp-image-9209" src="/media/content/asset-003706.jpg" alt="tonkaraten6" width="300" height="225">
 
 『<a href="http://www.hungergames.jp/" target="_blank">ハンガー・ゲーム</a>』
 

@@ -5,7 +5,7 @@ published_at: "2012-12-04 23:00:00"
 path: "/ramen-menshotakeya/"
 ---
 <h2>他にはない石焼つけ麺</h2>
-<img class="aligncenter" title="閉店 横浜Si激Yaグループ 麺匠たけや" src="/media/legacy/legacy-004419.jpg" width="300" height="400">
+<img class="aligncenter" title="閉店 横浜Si激Yaグループ 麺匠たけや" src="/media/content/asset-004419.jpg" width="300" height="400">
 
 石焼つけ麺で一世を風靡した麺匠たけやですが、残念ながら閉店してしまいました。
 
@@ -20,7 +20,7 @@ path: "/ramen-menshotakeya/"
 <p style="color: #444444; font-size: 12px;"><strong>関連ランキング：</strong><a href="https://tabelog.com/rstLst/ramen/">ラーメン</a> | <a href="https://tabelog.com/shizuoka/A2205/A220504/R5894/rstLst/">田京駅</a></p>
 &nbsp;
 <h2>麺匠たけやの思い出</h2>
-<img class="aligncenter" title="閉店 横浜Si激Yaグループ 麺匠たけや" src="/media/legacy/legacy-004418.jpg" width="300" height="225">
+<img class="aligncenter" title="閉店 横浜Si激Yaグループ 麺匠たけや" src="/media/content/asset-004418.jpg" width="300" height="225">
 
 ここの売りはなんといっても「石焼」。
 
@@ -52,7 +52,7 @@ path: "/ramen-menshotakeya/"
 
 &nbsp;
 <h2>店舗情報</h2>
-<img class="aligncenter" title="閉店 横浜Si激Yaグループ 麺匠たけや" src="/media/legacy/legacy-004420.jpg" width="300" height="400">
+<img class="aligncenter" title="閉店 横浜Si激Yaグループ 麺匠たけや" src="/media/content/asset-004420.jpg" width="300" height="400">
 
 &nbsp;
 <div><strong><a href="https://tabelog.com/shizuoka/A2201/A220101/22020828/" target="_blank">静岡麺匠たけや</a></strong>

@@ -5,7 +5,7 @@ published_at: "2012-10-21 23:00:00"
 path: "/fujisan-trip-autumnleaves/"
 ---
 <h2>富士山近辺なら早め(10月)の紅葉が楽しめる！</h2>
-<img class="aligncenter size-full wp-image-9220" src="/media/legacy/legacy-004758.jpg" alt="fujisankoyo1" width="300" height="225">
+<img class="aligncenter size-full wp-image-9220" src="/media/content/asset-004758.jpg" alt="fujisankoyo1" width="300" height="225">
 
 富士山はご存知の通り山なので、紅葉は早めの10月が山場になります。
 
@@ -15,7 +15,7 @@ path: "/fujisan-trip-autumnleaves/"
 
 &nbsp;
 <h2>とはいえ山なので天候は運次第…</h2>
-<img class="aligncenter size-full wp-image-9221" src="/media/legacy/legacy-004759.jpg" alt="fujisankoyo2" width="300" height="225">
+<img class="aligncenter size-full wp-image-9221" src="/media/content/asset-004759.jpg" alt="fujisankoyo2" width="300" height="225">
 
 見頃だ、と思って晴れた日に向かっても、そこはさすがに日本一の山。
 
@@ -27,9 +27,9 @@ path: "/fujisan-trip-autumnleaves/"
 
 &nbsp;
 <h2>富士宮口五合目に到着！</h2>
-<img class="aligncenter size-full wp-image-9222" src="/media/legacy/legacy-004760.jpg" alt="fujisankoyo3" width="300" height="225">
+<img class="aligncenter size-full wp-image-9222" src="/media/content/asset-004760.jpg" alt="fujisankoyo3" width="300" height="225">
 
-<img class="aligncenter size-full wp-image-9223" src="/media/legacy/legacy-004761.jpg" alt="fujisankoyo4" width="300" height="225">
+<img class="aligncenter size-full wp-image-9223" src="/media/content/asset-004761.jpg" alt="fujisankoyo4" width="300" height="225">
 
 見頃よりやや早めの時期だったので、駐車待ちは10分程、元々多めの駐車場が完備されているのでそれほど待ったという感じもしませんでした。
 
@@ -37,15 +37,15 @@ path: "/fujisan-trip-autumnleaves/"
 
 もはや五合目しか見えていない状態。霧の中の…
 
-<img class="aligncenter size-full wp-image-9224" src="/media/legacy/legacy-004762.jpg" alt="fujisankoyo5" width="300" height="225">
+<img class="aligncenter size-full wp-image-9224" src="/media/content/asset-004762.jpg" alt="fujisankoyo5" width="300" height="225">
 
-<img class="aligncenter size-full wp-image-9225" src="/media/legacy/legacy-004763.jpg" alt="fujisankoyo6" width="300" height="225">
+<img class="aligncenter size-full wp-image-9225" src="/media/content/asset-004763.jpg" alt="fujisankoyo6" width="300" height="225">
 
 紅葉は綺麗なんですけどね。やっぱり鮮やかさが足りないかな。上を見ても山頂は見えず、下を見ても麓は見えず、ちょっと残念。
 
 &nbsp;
 <h2>天候もあれだけど、注意が必要なのは服装！</h2>
-<img class="aligncenter size-full wp-image-9226" src="/media/legacy/legacy-004764.jpg" alt="fujisankoyo7" width="300" height="400">
+<img class="aligncenter size-full wp-image-9226" src="/media/content/asset-004764.jpg" alt="fujisankoyo7" width="300" height="400">
 
 この日は曇りだったのでなおさらですが、晴れていたとしてもそこそこ気温は低いそう。
 
@@ -57,7 +57,7 @@ path: "/fujisan-trip-autumnleaves/"
 
 &nbsp;
 <h2>長袖を忘れたら富士山価格の自動販売機で暖まろう！</h2>
-<img class="aligncenter size-full wp-image-9227" src="/media/legacy/legacy-004765.jpg" alt="fujisankoyo8" width="300" height="225">
+<img class="aligncenter size-full wp-image-9227" src="/media/content/asset-004765.jpg" alt="fujisankoyo8" width="300" height="225">
 
 寒さを和らげるならレストハウスで食事をいただくか、富士山価格の自販機で。
 

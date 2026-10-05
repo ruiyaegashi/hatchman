@@ -5,7 +5,7 @@ published_at: "2012-11-29 18:39:25"
 path: "/restaurant-tsk-hamamatsuintershokudo/"
 ---
 <h2>浜松トラックステーション？</h2>
-<img class="aligncenter" title="浜松トラックステーション内浜松インター食堂" src="/media/legacy/legacy-003885.jpg" width="300" height="225">
+<img class="aligncenter" title="浜松トラックステーション内浜松インター食堂" src="/media/content/asset-003885.jpg" width="300" height="225">
 
 そもそも一般の方には馴染みのない浜松トラックステーション。
 
@@ -29,35 +29,35 @@ path: "/restaurant-tsk-hamamatsuintershokudo/"
 
 そしてなんと、日本で2番目に利用されているトラックステーション。施設の場所、充実度が認められていると。
 
-<img class="aligncenter" title="浜松トラックステーション内浜松インター食堂" src="/media/legacy/legacy-003911.jpg" width="300" height="400">
+<img class="aligncenter" title="浜松トラックステーション内浜松インター食堂" src="/media/content/asset-003911.jpg" width="300" height="400">
 
 営業時間も長いし売店もあるので、お出かけの行き帰りに浜松ICを利用するなら気軽に寄れるのが嬉しいところ。
 
 &nbsp;
 <h2>浜松インター食堂</h2>
-<img class="aligncenter" title="浜松トラックステーション内浜松インター食堂" src="/media/legacy/legacy-003909.jpg" width="300" height="225">
+<img class="aligncenter" title="浜松トラックステーション内浜松インター食堂" src="/media/content/asset-003909.jpg" width="300" height="225">
 
 中に入るとショーケースにメニューの写真と、
 
-<img class="aligncenter" title="浜松トラックステーション内浜松インター食堂" src="/media/legacy/legacy-003910.jpg" width="300" height="400">
+<img class="aligncenter" title="浜松トラックステーション内浜松インター食堂" src="/media/content/asset-003910.jpg" width="300" height="400">
 
 コルクボードにおすすめ品。
 
 お客さんは当然運転手さんが多いのですが、サラリーマンや家族連れもいます。本当に普通の食堂感覚ですね。
 
-<img class="aligncenter" title="浜松トラックステーション内浜松インター食堂" src="/media/legacy/legacy-003912.jpg" width="300" height="225">
+<img class="aligncenter" title="浜松トラックステーション内浜松インター食堂" src="/media/content/asset-003912.jpg" width="300" height="225">
 
 カウンターの上にも目で見て選べるメニューの写真があり、
 
-<img class="aligncenter" title="浜松トラックステーション内浜松インター食堂" src="/media/legacy/legacy-003913.jpg" width="300" height="400">
+<img class="aligncenter" title="浜松トラックステーション内浜松インター食堂" src="/media/content/asset-003913.jpg" width="300" height="400">
 
 食券を買うと注文が通り、
 
-<img class="aligncenter" title="浜松トラックステーション内浜松インター食堂" src="/media/legacy/legacy-003914.jpg" width="300" height="225">
+<img class="aligncenter" title="浜松トラックステーション内浜松インター食堂" src="/media/content/asset-003914.jpg" width="300" height="225">
 
 食券を持って待ちます。
 
-<img class="aligncenter" title="浜松トラックステーション内浜松インター食堂" src="/media/legacy/legacy-003915.jpg" width="300" height="225">
+<img class="aligncenter" title="浜松トラックステーション内浜松インター食堂" src="/media/content/asset-003915.jpg" width="300" height="225">
 
 5分くらいで番号を呼ばれて取りに行きます。
 
@@ -65,11 +65,11 @@ path: "/restaurant-tsk-hamamatsuintershokudo/"
 
 ごはんと豚汁つきです。
 
-<img class="aligncenter" title="浜松トラックステーション内浜松インター食堂" src="/media/legacy/legacy-003916.jpg" width="300" height="400">
+<img class="aligncenter" title="浜松トラックステーション内浜松インター食堂" src="/media/content/asset-003916.jpg" width="300" height="400">
 
 カキフライはアツアツサクサク。値段に見合う満足の美味しさ。
 
-<img class="aligncenter" title="浜松トラックステーション内浜松インター食堂" src="/media/legacy/legacy-003917.jpg" width="300" height="400">
+<img class="aligncenter" title="浜松トラックステーション内浜松インター食堂" src="/media/content/asset-003917.jpg" width="300" height="400">
 
 そしてインター食堂の売りはご飯、漬物お替り自由。働き盛りの男には嬉しいサービスです。私も2回くらいはお替りします。
 

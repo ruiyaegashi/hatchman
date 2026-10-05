@@ -21,24 +21,24 @@ path: "/ramen-ichiran/"
 
 &nbsp;
 <h2>斬新な店作り</h2>
-<img class="aligncenter" title="一蘭の外観" src="/media/legacy/legacy-004485.jpg" width="300" height="225">
+<img class="aligncenter" title="一蘭の外観" src="/media/content/asset-004485.jpg" width="300" height="225">
 
 赤い看板に「こだわりたい美味しさがある」の文字。 普通に前を通っただけでもインパクトがあるというものです。
 
-<img class="aligncenter" title="一蘭の看板「赤い秘伝のたれ発祥」" src="/media/legacy/legacy-004486.jpg" width="300" height="400">
+<img class="aligncenter" title="一蘭の看板「赤い秘伝のたれ発祥」" src="/media/content/asset-004486.jpg" width="300" height="400">
 入りぐり前に「赤い秘伝のたれ発祥」の文字。昭和35年(1960年)創業。
 
-<img class="aligncenter" title="一蘭の券売機" src="/media/legacy/legacy-004487.jpg" width="300" height="400">
+<img class="aligncenter" title="一蘭の券売機" src="/media/content/asset-004487.jpg" width="300" height="400">
 
 中に入ると券売機2つ。さすがチェーン店。
 
 聞いていた通りラーメンの種類は1つだけ。「ラーメン＋替え玉」がデフォですよという注意書きもありましたが、女性もそんなに食べるのかな？
 
-<img class="aligncenter" title="一蘭の味集中カウンター" src="/media/legacy/legacy-004495.jpg" width="300" height="225">
+<img class="aligncenter" title="一蘭の味集中カウンター" src="/media/content/asset-004495.jpg" width="300" height="225">
 
 噂の味集中カウンター。複数名で来た場合は間仕切りを折り畳めるので、強制個食とはなりません。
 
-<img class="aligncenter" title="一蘭のオーダー用紙" src="/media/legacy/legacy-004489.JPG" width="300" height="225">
+<img class="aligncenter" title="一蘭のオーダー用紙" src="/media/content/asset-004489.JPG" width="300" height="225">
 
 席で書くのがこのオーダー用紙。
 
@@ -48,35 +48,35 @@ path: "/ramen-ichiran/"
 
 ただ、可愛い店員さん目当てで通うという可能性はなくなります。
 
-<img class="aligncenter" title="一蘭の箸袋表" src="/media/legacy/legacy-004490.jpg" width="300" height="225">
+<img class="aligncenter" title="一蘭の箸袋表" src="/media/content/asset-004490.jpg" width="300" height="225">
 
 お箸には宣伝と、
 
-<img class="aligncenter" title="一蘭の箸袋裏" src="/media/legacy/legacy-004491.jpg" width="300" height="225">
+<img class="aligncenter" title="一蘭の箸袋裏" src="/media/content/asset-004491.jpg" width="300" height="225">
 
 追加注文用紙。
 
 箸袋でさえ無駄にしないんですね。
 
-<img class="aligncenter" title="一蘭のラー娘の独りごと" src="/media/legacy/legacy-004492.jpg" width="300" height="400">
+<img class="aligncenter" title="一蘭のラー娘の独りごと" src="/media/content/asset-004492.jpg" width="300" height="400">
 席にはこんなものが。
 
 月1でしょうか？No.6です。
 
 内容は宣伝だとしても、ラーメンを待つ良い時間つぶしにはなります。
 
-<img class="aligncenter" title="一蘭の替玉の説明" src="/media/legacy/legacy-004493.jpg" width="300" height="225">
+<img class="aligncenter" title="一蘭の替玉の説明" src="/media/content/asset-004493.jpg" width="300" height="225">
 
 替玉についても詳しく説明されています。
 
-<img class="aligncenter" title="一蘭のお持ち帰り宣伝" src="/media/legacy/legacy-004494.JPG" width="300" height="400">
+<img class="aligncenter" title="一蘭のお持ち帰り宣伝" src="/media/content/asset-004494.JPG" width="300" height="400">
 今考えるとくどいくらいに宣伝ですね。
 
 でも美味しそうで欲しくなってしまいます。1回くらい買ってみても良いかな。
 
 &nbsp;
 <h2>ラーメン</h2>
-<img class="aligncenter" title="一蘭のとんこつラーメン" src="/media/legacy/legacy-004496.jpg" width="300" height="225">
+<img class="aligncenter" title="一蘭のとんこつラーメン" src="/media/content/asset-004496.jpg" width="300" height="225">
 
 簾の向こうからラーメン登場。
 
@@ -84,7 +84,7 @@ path: "/ramen-ichiran/"
 
 豚骨の強い香りがします。
 
-<img class="aligncenter" title="一蘭のチャーシュー" src="/media/legacy/legacy-004497.jpg" width="300" height="225">
+<img class="aligncenter" title="一蘭のチャーシュー" src="/media/content/asset-004497.jpg" width="300" height="225">
 
 スープは豚骨を限界まで煮だしたような、普通のお店では出していない味まで出ています。モツ鍋に近いような…
 

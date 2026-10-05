@@ -5,7 +5,7 @@ published_at: "2012-12-10 21:05:07"
 path: "/movie-review-karasunooyayubi/"
 ---
 <h2>騙されると知りながら見るからこそ</h2>
-<img class="aligncenter" title="映画『カラスの親指』" src="/media/legacy/legacy-004791.jpg" width="300" height="425">
+<img class="aligncenter" title="映画『カラスの親指』" src="/media/content/asset-004791.jpg" width="300" height="425">
 
 <aside class="preserved-content unsupported-embed"><strong>埋め込みコンテンツ（現在非表示）</strong><details><summary>原文</summary><code>[browser-shot url=&quot;http://movies.foxjapan.com/crow/index.html&quot; width=&quot;600&quot; height=&quot;450&quot;]</code></details></aside>
 

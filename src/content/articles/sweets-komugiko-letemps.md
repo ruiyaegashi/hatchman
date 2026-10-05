@@ -5,7 +5,7 @@ published_at: "2016-11-08 15:34:09"
 path: "/sweets-komugiko-letemps/"
 ---
 <h2>「コムギコキッチン」が閉店…そして「Patisserie le temps」として移転オープン！</h2>
-<img class="aligncenter" title="コムギコキッチン le temps" src="/media/legacy/legacy-000232.jpg" width="550" height="413">
+<img class="aligncenter" title="コムギコキッチン le temps" src="/media/content/asset-000232.jpg" width="550" height="413">
 
 僕が大好きだったプリンが食べられなくなるのか…と思いきや移転オープンだそうです！
 
@@ -22,34 +22,34 @@ path: "/sweets-komugiko-letemps/"
 <p style="color: #444444; font-size: 12px;"><strong>関連ランキング：</strong><a href="https://tabelog.com/rstLst/cake/">ケーキ</a> | <a href="https://tabelog.com/shizuoka/A2202/A220201/R8036/rstLst/">高塚駅</a></p>
 &nbsp;
 <h2>コムギコキッチンの思い出</h2>
-<img class="aligncenter" title="コムギコキッチン le temps" src="/media/legacy/legacy-000654.jpg" width="413" height="550">
+<img class="aligncenter" title="コムギコキッチン le temps" src="/media/content/asset-000654.jpg" width="413" height="550">
 
 場所は旧雄踏街道沿い、イオン志都呂の近くです。全面ガラス張りの明るいお店♪
 
-<img class="aligncenter" title="コムギコキッチン le temps" src="/media/legacy/legacy-001054.jpg" width="413" height="550">
+<img class="aligncenter" title="コムギコキッチン le temps" src="/media/content/asset-001054.jpg" width="413" height="550">
 
 お店に入るとまずは「今月のオススメ」とお店の紹介が。これ、お店のことを知ってもらうのに結構大事だと思うんですよね。
 
-<img class="aligncenter" title="コムギコキッチン le temps" src="/media/legacy/legacy-001427.jpg" width="550" height="413">
+<img class="aligncenter" title="コムギコキッチン le temps" src="/media/content/asset-001427.jpg" width="550" height="413">
 
 店内は天井が高く開放的で、白を基調とした内装がかなりオシャレ。写真の反対側にテーブル2つのイートインスペースがあるので、カフェとしても使えますね♪
 
-<img class="aligncenter" title="コムギコキッチン le temps" src="/media/legacy/legacy-001745.jpg" width="550" height="413">
+<img class="aligncenter" title="コムギコキッチン le temps" src="/media/content/asset-001745.jpg" width="550" height="413">
 
-<img class="aligncenter" title="コムギコキッチン le temps" src="/media/legacy/legacy-002020.jpg" width="550" height="413">
+<img class="aligncenter" title="コムギコキッチン le temps" src="/media/content/asset-002020.jpg" width="550" height="413">
 ショーケースには美味しそうなケーキがたくさん！スイーツ男子にはたまりません♪
 
 素材にとことんこだわったナチュラル＆ヘルシーがポリシーのこちらのお店には、野菜スイーツも充実しているんですよ♪
 
 ちなみにこちらのパティシエ飯田幸代さんは「静岡県 ふじのくに食の都づくり仕事人」「2009米粉フードコンテスト プロ部門金賞」と、かなりの実力者。その味も折り紙付きなのです。
 
-<img class="aligncenter" title="コムギコキッチン le temps" src="/media/legacy/legacy-002272.jpg" width="550" height="413">
+<img class="aligncenter" title="コムギコキッチン le temps" src="/media/content/asset-002272.jpg" width="550" height="413">
 
 ホワイトデーが近かったため、専用のお菓子もいっぱい♪
 
-<img class="aligncenter" title="コムギコキッチン le temps" src="/media/legacy/legacy-002495.jpg" width="550" height="413">
+<img class="aligncenter" title="コムギコキッチン le temps" src="/media/content/asset-002495.jpg" width="550" height="413">
 
-<img class="aligncenter" title="コムギコキッチン le temps" src="/media/legacy/legacy-002684.jpg" width="550" height="413">
+<img class="aligncenter" title="コムギコキッチン le temps" src="/media/content/asset-002684.jpg" width="550" height="413">
 
 そんなに遅い時間に行ったわけではありませんが、焼き菓子はほとんど売り切れ状態でした。
 
@@ -57,15 +57,15 @@ path: "/sweets-komugiko-letemps/"
 
 このコンセプトを守り続けているため、この美味しさは早い者勝ちなのです！
 
-<img class="aligncenter" title="コムギコキッチン le temps" src="/media/legacy/legacy-002848.jpg" width="550" height="413">
+<img class="aligncenter" title="コムギコキッチン le temps" src="/media/content/asset-002848.jpg" width="550" height="413">
 
 自分のお気に入りはこちらのダイダラボッチぷりん♪
 
-<img class="aligncenter" title="コムギコキッチン le temps" src="/media/legacy/legacy-003121.jpg" width="550" height="413">
+<img class="aligncenter" title="コムギコキッチン le temps" src="/media/content/asset-003121.jpg" width="550" height="413">
 
 女性に持っていただいたのですが、その大きさがお分かりいただけるだろうか。
 
-<img class="aligncenter" title="コムギコキッチン le temps" src="/media/legacy/legacy-003212.jpg" width="550" height="413">
+<img class="aligncenter" title="コムギコキッチン le temps" src="/media/content/asset-003212.jpg" width="550" height="413">
 
 包みを開けると…ドーンと大きな瓶の登場です。
 
@@ -73,7 +73,7 @@ path: "/sweets-komugiko-letemps/"
 
 どんなプリン欲も黙らせることができるお味と量と背徳感♪
 
-<img class="aligncenter" title="コムギコキッチン le temps" src="/media/legacy/legacy-003467.jpg" width="550" height="413">
+<img class="aligncenter" title="コムギコキッチン le temps" src="/media/content/asset-003467.jpg" width="550" height="413">
 
 &nbsp;
 <h2>店舗情報</h2>

@@ -5,7 +5,7 @@ published_at: "2016-11-08 02:43:15"
 path: "/hatchsprofile/"
 ---
 <h2>ご挨拶</h2>
-<img class="aligncenter size-large wp-image-9399" src="/media/legacy/legacy-004922.jpg" alt="ryskprofile" width="640" height="640">
+<img class="aligncenter size-large wp-image-9399" src="/media/content/asset-004922.jpg" alt="ryskprofile" width="640" height="640">
 
 我がブログ「ハッチマン」に足をお運びくださり誠にありがとうございます。
 

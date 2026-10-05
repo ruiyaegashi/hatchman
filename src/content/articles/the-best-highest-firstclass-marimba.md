@@ -4,7 +4,7 @@ status: "publish"
 published_at: "2016-04-10 19:54:42"
 path: "/the-best-highest-firstclass-marimba/"
 ---
-<center><img class="size-medium wp-image-8472 aligncenter" src="/media/legacy/legacy-004319.png" alt="マリンバ" width="670" height="608"></center>&nbsp;
+<center><img class="size-medium wp-image-8472 aligncenter" src="/media/content/asset-004319.png" alt="マリンバ" width="670" height="608"></center>&nbsp;
 <h2>マリンバとは?</h2>
 個人的には中学校からずっと吹奏楽で打楽器・パーカッションを担当し、高校ではマリンバのレッスンを受けていたのでマリンバには思い入れがあります。
 
@@ -35,7 +35,7 @@ path: "/the-best-highest-firstclass-marimba/"
 
 &nbsp;
 <h2>マリンバの最大・最上級グレードと価格</h2>
-<center><img class="alignnone" src="/media/legacy/legacy-001196.jpg" alt="6オクターブマリンバ 浜松楽器博物館" width="700" height="525"></center>『<a href="http://studiocranberry.blog122.fc2.com/blog-entry-806.html" target="_blank">浜松にて - the garden of studio cranberry</a>』より借用
+<center><img class="alignnone" src="/media/content/asset-001196.jpg" alt="6オクターブマリンバ 浜松楽器博物館" width="700" height="525"></center>『<a href="http://studiocranberry.blog122.fc2.com/blog-entry-806.html" target="_blank">浜松にて - the garden of studio cranberry</a>』より借用
 マリンバは鍵盤打楽器の中でもお高く、数十万～数百万といった感じ。
 
 大きさは様々で、基本的には曲で要求されている音域があれ良いのです。国内で手に入るのは5・2/3オクターブが最大でしょうか。

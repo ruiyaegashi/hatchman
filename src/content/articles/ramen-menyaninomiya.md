@@ -5,7 +5,7 @@ published_at: "2016-11-13 17:48:22"
 path: "/ramen-menyaninomiya/"
 ---
 <h2>麺屋たろうず、麺屋蔵の助と同系列</h2>
-<img class="aligncenter wp-image-9521 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/media/legacy/legacy-004875.jpg" alt="menyaninomiya1" width="640" height="480">
+<img class="aligncenter wp-image-9521 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/media/content/asset-004875.jpg" alt="menyaninomiya1" width="640" height="480">
 
 流通通りと南幹線の池田交差点すぐ南にあるこちらの「麺屋にのみや」。
 
@@ -19,19 +19,19 @@ path: "/ramen-menyaninomiya/"
 
 <a href="https://www.amazon.co.jp/dp/4048947362">ラーメンウォーカームック ラーメンWalker静岡2016</a>
 <h2>ちょっと見づらいメニュー</h2>
-<img class="aligncenter wp-image-9522 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/media/legacy/legacy-004877.jpg" alt="menyaninomiya2" width="640" height="853">
+<img class="aligncenter wp-image-9522 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/media/content/asset-004877.jpg" alt="menyaninomiya2" width="640" height="853">
 
-<img class="aligncenter wp-image-9523 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/media/legacy/legacy-004879.jpg" alt="menyaninomiya3" width="640" height="853">
+<img class="aligncenter wp-image-9523 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/media/content/asset-004879.jpg" alt="menyaninomiya3" width="640" height="853">
 
-<img class="aligncenter wp-image-9524 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/media/legacy/legacy-004881.jpg" alt="menyaninomiya4" width="640" height="853">
+<img class="aligncenter wp-image-9524 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/media/content/asset-004881.jpg" alt="menyaninomiya4" width="640" height="853">
 
-<img class="aligncenter wp-image-9525 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/media/legacy/legacy-004883.jpg" alt="menyaninomiya5" width="640" height="853">
+<img class="aligncenter wp-image-9525 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/media/content/asset-004883.jpg" alt="menyaninomiya5" width="640" height="853">
 
-<img class="aligncenter wp-image-9526 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/media/legacy/legacy-004885.jpg" alt="menyaninomiya6" width="640" height="853">
+<img class="aligncenter wp-image-9526 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/media/content/asset-004885.jpg" alt="menyaninomiya6" width="640" height="853">
 
-<img class="aligncenter wp-image-9527 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/media/legacy/legacy-004887.jpg" alt="menyaninomiya7" width="640" height="853">
+<img class="aligncenter wp-image-9527 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/media/content/asset-004887.jpg" alt="menyaninomiya7" width="640" height="853">
 
-<img class="aligncenter wp-image-9528 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/media/legacy/legacy-004889.jpg" alt="menyaninomiya8" width="640" height="853">
+<img class="aligncenter wp-image-9528 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/media/content/asset-004889.jpg" alt="menyaninomiya8" width="640" height="853">
 
 もはやこの系列あるあるなのですが、ファミレスのようでメニューが見づらい。
 
@@ -49,7 +49,7 @@ path: "/ramen-menyaninomiya/"
 
 <a href="https://www.amazon.co.jp/dp/4048947362">ラーメンウォーカームック ラーメンWalker静岡2016</a>
 <h2>肉盛豪麺</h2>
-<img class="aligncenter wp-image-9529 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/media/legacy/legacy-004891.jpg" alt="menyaninomiya9" width="640" height="480">
+<img class="aligncenter wp-image-9529 size-large" title="静岡池田横浜家系ラーメン「麺屋にのみや」肉盛豪麺" src="/media/content/asset-004891.jpg" alt="menyaninomiya9" width="640" height="480">
 
 味は家系ではないにしてもかなりオーソドックスで万人受け。系列だなぁ。
 

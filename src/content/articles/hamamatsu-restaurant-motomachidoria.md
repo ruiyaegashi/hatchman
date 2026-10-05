@@ -5,7 +5,7 @@ published_at: "2016-11-07 16:42:47"
 path: "/hamamatsu-restaurant-motomachidoria/"
 ---
 <h2>意外とメニューにないドリア！</h2>
-<img class="aligncenter" title="神戸元町ドリアイオンモール浜松市野" src="/media/legacy/legacy-004520.jpg" width="300" height="225">
+<img class="aligncenter" title="神戸元町ドリアイオンモール浜松市野" src="/media/content/asset-004520.jpg" width="300" height="225">
 
 ドリア好きな人って結構多いですよね？
 
@@ -17,7 +17,7 @@ path: "/hamamatsu-restaurant-motomachidoria/"
 
 &nbsp;
 <h2>店名を見て分かる通り「ドリア」専門店！</h2>
-<img class="aligncenter" title="神戸元町ドリアイオンモール浜松市野" src="/media/legacy/legacy-004521.jpg" width="300" height="225">
+<img class="aligncenter" title="神戸元町ドリアイオンモール浜松市野" src="/media/content/asset-004521.jpg" width="300" height="225">
 チェーン店ではあるのですが、メニューが多くてどれも美味しい。
 
 あと、ドリアの器が金属製で、燃料で温めることで最後までアツアツというのが売り。
@@ -28,7 +28,7 @@ path: "/hamamatsu-restaurant-motomachidoria/"
 
 &nbsp;
 <h2>ウニのクリームドリア</h2>
-<img class="aligncenter" title="神戸元町ドリアイオンモール浜松市野" src="/media/legacy/legacy-004522.jpg" width="300" height="225">
+<img class="aligncenter" title="神戸元町ドリアイオンモール浜松市野" src="/media/content/asset-004522.jpg" width="300" height="225">
 
 こちらは「ウニのクリームドリア」。
 
@@ -38,7 +38,7 @@ path: "/hamamatsu-restaurant-motomachidoria/"
 
 &nbsp;
 
-<img class="aligncenter" title="神戸元町ドリアイオンモール浜松市野" src="/media/legacy/legacy-004523.jpg" width="300" height="225">
+<img class="aligncenter" title="神戸元町ドリアイオンモール浜松市野" src="/media/content/asset-004523.jpg" width="300" height="225">
 <h2>店舗情報</h2>
 <strong><a href="https://tabelog.com/shizuoka/A2202/A220201/22024553/" target="_blank">神戸元町ドリア イオンモール浜松市野店</a></strong>
 <aside class="preserved-content unsupported-embed">旧script埋め込み（安全のため停止）: https://tabelog.com/badge/google_badge?escape=false&amp;rcd=22024553</aside>

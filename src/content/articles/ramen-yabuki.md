@@ -5,7 +5,7 @@ published_at: "2016-11-16 15:22:47"
 path: "/ramen-yabuki/"
 ---
 <h2>ランキング常連でも気を抜かないお店</h2>
-<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/legacy/legacy-002853.jpg" width="700" height="525">
+<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/content/asset-002853.jpg" width="700" height="525">
 
 キングオブ静岡ラーメンで1位、食べログランキングでも上位常連ながら、無駄に多店舗展開せず、味が安定している人気店です。
 
@@ -17,9 +17,9 @@ path: "/ramen-yabuki/"
 
 <a href="https://www.amazon.co.jp/dp/4048947362">ラーメンウォーカームック ラーメンWalker静岡2016</a>
 <h2>メニュー(本店)</h2>
-<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/legacy/legacy-001058.jpg" width="700" height="525">
+<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/content/asset-001058.jpg" width="700" height="525">
 
-<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/legacy/legacy-001431.jpg" width="700" height="525">
+<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/content/asset-001431.jpg" width="700" height="525">
 
 メニューは豚骨、魚介豚骨、つけ麺とシンプル。
 
@@ -31,7 +31,7 @@ path: "/ramen-yabuki/"
 
 &nbsp;
 <h2>魚介豚骨ラーメン(本店)</h2>
-<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/legacy/legacy-001753.jpg" width="700" height="525">
+<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/content/asset-001753.jpg" width="700" height="525">
 魚介が強く、それに負けないカエシの味、かなりパンチがあるので豚骨醤油ラーメンでは珍しい部類です。
 
 麺は中太ストレートでスープとのバランスも良い。
@@ -42,13 +42,13 @@ path: "/ramen-yabuki/"
 
 &nbsp;
 <h2>期間限定 丸特釜あげつけめん(本店)</h2>
-<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/legacy/legacy-000238.jpg" width="700" height="525">
+<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/content/asset-000238.jpg" width="700" height="525">
 
-<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/legacy/legacy-002023.jpg" width="700" height="525">
+<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/content/asset-002023.jpg" width="700" height="525">
 
-<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/legacy/legacy-002275.jpg" width="700" height="525">
+<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/content/asset-002275.jpg" width="700" height="525">
 
-<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/legacy/legacy-002498.jpg" width="700" height="525">
+<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/content/asset-002498.jpg" width="700" height="525">
 
 熱盛の進化系「釜あげ」。最後まで麺があつあつの状態でいただけます。
 
@@ -66,13 +66,13 @@ path: "/ramen-yabuki/"
 
 <a href="https://www.amazon.co.jp/dp/4048947362">ラーメンウォーカームック ラーメンWalker静岡2016</a>
 <h2>ギョーザ(本店)</h2>
-<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/legacy/legacy-002688.jpg" width="700" height="525">
+<img class="aligncenter" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/content/asset-002688.jpg" width="700" height="525">
 
 カリカリもっちり、オーソドックスですが、タネも食材がたくさん感じられて美味しい。
 
 &nbsp;
 <h2>醤油つけ麺、特盛、特トッピング、チャーシューライス(西脇店)</h2>
-<img class="aligncenter wp-image-9608 size-large" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/legacy/legacy-004989.jpg" alt="yabukinishiwaki" width="640" height="480">
+<img class="aligncenter wp-image-9608 size-large" title="キングオブ静岡ラーメン「らーめん矢吹 本店 西脇店」魚介豚骨ラーメン、醤油つけ麺" src="/media/content/asset-004989.jpg" alt="yabukinishiwaki" width="640" height="480">
 
 明らかに食べ過ぎ(笑)
 

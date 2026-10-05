@@ -5,7 +5,7 @@ published_at: "2012-09-29 23:00:00"
 path: "/hamamatsushi-trip-amusementpark-palpal/"
 ---
 <h2>1959年開園！実は静岡県唯一の遊園地らしい遊園地！</h2>
-<img class="aligncenter size-full wp-image-5695" src="/media/legacy/legacy-004332.jpg" alt="CIMG3890" width="300" height="225">
+<img class="aligncenter size-full wp-image-5695" src="/media/content/asset-004332.jpg" alt="CIMG3890" width="300" height="225">
 
 静岡県？富士山？ということは富士急ハイランドあるじゃん？ってよく言われるのですが、富士急は山梨県です。山梨県民にもちらほら怒られますので誤解の無きよう。
 
@@ -19,7 +19,7 @@ path: "/hamamatsushi-trip-amusementpark-palpal/"
 
 &nbsp;
 <h2>アンパンマンじゃない！やなせたかし氏のキャラクターと触れ合える！</h2>
-<img class="aligncenter size-full wp-image-9194" src="/media/legacy/legacy-004902.jpg" alt="palpal_character" width="550" height="1060">
+<img class="aligncenter size-full wp-image-9194" src="/media/content/asset-004902.jpg" alt="palpal_character" width="550" height="1060">
 
 『<a href="http://pal2.co.jp/family/character/">キャラクター紹介 - 浜名湖パルパル</a>』
 
@@ -33,7 +33,7 @@ path: "/hamamatsushi-trip-amusementpark-palpal/"
 
 &nbsp;
 <h2>猛烈に混むことは稀、かと言って閑散としているわけでもない、程よさ！</h2>
-<img class="aligncenter size-full wp-image-5696" src="/media/legacy/legacy-004333.jpg" alt="CIMG3897" width="300" height="225">
+<img class="aligncenter size-full wp-image-5696" src="/media/content/asset-004333.jpg" alt="CIMG3897" width="300" height="225">
 
 パルパルの良さと言えば、休日に行っても30分は並ばない、程よい混み具合で、30以上あるアトラクションも1日で制覇することができること。
 
@@ -43,7 +43,7 @@ path: "/hamamatsushi-trip-amusementpark-palpal/"
 
 &nbsp;
 <h2>浜名湖、舘山寺近辺は観光スポット多数！</h2>
-<img class="aligncenter size-full wp-image-5697" src="/media/legacy/legacy-004334.jpg" alt="CIMG3899" width="300" height="225">
+<img class="aligncenter size-full wp-image-5697" src="/media/content/asset-004334.jpg" alt="CIMG3899" width="300" height="225">
 
 浜名湖・舘山寺近辺には、こちらのパルパルを含め、遊べる場所がたくさんあります。
 

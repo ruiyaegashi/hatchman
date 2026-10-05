@@ -4,7 +4,7 @@ status: "publish"
 published_at: "2014-12-25 02:30:25"
 path: "/movie-watching-history-2014/"
 ---
-<img class="aligncenter wp-image-9233 size-full" src="/media/legacy/legacy-000416.jpg" alt="アプリ Filmarks オスカー" width="370" height="500">
+<img class="aligncenter wp-image-9233 size-full" src="/media/content/asset-000416.jpg" alt="アプリ Filmarks オスカー" width="370" height="500">
 
 いやー2014年も色々映画見られました。ということで備忘録的まとめをば。
 

@@ -11,21 +11,21 @@ path: "/restaurant-tamagotowatashi/"
 
 若かりし頃はポムの樹に並ぶヘビロテ店だったのですが、いかんせん近くでは遠鉄にしかなくて…
 
-<img class="aligncenter" title="浜松遠鉄百貨店内オムライス専門店 卵と私" src="/media/legacy/legacy-000899.jpg" width="300" height="400">
+<img class="aligncenter" title="浜松遠鉄百貨店内オムライス専門店 卵と私" src="/media/content/asset-000899.jpg" width="300" height="400">
 
 このキャラクターが超印象的。ネットでは正式名称が「私」さんという噂もありますが真相は分かりません。
 
 &nbsp;
 <h2>オムライスのクリームドリア</h2>
-<img class="aligncenter" title="浜松遠鉄百貨店内オムライス専門店 卵と私" src="/media/legacy/legacy-000900.jpg" width="300" height="225">
+<img class="aligncenter" title="浜松遠鉄百貨店内オムライス専門店 卵と私" src="/media/content/asset-000900.jpg" width="300" height="225">
 
-<img class="aligncenter" title="浜松遠鉄百貨店内オムライス専門店 卵と私" src="/media/legacy/legacy-000901.jpg" width="300" height="225">
+<img class="aligncenter" title="浜松遠鉄百貨店内オムライス専門店 卵と私" src="/media/content/asset-000901.jpg" width="300" height="225">
 
 大盛りにできないのが玉に瑕ですが、卵、ライス、デミグラスソース、クリームソースのバランスが良くて美味しいです。
 
 かなりやさしい味なので、お子さんやおじいちゃんおばあちゃんでも美味しくいただけるんじゃないでしょうか。
 
-<img class="aligncenter" title="浜松遠鉄百貨店内オムライス専門店 卵と私" src="/media/legacy/legacy-000902.jpg" width="300" height="225">
+<img class="aligncenter" title="浜松遠鉄百貨店内オムライス専門店 卵と私" src="/media/content/asset-000902.jpg" width="300" height="225">
 
 卵はトロトロ系。ふわふわ系も好きですが、トロトロ系も捨てがたい。昔ながらの硬めも好き。というかオムライスが好き。男子あるあるですね。
 

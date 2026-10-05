@@ -5,7 +5,7 @@ published_at: "2012-11-30 19:32:39"
 path: "/google-umbrella/"
 ---
 <h2>こ、このアイコンは…</h2>
-<img src="/media/legacy/legacy-004519.jpg" alt="">
+<img src="/media/content/asset-004519.jpg" alt="">
 
 誰でも見覚えがあるでしょう、このピン。
 

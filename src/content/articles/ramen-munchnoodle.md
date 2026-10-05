@@ -17,12 +17,12 @@ path: "/ramen-munchnoodle/"
 
 &nbsp;
 <h2>マンチヌードルBLACK ＆ 期間限定 メキシカンつけ麺しょうゆ大盛</h2>
-<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-000436.jpg" width="300" height="225">
+<img class="aligncenter" title="マンチヌードル" src="/media/content/asset-000436.jpg" width="300" height="225">
 店名の「マンチ」は英語の「munch」=「むしゃむしゃ食べる」という意味だそうです。
 
 その名の通り、二郎インスパイア系です。
 
-<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-000835.jpg" width="300" height="400">
+<img class="aligncenter" title="マンチヌードル" src="/media/content/asset-000835.jpg" width="300" height="400">
 
 外観、内装ともにオシャレで、落ち着いたカフェのようにも思えます。
 
@@ -30,17 +30,17 @@ path: "/ramen-munchnoodle/"
 
 壁にはDr Pepperがずらり。メニューにも載っています。
 
-<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-001220.jpg" width="300" height="400">
+<img class="aligncenter" title="マンチヌードル" src="/media/content/asset-001220.jpg" width="300" height="400">
 
-<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-001564.jpg" width="300" height="400">
+<img class="aligncenter" title="マンチヌードル" src="/media/content/asset-001564.jpg" width="300" height="400">
 
 メニューはしょうゆ、カレー、辛いの3種類。それに期間限定のメキシカンつけ麺が。
 
-<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-001862.jpg" width="300" height="225">
+<img class="aligncenter" title="マンチヌードル" src="/media/content/asset-001862.jpg" width="300" height="225">
 
 卓上の調味料はコショウのみ。
 
-<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-002117.jpg" width="300" height="225">
+<img class="aligncenter" title="マンチヌードル" src="/media/content/asset-002117.jpg" width="300" height="225">
 
 こちらはマンチヌードルBLACK。
 
@@ -48,9 +48,9 @@ path: "/ramen-munchnoodle/"
 
 ガッツリ系かとおもいきや、スープはどちらかと言えばあっさりで、しっかりとコクのあるものでした。
 
-<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-002362.jpg" width="300" height="225">
+<img class="aligncenter" title="マンチヌードル" src="/media/content/asset-002362.jpg" width="300" height="225">
 
-<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-002567.jpg" width="300" height="225">
+<img class="aligncenter" title="マンチヌードル" src="/media/content/asset-002567.jpg" width="300" height="225">
 
 こちらがメキシカンつけ麺しょうゆ大盛。
 
@@ -60,16 +60,16 @@ path: "/ramen-munchnoodle/"
 
 メンマは薄味で良い食感。トロトロチャーシューを程よい香ばしさに炙ってあります。
 
-<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-002744.jpg" width="300" height="225">
+<img class="aligncenter" title="マンチヌードル" src="/media/content/asset-002744.jpg" width="300" height="225">
 チャーシューの味を確かめるためにチャーシュー丼も注文。角切りされたチャーシューがニンニク醤油で炒められ、食欲をそそる香り。
 
 &nbsp;
 <h2>マンチヌードルBLACK(カラメ・アブラ・ニンニクマシ)</h2>
-<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-000217.jpg" width="550" height="413">
+<img class="aligncenter" title="マンチヌードル" src="/media/content/asset-000217.jpg" width="550" height="413">
 
 久しぶりにがっつり食べたいと思い行ってきました！
 
-<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-000637.jpg" width="550" height="413">
+<img class="aligncenter" title="マンチヌードル" src="/media/content/asset-000637.jpg" width="550" height="413">
 
 オープンしてその後すぐに食べに行ったのですが、二郎インスパイア系では珍しく凝った種類のラーメンが揃っていたのでちょくちょくおじゃましています。
 
@@ -83,21 +83,21 @@ path: "/ramen-munchnoodle/"
 
 &nbsp;
 <h2>エムジェー BLACK (ショウガチョイス、全マシ、肉増し)</h2>
-<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-000376.jpg" width="700" height="525">
+<img class="aligncenter" title="マンチヌードル" src="/media/content/asset-000376.jpg" width="700" height="525">
 
 新しい味が追加されたという噂をだいぶ前から聞いていたのですが、確かめるために行ってきました！
 
-<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-000781.jpg" width="700" height="525">
+<img class="aligncenter" title="マンチヌードル" src="/media/content/asset-000781.jpg" width="700" height="525">
 
 外観は相変わらず可愛い感じ。でもその実態はラーメンを貪る漢の巣窟。
 
 と言いつつ、いつも一人は女性のお客さんがいます。全部食べきったのを見たことはありませんが。
 
-<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-001170.jpg" width="700" height="525">
+<img class="aligncenter" title="マンチヌードル" src="/media/content/asset-001170.jpg" width="700" height="525">
 
-<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-001517.jpg" width="700" height="525">
+<img class="aligncenter" title="マンチヌードル" src="/media/content/asset-001517.jpg" width="700" height="525">
 
-<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-001821.jpg" width="525" height="700">
+<img class="aligncenter" title="マンチヌードル" src="/media/content/asset-001821.jpg" width="525" height="700">
 
 メニューを見てみると…
 
@@ -107,7 +107,7 @@ path: "/ramen-munchnoodle/"
 
 それだけかと思ったらオリジナルヌードルの種類も増えてる！肉盛り塩とかめっちゃ気になる…良いですね～良い進化ですね～！
 
-<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-002083.jpg" width="700" height="525">
+<img class="aligncenter" title="マンチヌードル" src="/media/content/asset-002083.jpg" width="700" height="525">
 
 ということで、注文したのはエムジェー BLACK、「ショウガ」チョイスの全マシ、肉増しで。
 
@@ -125,21 +125,21 @@ path: "/ramen-munchnoodle/"
 
 &nbsp;
 <h2>火曜・木曜限定 マンチヌードル ディップ AKANE MISO(大盛り 全マシ)</h2>
-<center><img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-000380.jpg" width="700" height="525"></center>
+<center><img class="aligncenter" title="マンチヌードル" src="/media/content/asset-000380.jpg" width="700" height="525"></center>
 あまりにもコストパフォーマンスが良いのでついつい行ってしまうマンチヌードルさん。
 
 平日にたまたま行ったらなんとつけ麺があるではないですか！ということで、火曜、木曜限定のマンチヌードルディップを食べてきました！
 
-<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-000787.jpg" width="700" height="525">
+<img class="aligncenter" title="マンチヌードル" src="/media/content/asset-000787.jpg" width="700" height="525">
 
 今日はマンチにしようかエムジェーにしようか悩みつつお店に行ってみると、火曜、木曜限定のマンチヌードルディップ、つけ麺があるではないですか！知りませんでした…
 
 通常、夏季のつけ麺は細麺なので、いつもの極太麺がつけ麺でいただけるんですから頼むしかないですよね！しかも味噌がある！
 ということで即決。
 
-<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-001176.jpg" width="700" height="525">
+<img class="aligncenter" title="マンチヌードル" src="/media/content/asset-001176.jpg" width="700" height="525">
 
-<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-001522.jpg" width="700" height="525">
+<img class="aligncenter" title="マンチヌードル" src="/media/content/asset-001522.jpg" width="700" height="525">
 
 注文したのは火曜・木曜限定 マンチヌードル ディップ AKANE MISO(大盛り 全マシ)。
 
@@ -167,11 +167,11 @@ path: "/ramen-munchnoodle/"
 
 &nbsp;
 <h2>火曜・木曜限定 マンチヌードル ディップ SPICY CURRY (全マシ)</h2>
-<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-000398.jpg" width="700" height="525">
+<img class="aligncenter" title="マンチヌードル" src="/media/content/asset-000398.jpg" width="700" height="525">
 
 マンチヌードル中毒が止まらねぇ！これは危険ドラッグならぬ危険ラーメンだぁ！
 
-<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-000803.jpg" width="700" height="525">
+<img class="aligncenter" title="マンチヌードル" src="/media/content/asset-000803.jpg" width="700" height="525">
 
 ほんともう中毒っす。この山を見なければ行きていけない体になりつつある…
 
@@ -181,9 +181,9 @@ path: "/ramen-munchnoodle/"
 
 でもやみつきになる何かが絶対入ってるって！
 
-<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-001192.jpg" width="700" height="525">
+<img class="aligncenter" title="マンチヌードル" src="/media/content/asset-001192.jpg" width="700" height="525">
 
-<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-001537.jpg" width="525" height="700">
+<img class="aligncenter" title="マンチヌードル" src="/media/content/asset-001537.jpg" width="525" height="700">
 
 今日は前回に引き続き火曜・木曜限定のマンチヌードル ディップ SPICY CURRYの全マシ。
 
@@ -215,7 +215,7 @@ path: "/ramen-munchnoodle/"
 
 &nbsp;
 <h2>本当にありがとうございました。復活願っています。</h2>
-<img class="aligncenter" title="マンチヌードル" src="/media/legacy/legacy-002903.jpg" width="300" height="400">
+<img class="aligncenter" title="マンチヌードル" src="/media/content/asset-002903.jpg" width="300" height="400">
 
 &nbsp;
 <h2>店舗情報</h2>

@@ -5,7 +5,7 @@ published_at: "2016-05-16 22:38:12"
 path: "/shizuokashi-ramen-ippon/"
 ---
 <h2>閉店からの復活！</h2>
-<img class="aligncenter size-full wp-image-9288" src="/media/legacy/legacy-004906.jpg" alt="rahmenippon1" width="1060" height="795">
+<img class="aligncenter size-full wp-image-9288" src="/media/content/asset-004906.jpg" alt="rahmenippon1" width="1060" height="795">
 
 以前両替町にあったお店が一度閉店し、場所を変えて復活しました。
 
@@ -15,7 +15,7 @@ path: "/shizuokashi-ramen-ippon/"
 
 &nbsp;
 
-<img class="aligncenter size-full wp-image-9289" src="/media/legacy/legacy-004907.jpg" alt="rahmenippon2" width="1060" height="795">
+<img class="aligncenter size-full wp-image-9289" src="/media/content/asset-004907.jpg" alt="rahmenippon2" width="1060" height="795">
 
 店内は広く、某牛丼屋のようにコの字のカウンターが2列、入って右手にはテーブル席、全部で30席ほど。掃除も行き届いていてとても綺麗な店内です。
 
@@ -23,7 +23,7 @@ path: "/shizuokashi-ramen-ippon/"
 
 &nbsp;
 <h2>ベースは豚骨と鶏白湯でメニュー量が豊富</h2>
-<img class="aligncenter size-full wp-image-9290" src="/media/legacy/legacy-004908.jpg" alt="rahmenippon3" width="596" height="795">
+<img class="aligncenter size-full wp-image-9290" src="/media/content/asset-004908.jpg" alt="rahmenippon3" width="596" height="795">
 
 入って右手に券売機があります。
 
@@ -33,19 +33,19 @@ path: "/shizuokashi-ramen-ippon/"
 
 &nbsp;
 
-<img class="aligncenter size-full wp-image-9291" src="/media/legacy/legacy-004909.jpg" alt="rahmenippon4" width="1060" height="795">
+<img class="aligncenter size-full wp-image-9291" src="/media/content/asset-004909.jpg" alt="rahmenippon4" width="1060" height="795">
 
 &nbsp;
 
-<img class="aligncenter size-full wp-image-9292" src="/media/legacy/legacy-004910.jpg" alt="rahmenippon5" width="1060" height="795">
+<img class="aligncenter size-full wp-image-9292" src="/media/content/asset-004910.jpg" alt="rahmenippon5" width="1060" height="795">
 
 &nbsp;
 
-<img class="aligncenter size-full wp-image-9293" src="/media/legacy/legacy-004911.jpg" alt="rahmenippon6" width="1060" height="795">
+<img class="aligncenter size-full wp-image-9293" src="/media/content/asset-004911.jpg" alt="rahmenippon6" width="1060" height="795">
 
 &nbsp;
 <h2>とんこつしょうゆラーメン</h2>
-<img class="aligncenter size-full wp-image-9295" src="/media/legacy/legacy-004913.jpg" alt="rahmenippon8" width="1060" height="795">
+<img class="aligncenter size-full wp-image-9295" src="/media/content/asset-004913.jpg" alt="rahmenippon8" width="1060" height="795">
 
 写真はOC(脂多め・味濃いめ)で注文したとんこつしょうゆラーメン。お好みは？と聞かれることと聞かれないことがあるので、好みがある方は食券を渡すときに店員さんに聞きましょう。
 
@@ -61,7 +61,7 @@ path: "/shizuokashi-ramen-ippon/"
 
 &nbsp;
 <h2>鶏白湯ラーメン</h2>
-<img class="aligncenter size-full wp-image-9294" src="/media/legacy/legacy-004912.jpg" alt="rahmenippon7" width="1060" height="795">
+<img class="aligncenter size-full wp-image-9294" src="/media/content/asset-004912.jpg" alt="rahmenippon7" width="1060" height="795">
 
 スープは相当な濃さが感じられるバター色で、鶏の香りが漂います。味は昆布等の海鮮出汁も使われているようですが完全に鶏の引き立て役で、かえしも優しい塩加減なので鶏の美味しさがストレートに感じられます。
 
@@ -71,7 +71,7 @@ path: "/shizuokashi-ramen-ippon/"
 
 &nbsp;
 <h2>スープまで飲み干すと「ニコニコありがとうございます！」</h2>
-<img class="aligncenter size-full wp-image-9296" src="/media/legacy/legacy-004914.jpg" alt="rahmenippon9" width="1060" height="795">
+<img class="aligncenter size-full wp-image-9296" src="/media/content/asset-004914.jpg" alt="rahmenippon9" width="1060" height="795">
 
 スープを飲み干すと底からニコニコマークが。
 

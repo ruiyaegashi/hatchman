@@ -5,7 +5,7 @@ published_at: "2012-10-25 17:10:38"
 path: "/wifi-router-nas-buffalo/"
 ---
 <h2>使っているWi-FiルーターはWXR-1750DHP！</h2>
-<img class="aligncenter size-full wp-image-9216" src="/media/legacy/legacy-004682.jpg" alt="WXR1750DHP" width="720" height="280">
+<img class="aligncenter size-full wp-image-9216" src="/media/content/asset-004682.jpg" alt="WXR1750DHP" width="720" height="280">
 
 Wi-FiルーターをWXR-1750DHPに変えた際、それに伴ってNASも導入することにしました。
 
