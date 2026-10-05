@@ -104,6 +104,6 @@ migration_review: "review"
 
 最近話題の自動運転なんか運転する楽しみを奪うだけなので、そういった機能の実装が強制にならないことをただただ祈るばかりです。
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4532168678&quot; locale=&quot;JP&quot; title=&quot;交通事故を7割減らすたった2つの習慣&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4532168678">交通事故を7割減らすたった2つの習慣</a>
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4106105454&quot; locale=&quot;JP&quot; title=&quot;交通事故学 (新潮新書)&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4106105454">交通事故学 (新潮新書)</a>
