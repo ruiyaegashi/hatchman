@@ -6,7 +6,7 @@ const articles = (await getCollection('articles'))
   .filter((entry) => entry.data.status === 'publish')
   .sort((a, b) => b.data.published_at.localeCompare(a.data.published_at));
 
-const articlePath = (entry: (typeof articles)[number]) => entry.data.path ?? entry.data.legacy_path!;
+const articlePath = (entry: (typeof articles)[number]) => entry.data.path!;
 ---
 <BaseLayout>
   <h1>Hatchman</h1>

@@ -1,0 +1,53 @@
+---
+title: "オーガニックアロマのオルトナチュラルプロジェクツ"
+status: "publish"
+published_at: "2012-11-26 18:47:06"
+path: "/shop-altnaturalprojects/"
+---
+<h2>オルトナチュラルプジェクツとはどんなお店？</h2>
+<img class="aligncenter" title="オルトナチュラルプロジェクツ" src="/media/legacy/legacy-003843.jpg" width="300" height="225">
+
+<aside class="preserved-content unsupported-embed"><strong>埋め込みコンテンツ（現在非表示）</strong><details><summary>原文</summary><code>[browser-shot url=&quot;http://www.alternatives.co.jp/&quot; width=&quot;600&quot; height=&quot;450&quot;]</code></details></aside>
+<blockquote>Alternatives（オルタナティブス）とは日本語で「代替」や「選択肢」を意味します。
+
+現代の人間は便利、自由を追求するあまり、本来に人間がいるべき環境から徐々に遠のいてしまっています。また心身のバランスも失ってしまっていることでしょう。
+
+私たちが日常暮らす中で従来の製品（添加物や化学合成された成分で出来たもの）から受ける影響は長い人生で考えると計り知れません。
+
+…
+
+人間がいつかどこかで見落としてきたものを弊社の商品や考えで今まで使われているものの「代替案」として考えてみませんかと伝えられないかと考えます。 より良い世の中にするために
+
+&nbsp;
+
+…</blockquote>
+という壮大ながらヒトとして大切なものに気づいてもらいたいという志のお店です。
+
+アロマをメインにリアル店舗とネットショップを展開しています。
+
+&nbsp;
+<h2>オーガニック商品の数々は自社製</h2>
+<img class="aligncenter" title="オルトナチュラルプロジェクツ" src="/media/legacy/legacy-003844.jpg" width="300" height="225">
+
+店内にはアロマを中心に、色々な商品が並べられているのですが、非常におしゃれ。
+
+<img class="aligncenter" title="オルトナチュラルプロジェクツ" src="/media/legacy/legacy-003846.jpg" width="300" height="400">
+商品自体も高級感漂う、ハードルの高いもののように感じるのですが、こちらのお店は原材料を輸入して自社で製造しているため同品質の商品に比べて価格は抑えられています。
+
+ネットショップで展開されていたものを、リアルの店舗でもできないかと思われたのがきっかけだとか。
+
+&nbsp;
+<h2>おしゃれな店内</h2>
+<img class="aligncenter" title="オルトナチュラルプロジェクツ" src="/media/legacy/legacy-003847.jpg" width="300" height="225">
+
+アンティークでまとめられた店内はいるだけで不思議な気分に。
+
+それと香りが相まって非常に居心地の良い空間。
+
+正直、香水のようなきつい匂いには弱いのですが、色々とサンプルの匂いを嗅がせていただいて印象が変わりました。
+
+香りの印象って記憶に残りやすいと思いますし、自分の家やお店を印象づけるものにもなりますよね。
+
+男性の利用者も増えているそうですが、男のためのアロマ講座なんてあったら参加してみたいですね。
+
+<a href="https://www.amazon.co.jp/dp/4800730015">最新! アロマセラピーのすべてがわかる本</a>
