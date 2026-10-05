@@ -59,6 +59,6 @@ migration_review: "review"
 
 と言いつつ、この4部作、僕の好きなフィリップ・シーモア・ホフマンの遺作でもあるので特別な作品に違いはありません。
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B01B2EIE1O&quot; locale=&quot;JP&quot; title=&quot;ハンガー・ゲーム DVD コンプリートセット(初回生産限定)&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B01B2EIE1O">ハンガー・ゲーム DVD コンプリートセット(初回生産限定)</a>
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B01B2EIGCQ&quot; locale=&quot;JP&quot; title=&quot;ハンガー・ゲーム ブルーレイ コンプリートセット(初回生産限定) Blu-ray&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B01B2EIGCQ">ハンガー・ゲーム ブルーレイ コンプリートセット(初回生産限定) Blu-ray</a>
