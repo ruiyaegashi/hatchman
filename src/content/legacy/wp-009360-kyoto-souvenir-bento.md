@@ -116,4 +116,4 @@ migration_review: "review"
 
 随時更新していきます！
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4835626079&quot; locale=&quot;JP&quot; title=&quot;京都老舗名店案内―創業100年以上の老舗や明治・大正・昭和のモダンな (ぴあMOOK関西)&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4835626079">京都老舗名店案内―創業100年以上の老舗や明治・大正・昭和のモダンな (ぴあMOOK関西)</a>
