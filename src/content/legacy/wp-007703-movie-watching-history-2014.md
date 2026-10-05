@@ -235,4 +235,4 @@ migration_review: "review"
 
 これからもどんどん映画を増やしていきますよ。
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B00QWN9U7I&quot; locale=&quot;JP&quot; title=&quot;思い出のマーニー DVD&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B00QWN9U7I">思い出のマーニー DVD</a>
