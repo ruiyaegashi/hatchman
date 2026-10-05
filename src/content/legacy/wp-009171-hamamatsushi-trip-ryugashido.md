@@ -113,6 +113,6 @@ migration_review: "review"
 
 <aside class="legacy-disabled">旧iframe埋め込み（安全のため停止）: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26197.16580675809!2d137.649500412048!3d34.83999894442486!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x4aaf1f7ea94f2803!2z56uc44O25bKp5rSeIO-8iOOCiuOCheOBhuOBjOOBl-OBqeOBhu-8iQ!5e0!3m2!1sja!2sjp!4v1461378525041</aside>
 
-<a href="https://www.amazon.co.jp/dp/4533107052">るるぶ静岡 清水 浜名湖 富士山麓 伊豆&#x27;16 (国内シリーズ)</a>
+<a href="https://www.amazon.co.jp/dp/4533107052">るるぶ静岡 清水 浜名湖 富士山麓 伊豆</a>
 
-<a href="https://www.amazon.co.jp/dp/4398277935">まっぷる 静岡 浜名湖・富士山麓・伊豆 &#x27;16 (まっぷるマガジン)</a>
+<a href="https://www.amazon.co.jp/dp/4398277935">まっぷる 静岡 浜名湖・富士山麓・伊豆 </a>
