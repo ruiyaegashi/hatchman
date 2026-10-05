@@ -89,7 +89,35 @@ jobs:
       - run: pnpm run check
       - run: pnpm run build
       - run: pnpm run functions:build
-      - run: git diff --check
+      - name: Validate URL-only byte diff
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 <<'PY'
+          from pathlib import Path
+          import re
+          import subprocess
+
+          root = Path("src/content/articles")
+          pattern = re.compile(rb"/media/legacy/legacy-(\d{6})\.([A-Za-z0-9]+)")
+
+          expected_changed = 0
+          for path in sorted(root.rglob("*.md")):
+              rel = path.as_posix()
+              original = subprocess.check_output(["git", "show", f"HEAD:{rel}"])
+              expected = pattern.sub(rb"/media/content/asset-\1.\2", original)
+              current = path.read_bytes()
+              assert current == expected, f"non-URL byte change: {rel}"
+              expected_changed += int(expected != original)
+
+          actual = subprocess.check_output(
+              ["git", "diff", "--name-only", "--", "src/content/articles"],
+              text=True,
+          ).splitlines()
+          assert len(actual) == expected_changed, (len(actual), expected_changed)
+          assert expected_changed > 0
+          print(f"url_only_changed_files={expected_changed}")
+          PY
 
       - name: Commit STEP52 repository change
         shell: bash
