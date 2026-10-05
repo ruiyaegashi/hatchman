@@ -41,17 +41,17 @@ jobs:
           files = sorted(root.rglob("*.md"))
           assert len(files) == 407, len(files)
 
-          pattern = re.compile(r"/media/legacy/legacy-(\d{6})\.([A-Za-z0-9]+)")
+          pattern = re.compile(rb"/media/legacy/legacy-(\\d{6})\\.([A-Za-z0-9]+)")
           before_count = 0
           before_unique = set()
           changed_files = 0
 
           for path in files:
-              text = path.read_text(encoding="utf-8")
-              matches = list(pattern.finditer(text))
+              data = path.read_bytes()
+              matches = list(pattern.finditer(data))
               before_count += len(matches)
               before_unique.update(m.group(0) for m in matches)
-              new = pattern.sub(r"/media/content/asset-\1.\2", text)
+              new = pattern.sub(rb"/media/content/asset-\\1.\\2", data)
               if new != text:
                   path.write_text(new, encoding="utf-8")
                   changed_files += 1
@@ -62,7 +62,7 @@ jobs:
           after_old = 0
           after_new = 0
           after_unique = set()
-          new_pattern = re.compile(r"/media/content/asset-(\d{6})\.([A-Za-z0-9]+)")
+          new_pattern = re.compile(rb"/media/content/asset-(\\d{6})\\.([A-Za-z0-9]+)")
 
           for path in files:
               text = path.read_text(encoding="utf-8")
