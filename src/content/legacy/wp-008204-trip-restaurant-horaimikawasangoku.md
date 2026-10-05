@@ -87,7 +87,7 @@ No.5梅干し（200円～）</blockquote>
 
 爪楊枝入れ。可愛いですね。
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4533115055&quot; locale=&quot;JP&quot; title=&quot;るるぶ愛知 名古屋 知多 三河&#x27;17 (国内シリーズ)&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4533115055">るるぶ愛知 名古屋 知多 三河&#x27;17 (国内シリーズ)</a>
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4398281339&quot; locale=&quot;JP&quot; title=&quot;まっぷる 愛知 名古屋 知多・三河 &#x27;17 (まっぷるマガジン)&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4398281339">まっぷる 愛知 名古屋 知多・三河 &#x27;17 (まっぷるマガジン)</a>
 <p style="margin-top: 5pt; margin-bottom: 5pt; font-size: 11.0pt;"></p>
