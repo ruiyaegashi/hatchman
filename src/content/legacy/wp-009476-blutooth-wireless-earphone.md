@@ -47,21 +47,21 @@ iPhone7良いですよね～。でもイヤホンジャックなくしちゃっ�
 
 元々BOSE党だった僕は、
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B01G16R8JC&quot; locale=&quot;JP&quot; title=&quot;Bose SoundSport Pulse wireless headphones : ワイヤレスイヤホン Bluetooth・NFC対応/心拍数計測機能/リモコン・マイク付き パワーレッド SSport PLS WLSS RED【国内正規品】&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B01G16R8JC">Bose SoundSport Pulse wireless headphones : ワイヤレスイヤホン Bluetooth・NFC対応/心拍数計測機能/リモコン・マイク付き パワーレッド SSport PLS WLSS RED【国内正規品】</a>
 
 これとか
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B01G4N6CDA&quot; locale=&quot;JP&quot; title=&quot;Bose SoundSport wireless headphones : ワイヤレスイヤホン 防滴仕様/Bluetooth・NFC対応/リモコン・マイク付き/通話可能 ブラック SSport WLSS BLK【国内正規品】&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B01G4N6CDA">Bose SoundSport wireless headphones : ワイヤレスイヤホン 防滴仕様/Bluetooth・NFC対応/リモコン・マイク付き/通話可能 ブラック SSport WLSS BLK【国内正規品】</a>
 
 これが欲しかった。防滴だし、心拍数計測機能までついてる。
 
 でもこれが高いんだ。最初(ではないけど)にこれはきつい。
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B011Z59XUG&quot; locale=&quot;JP&quot; title=&quot;PHILIPS ワイヤレススポーツイヤホン カナル型/Bluetooth・NFC対応/リモコン・マイク付 ブラック TX2BTBK【国内正規品】&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B011Z59XUG">PHILIPS ワイヤレススポーツイヤホン カナル型/Bluetooth・NFC対応/リモコン・マイク付 ブラック TX2BTBK【国内正規品】</a>
 
 じゃあこれ。だったらBOSE買うわ。
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B01G48RH20&quot; locale=&quot;JP&quot; title=&quot;B&amp;amp;O Play BeoPlay H5 ワイヤレス Bluetooth イヤホン/リモコン・マイク付き/通話可能 ブラック BeoPlay H5 Black【国内正規品】&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B01G48RH20">B&amp;amp;O Play BeoPlay H5 ワイヤレス Bluetooth イヤホン/リモコン・マイク付き/通話可能 ブラック BeoPlay H5 Black【国内正規品】</a>
 
 逆にこれ。さらに無理。
 
@@ -69,15 +69,15 @@ iPhone7良いですよね～。でもイヤホンジャックなくしちゃっ�
 
 分かってる。分かってるんだけど、音質も捨てがたいのよ。ということで、思い切ってじゃんじゃん値段を下げていきました。
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B00KWV03YA&quot; locale=&quot;JP&quot; title=&quot;【国内正規品】Beats by Dr.Dre Powerbeats2 Wireless Bluetooth対応 カナル型ワイヤレスイヤホン スポーツ向け ブラック MHBE2PA/A&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B00KWV03YA">【国内正規品】Beats by Dr.Dre Powerbeats2 Wireless Bluetooth対応 カナル型ワイヤレスイヤホン スポーツ向け ブラック MHBE2PA/A</a>
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B01ARFLYR0&quot; locale=&quot;JP&quot; title=&quot;JBL EVEREST 100 ワイヤレスイヤホン Bluetooth 密閉ダイナミック型 ブラック V100BTBLKGP【国内正規品】&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B01ARFLYR0">JBL EVEREST 100 ワイヤレスイヤホン Bluetooth 密閉ダイナミック型 ブラック V100BTBLKGP【国内正規品】</a>
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B00LIZD8N2&quot; locale=&quot;JP&quot; title=&quot;【国内正規品】 PLANTRONICS Bluetooth スポーツ用ワイヤレスヘッドセット(ステレオイヤホンタイプ) BackBeat Fit Blue BACKBEATFIT-BL&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B00LIZD8N2">【国内正規品】 PLANTRONICS Bluetooth スポーツ用ワイヤレスヘッドセット(ステレオイヤホンタイプ) BackBeat Fit Blue BACKBEATFIT-BL</a>
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B018LEVFGO&quot; locale=&quot;JP&quot; title=&quot;JBL REFLECT MINI BT ワイヤレスイヤホン IPX4対応 防汗仕様/Bluetooth・リモコン・マイク付き/通話可能載 ブラック JBLREFMINIBTBLK 【国内正規品】&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B018LEVFGO">JBL REFLECT MINI BT ワイヤレスイヤホン IPX4対応 防汗仕様/Bluetooth・リモコン・マイク付き/通話可能載 ブラック JBLREFMINIBTBLK 【国内正規品】</a>
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B016O5H3HM&quot; locale=&quot;JP&quot; title=&quot;Sol Republic RELAYS SPORT WIRELESS Bluetooth ワイヤレスイヤホン ブラック 《カナル型/防滴/スポーツ向け/iOS対応3ボタンマイクケーブル》 【国内正規品】&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B016O5H3HM">Sol Republic RELAYS SPORT WIRELESS Bluetooth ワイヤレスイヤホン ブラック 《カナル型/防滴/スポーツ向け/iOS対応3ボタンマイクケーブル》 【国内正規品】</a>
 
 ここまで、友人、知人に借りまくって全部ではありませんが聴き比べてもみました。が、ぶっちゃけそれぞれ良い、としか言えない。
 
@@ -85,7 +85,7 @@ BOSEサウンドに慣れた僕にはやっぱりBOSEがしっくりくるし、
 
 ということで、最終的に僕が落ち着いたのはこちら。
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B01D86HQ4A&quot; locale=&quot;JP&quot; title=&quot;COULAX 　QY8 QY7の進化版 Bluetoothイヤホン　 　Bluetooth 4.1ワイヤレスイヤホン　CVC6.0ノイズキャンセル　aptXテクノロジー採用　マイク内蔵　高音質ハンズフリー通話が可能　ランニングでも耳から落ちにくい　防汗　スポーツイヤホン (ブルー)&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B01D86HQ4A">COULAX 　QY8 QY7の進化版 Bluetoothイヤホン　 　Bluetooth 4.1ワイヤレスイヤホン　CVC6.0ノイズキャンセル　aptXテクノロジー採用　マイク内蔵　高音質ハンズフリー通話が可能　ランニングでも耳から落ちにくい　防汗　スポーツイヤホン (ブルー)</a>
 
 お値段なんと2,700円！下げすぎ？でも本当か分からないけど元値(定価？参考価格？)は9,000円。
 
@@ -175,4 +175,4 @@ Onにしたときは青色に、Offにしたときは赤色にロゴ部分が光
 
 どうせ僕も欲が出てどんどん良いやつに手を出すはずなので、それもまたレビューします。
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B01D86HQ4A&quot; locale=&quot;JP&quot; title=&quot;COULAX 　QY8 QY7の進化版 Bluetoothイヤホン　 　Bluetooth 4.1ワイヤレスイヤホン　CVC6.0ノイズキャンセル　aptXテクノロジー採用　マイク内蔵　高音質ハンズフリー通話が可能　ランニングでも耳から落ちにくい　防汗　スポーツイヤホン (ブルー)&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B01D86HQ4A">COULAX 　QY8 QY7の進化版 Bluetoothイヤホン　 　Bluetooth 4.1ワイヤレスイヤホン　CVC6.0ノイズキャンセル　aptXテクノロジー採用　マイク内蔵　高音質ハンズフリー通話が可能　ランニングでも耳から落ちにくい　防汗　スポーツイヤホン (ブルー)</a>
