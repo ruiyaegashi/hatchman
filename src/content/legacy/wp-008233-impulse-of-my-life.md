@@ -62,4 +62,4 @@ migration_review: "review"
 
 <img class="aligncenter size-full wp-image-5840" src="/media/legacy/legacy-004379.jpg" alt="IMG_0475" width="300" height="400">
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4763134604&quot; locale=&quot;JP&quot; title=&quot;たった5分で体が変わる すごい熱刺激&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4763134604">たった5分で体が変わる すごい熱刺激</a>
