@@ -21,13 +21,13 @@ migration_review: "review"
 
 本作は貴志祐介著の小説『悪の教典』を原作とするホラー・サスペンス映画です。
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4167839016&quot; locale=&quot;JP&quot; title=&quot;悪の教典〈上〉 (文春文庫)&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4167839016">悪の教典〈上〉 (文春文庫)</a>
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4167839024&quot; locale=&quot;JP&quot; title=&quot;悪の教典〈下〉 (文春文庫)&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4167839024">悪の教典〈下〉 (文春文庫)</a>
 
 マンガ化もされたのですが、これがなかなか読み応えがあっておすすめです。
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B00AIKXQLM&quot; locale=&quot;JP&quot; title=&quot;悪の教典（１） (アフタヌーンコミックス)&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B00AIKXQLM">悪の教典（１） (アフタヌーンコミックス)</a>
 
 &nbsp;
 <h2>あらすじ</h2>
@@ -82,4 +82,4 @@ migration_review: "review"
 
 あと、校庭のシーンで使われたのは旧静岡県立長泉高校。2008年に移転のため廃校になったところを使ったそうです。
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B00BHAOBES&quot; locale=&quot;JP&quot; title=&quot;悪の教典 DVD スタンダード・エディション&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B00BHAOBES">悪の教典 DVD スタンダード・エディション</a>
