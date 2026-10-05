@@ -47,7 +47,7 @@ migration_review: "review"
 
 &nbsp;
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4783819726&quot; locale=&quot;JP&quot; title=&quot;保存版 今食べたい!静岡グルメ150選 (静岡ぐるぐるマップ)&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4783819726">保存版 今食べたい!静岡グルメ150選 (静岡ぐるぐるマップ)</a>
 <h2>上天丼、穴子天</h2>
 <img class="aligncenter" title="静岡呉服町「河童土器屋(かっぱどきや)」天丼・海鮮丼" src="/media/legacy/legacy-004577.jpg" width="300" height="225">
 
@@ -69,11 +69,11 @@ migration_review: "review"
 
 &nbsp;
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B00433KP9G&quot; locale=&quot;JP&quot; title=&quot;静岡最強グルメ&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B00433KP9G">静岡最強グルメ</a>
 <h2>店舗情報</h2>
 <img class="aligncenter" title="静岡呉服町「河童土器屋(かっぱどきや)」天丼・海鮮丼" src="/media/legacy/legacy-004584.jpg" width="300" height="400">
 <div><strong><a href="https://tabelog.com/shizuoka/A2201/A220101/22023828/" target="_blank">河童土器屋</a></strong>
 <aside class="legacy-disabled">旧script埋め込み（安全のため停止）: https://tabelog.com/badge/google_badge?escape=false&amp;rcd=22023828</aside></div>
 <p style="color: #444444; font-size: 12px;"><strong>関連ランキング：</strong><a href="https://tabelog.com/rstLst/RC011105/">海鮮丼</a> | <a href="https://tabelog.com/shizuoka/A2201/A220101/R5162/rstLst/">新静岡駅</a>、<a href="https://tabelog.com/shizuoka/A2201/A220101/R8213/rstLst/">静岡駅</a>、<a href="https://tabelog.com/shizuoka/A2201/A220101/R8548/rstLst/">日吉町駅</a></p>
-<p style="margin-top: 5pt; margin-bottom: 5pt; font-family: &amp;amp; font-size: 9.0pt; color: #444444;"><aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4783819726&quot; locale=&quot;JP&quot; title=&quot;保存版 今食べたい!静岡グルメ150選 (静岡ぐるぐるマップ)&quot;]</code></details></aside></p>
-<p style="margin-top: 5pt; margin-bottom: 5pt; font-family: &amp;amp; font-size: 9.0pt; color: #444444;"><aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B00433KP9G&quot; locale=&quot;JP&quot; title=&quot;静岡最強グルメ&quot;]</code></details></aside></p>
+<p style="margin-top: 5pt; margin-bottom: 5pt; font-family: &amp;amp; font-size: 9.0pt; color: #444444;"><a href="https://www.amazon.co.jp/dp/4783819726">保存版 今食べたい!静岡グルメ150選 (静岡ぐるぐるマップ)</a></p>
+<p style="margin-top: 5pt; margin-bottom: 5pt; font-family: &amp;amp; font-size: 9.0pt; color: #444444;"><a href="https://www.amazon.co.jp/dp/B00433KP9G">静岡最強グルメ</a></p>
