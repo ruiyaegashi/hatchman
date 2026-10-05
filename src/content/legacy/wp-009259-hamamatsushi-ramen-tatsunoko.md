@@ -68,7 +68,7 @@ migration_review: "review"
 <div><strong><a href="http://tabelog.com/shizuoka/A2202/A220201/22005998/" target="_blank">龍の子</a></strong>
 <aside class="legacy-disabled">旧script埋め込み（安全のため停止）: http://tabelog.com/badge/google_badge?escape=false&amp;rcd=22005998</aside></div>
 <p style="color: #444444; font-size: 12px;"><strong>関連ランキング：</strong><a href="http://tabelog.com/rstLst/ramen/">ラーメン</a> | <a href="http://tabelog.com/shizuoka/A2202/A220201/R1565/rstLst/">曳馬駅</a>、<a href="http://tabelog.com/shizuoka/A2202/A220201/R5393/rstLst/">助信駅</a></p>
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4048947362&quot; locale=&quot;JP&quot; title=&quot;ラーメンウォーカームック ラーメンWalker静岡2016&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4048947362">ラーメンウォーカームック ラーメンWalker静岡2016</a>
 <div>
-<div><aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;478381936X&quot; locale=&quot;JP&quot; title=&quot;浜松ぐるぐるマップ 81(NOVEMBER 201―保存版 うまいラーメン120軒&quot;]</code></details></aside></div>
+<div><a href="https://www.amazon.co.jp/dp/478381936X">浜松ぐるぐるマップ 81(NOVEMBER 201―保存版 うまいラーメン120軒</a></div>
 </div>
