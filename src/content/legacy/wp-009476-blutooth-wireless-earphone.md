@@ -61,7 +61,7 @@ iPhone7良いですよね～。でもイヤホンジャックなくしちゃっ�
 
 じゃあこれ。だったらBOSE買うわ。
 
-<a href="https://www.amazon.co.jp/dp/B01G48RH20">B&amp;amp;O Play BeoPlay H5 ワイヤレス Bluetooth イヤホン/リモコン・マイク付き/通話可能 ブラック BeoPlay H5 Black【国内正規品】</a>
+<a href="https://www.amazon.co.jp/dp/B01G48RH20">B&amp;O Play BeoPlay H5 ワイヤレス Bluetooth イヤホン/リモコン・マイク付き/通話可能 ブラック BeoPlay H5 Black【国内正規品】</a>
 
 逆にこれ。さらに無理。
 
