@@ -68,4 +68,4 @@ migration_review: "review"
 <strong><a href="http://tabelog.com/tokyo/A1318/A131813/13032005/" target="_blank">けんちゃんラーメン</a></strong>
 <aside class="legacy-disabled">旧script埋め込み（安全のため停止）: http://tabelog.com/badge/google_badge?escape=false&amp;rcd=13032005</aside>
 <p style="color: #444444; font-size: 12px;"><strong>関連ランキング：</strong><a href="http://tabelog.com/rstLst/ramen/">ラーメン</a> | <a href="http://tabelog.com/tokyo/A1318/A131813/R6204/rstLst/">千歳船橋駅</a></p>
-<p style="color: #444444; font-size: 12px;"><aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4048955446&quot; locale=&quot;JP&quot; title=&quot;ラーメンWalkerが厳選! マニアも納得の東京うまいラーメンベスト100 (中経の文庫)&quot;]</code></details></aside></p>
+<p style="color: #444444; font-size: 12px;"><a href="https://www.amazon.co.jp/dp/4048955446">ラーメンWalkerが厳選! マニアも納得の東京うまいラーメンベスト100 (中経の文庫)</a></p>
