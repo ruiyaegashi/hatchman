@@ -84,6 +84,6 @@ migration_review: "review"
 
 如何せん、監督と脚本にはもう少し頑張ってほしかったと思いつつも、DVDが出たらもう一度見てみたいと思います。
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B00BN1JW5E&quot; locale=&quot;JP&quot; title=&quot;カラスの親指 by rule of CROW&#x27;s thumb 通常版【DVD】&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B00BN1JW5E">カラスの親指 by rule of CROW</a>
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4062769778&quot; locale=&quot;JP&quot; title=&quot;カラスの親指 by rule of CROW’s thumb (講談社文庫)&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4062769778">カラスの親指 by rule of CROW’s thumb (講談社文庫)</a>

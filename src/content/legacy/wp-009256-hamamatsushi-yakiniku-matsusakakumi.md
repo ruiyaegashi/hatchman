@@ -104,5 +104,5 @@ migration_review: "review"
 <div><strong><a href="http://tabelog.com/shizuoka/A2202/A220201/22022184/" target="_blank">まつさか與</a></strong>
 <aside class="legacy-disabled">旧script埋め込み（安全のため停止）: http://tabelog.com/badge/google_badge?escape=false&amp;rcd=22022184</aside></div>
 <p style="color: #444444; font-size: 12px;"><strong>関連ランキング：</strong><a href="http://tabelog.com/rstLst/yakiniku/">焼肉</a> | <a href="http://tabelog.com/shizuoka/A2202/A220201/R5650/rstLst/">第一通り駅</a>、<a href="http://tabelog.com/shizuoka/A2202/A220201/R1566/rstLst/">遠州病院駅</a>、<a href="http://tabelog.com/shizuoka/A2202/A220201/R6557/rstLst/">浜松駅</a></p>
-<p style="color: #444444; font-size: 12px;"><aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4783819688&quot; locale=&quot;JP&quot; title=&quot;浜松ぐるぐるマップ〈86〉保存版 ひとりめしみんなごはん145軒&quot;]</code></details></aside></p>
-<p style="color: #444444; font-size: 12px;"><aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4780414512&quot; locale=&quot;JP&quot; title=&quot;浜松とっても上等なディナー&quot;]</code></details></aside></p>
+<p style="color: #444444; font-size: 12px;"><a href="https://www.amazon.co.jp/dp/4783819688">浜松ぐるぐるマップ〈86〉保存版 ひとりめしみんなごはん145軒</a></p>
+<p style="color: #444444; font-size: 12px;"><a href="https://www.amazon.co.jp/dp/4780414512">浜松とっても上等なディナー</a></p>

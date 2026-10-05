@@ -53,4 +53,4 @@ Appleと聞いて何を連想しますか？僕は当然のことながら果物
 
 大学を卒業してから結構な時間が経ってしまいましたが、それを無駄だとは思わず、今はかなり前向きに毎日過ごすことができています。本当にスティーブ・ジョブズには感謝。
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B005V73CVG&quot; locale=&quot;JP&quot; title=&quot;スティーブ・ジョブズ I・IIセット&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B005V73CVG">スティーブ・ジョブズ I・IIセット</a>

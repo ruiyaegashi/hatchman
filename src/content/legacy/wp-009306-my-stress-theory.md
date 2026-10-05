@@ -19,7 +19,7 @@ migration_review: "review"
 <h2>ストレスをこれ以上気にしない強いメンタルの作り方</h2>
 <img class="aligncenter size-full wp-image-9308" src="/media/legacy/legacy-003727.jpg" alt="THE21201606" width="1060" height="795">
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B01D531A5M&quot; locale=&quot;JP&quot; title=&quot;THE21 2016年 06 月号&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B01D531A5M">THE21 2016年 06 月号</a>
 
 僕の愛読雑誌『THE21』。
 
@@ -356,7 +356,7 @@ migration_review: "review"
 
 ↓僕が10年以上笑い続けているDVD
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B00023BNHO&quot; locale=&quot;JP&quot; title=&quot;M-1グランプリ2003 DVD&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B00023BNHO">M-1グランプリ2003 DVD</a>
 
 &nbsp;
 
@@ -389,22 +389,22 @@ migration_review: "review"
 <h2>参考書籍</h2>
 転んでもただでは起きない、未来に活かしたいというメンタルがある方におすすめ。
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4479794964&quot; locale=&quot;JP&quot; title=&quot;スタンフォードのストレスを力に変える教科書&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4479794964">スタンフォードのストレスを力に変える教科書</a>
 
 &nbsp;
 
 タイトルはアレですが、医学的な見地の一例として。
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4569825885&quot; locale=&quot;JP&quot; title=&quot;なぜ一流の人はストレスが溜まらないのか&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4569825885">なぜ一流の人はストレスが溜まらないのか</a>
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4763160095&quot; locale=&quot;JP&quot; title=&quot;（文庫）脳からストレスを消す技術 (サンマーク文庫)&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4763160095">（文庫）脳からストレスを消す技術 (サンマーク文庫)</a>
 
 &nbsp;
 
 僕の考え方と一部同じ。
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B00QK8QJVA&quot; locale=&quot;JP&quot; title=&quot;世界一簡単！「ストレス」と上手につき合う方法&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B00QK8QJVA">世界一簡単！「ストレス」と上手につき合う方法</a>
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4860813332&quot; locale=&quot;JP&quot; title=&quot;「ストレスの整理」が上手い人下手な人 (新講社ワイド新書)&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4860813332">「ストレスの整理」が上手い人下手な人 (新講社ワイド新書)</a>
 
 &nbsp;

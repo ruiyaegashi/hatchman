@@ -39,7 +39,7 @@ migration_review: "review"
 
 &nbsp;
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4048947362&quot; locale=&quot;JP&quot; title=&quot;ラーメンウォーカームック ラーメンWalker静岡2016&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4048947362">ラーメンウォーカームック ラーメンWalker静岡2016</a>
 <h2>メニュー</h2>
 <img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/legacy/legacy-004164.jpg" width="300" height="225">
 
@@ -83,7 +83,7 @@ migration_review: "review"
 
 &nbsp;
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4048947362&quot; locale=&quot;JP&quot; title=&quot;ラーメンウォーカームック ラーメンWalker静岡2016&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4048947362">ラーメンウォーカームック ラーメンWalker静岡2016</a>
 <h2>味噌つけ麺、大盛り、マル得トッピング</h2>
 <img class="aligncenter" title="静岡SBS通り「東京高円寺 田ぶし」熟成醤油らーめん、醤油つけ麺" src="/media/legacy/legacy-004178.jpg" width="300" height="225">
 
@@ -114,5 +114,5 @@ migration_review: "review"
 <div><strong><a href="https://tabelog.com/shizuoka/A2201/A220101/22024819/" target="_blank">田ぶし 静岡店</a></strong>
 <aside class="legacy-disabled">旧script埋め込み（安全のため停止）: https://tabelog.com/badge/google_badge?escape=false&amp;rcd=22024819</aside></div>
 <p style="color: #444444; font-size: 12px;"><strong>関連ランキング：</strong><a href="https://tabelog.com/rstLst/ramen/">ラーメン</a> | <a href="https://tabelog.com/shizuoka/A2201/A220101/R2380/rstLst/">春日町駅</a>、<a href="https://tabelog.com/shizuoka/A2201/A220101/R8213/rstLst/">静岡駅</a>、<a href="https://tabelog.com/shizuoka/A2201/A220101/R2096/rstLst/">音羽町駅</a></p>
-<p style="margin-top: 5pt; margin-bottom: 5pt; font-family: &amp;amp; font-size: 9.0pt; color: #444444;"><aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4048947362&quot; locale=&quot;JP&quot; title=&quot;ラーメンウォーカームック ラーメンWalker静岡2016&quot;]</code></details></aside></p>
-<p style="margin-top: 5pt; margin-bottom: 5pt; font-family: &amp;amp; font-size: 9.0pt; color: #444444;"><span style="background: white;"><aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4783819785&quot; locale=&quot;JP&quot; title=&quot;静岡ぐるぐるマップ〈NO.131〉保存版ランチカタログ どこで食べる?おまちランチ×郊外ランチ&quot;]</code></details></aside></span></p>
+<p style="margin-top: 5pt; margin-bottom: 5pt; font-family: &amp;amp; font-size: 9.0pt; color: #444444;"><a href="https://www.amazon.co.jp/dp/4048947362">ラーメンウォーカームック ラーメンWalker静岡2016</a></p>
+<p style="margin-top: 5pt; margin-bottom: 5pt; font-family: &amp;amp; font-size: 9.0pt; color: #444444;"><span style="background: white;"><a href="https://www.amazon.co.jp/dp/4783819785">静岡ぐるぐるマップ〈NO.131〉保存版ランチカタログ どこで食べる?おまちランチ×郊外ランチ</a></span></p>

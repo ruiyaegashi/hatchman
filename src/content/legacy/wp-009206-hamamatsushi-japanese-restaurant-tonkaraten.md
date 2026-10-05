@@ -64,7 +64,7 @@ migration_review: "review"
 <div><strong><a href="http://tabelog.com/shizuoka/A2202/A220201/22028186/" target="_blank">とん唐てん</a></strong>
 <aside class="legacy-disabled">旧script埋め込み（安全のため停止）: http://tabelog.com/badge/google_badge?escape=false&amp;rcd=22028186</aside></div>
 <p style="color: #444444; font-size: 12px;"><strong>関連ランキング：</strong><a href="http://tabelog.com/rstLst/tonkatsu/">とんかつ</a> | <a href="http://tabelog.com/shizuoka/A2202/A220201/R5393/rstLst/">助信駅</a>、<a href="http://tabelog.com/shizuoka/A2202/A220201/R7932/rstLst/">八幡駅</a></p>
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4783819726&quot; locale=&quot;JP&quot; title=&quot;保存版 今食べたい!静岡グルメ150選 (静岡ぐるぐるマップ)&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4783819726">保存版 今食べたい!静岡グルメ150選 (静岡ぐるぐるマップ)</a>
 <div>
-<div><aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B00433KP9G&quot; locale=&quot;JP&quot; title=&quot;静岡最強グルメ&quot;]</code></details></aside></div>
+<div><a href="https://www.amazon.co.jp/dp/B00433KP9G">静岡最強グルメ</a></div>
 </div>

@@ -143,4 +143,4 @@ migration_review: "review"
 <div><strong><a href="http://tabelog.com/shizuoka/A2202/A220201/22015449/" target="_blank">ビワの木 ザザ・シテイ店</a></strong>
 <aside class="legacy-disabled">旧script埋め込み（安全のため停止）: http://tabelog.com/badge/google_badge?escape=false&amp;rcd=22015449</aside></div>
 <p style="color: #444444; font-size: 12px;"><strong>関連ランキング：</strong><a href="http://tabelog.com/rstLst/gyouza/">餃子</a> | <a href="http://tabelog.com/shizuoka/A2202/A220201/R5277/rstLst/">新浜松駅</a>、<a href="http://tabelog.com/shizuoka/A2202/A220201/R5650/rstLst/">第一通り駅</a>、<a href="http://tabelog.com/shizuoka/A2202/A220201/R6557/rstLst/">浜松駅</a></p>
-<p style="color: #444444; font-size: 12px;"><aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B00K4XRCCC&quot; locale=&quot;JP&quot; title=&quot;満笑餃子60個入 個数限定：送料込み&quot;]</code></details></aside></p>
+<p style="color: #444444; font-size: 12px;"><a href="https://www.amazon.co.jp/dp/B00K4XRCCC">満笑餃子60個入 個数限定：送料込み</a></p>

@@ -87,4 +87,4 @@ migration_review: "review"
 
 <aside class="legacy-disabled">旧iframe埋め込み（安全のため停止）: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3254.7409322355147!2d138.73053121556006!3d35.33725425636647!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60197d4cc11482d9%3A0x42e00e3de0db66d9!2z6KGo5a-M5aOr5a6u5Y-j77yV5ZCI55uu!5e0!3m2!1sja!2sjp!4v1462330963007</aside>
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4054058396&quot; locale=&quot;JP&quot; title=&quot;厳選 日本の紅葉&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4054058396">厳選 日本の紅葉</a>

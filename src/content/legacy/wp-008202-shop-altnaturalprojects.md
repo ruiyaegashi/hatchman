@@ -62,4 +62,4 @@ migration_review: "review"
 
 男性の利用者も増えているそうですが、男のためのアロマ講座なんてあったら参加してみたいですね。
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4800730015&quot; locale=&quot;JP&quot; title=&quot;最新! アロマセラピーのすべてがわかる本&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4800730015">最新! アロマセラピーのすべてがわかる本</a>

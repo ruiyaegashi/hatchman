@@ -104,5 +104,5 @@ migration_review: "review"
 <div><strong><a href="http://tabelog.com/shizuoka/A2201/A220101/22028491/" target="_blank">らーめん一本</a></strong>
 <aside class="legacy-disabled">旧script埋め込み（安全のため停止）: http://tabelog.com/badge/google_badge?escape=false&amp;rcd=22028491</aside></div>
 <p style="color: #444444; font-size: 12px;"><strong>関連ランキング：</strong><a href="http://tabelog.com/rstLst/ramen/">ラーメン</a> | <a href="http://tabelog.com/shizuoka/A2201/A220101/R2380/rstLst/">春日町駅</a>、<a href="http://tabelog.com/shizuoka/A2201/A220101/R8213/rstLst/">静岡駅</a>、<a href="http://tabelog.com/shizuoka/A2201/A220101/R10385/rstLst/">柚木駅（静岡鉄道）</a></p>
-<p style="color: #444444; font-size: 12px;"><aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4048947362&quot; locale=&quot;JP&quot; title=&quot;ラーメンウォーカームック ラーメンWalker静岡2016&quot;]</code></details></aside></p>
-<p style="color: #444444; font-size: 12px;"><aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4783819785&quot; locale=&quot;JP&quot; title=&quot;静岡ぐるぐるマップ〈NO.131〉保存版ランチカタログ どこで食べる?おまちランチ×郊外ランチ&quot;]</code></details></aside></p>
+<p style="color: #444444; font-size: 12px;"><a href="https://www.amazon.co.jp/dp/4048947362">ラーメンウォーカームック ラーメンWalker静岡2016</a></p>
+<p style="color: #444444; font-size: 12px;"><a href="https://www.amazon.co.jp/dp/4783819785">静岡ぐるぐるマップ〈NO.131〉保存版ランチカタログ どこで食べる?おまちランチ×郊外ランチ</a></p>

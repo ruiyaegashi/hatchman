@@ -70,6 +70,6 @@ migration_review: "review"
 <div><strong><a href="http://tabelog.com/shizuoka/A2201/A220101/22001052/" target="_blank">なみへい食堂</a></strong>
 <aside class="legacy-disabled">旧script埋め込み（安全のため停止）: http://tabelog.com/badge/google_badge?escape=false&amp;rcd=22001052</aside></div>
 <p style="color: #444444; font-size: 12px;"><strong>関連ランキング：</strong><a href="http://tabelog.com/rstLst/RC020912/">オムライス</a> | <a href="http://tabelog.com/shizuoka/A2201/A220101/R8213/rstLst/">静岡駅</a>、<a href="http://tabelog.com/shizuoka/A2201/A220101/R4602/rstLst/">安倍川駅</a>、<a href="http://tabelog.com/shizuoka/A2201/A220101/R5162/rstLst/">新静岡駅</a></p>
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4783819726&quot; locale=&quot;JP&quot; title=&quot;保存版 今食べたい!静岡グルメ150選 (静岡ぐるぐるマップ)&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4783819726">保存版 今食べたい!静岡グルメ150選 (静岡ぐるぐるマップ)</a>
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B00433KP9G&quot; locale=&quot;JP&quot; title=&quot;静岡最強グルメ&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B00433KP9G">静岡最強グルメ</a>

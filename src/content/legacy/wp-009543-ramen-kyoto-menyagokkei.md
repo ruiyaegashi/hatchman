@@ -25,7 +25,7 @@ migration_review: "review"
 
 &nbsp;
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4908070229&quot; locale=&quot;JP&quot; title=&quot;京都 滋賀 うまいらーめん&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4908070229">京都 滋賀 うまいらーめん</a>
 <h2>1時間半待ち</h2>
 <img class="aligncenter wp-image-9544 size-large" title="京都一乗寺「麺屋 極鶏(ごっけい)」超濃厚肉濁鶏白湯ラーメン" src="/media/legacy/legacy-004798.jpg" alt="kyotogokkei2" width="640" height="480">
 
@@ -64,7 +64,7 @@ migration_review: "review"
 
 &nbsp;
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4908070229&quot; locale=&quot;JP&quot; title=&quot;京都 滋賀 うまいらーめん&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4908070229">京都 滋賀 うまいらーめん</a>
 <h2>極鶏 鶏だく、大盛、チャーシュー増、玉子かけご飯セット</h2>
 <img class="aligncenter wp-image-9547 size-large" title="京都一乗寺「麺屋 極鶏(ごっけい)」超濃厚肉濁鶏白湯ラーメン" src="/media/legacy/legacy-004804.jpg" alt="kyotogokkei5" width="640" height="480">
 
@@ -121,4 +121,4 @@ migration_review: "review"
 <strong><a href="https://tabelog.com/kyoto/A2601/A260303/26017870/" target="_blank">麺屋 極鶏</a></strong>
 <aside class="legacy-disabled">旧script埋め込み（安全のため停止）: https://tabelog.com/badge/google_badge?escape=false&amp;rcd=26017870</aside>
 <p style="color: #444444; font-size: 12px;"><strong>関連ランキング：</strong><a href="https://tabelog.com/rstLst/ramen/">ラーメン</a> | <a href="https://tabelog.com/kyoto/A2601/A260303/R806/rstLst/">一乗寺駅</a>、<a href="https://tabelog.com/kyoto/A2601/A260303/R4903/rstLst/">修学院駅</a>、<a href="https://tabelog.com/kyoto/A2601/A260503/R9250/rstLst/">松ケ崎駅</a></p>
-<p style="color: #444444; font-size: 12px;"><aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4908070229&quot; locale=&quot;JP&quot; title=&quot;京都 滋賀 うまいらーめん&quot;]</code></details></aside></p>
+<p style="color: #444444; font-size: 12px;"><a href="https://www.amazon.co.jp/dp/4908070229">京都 滋賀 うまいらーめん</a></p>

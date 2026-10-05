@@ -35,29 +35,29 @@ migration_review: "review"
 
 前提条件としてはカードが2枚入れられるということ。
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B01DGCW40M&quot; locale=&quot;JP&quot; title=&quot;dodocoolスマートフォン ケース カード収納ホルダー付き 粘着 財布スティックオン 黒い&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B01DGCW40M">dodocoolスマートフォン ケース カード収納ホルダー付き 粘着 財布スティックオン 黒い</a>
 
 これはシンプルですがそもそもケースではないし、
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B01GJD86XO&quot; locale=&quot;JP&quot; title=&quot;TaoTech iPhone 用 TPU シリコン クリア ケース カードホルダー ストラップホール 付 クリスタル ソフト カバー&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B01GJD86XO">TaoTech iPhone 用 TPU シリコン クリア ケース カードホルダー ストラップホール 付 クリスタル ソフト カバー</a>
 
 シリコンやポリカーボネートは汚れとか劣化が気になるし、そもそもカードが見えるのは嫌。
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B01GIVWWG4&quot; locale=&quot;JP&quot; title=&quot;【Spigen】 iPhone7ケース, スリム・アーマー CS IC カード収納 米軍MIL規格取得 アイフォン 7 用 耐衝撃カバー (iPhone7, ブラック)&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B01GIVWWG4">【Spigen】 iPhone7ケース, スリム・アーマー CS IC カード収納 米軍MIL規格取得 アイフォン 7 用 耐衝撃カバー (iPhone7, ブラック)</a>
 
 条件は満たしてる、でもちょっとかっこ悪い。
 
 ということで、探して探してたどり着いたのがこちら。
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B00MB3P7G6&quot; locale=&quot;JP&quot; title=&quot;iPhone6s / iPhone6 ケース VERUS Damda Slide カードケース 搭載 プラスチック + TPU ハードケース for Apple iPhone 6s / iPhone 6 4.7 インチ ダークシルバー 【国内正規品】 国内正規品証明書 付&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B00MB3P7G6">iPhone6s / iPhone6 ケース VERUS Damda Slide カードケース 搭載 プラスチック + TPU ハードケース for Apple iPhone 6s / iPhone 6 4.7 インチ ダークシルバー 【国内正規品】 国内正規品証明書 付</a>
 
 iPhone6/6s用
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B00NHCRJI4&quot; locale=&quot;JP&quot; title=&quot;iPhone6s Plus / iPhone6 Plus ケース VERUS Damda Slide カードケース 搭載 プラスチック + TPU ハードケース for Apple iPhone 6s Plus / iPhone 6 Plus 5.5 インチ クリムゾンレッド 【国内正規品】 国内正規品証明書 付&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B00NHCRJI4">iPhone6s Plus / iPhone6 Plus ケース VERUS Damda Slide カードケース 搭載 プラスチック + TPU ハードケース for Apple iPhone 6s Plus / iPhone 6 Plus 5.5 インチ クリムゾンレッド 【国内正規品】 国内正規品証明書 付</a>
 
 iPhone6 Plus/6s Plus用
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B01K1HK6RS&quot; locale=&quot;JP&quot; title=&quot;iPhone7 ケース VRS DESIGN Damda Glide 米軍MIL規格取得 カードケース 搭載 プラスチック + TPU ハードケース for Apple iPhone 7 クリムゾンレッド 【国内正規品】 国内正規品証明書 付&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B01K1HK6RS">iPhone7 ケース VRS DESIGN Damda Glide 米軍MIL規格取得 カードケース 搭載 プラスチック + TPU ハードケース for Apple iPhone 7 クリムゾンレッド 【国内正規品】 国内正規品証明書 付</a>
 
 iPhone7/Plus用
 
@@ -155,14 +155,14 @@ MADE IN KOREA です。ものが良ければどこ製でも気になりません
 
 スマートフォンを使う以上、ケースって他の人にも見られるので気を遣いますよね。でもそれもまた楽しみの一つです。
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B00MB3P7G6&quot; locale=&quot;JP&quot; title=&quot;iPhone6s / iPhone6 ケース VERUS Damda Slide カードケース 搭載 プラスチック + TPU ハードケース for Apple iPhone 6s / iPhone 6 4.7 インチ ダークシルバー 【国内正規品】 国内正規品証明書 付&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B00MB3P7G6">iPhone6s / iPhone6 ケース VERUS Damda Slide カードケース 搭載 プラスチック + TPU ハードケース for Apple iPhone 6s / iPhone 6 4.7 インチ ダークシルバー 【国内正規品】 国内正規品証明書 付</a>
 
 iPhone6/6s用
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B00NHCRJI4&quot; locale=&quot;JP&quot; title=&quot;iPhone6s Plus / iPhone6 Plus ケース VERUS Damda Slide カードケース 搭載 プラスチック + TPU ハードケース for Apple iPhone 6s Plus / iPhone 6 Plus 5.5 インチ クリムゾンレッド 【国内正規品】 国内正規品証明書 付&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B00NHCRJI4">iPhone6s Plus / iPhone6 Plus ケース VERUS Damda Slide カードケース 搭載 プラスチック + TPU ハードケース for Apple iPhone 6s Plus / iPhone 6 Plus 5.5 インチ クリムゾンレッド 【国内正規品】 国内正規品証明書 付</a>
 
 iPhone6 Plus/6s Plus用
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B01K1HK6RS&quot; locale=&quot;JP&quot; title=&quot;iPhone7 ケース VRS DESIGN Damda Glide 米軍MIL規格取得 カードケース 搭載 プラスチック + TPU ハードケース for Apple iPhone 7 クリムゾンレッド 【国内正規品】 国内正規品証明書 付&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B01K1HK6RS">iPhone7 ケース VRS DESIGN Damda Glide 米軍MIL規格取得 カードケース 搭載 プラスチック + TPU ハードケース for Apple iPhone 7 クリムゾンレッド 【国内正規品】 国内正規品証明書 付</a>
 
 iPhone7/Plus用

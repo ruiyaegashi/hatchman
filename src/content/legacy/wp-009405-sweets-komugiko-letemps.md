@@ -92,5 +92,5 @@ migration_review: "review"
 <strong><a href="https://tabelog.com/shizuoka/A2202/A220201/22014371/" target="_blank">パティスリー・コムギコキッチン</a></strong>
 <aside class="legacy-disabled">旧script埋め込み（安全のため停止）: https://tabelog.com/badge/google_badge?escape=false&amp;rcd=22014371</aside>
 <p style="color: #444444; font-size: 12px;"><strong>関連ランキング：</strong><a href="https://tabelog.com/rstLst/cake/">ケーキ</a> | <a href="https://tabelog.com/shizuoka/A2202/A220201/R6557/rstLst/">浜松駅</a></p>
-<p style="margin-top: 5pt; margin-bottom: 5pt; font-family: &amp;amp; font-size: 9.0pt; color: #444444;"><aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4783819688&quot; locale=&quot;JP&quot; title=&quot;浜松ぐるぐるマップ〈86〉保存版 ひとりめしみんなごはん145軒&quot;]</code></details></aside></p>
-<p style="margin-top: 5pt; margin-bottom: 5pt; font-family: &amp;amp; font-size: 9.0pt; color: #444444;"><aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4780414512&quot; locale=&quot;JP&quot; title=&quot;浜松とっても上等なディナー&quot;]</code></details></aside></p>
+<p style="margin-top: 5pt; margin-bottom: 5pt; font-family: &amp;amp; font-size: 9.0pt; color: #444444;"><a href="https://www.amazon.co.jp/dp/4783819688">浜松ぐるぐるマップ〈86〉保存版 ひとりめしみんなごはん145軒</a></p>
+<p style="margin-top: 5pt; margin-bottom: 5pt; font-family: &amp;amp; font-size: 9.0pt; color: #444444;"><a href="https://www.amazon.co.jp/dp/4780414512">浜松とっても上等なディナー</a></p>

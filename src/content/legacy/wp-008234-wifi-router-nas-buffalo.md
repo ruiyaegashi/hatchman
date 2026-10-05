@@ -21,7 +21,7 @@ migration_review: "review"
 
 Wi-FiルーターをWXR-1750DHPに変えた際、それに伴ってNASも導入することにしました。
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B014440ITA&quot; locale=&quot;JP&quot; title=&quot;BUFFALO 【iPhone6対応】 11ac/n/a/g/b 無線LAN親機(Wi-Fiルーター) エアステーション ビームフォーミング、バンドステアリング対応 1300+450Mbps WXR-1750DHP/N (利用推奨環境6人・4LDK・3階建) フラストレーションフリーパッケージ(FFP)&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B014440ITA">BUFFALO 【iPhone6対応】 11ac/n/a/g/b 無線LAN親機(Wi-Fiルーター) エアステーション ビームフォーミング、バンドステアリング対応 1300+450Mbps WXR-1750DHP/N (利用推奨環境6人・4LDK・3階建) フラストレーションフリーパッケージ(FFP)</a>
 
 そもそもどのWi-Fiルーターを選べば良いかわからないときは、とりあえず<a href="http://buffalo.jp/product/wireless-lan/ap/">バッファローの公式ホームページにあるこちらのページ</a>を見てみましょう。
 
@@ -117,7 +117,7 @@ http://buffalo.jp/taiou/kisyu/item/wireless_home_usb-nas/
 
 &nbsp;
 <h2>結果的に、買ったのはバッファローのLS420D0402C</h2>
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B00WYKOMMQ&quot; locale=&quot;JP&quot; title=&quot;BUFFALO リンクステーション スマホ・タブレットで使える ネットワークHDD(NAS) 高速モデル データを守るRAID1搭載 4TB LS420D0402C&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B00WYKOMMQ">BUFFALO リンクステーション スマホ・タブレットで使える ネットワークHDD(NAS) 高速モデル データを守るRAID1搭載 4TB LS420D0402C</a>
 
 容量は余裕を持って4TB。
 
@@ -135,6 +135,6 @@ Wi-Fiルーターはかなり世間にも浸透しましたね。
 
 でも大手クラウドサービスが何かやらかしたらもしかしたらもしかするかも。というのと、データの大型化はこれからも間違いなく進むので、それにクラウドサービスがついていけるかが見もの。
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;4801803024&quot; locale=&quot;JP&quot; title=&quot;ホームネットワークがまるごとわかる本 最新版 (100%ムックシリーズ)&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/4801803024">ホームネットワークがまるごとわかる本 最新版 (100%ムックシリーズ)</a>
 
-<aside class="legacy-disabled legacy-shortcode"><strong>旧amazonjs（停止）</strong><details><summary>原文</summary><code>[amazonjs asin=&quot;B00HKDX2V4&quot; locale=&quot;JP&quot; title=&quot;パソコンもスマホもタブレットも、家中かんたんバックアップ！　NASオールカタログ2014&quot;]</code></details></aside>
+<a href="https://www.amazon.co.jp/dp/B00HKDX2V4">パソコンもスマホもタブレットも、家中かんたんバックアップ！　NASオールカタログ2014</a>
